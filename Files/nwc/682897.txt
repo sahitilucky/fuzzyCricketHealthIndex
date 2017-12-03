@@ -1,0 +1,112 @@
+Mirpur
+2014-03-16
+wickets: 9
+winner: Bangladesh
+Bangladesh
+Afghanistan
+venue: Shere Bangla National Stadium
+1st innings
+Afghanistan
+1
+Mashrafe Mortaza
+1
+Mohammad Shahzad
+7
+Al-Amin Hossain
+0
+7
+Mashrafe Mortaza
+0
+2
+Shakib Al Hasan
+0
+15
+Al-Amin Hossain
+0
+4
+Shakib Al Hasan
+2
+Gulbadin Naib
+Najeeb Tarakai
+2
+Mahmudullah
+1
+Nawroz Mangal
+5
+Abdur Razzak
+0
+5
+Mahmudullah
+0
+2
+Abdur Razzak
+1
+Mohammad Nabi
+4
+Mahmudullah
+0
+4
+Abdur Razzak
+1
+Karim Sadiq
+2
+Shakib Al Hasan
+0
+9
+Abdur Razzak
+1
+Samiullah Shenwari
+0
+Mahmudullah
+1
+Shafiqullah
+1
+Sabbir Rahman
+0
+2
+Farhad Reza
+1
+Dawlat Zadran
+0
+Shakib Al Hasan
+1
+Shapoor Zadran
+2nd innings
+Bangladesh
+1
+Mohammad Nabi
+0
+7
+Shapoor Zadran
+0
+3
+Mohammad Nabi
+0
+5
+Karim Sadiq
+0
+7
+Mohammad Nabi
+0
+13
+Karim Sadiq
+0
+8
+Dawlat Zadran
+0
+1
+Samiullah Shenwari
+1
+Tamim Iqbal
+5
+Dawlat Zadran
+0
+6
+Samiullah Shenwari
+0
+15
+Aftab Alam
+0
+7
+Samiullah Shenwari
+0

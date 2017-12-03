@@ -1,0 +1,147 @@
+Dubai
+2013-11-23
+runs: 29
+winner: Netherlands
+Kenya
+Netherlands
+venue: ICC Academy
+1st innings
+Netherlands
+5
+NN Odhiambo
+1
+SJ Myburgh
+15
+E Otieno
+0
+4
+RG Aga
+0
+10
+NN Odhiambo
+0
+7
+SO Ngoche
+0
+10
+HA Varaiya
+0
+10
+SO Ngoche
+0
+6
+HA Varaiya
+0
+5
+RG Aga
+1
+W Barresi
+6
+SO Tikolo
+0
+5
+RG Aga
+0
+1
+SO Tikolo
+2
+PW Borren
+BN Cooper
+5
+TM Odoyo
+1
+MR Swart
+6
+SO Tikolo
+0
+6
+TM Odoyo
+1
+Mudassar Bukhari
+3
+SO Tikolo
+0
+5
+TM Odoyo
+0
+5
+SO Ngoche
+0
+3
+TM Odoyo
+1
+MJG Rippon
+13
+NN Odhiambo
+0
+2nd innings
+Kenya
+0
+Mudassar Bukhari
+2
+SO Tikolo
+NN Odhiambo
+2
+MR Swart
+0
+1
+Mudassar Bukhari
+1
+CO Obuya
+2
+MR Swart
+1
+AA Obanda
+3
+Mudassar Bukhari
+0
+2
+MR Swart
+1
+MA Ouma
+3
+PA van Meekeren
+1
+TM Odoyo
+5
+MAA Jamil
+0
+6
+MJG Rippon
+1
+RG Aga
+9
+PW Borren
+0
+11
+PA van Meekeren
+0
+4
+MAA Jamil
+0
+10
+MJG Rippon
+0
+6
+MAA Jamil
+1
+RR Patel
+15
+MJG Rippon
+0
+4
+PW Borren
+1
+SO Ngoche
+10
+Mudassar Bukhari
+0
+3
+PW Borren
+0
+2
+MR Swart
+0
+3
+PW Borren
+0

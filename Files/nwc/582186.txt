@@ -1,0 +1,66 @@
+none
+2012-10-30
+    result: no result
+tie
+Sri Lanka
+New Zealand
+venue: Pallekele International Cricket Stadium
+1st innings
+New Zealand
+0
+AD Mathews
+0
+5
+KMDN Kulasekara
+1
+TWM Latham
+1
+AD Mathews
+0
+4
+KMDN Kulasekara
+1
+BB McCullum
+3
+AD Mathews
+0
+3
+RMS Eranga
+1
+RJ Nicol
+4
+NLTC Perera
+1
+JEC Franklin
+4
+RMS Eranga
+0
+4
+NLTC Perera
+1
+LRPL Taylor
+6
+A Dananjaya
+1
+BJ Watling
+14
+NLTC Perera
+0
+3
+A Dananjaya
+1
+AM Ellis
+16
+RMS Eranga
+0
+7
+KMDN Kulasekara
+0
+2nd innings
+Sri Lanka
+3
+KD Mills
+0
+3
+JDP Oram
+0

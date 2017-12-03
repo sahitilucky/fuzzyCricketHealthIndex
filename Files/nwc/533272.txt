@@ -1,0 +1,145 @@
+Hambantota
+2012-09-18
+runs: 82
+winner: Sri Lanka
+Sri Lanka
+Zimbabwe
+venue: 'Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa'
+1st innings
+Sri Lanka
+4
+KM Jarvis
+0
+6
+BV Vitori
+0
+9
+KM Jarvis
+0
+10
+BV Vitori
+0
+9
+P Utseya
+0
+15
+CB Mpofu
+0
+2
+P Utseya
+1
+EMDY Munaweera
+4
+AG Cremer
+0
+11
+P Utseya
+0
+6
+AG Cremer
+1
+TM Dilshan
+4
+P Utseya
+0
+6
+AG Cremer
+1
+DPMD Jayawardene
+10
+CB Mpofu
+0
+11
+AG Cremer
+0
+13
+E Chigumbura
+0
+9
+CB Mpofu
+0
+10
+KM Jarvis
+0
+11
+BV Vitori
+0
+17
+KM Jarvis
+0
+15
+CB Mpofu
+1
+KC Sangakkara
+2nd innings
+Zimbabwe
+3
+KMDN Kulasekara
+0
+5
+SL Malinga
+0
+8
+KMDN Kulasekara
+0
+12
+SL Malinga
+0
+8
+KMDN Kulasekara
+0
+3
+BAW Mendis
+2
+V Sibanda
+BRM Taylor
+4
+AD Mathews
+0
+0
+BAW Mendis
+1
+H Masakadza
+5
+AD Mathews
+0
+9
+NLTC Perera
+0
+2
+BMAJ Mendis
+2
+CR Ervine
+MN Waller
+7
+NLTC Perera
+0
+9
+BMAJ Mendis
+0
+5
+BAW Mendis
+1
+E Chigumbura
+7
+BMAJ Mendis
+0
+0
+BAW Mendis
+2
+P Utseya
+KM Jarvis
+6
+BMAJ Mendis
+1
+AG Cremer
+7
+SL Malinga
+1
+CB Mpofu
+0
+SL Malinga
+0
+0
+SL Malinga
+0

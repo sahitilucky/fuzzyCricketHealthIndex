@@ -1,0 +1,140 @@
+Auckland
+2006-12-26
+wickets: 5
+winner: New Zealand
+New Zealand
+Sri Lanka
+venue: Eden Park
+1st innings
+Sri Lanka
+9
+JEC Franklin
+1
+WU Tharanga
+8
+MJ Mason
+0
+7
+JEC Franklin
+1
+DPMD Jayawardene
+2
+MJ Mason
+1
+CK Kapugedera
+4
+JEC Franklin
+0
+10
+MJ Mason
+0
+4
+JEC Franklin
+1
+MS Atapattu
+7
+MR Gillespie
+0
+1
+AR Adams
+1
+KC Sangakkara
+3
+MR Gillespie
+0
+5
+AR Adams
+1
+TM Dilshan
+1
+MR Gillespie
+1
+HMCM Bandara
+5
+AR Adams
+0
+5
+MR Gillespie
+0
+9
+AR Adams
+1
+LPC Silva
+20
+NJ Astle
+0
+8
+JS Patel
+0
+7
+NJ Astle
+1
+CRD Fernando
+0
+JS Patel
+1
+SL Malinga
+2nd innings
+New Zealand
+8
+SL Malinga
+0
+15
+PDRL Perera
+0
+3
+SL Malinga
+0
+12
+PDRL Perera
+0
+9
+SL Malinga
+0
+4
+CRD Fernando
+1
+SP Fleming
+1
+TM Dilshan
+0
+3
+HMCM Bandara
+0
+2
+TM Dilshan
+2
+LRPL Taylor
+BB McCullum
+4
+HMCM Bandara
+0
+4
+TM Dilshan
+0
+11
+HMCM Bandara
+0
+6
+CRD Fernando
+1
+PG Fulton
+2
+HMCM Bandara
+0
+2
+CRD Fernando
+1
+PD McGlashan
+7
+PDRL Perera
+0
+7
+CRD Fernando
+0
+15
+PDRL Perera
+0
+1
+TM Dilshan
+0

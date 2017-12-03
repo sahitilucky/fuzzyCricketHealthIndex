@@ -1,0 +1,145 @@
+Colombo
+2012-09-23
+runs: 90
+winner: India
+England
+India
+venue: R Premadasa Stadium
+1st innings
+India
+6
+ST Finn
+0
+10
+JW Dernbach
+0
+12
+ST Finn
+1
+IK Pathan
+6
+SCJ Broad
+0
+7
+TT Bresnan
+0
+11
+ST Finn
+0
+6
+GP Swann
+0
+8
+SCJ Broad
+0
+4
+GP Swann
+0
+10
+TT Bresnan
+0
+3
+GP Swann
+1
+V Kohli
+8
+JW Dernbach
+0
+6
+GP Swann
+0
+9
+SCJ Broad
+0
+8
+TT Bresnan
+0
+5
+ST Finn
+1
+G Gambhir
+13
+SCJ Broad
+0
+11
+JW Dernbach
+0
+10
+TT Bresnan
+0
+17
+JW Dernbach
+1
+MS Dhoni
+2nd innings
+England
+2
+IK Pathan
+1
+AD Hales
+10
+L Balaji
+0
+6
+IK Pathan
+1
+LJ Wright
+12
+AB Dinda
+0
+9
+IK Pathan
+0
+0
+Harbhajan Singh
+1
+EJG Morgan
+3
+PP Chawla
+1
+JM Bairstow
+9
+Harbhajan Singh
+0
+0
+PP Chawla
+1
+C Kieswetter
+3
+Harbhajan Singh
+1
+TT Bresnan
+6
+PP Chawla
+0
+0
+Harbhajan Singh
+2
+JC Buttler
+GP Swann
+14
+AB Dinda
+1
+SCJ Broad
+4
+PP Chawla
+0
+2
+Yuvraj Singh
+1
+JW Dernbach
+0
+Yuvraj Singh
+0
+0
+Yuvraj Singh
+0
+0
+Yuvraj Singh
+0
+0
+Yuvraj Singh
+0
+0
+Yuvraj Singh
+0

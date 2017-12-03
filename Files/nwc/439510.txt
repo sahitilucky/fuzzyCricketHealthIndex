@@ -1,0 +1,147 @@
+none
+2010-02-13
+runs: 65
+winner: Ireland
+Ireland
+Netherlands
+venue: Dubai International Cricket Stadium
+1st innings
+Ireland
+9
+Mudassar Bukhari
+0
+2
+RN ten Doeschate
+1
+WTS Porterfield
+4
+Mudassar Bukhari
+0
+8
+RN ten Doeschate
+0
+8
+MBS Jonkman
+0
+6
+RN ten Doeschate
+0
+9
+PW Borren
+0
+11
+PM Seelaar
+0
+5
+Mohammad Kashif
+1
+NJ O'Brien
+3
+PM Seelaar
+1
+DT Johnston
+14
+Mohammad Kashif
+0
+11
+PM Seelaar
+0
+5
+PW Borren
+0
+3
+MBS Jonkman
+2
+AR Cusack
+KJ O'Brien
+10
+PW Borren
+0
+10
+MBS Jonkman
+0
+8
+PW Borren
+0
+4
+Mudassar Bukhari
+1
+GC Wilson
+10
+RN ten Doeschate
+0
+11
+Mudassar Bukhari
+0
+2nd innings
+Netherlands
+2
+PC Connell
+2
+AN Kervezee
+Mudassar Bukhari
+2
+DT Johnston
+0
+9
+PC Connell
+0
+8
+DT Johnston
+0
+12
+PC Connell
+0
+3
+DT Johnston
+0
+4
+AR Cusack
+0
+2
+DT Johnston
+2
+B Zuiderent
+ES Szwarczynski
+8
+AR Cusack
+0
+4
+GH Dockrell
+1
+DLS van Bunge
+6
+AC Botha
+0
+5
+GH Dockrell
+1
+PW Borren
+3
+AC Botha
+1
+AF Buurman
+11
+GH Dockrell
+0
+7
+AC Botha
+1
+RN ten Doeschate
+0
+GH Dockrell
+2
+PM Seelaar
+MBS Jonkman
+0
+GH Dockrell
+0
+0
+GH Dockrell
+0
+0
+GH Dockrell
+0
+0
+GH Dockrell
+0

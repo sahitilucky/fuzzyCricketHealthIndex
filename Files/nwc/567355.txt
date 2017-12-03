@@ -1,0 +1,146 @@
+Port Elizabeth
+2012-12-26
+runs: 33
+winner: South Africa
+South Africa
+New Zealand
+venue: St George's Park
+1st innings
+South Africa
+2
+MJ McClenaghan
+0
+0
+RM Hira
+1
+F du Plessis
+6
+MJ McClenaghan
+0
+12
+NL McCullum
+0
+10
+MJ McClenaghan
+1
+Q de Kock
+6
+RM Hira
+0
+5
+JEC Franklin
+0
+8
+DAJ Bracewell
+0
+9
+JDS Neesham
+0
+5
+RM Hira
+0
+8
+JEC Franklin
+0
+13
+RM Hira
+0
+9
+JDS Neesham
+0
+6
+NL McCullum
+0
+17
+JEC Franklin
+1
+JL Ontong
+15
+DAJ Bracewell
+0
+7
+MJ McClenaghan
+1
+H Davids
+9
+NL McCullum
+0
+18
+JDS Neesham
+0
+14
+DAJ Bracewell
+2
+DA Miller
+F Behardien
+2nd innings
+New Zealand
+7
+R McLaren
+1
+RJ Nicol
+1
+RJ Peterson
+0
+6
+M Morkel
+0
+15
+RJ Peterson
+0
+9
+M Morkel
+0
+7
+RK Kleinveldt
+0
+8
+AM Phangiso
+1
+MJ Guptill
+2
+RK Kleinveldt
+0
+4
+AM Phangiso
+1
+BB McCullum
+5
+R McLaren
+1
+C Munro
+7
+AM Phangiso
+0
+9
+JL Ontong
+0
+7
+AM Phangiso
+1
+JEC Franklin
+8
+RJ Peterson
+1
+JDS Neesham
+10
+R McLaren
+0
+9
+M Morkel
+0
+3
+R McLaren
+2
+CJ Anderson
+NL McCullum
+6
+RK Kleinveldt
+0
+13
+M Morkel
+0
+10
+RK Kleinveldt
+1
+RM Hira

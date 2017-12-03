@@ -1,0 +1,98 @@
+Wellington
+2006-12-22
+runs: 18
+method: D/L
+New Zealand
+Sri Lanka
+venue: Westpac Stadium
+1st innings
+New Zealand
+12
+WPUJC Vaas
+0
+17
+MF Maharoof
+0
+4
+WPUJC Vaas
+0
+16
+CRD Fernando
+0
+10
+WPUJC Vaas
+0
+7
+CRD Fernando
+0
+14
+M Muralitharan
+0
+2
+MF Maharoof
+1
+SP Fleming
+8
+M Muralitharan
+1
+BB McCullum
+11
+MF Maharoof
+0
+5
+M Muralitharan
+0
+2
+ST Jayasuriya
+1
+JEC Franklin
+14
+CRD Fernando
+0
+8
+ST Jayasuriya
+0
+2
+M Muralitharan
+1
+LRPL Taylor
+3
+ST Jayasuriya
+1
+JAH Marshall
+8
+DPMD Jayawardene
+0
+9
+ST Jayasuriya
+1
+NJ Astle
+4
+LPC Silva
+1
+PD McGlashan
+6
+WPUJC Vaas
+1
+SE Bond
+2nd innings
+Sri Lanka
+9
+SE Bond
+0
+14
+JEC Franklin
+0
+8
+SE Bond
+0
+5
+JEC Franklin
+0
+8
+SE Bond
+1
+WU Tharanga
+18
+AR Adams
+0

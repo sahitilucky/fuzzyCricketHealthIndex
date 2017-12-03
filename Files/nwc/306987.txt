@@ -1,0 +1,137 @@
+Nairobi
+2007-09-01
+wickets: 5
+winner: Bangladesh
+Kenya
+Bangladesh
+venue: Gymkhana Club Ground
+1st innings
+Kenya
+13
+Mashrafe Mortaza
+0
+3
+Syed Rasel
+0
+3
+Mashrafe Mortaza
+1
+JS Jesani
+6
+Syed Rasel
+0
+4
+Mashrafe Mortaza
+1
+DO Obuya
+6
+Syed Rasel
+0
+9
+Abdur Razzak
+0
+5
+Syed Rasel
+0
+2
+Abdur Razzak
+0
+7
+Mohammad Ashraful
+0
+7
+Farhad Reza
+0
+7
+Mohammad Ashraful
+1
+SO Tikolo
+9
+Farhad Reza
+0
+4
+Mohammad Ashraful
+0
+13
+Farhad Reza
+0
+14
+Mohammad Ashraful
+0
+5
+Farhad Reza
+2
+TM Odoyo
+T Mishra
+4
+Abdur Razzak
+2
+JK Kamande
+RL Bhudia
+9
+Mashrafe Mortaza
+0
+8
+Abdur Razzak
+0
+2nd innings
+Bangladesh
+1
+TM Odoyo
+0
+5
+PJ Ongondo
+0
+14
+TM Odoyo
+0
+6
+PJ Ongondo
+1
+Tamim Iqbal
+18
+LN Onyango
+0
+17
+RL Bhudia
+0
+3
+LN Onyango
+1
+Aftab Ahmed
+11
+RL Bhudia
+0
+5
+JK Kamande
+0
+6
+HA Varaiya
+0
+5
+JK Kamande
+1
+Nazimuddin
+9
+HA Varaiya
+0
+11
+JK Kamande
+0
+4
+PJ Ongondo
+1
+Mohammad Ashraful
+7
+TM Odoyo
+0
+6
+PJ Ongondo
+0
+7
+TM Odoyo
+1
+Mahmudullah
+4
+RL Bhudia
+0

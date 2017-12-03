@@ -1,0 +1,140 @@
+Nottingham
+2009-06-08
+wickets: 6
+winner: Ireland
+Bangladesh
+Ireland
+venue: Trent Bridge
+1st innings
+Bangladesh
+10
+WB Rankin
+0
+10
+DT Johnston
+1
+Junaid Siddique
+6
+WB Rankin
+0
+1
+DT Johnston
+0
+12
+WB Rankin
+0
+3
+DT Johnston
+1
+Mohammad Ashraful
+8
+RM West
+0
+6
+DT Johnston
+1
+Shakib Al Hasan
+5
+RM West
+0
+4
+WK McCallan
+1
+Tamim Iqbal
+2
+AR Cusack
+1
+Mahmudullah
+2
+WK McCallan
+0
+7
+AR Cusack
+0
+7
+WK McCallan
+0
+6
+RM West
+0
+4
+WK McCallan
+1
+Raqibul Hasan
+6
+RM West
+1
+Mushfiqur Rahim
+10
+AR Cusack
+0
+8
+WB Rankin
+1
+Naeem Islam
+20
+AR Cusack
+0
+2nd innings
+Ireland
+1
+Mashrafe Mortaza
+0
+3
+Rubel Hossain
+0
+4
+Mashrafe Mortaza
+1
+JP Bray
+10
+Rubel Hossain
+0
+19
+Mashrafe Mortaza
+0
+10
+Mahmudullah
+0
+6
+Naeem Islam
+0
+2
+Shakib Al Hasan
+0
+3
+Naeem Islam
+0
+7
+Shakib Al Hasan
+1
+NJ O'Brien
+5
+Mahmudullah
+0
+5
+Abdur Razzak
+1
+WTS Porterfield
+10
+Mahmudullah
+0
+4
+Abdur Razzak
+0
+7
+Mashrafe Mortaza
+1
+GC Wilson
+9
+Abdur Razzak
+0
+13
+Rubel Hossain
+0
+14
+Shakib Al Hasan
+0
+6
+Rubel Hossain
+0

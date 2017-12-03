@@ -1,0 +1,146 @@
+Chittagong
+2014-03-22
+runs: 5
+winner: Sri Lanka
+South Africa
+Sri Lanka
+venue: Zahur Ahmed Chowdhury Stadium
+1st innings
+Sri Lanka
+17
+DW Steyn
+1
+TM Dilshan
+4
+LL Tsotsobe
+0
+9
+M Morkel
+0
+8
+LL Tsotsobe
+0
+5
+M Morkel
+1
+DPMD Jayawardene
+8
+LL Tsotsobe
+0
+6
+JP Duminy
+0
+13
+JA Morkel
+0
+10
+JP Duminy
+0
+4
+Imran Tahir
+1
+KC Sangakkara
+1
+DW Steyn
+0
+8
+Imran Tahir
+0
+11
+LL Tsotsobe
+0
+4
+Imran Tahir
+1
+MDKJ Perera
+9
+M Morkel
+0
+11
+JA Morkel
+0
+10
+Imran Tahir
+1
+LD Chandimal
+10
+DW Steyn
+0
+8
+M Morkel
+1
+NLTC Perera
+9
+DW Steyn
+1
+AD Mathews
+2nd innings
+South Africa
+4
+KMDN Kulasekara
+0
+7
+AD Mathews
+0
+15
+KMDN Kulasekara
+0
+5
+SMSM Senanayake
+0
+1
+SL Malinga
+1
+Q de Kock
+8
+AD Mathews
+0
+2
+NLTC Perera
+0
+5
+SMSM Senanayake
+0
+16
+NLTC Perera
+0
+12
+BAW Mendis
+0
+8
+SMSM Senanayake
+1
+HM Amla
+11
+BAW Mendis
+0
+9
+SL Malinga
+0
+7
+AD Mathews
+1
+AB de Villiers
+5
+BAW Mendis
+0
+5
+SMSM Senanayake
+1
+JP Duminy
+17
+BAW Mendis
+1
+JA Morkel
+10
+SL Malinga
+0
+4
+KMDN Kulasekara
+1
+F Behardien
+9
+SL Malinga
+2
+DW Steyn
+DA Miller

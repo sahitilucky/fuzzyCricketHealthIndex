@@ -1,0 +1,139 @@
+Trinidad
+2009-03-15
+wickets: 6
+winner: West Indies
+West Indies
+England
+venue: "Queen's Park Oval, Port of Spain"
+1st innings
+England
+9
+FH Edwards
+0
+9
+LS Baker
+0
+7
+FH Edwards
+0
+3
+LS Baker
+1
+RS Bopara
+8
+DJG Sammy
+0
+11
+DJ Bravo
+0
+8
+SJ Benn
+0
+7
+DJ Bravo
+1
+SM Davies
+4
+SJ Benn
+1
+KP Pietersen
+7
+DJ Bravo
+0
+9
+SJ Benn
+1
+OA Shah
+10
+DJ Bravo
+0
+4
+DJG Sammy
+1
+PD Collingwood
+1
+KA Pollard
+0
+4
+DJG Sammy
+1
+AD Mascarenhas
+11
+KA Pollard
+0
+3
+DJG Sammy
+1
+AJ Strauss
+2
+FH Edwards
+1
+GJ Batty
+4
+SJ Benn
+1
+A Khan
+0
+FH Edwards
+1
+SCJ Broad
+2nd innings
+West Indies
+10
+JM Anderson
+0
+6
+SCJ Broad
+1
+ADS Fletcher
+13
+A Khan
+0
+9
+SCJ Broad
+0
+7
+JM Anderson
+1
+S Chanderpaul
+6
+A Khan
+0
+4
+GJ Batty
+0
+2
+AD Mascarenhas
+0
+7
+GJ Batty
+0
+6
+AD Mascarenhas
+0
+8
+PD Collingwood
+0
+5
+AD Mascarenhas
+0
+6
+GJ Batty
+0
+4
+AD Mascarenhas
+0
+12
+SCJ Broad
+0
+5
+A Khan
+1
+RR Sarwan
+3
+JM Anderson
+0
+10
+A Khan
+1
+DJ Bravo

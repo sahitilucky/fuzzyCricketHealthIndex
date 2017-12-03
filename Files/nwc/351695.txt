@@ -1,0 +1,137 @@
+Brisbane
+2009-01-13
+wickets: 6
+winner: Australia
+Australia
+South Africa
+venue: 'Brisbane Cricket Ground, Woolloongabba'
+1st innings
+South Africa
+4
+SW Tait
+0
+3
+NW Bracken
+0
+14
+SW Tait
+0
+4
+NW Bracken
+0
+9
+BW Hilfenhaus
+0
+2
+JR Hopes
+1
+HH Gibbs
+4
+BW Hilfenhaus
+1
+HM Amla
+7
+DJ Hussey
+1
+VB van Jaarsveld
+6
+MEK Hussey
+0
+6
+DJ Hussey
+0
+6
+JR Hopes
+0
+5
+DJ Hussey
+0
+13
+SW Tait
+0
+10
+JR Hopes
+1
+MV Boucher
+10
+SW Tait
+0
+11
+JR Hopes
+0
+14
+BW Hilfenhaus
+0
+8
+NW Bracken
+1
+JA Morkel
+6
+BW Hilfenhaus
+0
+15
+NW Bracken
+0
+2nd innings
+Australia
+1
+J Botha
+0
+8
+DW Steyn
+0
+6
+WD Parnell
+0
+6
+M Morkel
+0
+5
+DW Steyn
+1
+DA Warner
+3
+WD Parnell
+0
+6
+M Morkel
+1
+SE Marsh
+4
+J Botha
+0
+9
+JA Morkel
+0
+8
+J Botha
+0
+16
+WD Parnell
+0
+12
+JA Morkel
+0
+8
+M Morkel
+2
+RT Ponting
+DJ Hussey
+8
+JP Duminy
+0
+16
+JA Morkel
+0
+6
+J Botha
+0
+19
+WD Parnell
+0
+8
+DW Steyn
+0
+12
+M Morkel
+0

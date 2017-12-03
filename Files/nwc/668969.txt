@@ -1,0 +1,134 @@
+none
+2013-11-21
+wickets: 8
+winner: Sri Lanka
+Sri Lanka
+New Zealand
+venue: Pallekele International Cricket Stadium
+1st innings
+New Zealand
+3
+SL Malinga
+0
+9
+KMDN Kulasekara
+1
+HD Rutherford
+6
+AD Mathews
+1
+NT Broom
+3
+KMDN Kulasekara
+0
+7
+RLB Rambukwella
+0
+14
+SL Malinga
+0
+4
+RLB Rambukwella
+0
+4
+BAW Mendis
+1
+AP Devcich
+5
+RLB Rambukwella
+0
+7
+TM Dilshan
+0
+3
+RLB Rambukwella
+1
+TWM Latham
+4
+BAW Mendis
+0
+11
+AD Mathews
+0
+12
+BAW Mendis
+0
+2
+NLTC Perera
+1
+C Munro
+7
+KMDN Kulasekara
+0
+12
+NLTC Perera
+0
+10
+SL Malinga
+0
+13
+KMDN Kulasekara
+0
+6
+SL Malinga
+2
+NL McCullum
+RJ Nicol
+2nd innings
+Sri Lanka
+8
+KD Mills
+0
+7
+MJ McClenaghan
+1
+DPMD Jayawardene
+14
+KD Mills
+0
+11
+MJ McClenaghan
+0
+6
+NL McCullum
+0
+8
+AM Ellis
+0
+6
+AP Devcich
+0
+6
+NL McCullum
+0
+4
+AP Devcich
+0
+10
+MJ McClenaghan
+0
+8
+RJ Nicol
+0
+12
+NL McCullum
+0
+4
+KD Mills
+0
+10
+RJ Nicol
+1
+MDKJ Perera
+7
+AM Ellis
+0
+6
+MJ McClenaghan
+0
+6
+AP Devcich
+0
+10
+NL McCullum
+0

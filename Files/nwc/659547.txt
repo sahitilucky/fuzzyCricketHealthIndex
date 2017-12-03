@@ -1,0 +1,138 @@
+none
+2013-08-24
+runs: 19
+winner: Pakistan
+Zimbabwe
+Pakistan
+venue: Harare Sports Club
+1st innings
+Pakistan
+6
+P Utseya
+0
+3
+BV Vitori
+0
+6
+T Panyangara
+0
+11
+BV Vitori
+0
+6
+T Panyangara
+0
+5
+SW Masakadza
+1
+Nasir Jamshed
+6
+SC Williams
+0
+13
+E Chigumbura
+0
+4
+MN Waller
+0
+9
+SC Williams
+0
+10
+P Utseya
+0
+10
+SW Masakadza
+0
+9
+P Utseya
+0
+12
+SW Masakadza
+0
+10
+P Utseya
+0
+14
+BV Vitori
+0
+5
+T Panyangara
+0
+15
+SW Masakadza
+0
+12
+T Panyangara
+0
+13
+BV Vitori
+0
+2nd innings
+Zimbabwe
+7
+Sohail Tanvir
+0
+2
+Asad Ali
+0
+8
+Sohail Tanvir
+0
+14
+Asad Ali
+0
+13
+Anwar Ali
+0
+0
+Zulfiqar Babar
+0
+6
+Shahid Afridi
+0
+0
+Mohammad Hafeez
+1
+V Sibanda
+6
+Shahid Afridi
+0
+9
+Mohammad Hafeez
+1
+BRM Taylor
+12
+Shahid Afridi
+0
+10
+Mohammad Hafeez
+0
+6
+Zulfiqar Babar
+0
+11
+Mohammad Hafeez
+1
+H Masakadza
+5
+Zulfiqar Babar
+2
+SC Williams
+T Maruma
+10
+Asad Ali
+0
+11
+Zulfiqar Babar
+0
+8
+Sohail Tanvir
+0
+11
+Anwar Ali
+1
+MN Waller
+11
+Sohail Tanvir
+0

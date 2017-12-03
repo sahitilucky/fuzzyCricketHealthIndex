@@ -1,0 +1,143 @@
+Fatullah
+2016-02-19
+runs: 5
+winner: Oman
+Hong Kong
+Oman
+venue: Khan Shaheb Osman Ali Stadium
+1st innings
+Oman
+5
+Nadeem Ahmed
+0
+8
+Tanwir Afzal
+0
+11
+Haseeb Amjad
+0
+10
+Tanwir Afzal
+0
+5
+Haseeb Amjad
+1
+Zeeshan Maqsood
+7
+Tanwir Afzal
+0
+2
+Aizaz Khan
+0
+8
+Tanwir Afzal
+0
+8
+Aizaz Khan
+0
+11
+Anshuman Rath
+0
+2
+Nadeem Ahmed
+2
+Jatinder Singh
+VS Wategaonkar
+7
+Anshuman Rath
+0
+10
+Nadeem Ahmed
+0
+15
+Anshuman Rath
+0
+11
+Nadeem Ahmed
+1
+Adnan Ilyas
+10
+MS Chapman
+1
+Aamir Kaleem
+14
+Aizaz Khan
+0
+13
+Haseeb Amjad
+0
+11
+Aizaz Khan
+0
+12
+Haseeb Amjad
+0
+2nd innings
+Hong Kong
+5
+Bilal Khan
+1
+KD Shah
+2
+AV Lalcheta
+0
+13
+Bilal Khan
+0
+8
+AV Lalcheta
+0
+16
+M Ansari
+0
+13
+Zeeshan Maqsood
+0
+6
+Aamir Kaleem
+0
+6
+Amir Ali
+1
+Anshuman Rath
+8
+Aamir Kaleem
+1
+MS Chapman
+2
+Zeeshan Maqsood
+1
+Nizakat Khan
+13
+Aamir Kaleem
+0
+12
+Zeeshan Maqsood
+0
+3
+M Ansari
+1
+Tanwir Afzal
+11
+AV Lalcheta
+0
+7
+M Ansari
+0
+7
+Bilal Khan
+0
+4
+M Ansari
+1
+Aizaz Khan
+27
+Zeeshan Maqsood
+0
+3
+Bilal Khan
+0
+9
+AV Lalcheta
+1
+Babar Hayat

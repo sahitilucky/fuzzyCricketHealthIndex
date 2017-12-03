@@ -1,0 +1,118 @@
+Visakhapatnam
+2016-02-14
+wickets: 9
+winner: India
+India
+Sri Lanka
+venue: Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+1st innings
+Sri Lanka
+3
+R Ashwin
+2
+N Dickwella
+TM Dilshan
+9
+A Nehra
+0
+3
+R Ashwin
+1
+LD Chandimal
+5
+JJ Bumrah
+0
+0
+R Ashwin
+1
+DAS Gunaratne
+9
+A Nehra
+1
+TAM Siriwardana
+4
+RA Jadeja
+0
+15
+Yuvraj Singh
+1
+S Prasanna
+2
+RA Jadeja
+0
+4
+HH Pandya
+0
+0
+RA Jadeja
+1
+MD Shanaka
+9
+HH Pandya
+0
+3
+SK Raina
+0
+3
+R Ashwin
+0
+2
+JJ Bumrah
+0
+3
+SK Raina
+2
+SMSM Senanayake
+NLTC Perera
+5
+RA Jadeja
+0
+3
+JJ Bumrah
+1
+CRD Fernando
+2nd innings
+India
+5
+SMSM Senanayake
+0
+2
+CRD Fernando
+0
+5
+SMSM Senanayake
+0
+5
+CRD Fernando
+0
+8
+SMSM Senanayake
+0
+10
+PVD Chameera
+1
+RG Sharma
+4
+S Prasanna
+0
+6
+PVD Chameera
+0
+9
+TAM Siriwardana
+0
+4
+DAS Gunaratne
+0
+4
+SMSM Senanayake
+0
+3
+DAS Gunaratne
+0
+4
+TM Dilshan
+0
+15
+DAS Gunaratne
+0

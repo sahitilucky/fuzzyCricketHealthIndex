@@ -1,0 +1,147 @@
+none
+2010-02-05
+runs: 2
+winner: Australia
+Australia
+Pakistan
+venue: Melbourne Cricket Ground
+1st innings
+Australia
+7
+Mohammad Asif
+0
+9
+Naved-ul-Hasan
+1
+SR Watson
+9
+Mohammad Asif
+0
+6
+Naved-ul-Hasan
+0
+10
+Mohammad Asif
+0
+9
+Naved-ul-Hasan
+0
+5
+Mohammad Asif
+1
+DA Warner
+10
+Shoaib Malik
+0
+5
+Umar Gul
+1
+MJ Clarke
+4
+Shoaib Malik
+0
+4
+Umar Gul
+1
+CL White
+4
+Shoaib Malik
+2
+TR Birt
+BJ Haddin
+4
+Saeed Ajmal
+0
+13
+Shoaib Malik
+0
+3
+Naved-ul-Hasan
+1
+SPD Smith
+3
+Saeed Ajmal
+0
+9
+Umar Gul
+1
+MG Johnson
+11
+Saeed Ajmal
+1
+DP Nannes
+2
+Umar Gul
+1
+SW Tait
+2nd innings
+Pakistan
+5
+SW Tait
+0
+0
+DP Nannes
+1
+Imran Nazir
+5
+SW Tait
+1
+Imran Farhat
+14
+DP Nannes
+0
+20
+MG Johnson
+0
+0
+SR Watson
+1
+Khalid Latif
+2
+MG Johnson
+0
+11
+SR Watson
+0
+2
+SW Tait
+1
+Shoaib Malik
+3
+MG Johnson
+0
+8
+SPD Smith
+0
+11
+DP Nannes
+0
+10
+SPD Smith
+0
+7
+SR Watson
+0
+2
+SW Tait
+1
+Kamran Akmal
+6
+SPD Smith
+1
+Fawad Alam
+0
+MG Johnson
+0
+10
+SPD Smith
+1
+Naved-ul-Hasan
+2
+DP Nannes
+1
+Umar Gul
+7
+SR Watson
+1
+Umar Akmal

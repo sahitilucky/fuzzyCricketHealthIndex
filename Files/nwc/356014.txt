@@ -1,0 +1,144 @@
+Nottingham
+2009-06-16
+runs: 12
+winner: South Africa
+India
+South Africa
+venue: Trent Bridge
+1st innings
+South Africa
+7
+Z Khan
+0
+10
+RP Singh
+1
+HH Gibbs
+10
+Z Khan
+0
+11
+RP Singh
+0
+6
+I Sharma
+0
+3
+RA Jadeja
+0
+6
+RG Sharma
+0
+4
+Yuvraj Singh
+0
+2
+Harbhajan Singh
+1
+GC Smith
+6
+Yuvraj Singh
+0
+7
+Harbhajan Singh
+0
+3
+Yuvraj Singh
+0
+5
+Harbhajan Singh
+0
+12
+Yuvraj Singh
+0
+6
+SK Raina
+1
+JP Duminy
+1
+RA Jadeja
+0
+9
+RG Sharma
+0
+5
+RA Jadeja
+1
+AB de Villiers
+6
+Harbhajan Singh
+0
+11
+Z Khan
+1
+MV Boucher
+2nd innings
+India
+9
+DW Steyn
+0
+8
+WD Parnell
+0
+3
+M Morkel
+0
+7
+WD Parnell
+0
+7
+M Morkel
+0
+13
+JA Morkel
+0
+3
+J Botha
+1
+G Gambhir
+2
+RE van der Merwe
+0
+3
+J Botha
+1
+SK Raina
+3
+JP Duminy
+1
+RG Sharma
+4
+J Botha
+0
+2
+RE van der Merwe
+0
+4
+M Morkel
+1
+MS Dhoni
+2
+RE van der Merwe
+1
+YK Pathan
+11
+DW Steyn
+0
+9
+RE van der Merwe
+0
+10
+M Morkel
+0
+6
+J Botha
+1
+Harbhajan Singh
+5
+DW Steyn
+2
+Yuvraj Singh
+Z Khan
+7
+WD Parnell
+0

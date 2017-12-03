@@ -1,0 +1,145 @@
+Bangalore
+2012-12-25
+wickets: 5
+winner: Pakistan
+India
+Pakistan
+venue: M Chinnaswamy Stadium
+1st innings
+India
+6
+Mohammad Irfan
+0
+4
+Sohail Tanvir
+0
+7
+Mohammad Irfan
+0
+9
+Sohail Tanvir
+0
+8
+Mohammad Irfan
+0
+3
+Sohail Tanvir
+0
+13
+Umar Gul
+0
+8
+Saeed Ajmal
+0
+10
+Shahid Afridi
+0
+7
+Saeed Ajmal
+0
+3
+Shahid Afridi
+1
+AM Rahane
+5
+Mohammad Hafeez
+0
+13
+Shahid Afridi
+1
+G Gambhir
+7
+Mohammad Hafeez
+0
+5
+Mohammad Irfan
+1
+V Kohli
+7
+Saeed Ajmal
+1
+MS Dhoni
+6
+Umar Gul
+1
+Yuvraj Singh
+3
+Saeed Ajmal
+2
+SK Raina
+RG Sharma
+2
+Umar Gul
+2
+RA Jadeja
+I Sharma
+7
+Sohail Tanvir
+0
+2nd innings
+Pakistan
+2
+B Kumar
+1
+Nasir Jamshed
+9
+AB Dinda
+0
+1
+B Kumar
+2
+Ahmed Shehzad
+Umar Akmal
+5
+AB Dinda
+0
+3
+B Kumar
+0
+2
+I Sharma
+0
+3
+B Kumar
+0
+8
+I Sharma
+0
+8
+V Kohli
+0
+4
+Yuvraj Singh
+0
+13
+V Kohli
+0
+10
+Yuvraj Singh
+0
+4
+RA Jadeja
+0
+11
+Yuvraj Singh
+0
+16
+RA Jadeja
+0
+11
+I Sharma
+0
+8
+AB Dinda
+0
+2
+I Sharma
+1
+Mohammad Hafeez
+4
+AB Dinda
+1
+Kamran Akmal
+10
+RA Jadeja
+0

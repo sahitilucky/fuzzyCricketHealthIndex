@@ -1,0 +1,150 @@
+Hong Kong
+2016-01-31
+runs: 37
+winner: Scotland
+Hong Kong
+Scotland
+venue: 'Mission Road Ground, Mong Kok'
+1st innings
+Scotland
+1
+Haseeb Amjad
+1
+HG Munsey
+6
+Tanwir Afzal
+0
+8
+Haseeb Amjad
+0
+11
+Tanwir Afzal
+0
+11
+Aizaz Khan
+0
+17
+Tanwir Afzal
+0
+12
+Aizaz Khan
+0
+5
+Anshuman Rath
+0
+3
+Nadeem Ahmed
+1
+MH Cross
+11
+Anshuman Rath
+0
+15
+Nadeem Ahmed
+0
+2
+Tanwir Afzal
+1
+MW Machan
+5
+Aizaz Khan
+1
+KJ Coetzer
+14
+Anshuman Rath
+0
+2
+Nadeem Ahmed
+0
+10
+Anshuman Rath
+1
+PL Mommsen
+5
+Haseeb Amjad
+1
+CS MacLeod
+3
+Nadeem Ahmed
+2
+RD Berrington
+SM Sharif
+8
+Haseeb Amjad
+1
+RML Taylor
+12
+Aizaz Khan
+0
+2nd innings
+Hong Kong
+3
+SM Sharif
+1
+JJ Atkinson
+4
+BTJ Wheal
+2
+Anshuman Rath
+MS Chapman
+1
+SM Sharif
+1
+Babar Hayat
+1
+BTJ Wheal
+0
+7
+SM Sharif
+0
+0
+RML Taylor
+0
+7
+RD Berrington
+0
+8
+RML Taylor
+0
+3
+RD Berrington
+2
+Nizakat Khan
+KD Shah
+6
+MRJ Watt
+0
+10
+RD Berrington
+0
+9
+BTJ Wheal
+0
+12
+RML Taylor
+0
+7
+MRJ Watt
+1
+Aizaz Khan
+4
+SM Sharif
+0
+4
+MRJ Watt
+1
+Waqas Barkat
+30
+RML Taylor
+0
+6
+BTJ Wheal
+1
+Tanwir Afzal
+2
+RD Berrington
+1
+Haseeb Amjad
+0
+RD Berrington
+0

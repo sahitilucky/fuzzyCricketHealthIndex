@@ -1,0 +1,146 @@
+Cape Town
+2007-09-16
+runs: 19
+winner: South Africa
+South Africa
+England
+venue: Newlands
+1st innings
+South Africa
+8
+JM Anderson
+0
+10
+SCJ Broad
+1
+JP Duminy
+5
+A Flintoff
+0
+9
+JM Anderson
+0
+10
+SCJ Broad
+1
+GC Smith
+1
+A Flintoff
+1
+AB de Villiers
+6
+SCJ Broad
+0
+5
+AD Mascarenhas
+0
+2
+CP Schofield
+0
+12
+JN Snape
+0
+9
+CP Schofield
+0
+9
+AD Mascarenhas
+0
+3
+JM Anderson
+0
+2
+CP Schofield
+1
+MV Boucher
+3
+JM Anderson
+1
+SM Pollock
+10
+AD Mascarenhas
+1
+JM Kemp
+8
+A Flintoff
+0
+21
+CP Schofield
+0
+12
+SCJ Broad
+1
+VD Philander
+9
+A Flintoff
+1
+JA Morkel
+2nd innings
+England
+0
+SM Pollock
+1
+LJ Wright
+7
+M Ntini
+0
+7
+SM Pollock
+0
+9
+M Ntini
+0
+5
+SM Pollock
+2
+KP Pietersen
+PD Collingwood
+3
+M Ntini
+0
+6
+SM Pollock
+0
+5
+M Morkel
+0
+11
+JJ van der Wath
+0
+6
+M Morkel
+0
+4
+JJ van der Wath
+0
+16
+VD Philander
+0
+4
+JA Morkel
+1
+MJ Prior
+10
+M Ntini
+0
+8
+JA Morkel
+1
+OA Shah
+6
+VD Philander
+0
+5
+JJ van der Wath
+0
+3
+M Morkel
+1
+JN Snape
+11
+JJ van der Wath
+1
+A Flintoff
+9
+M Morkel
+0

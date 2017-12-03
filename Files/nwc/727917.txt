@@ -1,0 +1,126 @@
+none
+2014-10-05
+wickets: 6
+winner: Australia
+Australia
+Pakistan
+venue: Dubai International Cricket Stadium
+1st innings
+Pakistan
+3
+GJ Maxwell
+0
+8
+MA Starc
+0
+2
+GJ Maxwell
+2
+Awais Zia
+Umar Amin
+9
+MA Starc
+0
+9
+GJ Maxwell
+1
+Sohaib Maqsood
+1
+MA Starc
+0
+1
+CJ Boyce
+1
+Ahmed Shehzad
+4
+KW Richardson
+1
+Umar Akmal
+5
+CJ Boyce
+0
+4
+SA Abbott
+1
+Shahid Afridi
+3
+CJ Boyce
+0
+7
+SA Abbott
+0
+1
+CJ Boyce
+1
+Anwar Ali
+4
+SPD Smith
+0
+7
+JP Faulkner
+0
+3
+MA Starc
+1
+Saad Nasim
+7
+KW Richardson
+0
+7
+SA Abbott
+0
+8
+JP Faulkner
+1
+Wahab Riaz
+3
+KW Richardson
+0
+2nd innings
+Australia
+6
+Raza Hasan
+0
+5
+Mohammad Irfan
+0
+4
+Raza Hasan
+1
+AJ Finch
+15
+Mohammad Irfan
+0
+8
+Raza Hasan
+0
+2
+Shahid Afridi
+1
+GJ Maxwell
+3
+Raza Hasan
+1
+SPD Smith
+6
+Shahid Afridi
+0
+7
+Wahab Riaz
+1
+PJ Hughes
+5
+Shahid Afridi
+0
+8
+Wahab Riaz
+0
+12
+Saad Nasim
+0
+4
+Shahid Afridi
+0
+12
+Sohaib Maqsood
+0

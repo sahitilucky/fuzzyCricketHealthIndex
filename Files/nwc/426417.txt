@@ -1,0 +1,134 @@
+Cardiff
+2010-09-05
+wickets: 5
+winner: England
+England
+Pakistan
+venue: Sophia Gardens
+1st innings
+Pakistan
+12
+RJ Sidebottom
+0
+3
+TT Bresnan
+1
+Kamran Akmal
+6
+SCJ Broad
+0
+9
+TT Bresnan
+0
+13
+SCJ Broad
+0
+6
+TT Bresnan
+0
+1
+GP Swann
+1
+Mohammad Yousuf
+1
+MH Yardy
+0
+5
+GP Swann
+1
+Shahzaib Hasan
+5
+MH Yardy
+0
+2
+GP Swann
+0
+8
+PD Collingwood
+0
+6
+GP Swann
+0
+7
+MH Yardy
+0
+4
+RJ Sidebottom
+0
+8
+MH Yardy
+1
+Fawad Alam
+6
+RJ Sidebottom
+0
+6
+SCJ Broad
+0
+10
+RJ Sidebottom
+0
+8
+SCJ Broad
+0
+2nd innings
+England
+9
+Abdul Razzaq
+0
+0
+Shoaib Akhtar
+1
+C Kieswetter
+11
+Abdul Razzaq
+0
+10
+Shoaib Akhtar
+0
+7
+Wahab Riaz
+0
+5
+Shoaib Akhtar
+1
+RS Bopara
+4
+Wahab Riaz
+0
+9
+Shahid Afridi
+1
+PD Collingwood
+2
+Umar Gul
+1
+SM Davies
+5
+Shahid Afridi
+1
+LJ Wright
+11
+Umar Gul
+0
+6
+Shahid Afridi
+0
+13
+Saeed Ajmal
+0
+7
+Shahid Afridi
+0
+8
+Saeed Ajmal
+0
+9
+Shoaib Akhtar
+0
+9
+Saeed Ajmal
+0
+4
+Umar Gul
+0

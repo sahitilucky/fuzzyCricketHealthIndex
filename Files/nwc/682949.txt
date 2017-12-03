@@ -1,0 +1,143 @@
+Mirpur
+2014-03-30
+runs: 50
+winner: Pakistan
+Bangladesh
+Pakistan
+venue: Shere Bangla National Stadium
+1st innings
+Pakistan
+5
+Mashrafe Mortaza
+0
+11
+Al-Amin Hossain
+0
+18
+Mashrafe Mortaza
+0
+8
+Shakib Al Hasan
+0
+4
+Abdur Razzak
+1
+Kamran Akmal
+4
+Shakib Al Hasan
+0
+4
+Abdur Razzak
+0
+11
+Al-Amin Hossain
+0
+5
+Abdur Razzak
+1
+Mohammad Hafeez
+5
+Mahmudullah
+1
+Umar Akmal
+7
+Abdur Razzak
+0
+6
+Mahmudullah
+0
+22
+Ziaur Rahman
+0
+13
+Mahmudullah
+0
+7
+Shakib Al Hasan
+0
+16
+Mashrafe Mortaza
+0
+5
+Al-Amin Hossain
+0
+5
+Shakib Al Hasan
+1
+Shoaib Malik
+24
+Mashrafe Mortaza
+0
+10
+Al-Amin Hossain
+1
+Shahid Afridi
+2nd innings
+Bangladesh
+6
+Mohammad Hafeez
+0
+7
+Sohail Tanvir
+0
+7
+Mohammad Hafeez
+0
+10
+Sohail Tanvir
+0
+2
+Umar Gul
+1
+Tamim Iqbal
+4
+Saeed Ajmal
+1
+Anamul Haque
+4
+Mohammad Hafeez
+0
+4
+Zulfiqar Babar
+0
+3
+Shahid Afridi
+1
+Shamsur Rahman
+6
+Zulfiqar Babar
+1
+Mushfiqur Rahim
+2
+Shahid Afridi
+0
+14
+Zulfiqar Babar
+0
+5
+Saeed Ajmal
+0
+7
+Shahid Afridi
+0
+10
+Umar Gul
+1
+Shakib Al Hasan
+9
+Shahid Afridi
+0
+12
+Saeed Ajmal
+1
+Nasir Hossain
+8
+Umar Gul
+1
+Ziaur Rahman
+9
+Sohail Tanvir
+0
+11
+Umar Gul
+0

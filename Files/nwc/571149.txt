@@ -1,0 +1,143 @@
+none
+2012-09-07
+result
+tie
+Australia
+Pakistan
+venue: Dubai International Cricket Stadium
+1st innings
+Pakistan
+12
+PJ Cummins
+0
+2
+MA Starc
+1
+Imran Nazir
+11
+PJ Cummins
+0
+1
+MA Starc
+0
+3
+SR Watson
+0
+8
+MA Starc
+0
+7
+DJ Hussey
+0
+3
+DT Christian
+0
+8
+GB Hogg
+0
+6
+SR Watson
+0
+13
+GB Hogg
+0
+11
+DT Christian
+0
+6
+PJ Cummins
+1
+Nasir Jamshed
+6
+MA Starc
+0
+7
+SR Watson
+1
+Mohammad Hafeez
+9
+GB Hogg
+0
+13
+SR Watson
+0
+9
+GB Hogg
+0
+8
+PJ Cummins
+0
+8
+DT Christian
+1
+Umar Akmal
+2nd innings
+Australia
+3
+Sohail Tanvir
+0
+14
+Mohammad Hafeez
+0
+8
+Sohail Tanvir
+0
+13
+Umar Gul
+0
+2
+Saeed Ajmal
+1
+DA Warner
+1
+Umar Gul
+0
+4
+Raza Hasan
+0
+9
+Mohammad Hafeez
+0
+10
+Raza Hasan
+0
+15
+Sohail Tanvir
+0
+3
+Saeed Ajmal
+1
+SR Watson
+4
+Raza Hasan
+1
+CL White
+5
+Mohammad Hafeez
+0
+13
+Raza Hasan
+0
+5
+Saeed Ajmal
+0
+7
+Umar Gul
+1
+MEK Hussey
+5
+Sohail Tanvir
+1
+DJ Hussey
+10
+Saeed Ajmal
+0
+11
+Umar Gul
+1
+MS Wade
+9
+Abdul Razzaq
+2
+GJ Bailey
+PJ Cummins

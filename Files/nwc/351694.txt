@@ -1,0 +1,150 @@
+none
+2009-01-11
+runs: 52
+winner: Australia
+Australia
+South Africa
+venue: Melbourne Cricket Ground
+1st innings
+Australia
+8
+M Ntini
+0
+11
+LL Tsotsobe
+0
+18
+M Ntini
+0
+5
+LL Tsotsobe
+1
+SE Marsh
+12
+JH Kallis
+0
+15
+DW Steyn
+0
+5
+J Botha
+0
+12
+DW Steyn
+0
+7
+J Botha
+0
+8
+JA Morkel
+1
+RT Ponting
+13
+JH Kallis
+0
+5
+JA Morkel
+0
+14
+J Botha
+0
+7
+M Ntini
+2
+DJ Hussey
+DA Warner
+5
+J Botha
+0
+9
+JA Morkel
+2
+CL White
+MEK Hussey
+7
+M Ntini
+0
+9
+DW Steyn
+1
+L Ronchi
+8
+JA Morkel
+0
+4
+DW Steyn
+2
+JR Hopes
+NW Bracken
+2nd innings
+South Africa
+1
+NW Bracken
+1
+HH Gibbs
+6
+SW Tait
+1
+AB de Villiers
+5
+BW Hilfenhaus
+1
+JH Kallis
+14
+SW Tait
+0
+9
+BW Hilfenhaus
+0
+9
+NW Bracken
+0
+9
+JR Hopes
+0
+9
+DJ Hussey
+0
+3
+JR Hopes
+1
+VB van Jaarsveld
+8
+DJ Hussey
+0
+8
+JR Hopes
+0
+5
+DJ Hussey
+1
+MV Boucher
+12
+JR Hopes
+0
+16
+SW Tait
+0
+8
+NW Bracken
+1
+JA Morkel
+4
+DJ Hussey
+2
+JP Duminy
+DW Steyn
+1
+BW Hilfenhaus
+1
+M Ntini
+3
+SW Tait
+1
+LL Tsotsobe
+0
+SW Tait
+0
+0
+SW Tait
+0

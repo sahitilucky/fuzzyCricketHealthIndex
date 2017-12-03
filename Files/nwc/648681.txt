@@ -1,0 +1,59 @@
+Durban
+2014-03-12
+wickets: 5
+winner: Australia
+South Africa
+Australia
+venue: Kingsmead
+1st innings
+South Africa
+5
+MA Starc
+0
+1
+NM Coulter-Nile
+1
+HM Amla
+5
+GB Hogg
+0
+14
+SR Watson
+0
+18
+DT Christian
+0
+16
+NM Coulter-Nile
+0
+21
+MA Starc
+0
+2nd innings
+Australia
+21
+LL Tsotsobe
+0
+5
+KJ Abbott
+1
+AJ Finch
+18
+BE Hendricks
+0
+4
+WD Parnell
+1
+SR Watson
+5
+JP Duminy
+2
+DA Warner
+GJ Maxwell
+13
+BE Hendricks
+1
+GJ Bailey
+15
+WD Parnell
+0

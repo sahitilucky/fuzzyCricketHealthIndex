@@ -1,0 +1,147 @@
+London
+2009-06-13
+runs: 20
+winner: South Africa
+South Africa
+West Indies
+venue: Kennington Oval
+1st innings
+South Africa
+2
+JE Taylor
+0
+8
+FH Edwards
+0
+16
+JE Taylor
+0
+6
+FH Edwards
+0
+13
+DJ Bravo
+0
+9
+SJ Benn
+1
+GC Smith
+11
+KA Pollard
+0
+5
+SJ Benn
+0
+7
+CH Gayle
+0
+9
+SJ Benn
+0
+12
+DJ Bravo
+0
+8
+LMP Simmons
+1
+JH Kallis
+7
+KA Pollard
+0
+14
+LMP Simmons
+0
+11
+KA Pollard
+1
+HH Gibbs
+13
+SJ Benn
+0
+8
+JE Taylor
+2
+AB de Villiers
+JA Morkel
+7
+FH Edwards
+1
+JP Duminy
+4
+JE Taylor
+1
+RE van der Merwe
+13
+FH Edwards
+0
+2nd innings
+West Indies
+3
+DW Steyn
+0
+2
+WD Parnell
+1
+ADS Fletcher
+8
+DW Steyn
+0
+3
+WD Parnell
+1
+CH Gayle
+18
+JH Kallis
+0
+11
+JA Morkel
+0
+10
+J Botha
+0
+11
+JA Morkel
+0
+4
+RE van der Merwe
+1
+DJ Bravo
+12
+J Botha
+0
+8
+RE van der Merwe
+0
+5
+JP Duminy
+1
+S Chanderpaul
+11
+RE van der Merwe
+0
+12
+JP Duminy
+0
+5
+JH Kallis
+0
+10
+RE van der Merwe
+1
+LMP Simmons
+8
+DW Steyn
+1
+RR Sarwan
+7
+WD Parnell
+2
+KA Pollard
+JE Taylor
+11
+DW Steyn
+1
+D Ramdin
+4
+WD Parnell
+0

@@ -1,0 +1,147 @@
+Sydney
+2014-02-02
+runs: 84
+winner: Australia
+Australia
+England
+venue: Stadium Australia
+1st innings
+Australia
+3
+SCJ Broad
+0
+4
+CJ Jordan
+0
+10
+SCJ Broad
+0
+7
+CJ Jordan
+0
+3
+TT Bresnan
+0
+14
+BA Stokes
+0
+9
+TT Bresnan
+1
+AJ Finch
+9
+BA Stokes
+0
+15
+SCJ Broad
+1
+GJ Maxwell
+5
+JW Dernbach
+0
+18
+TT Bresnan
+0
+7
+JW Dernbach
+0
+13
+BA Stokes
+0
+13
+JE Root
+1
+BCJ Cutting
+7
+CJ Jordan
+1
+CL White
+2
+SCJ Broad
+2
+BJ Hodge
+DT Christian
+7
+CJ Jordan
+0
+11
+JW Dernbach
+0
+12
+TT Bresnan
+0
+26
+JW Dernbach
+0
+2nd innings
+England
+5
+MA Starc
+0
+4
+NM Coulter-Nile
+0
+6
+MA Starc
+1
+LJ Wright
+4
+NM Coulter-Nile
+1
+AD Hales
+6
+GJ Maxwell
+1
+BA Stokes
+6
+BCJ Cutting
+0
+12
+GJ Maxwell
+0
+10
+DT Christian
+0
+7
+GJ Maxwell
+1
+JE Root
+7
+BCJ Cutting
+0
+8
+GJ Maxwell
+0
+4
+DT Christian
+1
+JC Buttler
+5
+BCJ Cutting
+1
+EJG Morgan
+8
+NM Coulter-Nile
+1
+RS Bopara
+7
+JM Muirhead
+1
+TT Bresnan
+5
+NM Coulter-Nile
+0
+6
+JM Muirhead
+1
+SCJ Broad
+1
+MA Starc
+1
+JW Dernbach
+0
+MA Starc
+0
+0
+MA Starc
+0

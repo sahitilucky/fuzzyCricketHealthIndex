@@ -1,0 +1,145 @@
+none
+2013-11-15
+runs: 6
+winner: South Africa
+Pakistan
+South Africa
+venue: Dubai International Cricket Stadium
+1st innings
+South Africa
+5
+Mohammad Irfan
+0
+15
+Abdul Razzaq
+0
+8
+Mohammad Irfan
+0
+4
+Sohail Tanvir
+0
+5
+Saeed Ajmal
+1
+Q de Kock
+7
+Sohail Tanvir
+0
+5
+Mohammad Hafeez
+0
+11
+Shahid Afridi
+0
+2
+Mohammad Hafeez
+0
+5
+Shahid Afridi
+0
+10
+Mohammad Hafeez
+0
+14
+Shahid Afridi
+0
+10
+Saeed Ajmal
+0
+11
+Shoaib Malik
+0
+3
+Saeed Ajmal
+1
+HM Amla
+5
+Mohammad Hafeez
+0
+13
+Shahid Afridi
+0
+7
+Sohail Tanvir
+1
+AB de Villiers
+7
+Saeed Ajmal
+1
+DA Miller
+3
+Sohail Tanvir
+1
+H Davids
+2nd innings
+Pakistan
+0
+DW Steyn
+0
+10
+LL Tsotsobe
+0
+8
+DW Steyn
+0
+12
+LL Tsotsobe
+0
+9
+R McLaren
+0
+5
+WD Parnell
+2
+Ahmed Shehzad
+Mohammad Hafeez
+6
+H Davids
+1
+Nasir Jamshed
+8
+LL Tsotsobe
+0
+4
+Imran Tahir
+0
+13
+WD Parnell
+0
+6
+Imran Tahir
+0
+9
+R McLaren
+0
+6
+Imran Tahir
+0
+9
+R McLaren
+1
+Umar Akmal
+7
+Imran Tahir
+2
+Shoaib Malik
+Abdul Razzaq
+4
+WD Parnell
+1
+Sohaib Maqsood
+9
+DW Steyn
+1
+Sohail Tanvir
+12
+R McLaren
+0
+4
+DW Steyn
+1
+Shahid Afridi
+3
+WD Parnell
+0

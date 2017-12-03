@@ -1,0 +1,147 @@
+none
+2013-09-30
+runs: 106
+winner: Afghanistan
+Afghanistan
+Kenya
+venue: Sharjah Cricket Stadium
+1st innings
+Afghanistan
+14
+HA Varaiya
+0
+6
+SO Ngoche
+0
+6
+NM Odhiambo
+0
+13
+SO Ngoche
+1
+Mohammad Shahzad
+3
+NM Odhiambo
+1
+Karim Sadiq
+6
+E Otieno
+0
+5
+NM Odhiambo
+0
+6
+E Otieno
+0
+5
+RG Aga
+0
+4
+NN Odhiambo
+0
+1
+RG Aga
+0
+5
+CO Obuya
+1
+Nawroz Mangal
+7
+E Otieno
+0
+4
+CO Obuya
+0
+19
+NN Odhiambo
+0
+8
+CO Obuya
+0
+8
+HA Varaiya
+1
+Asghar Stanikzai
+11
+SO Ngoche
+1
+Mohammad Nabi
+9
+RG Aga
+1
+Mirwais Ashraf
+22
+HA Varaiya
+0
+2nd innings
+Kenya
+6
+Shapoor Zadran
+1
+AA Obanda
+0
+Hamid Hassan
+2
+MA Ouma
+IA Karim
+1
+Shapoor Zadran
+0
+1
+Hamid Hassan
+1
+CO Obuya
+7
+Shapoor Zadran
+0
+6
+Hamza Hotak
+1
+RG Aga
+0
+Mirwais Ashraf
+2
+RR Patel
+NN Odhiambo
+4
+Hamid Hassan
+0
+5
+Mirwais Ashraf
+0
+5
+Hamza Hotak
+0
+1
+Mirwais Ashraf
+0
+1
+Mohammad Nabi
+0
+4
+Samiullah Shenwari
+1
+SO Ngoche
+0
+Mohammad Nabi
+0
+1
+Samiullah Shenwari
+1
+NM Odhiambo
+5
+Mohammad Nabi
+0
+1
+Samiullah Shenwari
+0
+7
+Mohammad Nabi
+0
+1
+Samiullah Shenwari
+1
+E Otieno
+0
+Samiullah Shenwari
+0

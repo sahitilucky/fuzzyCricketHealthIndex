@@ -1,0 +1,128 @@
+Dublin
+2015-07-17
+wickets: 8
+winner: Papua New Guinea
+Nepal
+Papua New Guinea
+venue: 'The Village, Malahide'
+1st innings
+Nepal
+5
+L Nou
+0
+9
+N Vanua
+0
+5
+L Nou
+1
+Sagar Pun
+1
+N Vanua
+0
+10
+WT Gavera
+0
+4
+JB Reva
+0
+14
+WT Gavera
+0
+3
+MD Dai
+1
+G Malla
+3
+JB Reva
+1
+PS Airee
+2
+MD Dai
+1
+P Khadka
+3
+JB Reva
+0
+3
+MD Dai
+0
+5
+L Nou
+0
+5
+MD Dai
+0
+7
+N Vanua
+2
+S Vesawkar
+B Bhandari
+3
+A Vala
+1
+RP Magar
+4
+WT Gavera
+0
+1
+A Vala
+1
+B Regmi
+3
+JB Reva
+1
+Sompal Kami
+3
+A Vala
+1
+Karan KC
+2nd innings
+Papua New Guinea
+10
+SP Gauchan
+0
+3
+Sompal Kami
+1
+L Siaka
+16
+Karan KC
+0
+4
+Sompal Kami
+0
+4
+P Khadka
+0
+8
+Sompal Kami
+0
+6
+P Khadka
+0
+4
+B Regmi
+1
+TP Ura
+3
+P Khadka
+0
+5
+SP Gauchan
+0
+8
+B Regmi
+0
+1
+SP Gauchan
+0
+4
+B Regmi
+0
+17
+P Khadka
+0
+6
+B Regmi
+0

@@ -1,0 +1,129 @@
+London
+2011-09-23
+wickets: 10
+winner: England
+England
+West Indies
+venue: Kennington Oval
+1st innings
+West Indies
+4
+TT Bresnan
+0
+1
+ST Finn
+0
+22
+TT Bresnan
+0
+15
+ST Finn
+0
+2
+JW Dernbach
+0
+7
+SR Patel
+1
+DR Smith
+4
+GP Swann
+0
+3
+SR Patel
+0
+4
+GP Swann
+1
+MN Samuels
+4
+SR Patel
+0
+5
+GP Swann
+0
+1
+RS Bopara
+0
+17
+GP Swann
+0
+9
+SR Patel
+1
+J Charles
+5
+JW Dernbach
+0
+2
+RS Bopara
+2
+NE Bonner
+CD Barnwell
+6
+JW Dernbach
+0
+5
+RS Bopara
+2
+AD Russell
+DP Hyatt
+7
+JW Dernbach
+2
+DO Christian
+D Bishoo
+2
+RS Bopara
+1
+DJG Sammy
+2nd innings
+England
+6
+DJG Sammy
+0
+12
+FH Edwards
+0
+7
+AD Russell
+0
+6
+DJG Sammy
+0
+13
+FH Edwards
+0
+8
+DJG Sammy
+0
+14
+AD Russell
+0
+7
+D Bishoo
+0
+6
+CD Barnwell
+0
+5
+D Bishoo
+0
+8
+NE Bonner
+0
+11
+D Bishoo
+0
+10
+NE Bonner
+0
+5
+D Bishoo
+0
+6
+CD Barnwell
+0
+4
+DR Smith
+0

@@ -1,0 +1,62 @@
+Hambantota
+2012-09-22
+runs: 32
+winner: South Africa
+Sri Lanka
+South Africa
+venue: 'Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa'
+1st innings
+South Africa
+9
+KMDN Kulasekara
+1
+RE Levi
+12
+SL Malinga
+0
+6
+HMRKB Herath
+1
+HM Amla
+8
+AD Mathews
+0
+15
+HMRKB Herath
+0
+15
+SL Malinga
+1
+AB de Villiers
+13
+NLTC Perera
+1
+F du Plessis
+2nd innings
+Sri Lanka
+5
+M Morkel
+1
+TM Dilshan
+3
+DW Steyn
+1
+DPMD Jayawardene
+5
+M Morkel
+0
+9
+J Botha
+0
+9
+JH Kallis
+1
+KC Sangakkara
+7
+DW Steyn
+1
+NLTC Perera
+8
+JA Morkel
+1
+EMDY Munaweera

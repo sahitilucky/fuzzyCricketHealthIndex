@@ -1,0 +1,145 @@
+Chittagong
+2014-03-24
+runs: 2
+winner: South Africa
+New Zealand
+South Africa
+venue: Zahur Ahmed Chowdhury Stadium
+1st innings
+South Africa
+3
+KD Mills
+0
+7
+MJ McClenaghan
+0
+6
+KD Mills
+1
+Q de Kock
+6
+MJ McClenaghan
+0
+10
+TG Southee
+1
+F du Plessis
+7
+MJ McClenaghan
+0
+4
+NL McCullum
+1
+AB de Villiers
+6
+TG Southee
+0
+8
+NL McCullum
+0
+4
+CJ Anderson
+0
+6
+NL McCullum
+0
+10
+MJ McClenaghan
+0
+6
+NL McCullum
+0
+14
+CJ Anderson
+1
+HM Amla
+3
+KD Mills
+0
+13
+KS Williamson
+0
+17
+TG Southee
+0
+10
+CJ Anderson
+1
+DA Miller
+17
+KD Mills
+0
+13
+TG Southee
+1
+JA Morkel
+2nd innings
+New Zealand
+7
+JP Duminy
+0
+5
+LL Tsotsobe
+0
+1
+DW Steyn
+0
+6
+LL Tsotsobe
+0
+16
+M Morkel
+0
+12
+LL Tsotsobe
+0
+10
+JP Duminy
+0
+4
+JA Morkel
+1
+MJ Guptill
+7
+Imran Tahir
+1
+BB McCullum
+9
+JA Morkel
+0
+12
+Imran Tahir
+0
+20
+M Morkel
+0
+7
+Imran Tahir
+0
+4
+DW Steyn
+1
+KS Williamson
+13
+JP Duminy
+0
+7
+LL Tsotsobe
+0
+2
+Imran Tahir
+1
+C Munro
+8
+DW Steyn
+1
+CJ Anderson
+14
+M Morkel
+0
+4
+DW Steyn
+3
+L Ronchi
+NL McCullum
+LRPL Taylor

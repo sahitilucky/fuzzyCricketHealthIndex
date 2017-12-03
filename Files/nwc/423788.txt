@@ -1,0 +1,141 @@
+Christchurch
+2010-02-28
+result
+tie
+New Zealand
+Australia
+venue: AMI Stadium
+1st innings
+New Zealand
+10
+SW Tait
+1
+PJ Ingram
+14
+DP Nannes
+0
+8
+SW Tait
+0
+10
+DP Nannes
+0
+6
+RJ Harris
+0
+14
+DP Nannes
+0
+0
+RJ Harris
+1
+MJ Guptill
+6
+DJ Hussey
+0
+2
+SPD Smith
+1
+LRPL Taylor
+3
+DJ Hussey
+0
+11
+SPD Smith
+1
+JEC Franklin
+11
+DT Christian
+0
+11
+SPD Smith
+0
+19
+DT Christian
+0
+18
+RJ Harris
+0
+16
+DP Nannes
+1
+GJ Hopkins
+6
+SW Tait
+1
+JDP Oram
+16
+RJ Harris
+0
+21
+SW Tait
+0
+12
+DJ Hussey
+0
+2nd innings
+Australia
+6
+SE Bond
+0
+17
+TG Southee
+0
+5
+SE Bond
+1
+DA Warner
+10
+TG Southee
+0
+3
+SE Bond
+0
+12
+JDP Oram
+0
+9
+DL Vettori
+0
+12
+JDP Oram
+0
+6
+DL Vettori
+0
+10
+JDP Oram
+0
+10
+DL Vettori
+0
+10
+JEC Franklin
+1
+BJ Haddin
+17
+NL McCullum
+0
+6
+JEC Franklin
+1
+DJ Hussey
+16
+DL Vettori
+0
+17
+JEC Franklin
+0
+13
+SE Bond
+0
+6
+TG Southee
+0
+18
+JDP Oram
+0
+11
+TG Southee
+1
+MJ Clarke

@@ -1,0 +1,129 @@
+Colombo
+2012-09-19
+wickets: 7
+winner: Australia
+Australia
+Ireland
+venue: R Premadasa Stadium
+1st innings
+Ireland
+4
+SR Watson
+1
+WTS Porterfield
+2
+MA Starc
+0
+7
+PJ Cummins
+0
+3
+MA Starc
+1
+PR Stirling
+8
+PJ Cummins
+0
+5
+GJ Maxwell
+1
+EC Joyce
+4
+DT Christian
+0
+3
+GB Hogg
+1
+GC Wilson
+5
+SR Watson
+0
+5
+GB Hogg
+0
+7
+GJ Maxwell
+0
+9
+GB Hogg
+0
+7
+DT Christian
+0
+12
+MA Starc
+0
+5
+SR Watson
+2
+NJ O'Brien
+KJ O'Brien
+5
+GB Hogg
+0
+10
+PJ Cummins
+0
+5
+MA Starc
+1
+DT Johnston
+5
+PJ Cummins
+0
+12
+SR Watson
+0
+2nd innings
+Australia
+6
+WB Rankin
+0
+3
+DT Johnston
+0
+12
+WB Rankin
+0
+19
+DT Johnston
+0
+4
+AR Cusack
+0
+9
+GH Dockrell
+0
+7
+AR Cusack
+0
+4
+GH Dockrell
+1
+DA Warner
+13
+PR Stirling
+0
+14
+GH Dockrell
+0
+4
+KJ O'Brien
+2
+SR Watson
+MEK Hussey
+5
+WB Rankin
+0
+3
+KJ O'Brien
+0
+7
+WB Rankin
+0
+11
+KJ O'Brien
+0
+4
+GH Dockrell
+0

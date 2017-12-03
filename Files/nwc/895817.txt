@@ -1,0 +1,144 @@
+none
+2016-01-26
+runs: 37
+winner: India
+Australia
+India
+venue: Adelaide Oval
+1st innings
+India
+10
+SW Tait
+0
+8
+KW Richardson
+0
+13
+SW Tait
+0
+9
+JP Faulkner
+0
+1
+SR Watson
+2
+RG Sharma
+S Dhawan
+13
+SW Tait
+0
+4
+SR Watson
+0
+9
+CJ Boyce
+0
+8
+JP Faulkner
+0
+4
+CJ Boyce
+0
+9
+TM Head
+0
+10
+CJ Boyce
+0
+8
+SR Watson
+0
+11
+KW Richardson
+0
+11
+SR Watson
+0
+12
+SW Tait
+0
+8
+KW Richardson
+0
+12
+JP Faulkner
+0
+14
+KW Richardson
+0
+14
+JP Faulkner
+1
+SK Raina
+2nd innings
+Australia
+5
+A Nehra
+0
+17
+R Ashwin
+0
+12
+A Nehra
+0
+3
+JJ Bumrah
+0
+10
+A Nehra
+0
+9
+JJ Bumrah
+1
+DA Warner
+7
+RA Jadeja
+0
+19
+HH Pandya
+0
+7
+RA Jadeja
+1
+SPD Smith
+2
+R Ashwin
+1
+AJ Finch
+2
+RA Jadeja
+1
+TM Head
+10
+Yuvraj Singh
+0
+5
+RA Jadeja
+0
+4
+R Ashwin
+1
+SR Watson
+12
+HH Pandya
+1
+CA Lynn
+5
+R Ashwin
+0
+7
+HH Pandya
+1
+MS Wade
+11
+JJ Bumrah
+1
+JP Faulkner
+4
+A Nehra
+1
+KW Richardson
+0
+JJ Bumrah
+1
+CJ Boyce

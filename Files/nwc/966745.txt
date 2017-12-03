@@ -1,0 +1,144 @@
+Mirpur
+2016-02-24
+runs: 45
+winner: India
+Bangladesh
+India
+venue: Shere Bangla National Stadium
+1st innings
+India
+2
+Taskin Ahmed
+0
+7
+Al-Amin Hossain
+1
+S Dhawan
+7
+Taskin Ahmed
+0
+3
+Mustafizur Rahman
+0
+4
+Mashrafe Mortaza
+1
+V Kohli
+8
+Al-Amin Hossain
+0
+8
+Mashrafe Mortaza
+0
+4
+Mahmudullah
+1
+SK Raina
+4
+Shakib Al Hasan
+0
+5
+Mahmudullah
+0
+14
+Taskin Ahmed
+0
+10
+Mashrafe Mortaza
+0
+5
+Shakib Al Hasan
+0
+9
+Mustafizur Rahman
+0
+7
+Shakib Al Hasan
+1
+Yuvraj Singh
+18
+Mashrafe Mortaza
+0
+21
+Mustafizur Rahman
+0
+13
+Al-Amin Hossain
+0
+8
+Mustafizur Rahman
+0
+9
+Al-Amin Hossain
+2
+RG Sharma
+HH Pandya
+2nd innings
+Bangladesh
+3
+A Nehra
+0
+6
+JJ Bumrah
+0
+6
+A Nehra
+1
+Mohammad Mithun
+4
+JJ Bumrah
+1
+Soumya Sarkar
+8
+A Nehra
+0
+4
+JJ Bumrah
+0
+5
+HH Pandya
+0
+6
+R Ashwin
+0
+6
+HH Pandya
+0
+3
+R Ashwin
+1
+Imrul Kayes
+10
+HH Pandya
+0
+10
+R Ashwin
+0
+5
+RA Jadeja
+1
+Shakib Al Hasan
+6
+R Ashwin
+0
+3
+HH Pandya
+1
+Sabbir Rahman
+11
+RA Jadeja
+0
+6
+A Nehra
+2
+Mahmudullah
+Mashrafe Mortaza
+6
+RA Jadeja
+0
+9
+JJ Bumrah
+0
+4
+RA Jadeja
+0

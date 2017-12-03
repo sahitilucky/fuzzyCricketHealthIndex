@@ -1,0 +1,150 @@
+Durban
+2007-09-12
+runs: 51
+winner: Pakistan
+Pakistan
+Scotland
+venue: Kingsmead
+1st innings
+Pakistan
+9
+JAR Blain
+0
+0
+JD Nel
+0
+2
+JAR Blain
+1
+Imran Nazir
+3
+JD Nel
+0
+10
+JAR Blain
+1
+Salman Butt
+14
+DR Brown
+0
+9
+RM Haq
+0
+3
+CM Wright
+1
+Mohammad Hafeez
+9
+RM Haq
+0
+8
+CM Wright
+0
+5
+DR Brown
+0
+9
+JD Nel
+0
+23
+RM Haq
+1
+Shoaib Malik
+10
+CM Wright
+1
+Shahid Afridi
+2
+JAR Blain
+0
+8
+RM Haq
+1
+Younis Khan
+14
+DR Brown
+0
+8
+CM Wright
+1
+Misbah-ul-Haq
+12
+DR Brown
+0
+13
+JD Nel
+2
+Kamran Akmal
+Yasir Arafat
+2nd innings
+Scotland
+6
+Mohammad Asif
+0
+3
+Umar Gul
+1
+RR Watson
+8
+Mohammad Asif
+0
+12
+Umar Gul
+0
+8
+Mohammad Asif
+0
+3
+Umar Gul
+1
+NS Poonia
+12
+Mohammad Hafeez
+0
+2
+Shahid Afridi
+2
+GM Hamilton
+NFI McCallum
+6
+Mohammad Hafeez
+1
+DF Watts
+10
+Shahid Afridi
+1
+DR Brown
+2
+Mohammad Hafeez
+0
+8
+Shahid Afridi
+1
+CJO Smith
+5
+Mohammad Hafeez
+0
+6
+Yasir Arafat
+0
+5
+Shahid Afridi
+0
+3
+Yasir Arafat
+0
+7
+Umar Gul
+2
+CM Wright
+JAR Blain
+5
+Yasir Arafat
+0
+3
+Shoaib Malik
+0
+6
+Mohammad Asif
+1
+RM Haq

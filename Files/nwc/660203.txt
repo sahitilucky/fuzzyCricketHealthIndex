@@ -1,0 +1,150 @@
+none
+2013-11-24
+runs: 34
+winner: Afghanistan
+Afghanistan
+Kenya
+venue: Sharjah Cricket Stadium
+1st innings
+Afghanistan
+5
+NN Odhiambo
+1
+Mohammad Shahzad
+12
+RG Aga
+0
+15
+NN Odhiambo
+0
+8
+SO Ngoche
+0
+12
+HA Varaiya
+0
+8
+SO Ngoche
+1
+Karim Sadiq
+2
+TM Odoyo
+1
+Nawroz Mangal
+3
+RG Aga
+0
+6
+TM Odoyo
+0
+4
+RG Aga
+1
+Mohammad Nabi
+3
+TM Odoyo
+1
+Samiullah Shenwari
+2
+SO Tikolo
+0
+8
+TM Odoyo
+0
+11
+SO Tikolo
+0
+5
+DI Allan
+0
+5
+RG Aga
+0
+11
+SO Ngoche
+0
+13
+NN Odhiambo
+0
+11
+CO Obuya
+2
+Noor Ali Zadran
+Najibullah Zadran
+4
+DI Allan
+2
+Mirwais Ashraf
+Shafiqullah
+2nd innings
+Kenya
+13
+Karim Sadiq
+0
+18
+Shapoor Zadran
+0
+2
+Samiullah Shenwari
+2
+NN Odhiambo
+AA Obanda
+0
+Hamza Hotak
+1
+SO Tikolo
+4
+Samiullah Shenwari
+1
+DI Allan
+1
+Hamza Hotak
+0
+3
+Mohammad Nabi
+0
+8
+Karim Sadiq
+0
+6
+Mohammad Nabi
+0
+9
+Mirwais Ashraf
+0
+3
+Mohammad Nabi
+0
+8
+Hamza Hotak
+0
+4
+Samiullah Shenwari
+1
+CO Obuya
+4
+Mirwais Ashraf
+0
+3
+Samiullah Shenwari
+1
+IA Karim
+15
+Mirwais Ashraf
+1
+TM Odoyo
+10
+Mohammad Nabi
+0
+3
+Shapoor Zadran
+2
+RG Aga
+RR Patel
+0
+Mirwais Ashraf
+1
+HA Varaiya
+0
+Mirwais Ashraf
+0

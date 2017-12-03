@@ -1,0 +1,118 @@
+Wellington
+2013-02-15
+wickets: 10
+winner: England
+New Zealand
+England
+venue: Westpac Stadium
+1st innings
+New Zealand
+3
+ST Finn
+0
+6
+SCJ Broad
+0
+7
+ST Finn
+0
+2
+SCJ Broad
+1
+HD Rutherford
+2
+ST Finn
+0
+10
+JW Dernbach
+0
+9
+LJ Wright
+0
+11
+JC Tredwell
+0
+10
+LJ Wright
+0
+3
+JC Tredwell
+1
+BB McCullum
+10
+JE Root
+1
+LRPL Taylor
+11
+JC Tredwell
+0
+5
+JE Root
+0
+6
+JC Tredwell
+0
+3
+JW Dernbach
+1
+GD Elliott
+4
+SCJ Broad
+1
+C Munro
+7
+ST Finn
+0
+15
+JW Dernbach
+0
+5
+SCJ Broad
+1
+MJ Guptill
+10
+JW Dernbach
+2
+NL McCullum
+JEC Franklin
+2nd innings
+England
+11
+TA Boult
+0
+1
+MJ McClenaghan
+0
+7
+IG Butler
+0
+15
+MJ McClenaghan
+0
+23
+IG Butler
+0
+3
+NL McCullum
+0
+9
+TA Boult
+0
+9
+NL McCullum
+0
+7
+JEC Franklin
+0
+8
+NL McCullum
+0
+23
+MJ McClenaghan
+0
+12
+NL McCullum
+0
+15
+IG Butler
+0

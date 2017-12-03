@@ -1,0 +1,143 @@
+Ahmedabad
+2012-12-28
+runs: 11
+winner: India
+India
+Pakistan
+venue: 'Sardar Patel Stadium, Motera'
+1st innings
+India
+7
+Mohammad Irfan
+0
+10
+Sohail Tanvir
+0
+3
+Mohammad Irfan
+0
+11
+Sohail Tanvir
+0
+13
+Umar Gul
+1
+G Gambhir
+4
+Saeed Ajmal
+0
+5
+Umar Gul
+1
+AM Rahane
+6
+Mohammad Irfan
+0
+5
+Shahid Afridi
+0
+8
+Saeed Ajmal
+0
+11
+Shahid Afridi
+0
+5
+Sohail Tanvir
+1
+V Kohli
+17
+Shahid Afridi
+0
+5
+Mohammad Irfan
+0
+8
+Saeed Ajmal
+0
+15
+Umar Gul
+0
+11
+Mohammad Hafeez
+0
+18
+Sohail Tanvir
+0
+22
+Saeed Ajmal
+0
+8
+Umar Gul
+2
+Yuvraj Singh
+MS Dhoni
+2nd innings
+Pakistan
+5
+B Kumar
+0
+4
+I Sharma
+0
+14
+B Kumar
+0
+12
+I Sharma
+0
+13
+AB Dinda
+0
+6
+R Ashwin
+0
+5
+SK Raina
+0
+4
+R Ashwin
+0
+8
+SK Raina
+0
+4
+R Ashwin
+1
+Nasir Jamshed
+9
+Yuvraj Singh
+1
+Ahmed Shehzad
+12
+B Kumar
+0
+14
+Yuvraj Singh
+0
+15
+R Ashwin
+0
+11
+AB Dinda
+0
+10
+I Sharma
+0
+6
+AB Dinda
+1
+Umar Akmal
+15
+B Kumar
+1
+Shahid Afridi
+6
+AB Dinda
+2
+Mohammad Hafeez
+Kamran Akmal
+8
+I Sharma
+1
+Umar Gul

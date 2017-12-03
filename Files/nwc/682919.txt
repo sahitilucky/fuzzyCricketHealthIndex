@@ -1,0 +1,121 @@
+none
+2014-03-21
+wickets: 6
+winner: Netherlands
+Ireland
+Netherlands
+venue: Sylhet Stadium
+1st innings
+Ireland
+6
+MR Swart
+0
+6
+T van der Gugten
+0
+15
+MAA Jamil
+0
+9
+T van der Gugten
+1
+PR Stirling
+7
+MR Swart
+0
+5
+Mudassar Bukhari
+0
+8
+TLW Cooper
+0
+7
+PW Borren
+0
+6
+PM Seelaar
+0
+2
+MAA Jamil
+1
+WTS Porterfield
+9
+PM Seelaar
+0
+5
+MR Swart
+0
+8
+Mudassar Bukhari
+1
+EC Joyce
+13
+PW Borren
+0
+13
+Mudassar Bukhari
+0
+21
+MR Swart
+0
+17
+T van der Gugten
+0
+4
+MAA Jamil
+0
+18
+LV van Beek
+0
+10
+MAA Jamil
+1
+AD Poynter
+2nd innings
+Netherlands
+9
+PR Stirling
+0
+25
+AR McBrine
+0
+12
+TJ Murtagh
+0
+22
+AR Cusack
+0
+14
+TJ Murtagh
+0
+9
+KJ O'Brien
+1
+PW Borren
+9
+GH Dockrell
+1
+SJ Myburgh
+7
+KJ O'Brien
+1
+LV van Beek
+9
+GH Dockrell
+0
+16
+PR Stirling
+0
+25
+GH Dockrell
+0
+7
+TJ Murtagh
+1
+TLW Cooper
+13
+KJ O'Brien
+0
+16
+TJ Murtagh
+0

@@ -1,0 +1,132 @@
+Colombo
+2012-09-30
+wickets: 8
+winner: Australia
+Australia
+South Africa
+venue: R Premadasa Stadium
+1st innings
+South Africa
+2
+XJ Doherty
+1
+RE Levi
+6
+MA Starc
+0
+8
+XJ Doherty
+1
+JH Kallis
+6
+MA Starc
+0
+8
+PJ Cummins
+0
+4
+SR Watson
+1
+HM Amla
+8
+PJ Cummins
+0
+7
+GB Hogg
+0
+8
+SR Watson
+0
+7
+GJ Maxwell
+0
+2
+XJ Doherty
+1
+JP Duminy
+7
+GB Hogg
+0
+5
+MA Starc
+0
+8
+XJ Doherty
+0
+6
+SR Watson
+1
+AB de Villiers
+12
+GB Hogg
+0
+3
+PJ Cummins
+0
+11
+SR Watson
+0
+14
+PJ Cummins
+0
+14
+MA Starc
+0
+2nd innings
+Australia
+2
+DW Steyn
+0
+3
+M Morkel
+0
+5
+DW Steyn
+0
+5
+M Morkel
+1
+DA Warner
+8
+JH Kallis
+0
+15
+M Morkel
+0
+10
+J Botha
+0
+12
+RJ Peterson
+0
+5
+J Botha
+0
+11
+WD Parnell
+0
+5
+RJ Peterson
+0
+13
+WD Parnell
+0
+4
+JP Duminy
+0
+11
+RJ Peterson
+1
+SR Watson
+9
+DW Steyn
+0
+7
+J Botha
+0
+13
+RJ Peterson
+0
+9
+J Botha
+0

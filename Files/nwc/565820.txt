@@ -1,0 +1,140 @@
+Chennai
+2012-09-11
+runs: 1
+winner: New Zealand
+India
+New Zealand
+venue: 'MA Chidambaram Stadium, Chepauk'
+1st innings
+New Zealand
+2
+Z Khan
+1
+RJ Nicol
+4
+IK Pathan
+1
+MJ Guptill
+3
+Z Khan
+0
+6
+IK Pathan
+0
+13
+Z Khan
+0
+8
+L Balaji
+0
+4
+Yuvraj Singh
+0
+8
+R Ashwin
+0
+10
+Yuvraj Singh
+0
+11
+R Ashwin
+0
+9
+L Balaji
+0
+9
+V Kohli
+0
+8
+IK Pathan
+1
+KS Williamson
+5
+V Kohli
+0
+15
+R Ashwin
+0
+13
+V Kohli
+0
+13
+IK Pathan
+1
+BB McCullum
+5
+L Balaji
+1
+JEC Franklin
+10
+Z Khan
+0
+11
+L Balaji
+0
+2nd innings
+India
+8
+KD Mills
+0
+11
+AF Milne
+0
+7
+KD Mills
+1
+G Gambhir
+10
+JDP Oram
+0
+7
+DL Vettori
+0
+4
+JDP Oram
+0
+10
+AF Milne
+0
+8
+RM Hira
+0
+9
+DL Vettori
+0
+12
+RM Hira
+0
+2
+KD Mills
+1
+SK Raina
+15
+AF Milne
+0
+16
+DL Vettori
+0
+5
+JEC Franklin
+1
+V Kohli
+5
+DL Vettori
+0
+4
+JEC Franklin
+0
+3
+JDP Oram
+0
+7
+JEC Franklin
+0
+12
+JDP Oram
+0
+11
+JEC Franklin
+1
+Yuvraj Singh

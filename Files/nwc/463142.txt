@@ -1,0 +1,144 @@
+Kimberley
+2010-10-10
+runs: 8
+winner: South Africa
+South Africa
+Zimbabwe
+venue: De Beers Diamond Oval
+1st innings
+South Africa
+10
+P Utseya
+1
+LE Bosman
+11
+SW Masakadza
+0
+8
+P Utseya
+1
+CA Ingram
+16
+CB Mpofu
+0
+3
+P Utseya
+0
+9
+SW Masakadza
+0
+6
+BRM Taylor
+0
+11
+AG Cremer
+0
+5
+BRM Taylor
+1
+GC Smith
+7
+AG Cremer
+0
+6
+BRM Taylor
+0
+16
+AG Cremer
+0
+3
+BRM Taylor
+0
+7
+P Utseya
+0
+9
+CB Mpofu
+0
+14
+KM Dabengwa
+0
+9
+SW Masakadza
+1
+DA Miller
+11
+CB Mpofu
+1
+HG Kuhn
+10
+SW Masakadza
+1
+RJ Peterson
+23
+CB Mpofu
+0
+2nd innings
+Zimbabwe
+7
+WD Parnell
+0
+9
+LL Tsotsobe
+1
+H Masakadza
+9
+WD Parnell
+0
+4
+LL Tsotsobe
+0
+6
+J Theron
+0
+10
+LL Tsotsobe
+0
+11
+J Botha
+0
+15
+RJ Peterson
+0
+11
+J Botha
+0
+7
+RJ Peterson
+0
+17
+JP Duminy
+0
+7
+J Theron
+0
+9
+J Botha
+1
+CJ Chibhabha
+9
+LL Tsotsobe
+0
+8
+RJ Peterson
+1
+CK Coventry
+7
+WD Parnell
+0
+6
+RJ Peterson
+1
+BRM Taylor
+9
+J Theron
+1
+KM Dabengwa
+19
+WD Parnell
+1
+E Chigumbura
+6
+J Theron
+1
+SW Masakadza

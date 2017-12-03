@@ -1,0 +1,141 @@
+Nottingham
+2009-06-11
+wickets: 7
+winner: South Africa
+England
+South Africa
+venue: Trent Bridge
+1st innings
+England
+4
+DW Steyn
+1
+RS Bopara
+1
+WD Parnell
+1
+LJ Wright
+10
+DW Steyn
+0
+1
+WD Parnell
+0
+9
+JH Kallis
+0
+0
+JA Morkel
+1
+KP Pietersen
+3
+J Botha
+0
+6
+RE van der Merwe
+0
+8
+J Botha
+0
+5
+RE van der Merwe
+0
+9
+J Botha
+0
+17
+RE van der Merwe
+0
+6
+JH Kallis
+1
+PD Collingwood
+4
+RE van der Merwe
+2
+JS Foster
+AD Mascarenhas
+5
+JH Kallis
+1
+OA Shah
+5
+J Botha
+1
+GP Swann
+3
+DW Steyn
+0
+5
+WD Parnell
+0
+3
+DW Steyn
+0
+7
+WD Parnell
+2
+SCJ Broad
+JM Anderson
+2nd innings
+South Africa
+1
+AD Mascarenhas
+0
+3
+JM Anderson
+0
+8
+AD Mascarenhas
+0
+6
+SCJ Broad
+1
+GC Smith
+8
+JM Anderson
+0
+2
+SCJ Broad
+0
+3
+GP Swann
+0
+4
+AU Rashid
+0
+7
+GP Swann
+0
+8
+AU Rashid
+0
+6
+AD Mascarenhas
+0
+9
+AU Rashid
+0
+7
+AD Mascarenhas
+0
+11
+JM Anderson
+0
+10
+GP Swann
+1
+HH Gibbs
+6
+SCJ Broad
+0
+7
+GP Swann
+0
+3
+AU Rashid
+1
+AB de Villiers
+5
+JM Anderson
+0

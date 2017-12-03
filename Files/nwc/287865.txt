@@ -1,0 +1,150 @@
+Johannesburg
+2007-09-16
+runs: 10
+winner: New Zealand
+India
+New Zealand
+venue: New Wanderers Stadium
+1st innings
+New Zealand
+7
+S Sreesanth
+0
+4
+RP Singh
+1
+L Vincent
+12
+S Sreesanth
+0
+11
+RP Singh
+0
+2
+AB Agarkar
+0
+12
+RP Singh
+0
+9
+AB Agarkar
+0
+8
+IK Pathan
+0
+4
+Harbhajan Singh
+1
+PG Fulton
+8
+IK Pathan
+0
+9
+Harbhajan Singh
+1
+BB McCullum
+3
+Yuvraj Singh
+1
+LRPL Taylor
+5
+Harbhajan Singh
+1
+SB Styris
+10
+Yuvraj Singh
+0
+8
+Harbhajan Singh
+0
+25
+Yuvraj Singh
+0
+8
+AB Agarkar
+0
+19
+S Sreesanth
+1
+JDP Oram
+21
+AB Agarkar
+0
+5
+RP Singh
+4
+DL Vettori
+SE Bond
+CD McMillan
+JS Patel
+2nd innings
+India
+4
+SE Bond
+0
+15
+MR Gillespie
+0
+18
+SE Bond
+0
+10
+MR Gillespie
+0
+20
+JS Patel
+0
+9
+JDP Oram
+1
+V Sehwag
+2
+DL Vettori
+1
+RV Uthappa
+5
+JDP Oram
+0
+7
+SE Bond
+0
+6
+SB Styris
+0
+9
+DL Vettori
+1
+G Gambhir
+5
+SB Styris
+0
+8
+JS Patel
+1
+Yuvraj Singh
+14
+SB Styris
+1
+MS Dhoni
+3
+DL Vettori
+0
+10
+JS Patel
+0
+6
+DL Vettori
+2
+IK Pathan
+KD Karthik
+7
+MR Gillespie
+1
+AB Agarkar
+10
+SE Bond
+1
+Harbhajan Singh
+12
+MR Gillespie
+0

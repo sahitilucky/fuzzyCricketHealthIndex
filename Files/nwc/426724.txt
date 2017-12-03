@@ -1,0 +1,141 @@
+none
+2009-11-13
+runs: 7
+winner: Pakistan
+New Zealand
+Pakistan
+venue: Dubai International Cricket Stadium
+1st innings
+Pakistan
+8
+SE Bond
+0
+1
+TG Southee
+0
+11
+SE Bond
+0
+13
+TG Southee
+0
+8
+IG Butler
+1
+Imran Nazir
+7
+JEC Franklin
+0
+5
+IG Butler
+1
+Kamran Akmal
+7
+TG Southee
+0
+11
+JEC Franklin
+0
+2
+SB Styris
+0
+6
+NL McCullum
+0
+17
+SB Styris
+0
+6
+NL McCullum
+1
+Shahid Afridi
+7
+SE Bond
+0
+5
+IG Butler
+1
+Shoaib Malik
+8
+JEC Franklin
+1
+Abdul Razzaq
+4
+NL McCullum
+0
+7
+SE Bond
+0
+10
+IG Butler
+0
+10
+TG Southee
+0
+2nd innings
+New Zealand
+6
+Mohammad Amir
+0
+4
+Sohail Tanvir
+0
+8
+Mohammad Amir
+0
+7
+Sohail Tanvir
+1
+BJ Watling
+6
+Mohammad Amir
+0
+3
+Sohail Tanvir
+0
+7
+Umar Gul
+0
+5
+Saeed Ajmal
+0
+6
+Umar Gul
+1
+MJ Guptill
+10
+Saeed Ajmal
+0
+4
+Shahid Afridi
+1
+LRPL Taylor
+11
+Shoaib Malik
+0
+9
+Shahid Afridi
+0
+8
+Shoaib Malik
+0
+9
+Shahid Afridi
+0
+6
+Umar Gul
+0
+7
+Saeed Ajmal
+0
+15
+Mohammad Amir
+0
+5
+Saeed Ajmal
+1
+BB McCullum
+10
+Umar Gul
+1
+SB Styris

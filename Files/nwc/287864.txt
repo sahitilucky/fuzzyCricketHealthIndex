@@ -1,0 +1,141 @@
+Cape Town
+2007-09-15
+wickets: 7
+winner: South Africa
+South Africa
+Bangladesh
+venue: Newlands
+1st innings
+Bangladesh
+8
+SM Pollock
+0
+16
+M Ntini
+1
+Nazimuddin
+15
+SM Pollock
+2
+Tamim Iqbal
+Mohammad Ashraful
+15
+M Ntini
+0
+6
+M Morkel
+1
+Aftab Ahmed
+5
+JJ van der Wath
+0
+11
+M Morkel
+0
+2
+JJ van der Wath
+1
+Shakib Al Hasan
+13
+VD Philander
+0
+5
+M Morkel
+0
+5
+VD Philander
+1
+Mashrafe Mortaza
+2
+JA Morkel
+0
+1
+VD Philander
+0
+4
+JA Morkel
+0
+11
+SM Pollock
+0
+1
+M Morkel
+1
+Alok Kapali
+5
+JJ van der Wath
+0
+8
+VD Philander
+1
+Farhad Reza
+5
+JJ van der Wath
+1
+Mushfiqur Rahim
+6
+SM Pollock
+1
+Syed Rasel
+2nd innings
+South Africa
+5
+Mashrafe Mortaza
+0
+4
+Syed Rasel
+0
+9
+Mashrafe Mortaza
+0
+10
+Syed Rasel
+0
+8
+Mashrafe Mortaza
+0
+6
+Syed Rasel
+0
+6
+Abdur Razzak
+0
+8
+Mohammad Ashraful
+0
+10
+Abdur Razzak
+1
+JP Duminy
+9
+Mohammad Ashraful
+0
+8
+Syed Rasel
+0
+8
+Shakib Al Hasan
+0
+13
+Farhad Reza
+0
+5
+Shakib Al Hasan
+1
+GC Smith
+10
+Abdur Razzak
+0
+4
+Shakib Al Hasan
+0
+1
+Abdur Razzak
+1
+JA Morkel
+11
+Shakib Al Hasan
+0
+11
+Mashrafe Mortaza
+0

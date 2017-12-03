@@ -1,0 +1,145 @@
+Mirpur
+2013-11-06
+runs: 15
+winner: New Zealand
+Bangladesh
+New Zealand
+venue: Shere Bangla National Stadium
+1st innings
+New Zealand
+10
+Mashrafe Mortaza
+0
+10
+Sohag Gazi
+0
+12
+Mashrafe Mortaza
+0
+16
+Sohag Gazi
+0
+6
+Al-Amin Hossain
+0
+16
+Nasir Hossain
+0
+3
+Mahmudullah
+0
+4
+Sohag Gazi
+1
+HD Rutherford
+5
+Mahmudullah
+0
+4
+Abdur Razzak
+1
+AP Devcich
+8
+Mahmudullah
+0
+15
+Abdur Razzak
+0
+20
+Mahmudullah
+0
+7
+Al-Amin Hossain
+0
+13
+Mashrafe Mortaza
+0
+8
+Ziaur Rahman
+0
+12
+Al-Amin Hossain
+0
+18
+Ziaur Rahman
+1
+LRPL Taylor
+11
+Mashrafe Mortaza
+0
+6
+Al-Amin Hossain
+2
+CJ Anderson
+L Ronchi
+2nd innings
+Bangladesh
+11
+TG Southee
+2
+Shamsur Rahman
+Ziaur Rahman
+9
+MJ McClenaghan
+1
+Mominul Haque
+10
+TG Southee
+0
+23
+MJ McClenaghan
+0
+9
+KD Mills
+1
+Naeem Islam
+14
+NL McCullum
+0
+9
+KD Mills
+0
+10
+AP Devcich
+0
+4
+CJ Anderson
+0
+13
+AP Devcich
+0
+4
+CJ Anderson
+1
+Mushfiqur Rahim
+4
+NL McCullum
+1
+Nasir Hossain
+13
+MJ McClenaghan
+0
+11
+AP Devcich
+0
+4
+KD Mills
+0
+11
+TG Southee
+0
+7
+CJ Anderson
+0
+11
+KD Mills
+1
+Sohag Gazi
+6
+CJ Anderson
+1
+Mahmudullah
+6
+TG Southee
+1
+Abdur Razzak

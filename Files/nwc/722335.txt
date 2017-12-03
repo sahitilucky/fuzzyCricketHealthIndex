@@ -1,0 +1,141 @@
+Cape Town
+2015-01-09
+wickets: 4
+winner: West Indies
+South Africa
+West Indies
+venue: Newlands
+1st innings
+South Africa
+7
+SS Cottrell
+0
+2
+JO Holder
+0
+13
+AD Russell
+0
+4
+JO Holder
+0
+7
+SS Cottrell
+1
+RR Hendricks
+2
+JO Holder
+1
+MN van Wyk
+4
+AR Nurse
+0
+13
+JO Holder
+0
+13
+AR Nurse
+0
+14
+AD Russell
+1
+F du Plessis
+8
+AR Nurse
+0
+5
+DJ Bravo
+0
+8
+DJG Sammy
+0
+10
+DJ Bravo
+0
+9
+DJG Sammy
+0
+6
+AD Russell
+0
+12
+SS Cottrell
+1
+DA Miller
+11
+DJ Bravo
+0
+10
+AD Russell
+0
+7
+SS Cottrell
+0
+2nd innings
+West Indies
+3
+KJ Abbott
+0
+17
+K Rabada
+0
+9
+KJ Abbott
+0
+17
+K Rabada
+0
+9
+D Wiese
+0
+23
+WD Parnell
+0
+3
+Imran Tahir
+1
+DR Smith
+4
+WD Parnell
+0
+10
+Imran Tahir
+0
+7
+K Rabada
+0
+13
+Imran Tahir
+1
+CH Gayle
+2
+K Rabada
+0
+8
+F Behardien
+0
+7
+D Wiese
+0
+15
+KJ Abbott
+0
+6
+WD Parnell
+1
+DJ Bravo
+2
+Imran Tahir
+1
+MN Samuels
+6
+WD Parnell
+1
+AD Russell
+3
+KJ Abbott
+0
+4
+D Wiese
+1
+D Ramdin

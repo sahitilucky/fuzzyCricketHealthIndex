@@ -1,0 +1,137 @@
+Johannesburg
+2007-09-13
+wickets: 6
+winner: Bangladesh
+Bangladesh
+West Indies
+venue: New Wanderers Stadium
+1st innings
+West Indies
+0
+Syed Rasel
+1
+CH Gayle
+12
+Abdur Razzak
+0
+4
+Syed Rasel
+0
+8
+Mashrafe Mortaza
+0
+1
+Syed Rasel
+0
+8
+Mashrafe Mortaza
+0
+5
+Syed Rasel
+0
+15
+Farhad Reza
+0
+8
+Shakib Al Hasan
+0
+8
+Farhad Reza
+0
+12
+Shakib Al Hasan
+0
+8
+Abdur Razzak
+0
+5
+Mohammad Ashraful
+0
+2
+Abdur Razzak
+1
+S Chanderpaul
+6
+Mohammad Ashraful
+0
+4
+Abdur Razzak
+1
+DS Smith
+20
+Mohammad Ashraful
+1
+MN Samuels
+5
+Shakib Al Hasan
+1
+D Ramdin
+24
+Mohammad Ashraful
+0
+9
+Shakib Al Hasan
+3
+RR Sarwan
+DJ Bravo
+DR Smith
+2nd innings
+Bangladesh
+2
+DBL Powell
+0
+2
+R Rampaul
+1
+Nazimuddin
+8
+DBL Powell
+0
+16
+R Rampaul
+1
+Tamim Iqbal
+18
+DBL Powell
+0
+15
+R Rampaul
+0
+5
+CH Gayle
+0
+11
+FH Edwards
+0
+5
+CH Gayle
+0
+18
+DJ Bravo
+0
+7
+CH Gayle
+0
+15
+FH Edwards
+0
+5
+CH Gayle
+0
+9
+FH Edwards
+0
+5
+RR Sarwan
+1
+Mohammad Ashraful
+16
+DJ Bravo
+0
+5
+RR Sarwan
+1
+Shakib Al Hasan
+3
+R Rampaul
+0

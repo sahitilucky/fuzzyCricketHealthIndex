@@ -1,0 +1,142 @@
+Lauderhill
+2012-06-30
+runs: 56
+winner: West Indies
+New Zealand
+West Indies
+venue: Central Broward Regional Park Stadium Turf Ground
+1st innings
+West Indies
+12
+NL McCullum
+0
+2
+DAJ Bracewell
+0
+6
+TG Southee
+0
+7
+DAJ Bracewell
+1
+DR Smith
+5
+TG Southee
+0
+11
+JDP Oram
+0
+3
+NL McCullum
+0
+7
+RM Hira
+0
+6
+NL McCullum
+0
+8
+RM Hira
+0
+11
+NL McCullum
+0
+12
+RM Hira
+0
+11
+RJ Nicol
+0
+16
+KS Williamson
+1
+J Charles
+14
+RJ Nicol
+0
+13
+DAJ Bracewell
+0
+15
+JDP Oram
+0
+9
+TG Southee
+0
+26
+DAJ Bracewell
+0
+15
+TG Southee
+0
+2nd innings
+New Zealand
+8
+FH Edwards
+0
+10
+S Badree
+0
+12
+FH Edwards
+0
+7
+S Badree
+0
+2
+SP Narine
+1
+MJ Guptill
+12
+S Badree
+1
+LRPL Taylor
+5
+MN Samuels
+0
+6
+DJG Sammy
+0
+9
+MN Samuels
+0
+7
+DJG Sammy
+1
+KS Williamson
+6
+S Badree
+0
+4
+DJ Bravo
+1
+RJ Nicol
+11
+SP Narine
+0
+8
+DJ Bravo
+0
+7
+SP Narine
+1
+TG Southee
+3
+FH Edwards
+2
+TWM Latham
+DG Brownlie
+16
+SP Narine
+1
+NL McCullum
+14
+DJ Bravo
+0
+6
+FH Edwards
+1
+JDP Oram
+0
+FH Edwards
+0

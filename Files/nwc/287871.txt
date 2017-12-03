@@ -1,0 +1,146 @@
+Johannesburg
+2007-09-18
+runs: 64
+winner: Sri Lanka
+Bangladesh
+Sri Lanka
+venue: New Wanderers Stadium
+1st innings
+Sri Lanka
+8
+Mashrafe Mortaza
+1
+ST Jayasuriya
+4
+Syed Rasel
+0
+7
+Mashrafe Mortaza
+0
+7
+Syed Rasel
+0
+11
+Mashrafe Mortaza
+0
+2
+Syed Rasel
+1
+WU Tharanga
+7
+Mohammad Ashraful
+0
+3
+Mahmudullah
+0
+8
+Mohammad Ashraful
+0
+4
+Mahmudullah
+1
+KC Sangakkara
+10
+Shakib Al Hasan
+0
+6
+Mahmudullah
+0
+7
+Shakib Al Hasan
+1
+LPC Silva
+6
+Mahmudullah
+0
+7
+Abdur Razzak
+1
+DPMD Jayawardene
+6
+Shakib Al Hasan
+0
+6
+Abdur Razzak
+0
+13
+Mashrafe Mortaza
+0
+17
+Syed Rasel
+0
+8
+Abdur Razzak
+0
+2nd innings
+Bangladesh
+4
+WPUJC Vaas
+1
+Nazimuddin
+15
+CRD Fernando
+0
+2
+WPUJC Vaas
+0
+0
+CRD Fernando
+2
+Tamim Iqbal
+Aftab Ahmed
+4
+WPUJC Vaas
+0
+6
+CRD Fernando
+0
+4
+WPUJC Vaas
+1
+Mohammad Ashraful
+4
+MF Maharoof
+0
+9
+TM Dilshan
+1
+Nadif Chowdhury
+5
+MF Maharoof
+1
+Shakib Al Hasan
+2
+SL Malinga
+0
+7
+MF Maharoof
+0
+7
+SL Malinga
+2
+Mashrafe Mortaza
+Mushfiqur Rahim
+2
+ST Jayasuriya
+0
+10
+TM Dilshan
+0
+2
+ST Jayasuriya
+2
+Mahmudullah
+Abdur Razzak
+0
+ST Jayasuriya
+0
+0
+ST Jayasuriya
+0
+0
+ST Jayasuriya
+0
+0
+ST Jayasuriya
+0

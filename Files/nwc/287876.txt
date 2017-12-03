@@ -1,0 +1,145 @@
+Durban
+2007-09-20
+runs: 37
+winner: India
+South Africa
+India
+venue: Kingsmead
+1st innings
+India
+3
+SM Pollock
+0
+9
+M Ntini
+0
+7
+SM Pollock
+0
+10
+M Ntini
+0
+4
+SM Pollock
+2
+G Gambhir
+KD Karthik
+1
+M Ntini
+1
+V Sehwag
+3
+SM Pollock
+0
+9
+JJ van der Wath
+0
+2
+M Morkel
+0
+9
+JJ van der Wath
+0
+5
+M Morkel
+1
+RV Uthappa
+10
+VD Philander
+0
+7
+JA Morkel
+0
+11
+M Ntini
+0
+7
+JA Morkel
+0
+4
+VD Philander
+0
+18
+M Morkel
+0
+12
+JJ van der Wath
+0
+8
+M Morkel
+0
+14
+JJ van der Wath
+1
+MS Dhoni
+2nd innings
+South Africa
+11
+S Sreesanth
+0
+1
+RP Singh
+2
+HH Gibbs
+GC Smith
+4
+S Sreesanth
+1
+AB de Villiers
+3
+RP Singh
+0
+4
+S Sreesanth
+0
+8
+RP Singh
+2
+JM Kemp
+SM Pollock
+3
+Joginder Sharma
+0
+1
+IK Pathan
+0
+9
+Joginder Sharma
+0
+4
+IK Pathan
+0
+7
+Joginder Sharma
+0
+7
+IK Pathan
+0
+15
+Harbhajan Singh
+0
+6
+IK Pathan
+0
+9
+Joginder Sharma
+0
+5
+Harbhajan Singh
+0
+4
+S Sreesanth
+1
+MV Boucher
+5
+Harbhajan Singh
+1
+VD Philander
+3
+RP Singh
+1
+JA Morkel
+7
+Harbhajan Singh
+1
+JJ van der Wath

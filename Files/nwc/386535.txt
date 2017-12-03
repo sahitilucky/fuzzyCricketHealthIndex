@@ -1,0 +1,142 @@
+Colombo
+2009-02-10
+wickets: 3
+winner: India
+Sri Lanka
+India
+venue: R Premadasa Stadium
+1st innings
+Sri Lanka
+3
+Z Khan
+0
+8
+I Sharma
+0
+9
+Z Khan
+0
+18
+I Sharma
+0
+15
+Z Khan
+0
+6
+IK Pathan
+1
+ST Jayasuriya
+4
+YK Pathan
+0
+3
+RA Jadeja
+0
+8
+YK Pathan
+0
+5
+RA Jadeja
+0
+7
+IK Pathan
+0
+3
+YK Pathan
+1
+J Mubarak
+13
+RA Jadeja
+0
+11
+YK Pathan
+1
+CK Kapugedera
+8
+RA Jadeja
+0
+14
+IK Pathan
+0
+17
+I Sharma
+1
+TM Dilshan
+8
+Z Khan
+0
+8
+IK Pathan
+0
+3
+I Sharma
+0
+2nd innings
+India
+14
+SL Malinga
+1
+V Sehwag
+6
+T Thushara
+1
+G Gambhir
+7
+SL Malinga
+0
+11
+T Thushara
+0
+8
+CRD Fernando
+0
+11
+T Thushara
+0
+12
+CRD Fernando
+0
+12
+K Weeraratne
+0
+9
+J Mubarak
+1
+Yuvraj Singh
+9
+HMCM Bandara
+1
+SK Raina
+2
+ST Jayasuriya
+0
+4
+HMCM Bandara
+0
+3
+ST Jayasuriya
+0
+2
+HMCM Bandara
+1
+MS Dhoni
+5
+ST Jayasuriya
+1
+RG Sharma
+17
+HMCM Bandara
+1
+RA Jadeja
+12
+CRD Fernando
+0
+10
+SL Malinga
+0
+13
+CRD Fernando
+0
+7
+SL Malinga
+0

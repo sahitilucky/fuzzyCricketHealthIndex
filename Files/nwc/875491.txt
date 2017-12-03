@@ -1,0 +1,92 @@
+Belfast
+2015-07-13
+wickets: 8
+winner: Ireland
+Nepal
+Ireland
+venue: 'Civil Service Cricket Club, Stormont'
+1st innings
+Nepal
+7
+AR Cusack
+0
+11
+CA Young
+0
+0
+AR Cusack
+1
+AK Mandal
+2
+JF Mooney
+1
+PS Airee
+3
+SR Thompson
+0
+5
+JF Mooney
+1
+Sagar Pun
+6
+SR Thompson
+0
+4
+KJ O'Brien
+1
+G Malla
+3
+CA Young
+1
+P Khadka
+3
+KJ O'Brien
+0
+5
+CA Young
+0
+1
+KJ O'Brien
+2
+S Vesawkar
+B Bhandari
+2
+SR Thompson
+1
+RP Magar
+1
+KJ O'Brien
+0
+0
+SR Thompson
+2
+B Regmi
+SP Gauchan
+2nd innings
+Ireland
+2
+P Khadka
+0
+6
+Sompal Kami
+1
+NJ O'Brien
+6
+P Khadka
+0
+15
+Sompal Kami
+0
+3
+Sagar Pun
+0
+6
+B Regmi
+0
+9
+Sagar Pun
+0
+7
+Sompal Kami
+1
+PR Stirling

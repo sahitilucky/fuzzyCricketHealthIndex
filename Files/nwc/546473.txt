@@ -1,0 +1,145 @@
+none
+2012-03-23
+wickets: 4
+winner: Scotland
+Canada
+Scotland
+venue: Dubai International Cricket Stadium
+1st innings
+Canada
+1
+PL Mommsen
+0
+4
+GD Drummond
+0
+17
+PL Mommsen
+0
+12
+RD Berrington
+1
+Rizwan Cheema
+2
+RM Haq
+0
+7
+JH Stander
+1
+R Gunasekera
+3
+RM Haq
+0
+6
+GD Drummond
+0
+5
+PL Mommsen
+0
+4
+MM Iqbal
+0
+17
+JH Stander
+1
+NR Kumar
+4
+MM Iqbal
+0
+6
+RD Berrington
+1
+H Patel
+5
+MM Iqbal
+1
+TG Gordon
+4
+PL Mommsen
+0
+4
+MM Iqbal
+1
+AS Hansra
+7
+GD Drummond
+0
+10
+RM Haq
+2
+HS Baidwan
+RA Bhatti
+11
+GD Drummond
+0
+6
+RM Haq
+0
+2nd innings
+Scotland
+11
+MS Aulakh
+0
+2
+Junaid Siddiqui
+1
+CS MacLeod
+10
+MS Aulakh
+0
+0
+Junaid Siddiqui
+1
+PL Mommsen
+1
+HS Baidwan
+0
+10
+Junaid Siddiqui
+0
+8
+HS Baidwan
+0
+13
+PA Desai
+0
+4
+Rizwan Cheema
+0
+8
+PA Desai
+1
+RD Berrington
+6
+Rizwan Cheema
+0
+11
+PA Desai
+0
+10
+MS Aulakh
+1
+JH Stander
+6
+AS Hansra
+0
+7
+Rizwan Cheema
+0
+3
+AS Hansra
+1
+KJ Coetzer
+7
+HS Baidwan
+0
+6
+AS Hansra
+0
+6
+HS Baidwan
+0
+7
+Rizwan Cheema
+1
+DF Watts

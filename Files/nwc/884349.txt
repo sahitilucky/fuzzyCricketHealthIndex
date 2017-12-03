@@ -1,0 +1,143 @@
+Johannesburg
+2016-03-06
+wickets: 5
+winner: Australia
+South Africa
+Australia
+venue: New Wanderers Stadium
+1st innings
+South Africa
+8
+JR Hazlewood
+0
+7
+JW Hastings
+1
+AB de Villiers
+11
+JR Hazlewood
+0
+5
+JW Hastings
+0
+12
+MR Marsh
+0
+19
+JR Hazlewood
+0
+12
+GJ Maxwell
+0
+3
+JP Faulkner
+1
+Q de Kock
+4
+GJ Maxwell
+0
+6
+JP Faulkner
+0
+16
+MR Marsh
+1
+JP Duminy
+5
+GJ Maxwell
+0
+5
+AC Agar
+0
+9
+GJ Maxwell
+0
+20
+AC Agar
+1
+DA Miller
+5
+JW Hastings
+0
+6
+JP Faulkner
+1
+F Behardien
+12
+JR Hazlewood
+0
+13
+JP Faulkner
+1
+CH Morris
+26
+JW Hastings
+1
+F du Plessis
+2nd innings
+Australia
+3
+K Rabada
+1
+AJ Finch
+9
+CH Morris
+0
+3
+K Rabada
+0
+5
+DW Steyn
+0
+8
+K Rabada
+0
+8
+DW Steyn
+2
+SPD Smith
+SR Watson
+9
+CH Morris
+0
+15
+D Wiese
+0
+11
+Imran Tahir
+0
+17
+D Wiese
+0
+8
+Imran Tahir
+0
+8
+D Wiese
+0
+9
+Imran Tahir
+0
+18
+D Wiese
+0
+19
+Imran Tahir
+0
+10
+DW Steyn
+0
+16
+CH Morris
+0
+11
+DW Steyn
+0
+7
+CH Morris
+1
+GJ Maxwell
+11
+K Rabada
+1
+DA Warner

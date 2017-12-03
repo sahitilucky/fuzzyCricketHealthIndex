@@ -1,0 +1,143 @@
+Southampton
+2013-08-29
+runs: 39
+winner: Australia
+England
+Australia
+venue: The Rose Bowl
+1st innings
+Australia
+10
+ST Finn
+0
+6
+SCJ Broad
+1
+DA Warner
+13
+ST Finn
+0
+10
+SCJ Broad
+0
+10
+ST Finn
+0
+9
+JW Dernbach
+0
+13
+DR Briggs
+0
+15
+RS Bopara
+0
+9
+DR Briggs
+0
+27
+JE Root
+0
+6
+DR Briggs
+1
+SE Marsh
+13
+JW Dernbach
+0
+4
+LJ Wright
+0
+12
+SCJ Broad
+0
+23
+LJ Wright
+0
+19
+SCJ Broad
+0
+23
+DR Briggs
+0
+6
+JW Dernbach
+2
+AJ Finch
+SR Watson
+14
+ST Finn
+1
+GJ Bailey
+6
+JW Dernbach
+1
+GJ Maxwell
+2nd innings
+England
+17
+MG Johnson
+0
+9
+JR Hazlewood
+0
+7
+MG Johnson
+1
+MJ Lumb
+9
+JR Hazlewood
+2
+AD Hales
+LJ Wright
+0
+MG Johnson
+1
+EJG Morgan
+12
+JR Hazlewood
+0
+10
+Fawad Ahmed
+0
+11
+SR Watson
+0
+13
+Fawad Ahmed
+0
+10
+JP Faulkner
+0
+12
+Fawad Ahmed
+0
+5
+SR Watson
+0
+10
+JP Faulkner
+0
+12
+SR Watson
+1
+RS Bopara
+8
+Fawad Ahmed
+0
+13
+JR Hazlewood
+0
+17
+MG Johnson
+0
+6
+JP Faulkner
+0
+14
+SR Watson
+0
+14
+JP Faulkner
+1
+JC Buttler

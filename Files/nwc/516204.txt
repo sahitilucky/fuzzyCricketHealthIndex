@@ -1,0 +1,142 @@
+none
+2011-08-06
+runs: 35
+winner: Sri Lanka
+Sri Lanka
+Australia
+venue: Pallekele International Cricket Stadium
+1st innings
+Sri Lanka
+7
+B Lee
+0
+5
+SNJ O'Keefe
+0
+14
+B Lee
+1
+DPMD Jayawardene
+10
+MG Johnson
+0
+5
+JW Hastings
+0
+4
+MG Johnson
+1
+LD Chandimal
+6
+SNJ O'Keefe
+0
+12
+JW Hastings
+0
+7
+SNJ O'Keefe
+0
+6
+SPD Smith
+0
+4
+SR Watson
+0
+13
+MG Johnson
+0
+4
+SR Watson
+1
+KC Sangakkara
+8
+SPD Smith
+0
+12
+SR Watson
+0
+20
+JW Hastings
+0
+13
+B Lee
+0
+22
+SR Watson
+0
+6
+B Lee
+0
+20
+MG Johnson
+0
+2nd innings
+Australia
+3
+KMDN Kulasekara
+0
+8
+RAS Lakmal
+0
+16
+KMDN Kulasekara
+1
+SR Watson
+8
+RAS Lakmal
+0
+5
+MDK Perera
+1
+SE Marsh
+9
+KTGD Prasad
+0
+4
+MDK Perera
+1
+DJ Hussey
+10
+KTGD Prasad
+0
+3
+MDK Perera
+1
+CL White
+5
+TM Dilshan
+0
+5
+HMRKB Herath
+0
+12
+TM Dilshan
+0
+4
+HMRKB Herath
+1
+SPD Smith
+9
+TM Dilshan
+0
+2
+HMRKB Herath
+1
+BJ Haddin
+5
+KMDN Kulasekara
+1
+DA Warner
+14
+MDK Perera
+0
+15
+KMDN Kulasekara
+0
+8
+RAS Lakmal
+1
+SNJ O'Keefe
+18
+KTGD Prasad
+0

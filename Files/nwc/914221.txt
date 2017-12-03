@@ -1,0 +1,149 @@
+Auckland
+2016-01-15
+runs: 16
+winner: Pakistan
+New Zealand
+Pakistan
+venue: Eden Park
+1st innings
+Pakistan
+0
+MJ Henry
+0
+6
+TA Boult
+0
+5
+MJ Henry
+0
+12
+TA Boult
+0
+11
+AF Milne
+1
+Ahmed Shehzad
+18
+CJ Anderson
+0
+2
+MJ Santner
+1
+Sohaib Maqsood
+4
+TD Astle
+0
+5
+MJ Santner
+0
+14
+TD Astle
+0
+3
+MJ Santner
+1
+Shoaib Malik
+10
+TD Astle
+0
+4
+MJ Santner
+0
+10
+TA Boult
+0
+7
+AF Milne
+1
+Mohammad Hafeez
+23
+MJ Henry
+0
+13
+AF Milne
+1
+Umar Akmal
+14
+TA Boult
+1
+Shahid Afridi
+6
+AF Milne
+1
+Sarfraz Ahmed
+4
+MJ Henry
+1
+Imad Wasim
+2nd innings
+New Zealand
+8
+Mohammad Amir
+0
+1
+Imad Wasim
+1
+MJ Guptill
+4
+Umar Gul
+0
+7
+Mohammad Amir
+0
+5
+Imad Wasim
+0
+23
+Umar Gul
+0
+15
+Shahid Afridi
+0
+11
+Wahab Riaz
+0
+6
+Shahid Afridi
+0
+9
+Wahab Riaz
+1
+C Munro
+3
+Imad Wasim
+1
+CJ Anderson
+6
+Shahid Afridi
+0
+9
+Imad Wasim
+0
+0
+Shahid Afridi
+2
+GD Elliott
+L Ronchi
+2
+Umar Gul
+1
+MJ Santner
+13
+Wahab Riaz
+0
+11
+Mohammad Amir
+0
+9
+Umar Gul
+1
+TD Astle
+10
+Mohammad Amir
+1
+MJ Henry
+3
+Wahab Riaz
+2
+KS Williamson
+TA Boult

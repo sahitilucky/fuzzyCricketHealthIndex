@@ -1,0 +1,144 @@
+Centurion
+2009-03-29
+runs: 17
+winner: South Africa
+South Africa
+Australia
+venue: SuperSport Park
+1st innings
+South Africa
+3
+NW Bracken
+0
+11
+SM Harwood
+0
+8
+NW Bracken
+1
+HH Gibbs
+2
+B Laughlin
+1
+AB de Villiers
+3
+SM Harwood
+0
+9
+B Laughlin
+0
+8
+JR Hopes
+0
+10
+DJ Hussey
+0
+10
+JR Hopes
+0
+6
+CL White
+0
+6
+JR Hopes
+1
+RJ Peterson
+5
+DJ Hussey
+0
+2
+JR Hopes
+0
+9
+DJ Hussey
+0
+4
+SM Harwood
+1
+JP Duminy
+23
+NW Bracken
+0
+12
+B Laughlin
+0
+3
+SM Harwood
+1
+RE van der Merwe
+10
+NW Bracken
+0
+12
+B Laughlin
+0
+2nd innings
+Australia
+8
+J Louw
+0
+4
+YA Abdulla
+0
+9
+J Louw
+0
+8
+YA Abdulla
+0
+9
+JA Morkel
+1
+DA Warner
+4
+YA Abdulla
+1
+RT Ponting
+4
+JA Morkel
+0
+10
+RE van der Merwe
+0
+2
+J Botha
+0
+5
+RE van der Merwe
+0
+2
+J Botha
+2
+MJ Clarke
+CJ Ferguson
+7
+RJ Peterson
+0
+9
+J Botha
+0
+9
+RJ Peterson
+0
+13
+RE van der Merwe
+1
+DJ Hussey
+3
+J Botha
+1
+CL White
+3
+RE van der Merwe
+0
+10
+J Louw
+0
+11
+JA Morkel
+0
+9
+J Louw
+2
+JR Hopes
+NW Bracken

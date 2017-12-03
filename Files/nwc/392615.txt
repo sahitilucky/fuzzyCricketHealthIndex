@@ -1,0 +1,135 @@
+none
+2009-05-07
+wickets: 7
+winner: Pakistan
+Australia
+Pakistan
+venue: Dubai International Cricket Stadium
+1st innings
+Australia
+6
+Shoaib Akhtar
+0
+8
+Sohail Tanvir
+0
+13
+Shoaib Akhtar
+0
+15
+Sohail Tanvir
+0
+2
+Umar Gul
+1
+SR Watson
+9
+Sohail Tanvir
+0
+8
+Saeed Ajmal
+0
+0
+Shahid Afridi
+2
+JR Hopes
+A Symonds
+6
+Shoaib Malik
+0
+4
+Shahid Afridi
+1
+DJ Hussey
+6
+Shoaib Malik
+1
+BJ Haddin
+5
+Shahid Afridi
+0
+4
+Shoaib Malik
+1
+CJ Ferguson
+7
+Saeed Ajmal
+0
+1
+Umar Gul
+2
+NM Hauritz
+B Lee
+3
+Saeed Ajmal
+0
+3
+Umar Gul
+0
+5
+Shahid Afridi
+0
+2
+Umar Gul
+1
+MJ North
+1
+Saeed Ajmal
+1
+BW Hilfenhaus
+2nd innings
+Pakistan
+9
+B Lee
+0
+7
+NW Bracken
+0
+3
+B Lee
+1
+Ahmed Shehzad
+4
+BW Hilfenhaus
+1
+Salman Butt
+5
+B Lee
+0
+9
+BW Hilfenhaus
+0
+5
+B Lee
+0
+2
+BW Hilfenhaus
+0
+7
+NM Hauritz
+0
+6
+NW Bracken
+0
+4
+NM Hauritz
+0
+8
+JR Hopes
+0
+8
+NM Hauritz
+0
+15
+JR Hopes
+0
+5
+BW Hilfenhaus
+0
+11
+NW Bracken
+0
+1
+NM Hauritz
+1
+Misbah-ul-Haq

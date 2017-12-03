@@ -1,0 +1,145 @@
+Centurion
+2009-11-15
+runs: 84
+winner: South Africa
+South Africa
+England
+venue: SuperSport Park
+1st innings
+South Africa
+2
+JM Anderson
+0
+6
+TT Bresnan
+0
+6
+JM Anderson
+0
+21
+SI Mahmood
+0
+16
+TT Bresnan
+0
+18
+LJ Wright
+0
+13
+SI Mahmood
+0
+25
+AU Rashid
+0
+9
+LJ Wright
+0
+15
+TT Bresnan
+0
+7
+LJ Wright
+0
+19
+SI Mahmood
+0
+13
+KP Pietersen
+0
+9
+JL Denly
+1
+GC Smith
+16
+KP Pietersen
+1
+JA Morkel
+9
+JM Anderson
+1
+JP Duminy
+7
+LJ Wright
+1
+LE Bosman
+8
+SI Mahmood
+1
+JH Kallis
+11
+TT Bresnan
+0
+11
+JM Anderson
+1
+AB de Villiers
+2nd innings
+England
+3
+DW Steyn
+0
+10
+YA Abdulla
+0
+7
+DW Steyn
+0
+1
+YA Abdulla
+1
+JL Denly
+9
+R McLaren
+0
+13
+YA Abdulla
+0
+3
+RE van der Merwe
+0
+4
+R McLaren
+0
+14
+RE van der Merwe
+0
+4
+JA Morkel
+1
+AN Cook
+10
+RE van der Merwe
+0
+12
+JA Morkel
+0
+4
+YA Abdulla
+0
+12
+DW Steyn
+0
+10
+R McLaren
+0
+11
+JA Morkel
+1
+IJL Trott
+12
+RE van der Merwe
+1
+KP Pietersen
+7
+DW Steyn
+2
+EJG Morgan
+LJ Wright
+3
+R McLaren
+1
+TT Bresnan
+8
+JA Morkel
+1
+AU Rashid

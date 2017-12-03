@@ -1,0 +1,136 @@
+Mumbai
+2007-10-20
+wickets: 7
+winner: India
+India
+Australia
+venue: Brabourne Stadium
+1st innings
+Australia
+12
+RP Singh
+1
+AC Gilchrist
+1
+S Sreesanth
+0
+12
+RP Singh
+0
+10
+S Sreesanth
+0
+7
+RP Singh
+0
+16
+IK Pathan
+0
+2
+Harbhajan Singh
+1
+ML Hayden
+9
+M Kartik
+0
+5
+Harbhajan Singh
+0
+7
+M Kartik
+0
+6
+IK Pathan
+0
+9
+M Kartik
+0
+14
+S Sreesanth
+0
+3
+Harbhajan Singh
+1
+A Symonds
+3
+IK Pathan
+1
+BJ Hodge
+4
+M Kartik
+0
+7
+Harbhajan Singh
+0
+22
+S Sreesanth
+0
+9
+IK Pathan
+1
+RT Ponting
+8
+RP Singh
+0
+2nd innings
+India
+4
+B Lee
+0
+12
+NW Bracken
+0
+6
+B Lee
+1
+V Sehwag
+8
+BW Hilfenhaus
+0
+20
+B Lee
+0
+18
+BW Hilfenhaus
+0
+6
+SR Clark
+0
+6
+A Symonds
+0
+9
+SR Clark
+0
+12
+A Symonds
+0
+2
+MJ Clarke
+1
+RV Uthappa
+8
+A Symonds
+0
+12
+MJ Clarke
+0
+11
+NW Bracken
+0
+8
+SR Clark
+0
+1
+BW Hilfenhaus
+1
+G Gambhir
+14
+SR Clark
+0
+4
+BW Hilfenhaus
+0
+6
+B Lee
+0

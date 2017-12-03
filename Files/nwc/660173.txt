@@ -1,0 +1,141 @@
+Dubai
+2013-11-22
+runs: 15
+winner: Scotland
+Netherlands
+Scotland
+venue: ICC Academy
+1st innings
+Scotland
+3
+MR Swart
+0
+8
+PA van Meekeren
+0
+6
+Mudassar Bukhari
+1
+CS MacLeod
+12
+PA van Meekeren
+0
+7
+Mudassar Bukhari
+0
+12
+PW Borren
+0
+5
+MR Swart
+0
+7
+MJG Rippon
+0
+4
+MAA Jamil
+1
+RD Berrington
+5
+PW Borren
+1
+MA Leask
+6
+MR Swart
+0
+7
+MJG Rippon
+0
+7
+MAA Jamil
+0
+4
+PW Borren
+0
+5
+MR Swart
+1
+KJ Coetzer
+5
+PW Borren
+0
+10
+MAA Jamil
+0
+15
+Mudassar Bukhari
+0
+20
+MAA Jamil
+0
+17
+Mudassar Bukhari
+0
+2nd innings
+Netherlands
+12
+NM Carter
+0
+3
+MW Machan
+0
+9
+NM Carter
+1
+SJ Myburgh
+9
+SM Sharif
+0
+8
+NM Carter
+0
+2
+MW Machan
+0
+7
+G Goudie
+0
+5
+RM Haq
+0
+9
+RML Taylor
+0
+9
+MW Machan
+0
+4
+RM Haq
+1
+MR Swart
+7
+G Goudie
+0
+4
+RM Haq
+1
+ES Szwarczynski
+7
+RML Taylor
+1
+BN Cooper
+13
+MW Machan
+0
+4
+SM Sharif
+1
+PW Borren
+7
+RM Haq
+1
+Mudassar Bukhari
+10
+G Goudie
+0
+13
+SM Sharif
+0
+8
+NM Carter
+0

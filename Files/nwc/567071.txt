@@ -1,0 +1,144 @@
+Belfast
+2012-07-18
+runs: 71
+winner: Bangladesh
+Ireland
+Bangladesh
+venue: 'Civil Service Cricket Club, Stormont'
+1st innings
+Bangladesh
+7
+WB Rankin
+0
+1
+DT Johnston
+0
+11
+WB Rankin
+0
+8
+DT Johnston
+0
+8
+MC Sorensen
+1
+Mohammad Ashraful
+7
+DT Johnston
+0
+7
+MC Sorensen
+0
+9
+AR Cusack
+0
+14
+JF Mooney
+0
+10
+PR Stirling
+0
+11
+WB Rankin
+0
+6
+PR Stirling
+1
+Tamim Iqbal
+15
+AR Cusack
+0
+5
+PR Stirling
+1
+Shakib Al Hasan
+2
+WB Rankin
+1
+Mushfiqur Rahim
+17
+PR Stirling
+0
+16
+MC Sorensen
+1
+Mahmudullah
+12
+DT Johnston
+0
+13
+MC Sorensen
+0
+11
+AR Cusack
+0
+2nd innings
+Ireland
+10
+Mashrafe Mortaza
+0
+15
+Abul Hasan
+0
+5
+Shakib Al Hasan
+0
+4
+Abdur Razzak
+1
+WTS Porterfield
+1
+Shakib Al Hasan
+1
+PR Stirling
+6
+Mahmudullah
+0
+4
+Abdur Razzak
+0
+11
+Mashrafe Mortaza
+0
+0
+Elias Sunny
+2
+EC Joyce
+NJ O'Brien
+1
+Abdur Razzak
+1
+KJ O'Brien
+3
+Elias Sunny
+1
+JF Mooney
+1
+Abdur Razzak
+0
+3
+Elias Sunny
+1
+AR Cusack
+4
+Abul Hasan
+0
+7
+Elias Sunny
+1
+DT Johnston
+8
+Abul Hasan
+0
+8
+Shakib Al Hasan
+0
+8
+Mashrafe Mortaza
+0
+12
+Shakib Al Hasan
+0
+8
+Mashrafe Mortaza
+0

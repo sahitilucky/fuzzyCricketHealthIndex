@@ -1,0 +1,148 @@
+Dubai
+2013-11-19
+runs: 92
+winner: Kenya
+Kenya
+Scotland
+venue: ICC Academy
+1st innings
+Kenya
+6
+NM Carter
+0
+9
+SM Sharif
+0
+12
+NM Carter
+0
+18
+G Goudie
+1
+SO Tikolo
+10
+RML Taylor
+0
+2
+SM Sharif
+1
+AA Obanda
+16
+RML Taylor
+0
+4
+RM Haq
+1
+NN Odhiambo
+9
+I Wardlaw
+2
+MA Ouma
+TM Odoyo
+6
+RM Haq
+0
+8
+I Wardlaw
+0
+4
+G Goudie
+0
+11
+RML Taylor
+0
+4
+RM Haq
+1
+RR Patel
+5
+NM Carter
+0
+10
+RM Haq
+0
+10
+I Wardlaw
+0
+8
+G Goudie
+0
+15
+NM Carter
+0
+16
+I Wardlaw
+1
+CO Obuya
+2nd innings
+Scotland
+9
+NN Odhiambo
+0
+9
+E Otieno
+0
+4
+NN Odhiambo
+1
+RD Berrington
+13
+RG Aga
+0
+16
+SO Ngoche
+1
+MW Machan
+3
+HA Varaiya
+2
+CS MacLeod
+KJ Coetzer
+3
+TM Odoyo
+0
+15
+HA Varaiya
+0
+5
+TM Odoyo
+0
+7
+E Otieno
+0
+4
+TM Odoyo
+1
+RML Taylor
+2
+SO Tikolo
+3
+G Goudie
+D Murphy
+SM Sharif
+1
+SO Ngoche
+1
+NM Carter
+0
+SO Tikolo
+1
+I Wardlaw
+0
+SO Tikolo
+0
+0
+SO Tikolo
+0
+0
+SO Tikolo
+0
+0
+SO Tikolo
+0
+0
+SO Tikolo
+0
+0
+SO Tikolo
+0

@@ -1,0 +1,139 @@
+Mirpur
+2016-03-04
+wickets: 6
+winner: Pakistan
+Pakistan
+Sri Lanka
+venue: Shere Bangla National Stadium
+1st innings
+Sri Lanka
+6
+Mohammad Amir
+0
+3
+Mohammad Irfan
+0
+4
+Mohammad Amir
+0
+6
+Mohammad Irfan
+0
+7
+Shahid Afridi
+0
+18
+Mohammad Nawaz (3)
+0
+5
+Shahid Afridi
+0
+7
+Mohammad Nawaz (3)
+0
+3
+Wahab Riaz
+0
+7
+Shahid Afridi
+0
+15
+Wahab Riaz
+0
+9
+Shahid Afridi
+0
+7
+Mohammad Irfan
+0
+13
+Mohammad Nawaz (3)
+0
+3
+Wahab Riaz
+1
+LD Chandimal
+4
+Shoaib Malik
+1
+DSNFG Jayasuriya
+8
+Mohammad Amir
+0
+2
+Mohammad Irfan
+2
+CK Kapugedera
+MD Shanaka
+14
+Mohammad Amir
+0
+9
+Wahab Riaz
+0
+2nd innings
+Pakistan
+2
+KMDN Kulasekara
+0
+12
+NLTC Perera
+0
+1
+KMDN Kulasekara
+0
+13
+DSNFG Jayasuriya
+1
+Mohammad Hafeez
+6
+MD Shanaka
+0
+16
+PVD Chameera
+0
+8
+HMRKB Herath
+0
+3
+TM Dilshan
+1
+Sharjeel Khan
+3
+HMRKB Herath
+0
+6
+PVD Chameera
+0
+11
+HMRKB Herath
+0
+12
+NLTC Perera
+0
+1
+TAM Siriwardana
+1
+Sarfraz Ahmed
+6
+HMRKB Herath
+0
+19
+TAM Siriwardana
+0
+2
+PVD Chameera
+0
+8
+KMDN Kulasekara
+0
+12
+PVD Chameera
+0
+9
+KMDN Kulasekara
+1
+Umar Akmal
+1
+NLTC Perera
+0

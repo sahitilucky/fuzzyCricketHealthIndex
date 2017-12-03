@@ -1,0 +1,146 @@
+Ranchi
+2016-02-12
+runs: 69
+winner: India
+India
+Sri Lanka
+venue: JSCA International Stadium Complex
+1st innings
+India
+7
+CAK Rajitha
+0
+11
+NLTC Perera
+0
+9
+SMSM Senanayake
+0
+17
+CAK Rajitha
+0
+11
+SMSM Senanayake
+0
+15
+NLTC Perera
+0
+5
+PVD Chameera
+1
+S Dhawan
+5
+S Prasanna
+0
+7
+TAM Siriwardana
+0
+6
+S Prasanna
+0
+7
+CAK Rajitha
+0
+10
+S Prasanna
+0
+12
+MD Shanaka
+0
+5
+PVD Chameera
+1
+RG Sharma
+4
+SMSM Senanayake
+1
+AM Rahane
+14
+CAK Rajitha
+0
+16
+SMSM Senanayake
+0
+18
+PVD Chameera
+0
+7
+NLTC Perera
+3
+HH Pandya
+SK Raina
+Yuvraj Singh
+10
+PVD Chameera
+0
+2nd innings
+Sri Lanka
+3
+R Ashwin
+1
+TM Dilshan
+6
+A Nehra
+1
+S Prasanna
+4
+R Ashwin
+0
+8
+A Nehra
+1
+MD Gunathilaka
+4
+R Ashwin
+0
+12
+A Nehra
+0
+3
+Yuvraj Singh
+0
+5
+RA Jadeja
+0
+8
+Yuvraj Singh
+0
+6
+RA Jadeja
+0
+8
+Yuvraj Singh
+0
+2
+RA Jadeja
+2
+CK Kapugedera
+LD Chandimal
+6
+SK Raina
+0
+11
+RA Jadeja
+0
+16
+SK Raina
+0
+13
+JJ Bumrah
+0
+3
+R Ashwin
+2
+MD Shanaka
+NLTC Perera
+1
+JJ Bumrah
+2
+SMSM Senanayake
+PVD Chameera
+5
+HH Pandya
+0
+3
+JJ Bumrah
+0

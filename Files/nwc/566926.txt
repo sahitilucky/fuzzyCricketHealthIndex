@@ -1,0 +1,140 @@
+London
+2013-06-25
+runs: 5
+winner: New Zealand
+England
+New Zealand
+venue: Kennington Oval
+1st innings
+New Zealand
+6
+WB Rankin
+1
+JEC Franklin
+19
+CR Woakes
+0
+9
+WB Rankin
+0
+8
+JW Dernbach
+0
+7
+WB Rankin
+0
+5
+JW Dernbach
+0
+8
+BA Stokes
+0
+15
+JC Tredwell
+0
+10
+RS Bopara
+0
+17
+JC Tredwell
+0
+9
+BA Stokes
+0
+3
+LJ Wright
+1
+HD Rutherford
+7
+WB Rankin
+0
+11
+LJ Wright
+0
+22
+RS Bopara
+0
+6
+LJ Wright
+1
+BB McCullum
+11
+JW Dernbach
+0
+12
+LJ Wright
+0
+9
+BA Stokes
+0
+7
+JW Dernbach
+1
+TWM Latham
+2nd innings
+England
+3
+MJ McClenaghan
+0
+11
+IG Butler
+0
+25
+MJ McClenaghan
+0
+15
+NL McCullum
+1
+MJ Lumb
+6
+RM Hira
+0
+7
+CJ Anderson
+0
+9
+RM Hira
+0
+6
+CJ Anderson
+0
+8
+RM Hira
+0
+13
+NL McCullum
+0
+11
+RM Hira
+1
+AD Hales
+7
+MJ McClenaghan
+0
+6
+JEC Franklin
+0
+9
+IG Butler
+1
+EJG Morgan
+3
+MJ McClenaghan
+1
+LJ Wright
+9
+IG Butler
+0
+19
+CJ Anderson
+0
+9
+NL McCullum
+0
+10
+IG Butler
+1
+JC Buttler
+10
+CJ Anderson
+0

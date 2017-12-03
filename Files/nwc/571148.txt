@@ -1,0 +1,129 @@
+none
+2012-09-05
+wickets: 7
+winner: Pakistan
+Australia
+Pakistan
+venue: Dubai International Cricket Stadium
+1st innings
+Australia
+8
+Mohammad Hafeez
+0
+3
+Sohail Tanvir
+0
+2
+Umar Gul
+1
+SR Watson
+10
+Sohail Tanvir
+1
+MEK Hussey
+7
+Umar Gul
+0
+2
+Saeed Ajmal
+0
+6
+Mohammad Hafeez
+0
+4
+Raza Hasan
+0
+7
+Mohammad Hafeez
+1
+DA Warner
+2
+Raza Hasan
+1
+DJ Hussey
+3
+Mohammad Hafeez
+1
+GJ Bailey
+2
+Shoaib Malik
+0
+4
+Saeed Ajmal
+0
+7
+Raza Hasan
+0
+4
+Saeed Ajmal
+0
+3
+Raza Hasan
+1
+MS Wade
+7
+Umar Gul
+0
+3
+Saeed Ajmal
+2
+GJ Maxwell
+CL White
+4
+Umar Gul
+0
+1
+Sohail Tanvir
+2
+PJ Cummins
+BW Hilfenhaus
+2nd innings
+Pakistan
+10
+GJ Maxwell
+0
+5
+BW Hilfenhaus
+0
+4
+PJ Cummins
+0
+7
+BW Hilfenhaus
+0
+8
+PJ Cummins
+1
+Mohammad Hafeez
+4
+XJ Doherty
+0
+6
+BW Hilfenhaus
+1
+Nasir Jamshed
+6
+XJ Doherty
+0
+2
+PJ Cummins
+0
+15
+GJ Maxwell
+0
+1
+SR Watson
+1
+Imran Nazir
+2
+XJ Doherty
+0
+2
+SR Watson
+0
+12
+CL White
+0
+6
+SR Watson
+0

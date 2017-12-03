@@ -1,0 +1,148 @@
+Barbados
+2010-05-05
+runs: 59
+winner: South Africa
+Afghanistan
+South Africa
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+South Africa
+12
+Shapoor Zadran
+0
+5
+Mirwais Ashraf
+1
+LE Bosman
+14
+Shapoor Zadran
+0
+14
+Mirwais Ashraf
+0
+2
+Mohammad Nabi
+1
+GC Smith
+2
+Samiullah Shenwari
+0
+5
+Mohammad Nabi
+0
+5
+Samiullah Shenwari
+0
+12
+Nawroz Mangal
+0
+2
+Samiullah Shenwari
+0
+6
+Nawroz Mangal
+1
+AB de Villiers
+5
+Samiullah Shenwari
+0
+3
+Hamid Hassan
+1
+JH Kallis
+3
+Nawroz Mangal
+0
+6
+Hamid Hassan
+1
+MV Boucher
+10
+Mohammad Nabi
+0
+10
+Hamid Hassan
+0
+16
+Mohammad Nabi
+0
+3
+Hamid Hassan
+1
+JP Duminy
+4
+Shapoor Zadran
+1
+JA Morkel
+2nd innings
+Afghanistan
+3
+DW Steyn
+1
+Noor Ali Zadran
+2
+CK Langeveldt
+0
+2
+DW Steyn
+1
+Mohammad Shahzad
+5
+M Morkel
+3
+Nawroz Mangal
+Karim Sadiq
+Raees Ahmadzai
+2
+DW Steyn
+0
+9
+M Morkel
+1
+Mohammad Nabi
+3
+CK Langeveldt
+1
+Asghar Stanikzai
+6
+M Morkel
+1
+Samiullah Shenwari
+1
+RE van der Merwe
+0
+8
+JA Morkel
+0
+3
+RE van der Merwe
+0
+12
+JA Morkel
+0
+8
+RE van der Merwe
+0
+3
+CK Langeveldt
+1
+Mirwais Ashraf
+9
+RE van der Merwe
+0
+4
+CK Langeveldt
+1
+Hamid Hassan
+0
+CK Langeveldt
+0
+0
+CK Langeveldt
+0
+0
+CK Langeveldt
+0
+0
+CK Langeveldt
+0

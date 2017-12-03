@@ -1,0 +1,143 @@
+none
+2013-03-31
+runs: 17
+winner: Sri Lanka
+Sri Lanka
+Bangladesh
+venue: Pallekele International Cricket Stadium
+1st innings
+Sri Lanka
+14
+Shahadat Hossain
+0
+11
+Rubel Hossain
+0
+10
+Sohag Gazi
+1
+EMDY Munaweera
+10
+Rubel Hossain
+0
+7
+Sohag Gazi
+0
+10
+Abdur Razzak
+0
+9
+Shahadat Hossain
+0
+6
+Mahmudullah
+0
+3
+Abdur Razzak
+1
+LD Chandimal
+6
+Mahmudullah
+1
+HDRL Thirimanne
+4
+Sohag Gazi
+0
+10
+Mahmudullah
+1
+MDKJ Perera
+7
+Shahadat Hossain
+0
+8
+Mahmudullah
+0
+8
+Abdur Razzak
+0
+11
+Sohag Gazi
+0
+20
+Abdur Razzak
+0
+12
+Rubel Hossain
+1
+BMAJ Mendis
+24
+Shahadat Hossain
+0
+8
+Rubel Hossain
+0
+2nd innings
+Bangladesh
+9
+AD Mathews
+1
+Shamsur Rahman
+6
+RMS Eranga
+0
+12
+AD Mathews
+1
+Jahurul Islam
+7
+RMS Eranga
+0
+7
+AD Mathews
+0
+4
+SL Malinga
+0
+5
+SMSM Senanayake
+0
+18
+NLTC Perera
+1
+Mohammad Ashraful
+13
+SMSM Senanayake
+0
+7
+NLTC Perera
+1
+Nasir Hossain
+6
+BMAJ Mendis
+0
+11
+RMS Eranga
+0
+17
+AK Perera
+0
+10
+SL Malinga
+0
+5
+SMSM Senanayake
+2
+Mushfiqur Rahim
+Mahmudullah
+11
+AD Mathews
+0
+7
+SMSM Senanayake
+0
+6
+SL Malinga
+1
+Sohag Gazi
+13
+RMS Eranga
+0
+7
+SL Malinga
+0

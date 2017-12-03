@@ -1,0 +1,136 @@
+London
+2009-06-21
+wickets: 8
+winner: Pakistan
+Pakistan
+Sri Lanka
+venue: Lord's
+1st innings
+Sri Lanka
+0
+Mohammad Amir
+1
+TM Dilshan
+8
+Abdul Razzaq
+1
+J Mubarak
+8
+Mohammad Amir
+0
+10
+Abdul Razzaq
+1
+ST Jayasuriya
+5
+Mohammad Amir
+0
+3
+Abdul Razzaq
+1
+DPMD Jayawardene
+5
+Shahid Afridi
+0
+5
+Saeed Ajmal
+0
+2
+Shahid Afridi
+0
+8
+Shoaib Malik
+0
+11
+Shahid Afridi
+0
+2
+Umar Gul
+1
+LPC Silva
+3
+Shahid Afridi
+1
+I Udana
+4
+Saeed Ajmal
+0
+5
+Umar Gul
+0
+9
+Saeed Ajmal
+0
+15
+Umar Gul
+0
+10
+Saeed Ajmal
+0
+8
+Umar Gul
+0
+17
+Mohammad Amir
+0
+2nd innings
+Pakistan
+8
+AD Mathews
+0
+3
+I Udana
+0
+1
+SL Malinga
+0
+14
+I Udana
+0
+4
+M Muralitharan
+0
+9
+BAW Mendis
+0
+9
+AD Mathews
+0
+3
+ST Jayasuriya
+1
+Kamran Akmal
+12
+BAW Mendis
+0
+2
+M Muralitharan
+1
+Shahzaib Hasan
+4
+SL Malinga
+0
+6
+ST Jayasuriya
+0
+8
+I Udana
+0
+14
+M Muralitharan
+0
+6
+BAW Mendis
+0
+3
+SL Malinga
+0
+7
+BAW Mendis
+0
+19
+I Udana
+0
+7
+SL Malinga
+0

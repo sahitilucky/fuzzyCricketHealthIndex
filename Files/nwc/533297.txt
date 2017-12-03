@@ -1,0 +1,145 @@
+Colombo
+2012-10-05
+runs: 74
+winner: West Indies
+Australia
+West Indies
+venue: R Premadasa Stadium
+1st innings
+West Indies
+2
+MA Starc
+0
+10
+SR Watson
+0
+5
+MA Starc
+1
+J Charles
+7
+PJ Cummins
+0
+9
+SR Watson
+0
+13
+XJ Doherty
+0
+7
+GB Hogg
+0
+6
+PJ Cummins
+1
+MN Samuels
+5
+GB Hogg
+0
+10
+XJ Doherty
+0
+9
+DJ Hussey
+0
+8
+MA Starc
+0
+13
+SR Watson
+0
+9
+GB Hogg
+0
+19
+DJ Hussey
+0
+10
+PJ Cummins
+1
+DJ Bravo
+8
+SR Watson
+0
+13
+PJ Cummins
+0
+17
+MA Starc
+0
+25
+XJ Doherty
+1
+KA Pollard
+2nd innings
+Australia
+2
+S Badree
+1
+DA Warner
+9
+MN Samuels
+0
+11
+S Badree
+0
+6
+MN Samuels
+1
+MEK Hussey
+3
+S Badree
+1
+SR Watson
+11
+MN Samuels
+0
+1
+R Rampaul
+2
+CL White
+DJ Hussey
+6
+SP Narine
+1
+MS Wade
+4
+R Rampaul
+0
+11
+S Badree
+0
+25
+AD Russell
+0
+7
+SP Narine
+0
+11
+DJG Sammy
+0
+6
+KA Pollard
+2
+GJ Bailey
+PJ Cummins
+8
+R Rampaul
+0
+6
+SP Narine
+1
+GB Hogg
+4
+R Rampaul
+1
+MA Starc
+0
+R Rampaul
+0
+0
+R Rampaul
+0
+0
+R Rampaul
+0

@@ -1,0 +1,116 @@
+none
+2010-02-23
+wickets: 8
+winner: Australia
+Australia
+West Indies
+venue: Sydney Cricket Ground
+1st innings
+West Indies
+10
+SW Tait
+0
+4
+RJ Harris
+0
+1
+SW Tait
+0
+12
+RJ Harris
+2
+CH Gayle
+RS Morton
+7
+MG Johnson
+0
+1
+RJ Harris
+0
+7
+MG Johnson
+0
+8
+SR Watson
+1
+KA Pollard
+2
+MG Johnson
+1
+WW Hinds
+7
+SR Watson
+0
+5
+DT Christian
+1
+TM Dowlin
+13
+SPD Smith
+0
+3
+DT Christian
+1
+DR Smith
+6
+MG Johnson
+0
+3
+DT Christian
+0
+4
+SR Watson
+0
+8
+SW Tait
+1
+D Ramdin
+10
+RJ Harris
+0
+9
+SW Tait
+0
+18
+DT Christian
+0
+2nd innings
+Australia
+24
+KAJ Roach
+0
+14
+DJG Sammy
+0
+9
+DR Smith
+0
+8
+N Deonarine
+0
+18
+NO Miller
+0
+10
+N Deonarine
+0
+8
+KA Pollard
+0
+12
+NO Miller
+1
+DA Warner
+4
+KA Pollard
+0
+21
+NO Miller
+0
+9
+KAJ Roach
+0
+5
+NO Miller
+1
+BJ Haddin

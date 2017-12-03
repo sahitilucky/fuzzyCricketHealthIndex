@@ -1,0 +1,136 @@
+none
+2012-09-25
+wickets: 8
+winner: Pakistan
+Bangladesh
+Pakistan
+venue: Pallekele International Cricket Stadium
+1st innings
+Bangladesh
+7
+Mohammad Hafeez
+0
+6
+Sohail Tanvir
+0
+17
+Umar Gul
+0
+7
+Sohail Tanvir
+1
+Mohammad Ashraful
+12
+Mohammad Hafeez
+0
+12
+Sohail Tanvir
+1
+Tamim Iqbal
+4
+Shahid Afridi
+0
+9
+Mohammad Hafeez
+0
+4
+Shahid Afridi
+0
+12
+Saeed Ajmal
+0
+12
+Umar Gul
+0
+4
+Saeed Ajmal
+0
+12
+Yasir Arafat
+0
+9
+Shahid Afridi
+0
+6
+Yasir Arafat
+1
+Mushfiqur Rahim
+3
+Shahid Afridi
+1
+Mahmudullah
+6
+Saeed Ajmal
+0
+14
+Umar Gul
+0
+12
+Saeed Ajmal
+0
+7
+Yasir Arafat
+2
+Shakib Al Hasan
+Nasir Hossain
+2nd innings
+Pakistan
+10
+Mashrafe Mortaza
+0
+8
+Shafiul Islam
+0
+5
+Mashrafe Mortaza
+0
+20
+Shafiul Islam
+0
+15
+Mashrafe Mortaza
+0
+6
+Abdur Razzak
+0
+4
+Shakib Al Hasan
+0
+9
+Abdur Razzak
+0
+7
+Abul Hasan
+0
+8
+Shakib Al Hasan
+0
+9
+Mahmudullah
+0
+11
+Abdur Razzak
+0
+6
+Shakib Al Hasan
+0
+8
+Abul Hasan
+2
+Imran Nazir
+Mohammad Hafeez
+5
+Shakib Al Hasan
+0
+19
+Abul Hasan
+0
+17
+Mahmudullah
+0
+4
+Abdur Razzak
+0
+7
+Shafiul Islam
+0

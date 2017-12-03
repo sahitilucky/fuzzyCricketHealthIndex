@@ -1,0 +1,132 @@
+none
+2012-03-23
+wickets: 7
+winner: Ireland
+Ireland
+Netherlands
+venue: Dubai International Cricket Stadium
+1st innings
+Netherlands
+5
+DT Johnston
+0
+1
+WB Rankin
+1
+MR Swart
+5
+DT Johnston
+0
+5
+WB Rankin
+0
+2
+DT Johnston
+1
+SJ Myburgh
+9
+MC Sorensen
+0
+13
+DT Johnston
+0
+6
+MC Sorensen
+0
+8
+GH Dockrell
+0
+2
+WB Rankin
+0
+11
+GH Dockrell
+0
+5
+PR Stirling
+0
+2
+KJ O'Brien
+1
+TLW Cooper
+9
+WB Rankin
+0
+4
+KJ O'Brien
+0
+4
+GH Dockrell
+0
+6
+KJ O'Brien
+0
+6
+GH Dockrell
+2
+W Barresi
+AN Kervezee
+7
+KJ O'Brien
+1
+Mudassar Bukhari
+4
+PR Stirling
+1
+PW Borren
+2nd innings
+Ireland
+8
+T van der Gugten
+0
+11
+Mudassar Bukhari
+0
+9
+T van der Gugten
+0
+11
+MR Swart
+0
+6
+PM Seelaar
+1
+WTS Porterfield
+7
+MR Swart
+0
+8
+PM Seelaar
+0
+5
+MR Swart
+0
+4
+PM Seelaar
+0
+4
+MR Swart
+2
+PR Stirling
+GC Wilson
+1
+PM Seelaar
+0
+3
+TLW Cooper
+0
+8
+TGJ Gruijters
+0
+8
+TLW Cooper
+0
+4
+TGJ Gruijters
+0
+10
+TLW Cooper
+0
+8
+PW Borren
+0

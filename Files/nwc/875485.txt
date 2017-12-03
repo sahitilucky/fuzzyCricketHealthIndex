@@ -1,0 +1,146 @@
+Edinburgh
+2015-07-12
+runs: 37
+winner: Afghanistan
+Scotland
+Afghanistan
+venue: 'Grange Cricket Club Ground, Raeburn Place'
+1st innings
+Afghanistan
+2
+MA Leask
+1
+Nawroz Mangal
+5
+AC Evans
+0
+24
+MRJ Watt
+0
+8
+AC Evans
+0
+14
+SM Sharif
+0
+11
+AC Evans
+0
+5
+MA Leask
+0
+15
+CD de Lange
+0
+17
+MRJ Watt
+0
+6
+SM Sharif
+0
+5
+RD Berrington
+0
+3
+CD de Lange
+2
+Mohammad Shahzad
+Asghar Stanikzai
+4
+MA Leask
+0
+6
+CD de Lange
+0
+14
+MA Leask
+1
+Samiullah Shenwari
+8
+SM Sharif
+0
+12
+AC Evans
+0
+20
+CD de Lange
+0
+15
+RD Berrington
+0
+16
+SM Sharif
+1
+Najibullah Zadran
+2nd innings
+Scotland
+3
+Dawlat Zadran
+0
+7
+Mohammad Nabi
+1
+HG Munsey
+13
+Dawlat Zadran
+0
+4
+Mohammad Nabi
+0
+14
+Hamid Hassan
+0
+7
+Mirwais Ashraf
+1
+KJ Coetzer
+3
+Hamid Hassan
+1
+CS MacLeod
+14
+Sharafuddin Ashraf
+0
+9
+Mirwais Ashraf
+0
+20
+Sharafuddin Ashraf
+0
+4
+Mirwais Ashraf
+0
+6
+Mohammad Nabi
+1
+MH Cross
+7
+Mirwais Ashraf
+1
+RD Berrington
+6
+Samiullah Shenwari
+0
+24
+Dawlat Zadran
+0
+12
+Samiullah Shenwari
+0
+10
+Hamid Hassan
+1
+PL Mommsen
+8
+Mohammad Nabi
+1
+MA Leask
+2
+Hamid Hassan
+2
+CD de Lange
+AC Evans
+0
+Dawlat Zadran
+1
+SM Sharif

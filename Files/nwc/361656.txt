@@ -1,0 +1,147 @@
+King City
+2008-10-11
+wickets: 3
+winner: Pakistan
+Pakistan
+Sri Lanka
+venue: Maple Leaf North-West Ground
+1st innings
+Sri Lanka
+8
+Shoaib Akhtar
+1
+ST Jayasuriya
+1
+Sohail Tanvir
+0
+7
+Shoaib Akhtar
+0
+11
+Sohail Tanvir
+0
+14
+Shoaib Akhtar
+0
+11
+Sohail Tanvir
+0
+5
+Shoaib Malik
+0
+6
+Shahid Afridi
+1
+ML Udawatte
+8
+Shoaib Malik
+0
+3
+Shahid Afridi
+0
+7
+Shoaib Malik
+1
+J Mubarak
+6
+Shahid Afridi
+0
+4
+Shoaib Malik
+0
+7
+Shahid Afridi
+0
+8
+Umar Gul
+0
+13
+Fawad Alam
+1
+SHT Kandamby
+3
+Umar Gul
+2
+CK Kapugedera
+TM Dilshan
+7
+Sohail Tanvir
+0
+3
+Umar Gul
+2
+MF Maharoof
+T Thushara
+5
+Shoaib Akhtar
+1
+KMDN Kulasekara
+2nd innings
+Pakistan
+4
+MF Maharoof
+0
+6
+KMDN Kulasekara
+0
+3
+MF Maharoof
+2
+Shoaib Khan jnr
+Salman Butt
+3
+KMDN Kulasekara
+0
+8
+MF Maharoof
+0
+7
+T Thushara
+0
+16
+CRD Fernando
+0
+4
+T Thushara
+0
+4
+CRD Fernando
+0
+7
+K Weeraratne
+2
+Younis Khan
+Misbah-ul-Haq
+6
+T Thushara
+0
+3
+K Weeraratne
+1
+Shahid Afridi
+8
+MF Maharoof
+0
+4
+K Weeraratne
+0
+4
+CRD Fernando
+1
+Kamran Akmal
+5
+K Weeraratne
+1
+Sohail Tanvir
+11
+KMDN Kulasekara
+0
+13
+T Thushara
+0
+9
+CRD Fernando
+0
+16
+KMDN Kulasekara
+0

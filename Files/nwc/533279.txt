@@ -1,0 +1,110 @@
+Colombo
+2012-09-22
+runs: 17
+method: D/L
+Australia
+West Indies
+venue: R Premadasa Stadium
+1st innings
+West Indies
+8
+SR Watson
+0
+3
+MA Starc
+1
+DR Smith
+0
+PJ Cummins
+0
+14
+MA Starc
+0
+18
+PJ Cummins
+0
+10
+DT Christian
+1
+J Charles
+9
+GB Hogg
+0
+18
+GJ Maxwell
+0
+8
+DT Christian
+0
+5
+MA Starc
+0
+4
+SR Watson
+1
+CH Gayle
+2
+GB Hogg
+0
+12
+DT Christian
+0
+13
+GB Hogg
+0
+14
+SR Watson
+0
+7
+GB Hogg
+1
+MN Samuels
+13
+PJ Cummins
+0
+7
+SR Watson
+1
+KA Pollard
+10
+PJ Cummins
+1
+DJ Bravo
+16
+MA Starc
+2
+DJG Sammy
+D Ramdin
+2nd innings
+Australia
+8
+FH Edwards
+0
+22
+R Rampaul
+0
+8
+FH Edwards
+1
+DA Warner
+4
+SP Narine
+0
+8
+DJG Sammy
+0
+12
+SP Narine
+0
+7
+DJG Sammy
+0
+22
+MN Samuels
+0
+8
+DJ Bravo
+0
+1
+R Rampaul
+0

@@ -1,0 +1,147 @@
+Hamilton
+2013-02-12
+runs: 55
+winner: New Zealand
+New Zealand
+England
+venue: Seddon Park
+1st innings
+New Zealand
+10
+JC Tredwell
+0
+10
+SCJ Broad
+0
+6
+ST Finn
+0
+8
+SCJ Broad
+0
+13
+ST Finn
+0
+7
+JW Dernbach
+0
+8
+LJ Wright
+0
+9
+SR Patel
+0
+5
+LJ Wright
+1
+HD Rutherford
+8
+ST Finn
+0
+11
+SR Patel
+0
+10
+JC Tredwell
+1
+MJ Guptill
+6
+LJ Wright
+0
+13
+SCJ Broad
+0
+6
+LJ Wright
+1
+LRPL Taylor
+9
+JW Dernbach
+1
+C Munro
+7
+ST Finn
+0
+8
+JW Dernbach
+1
+GD Elliott
+22
+SCJ Broad
+0
+16
+JW Dernbach
+1
+BB McCullum
+2nd innings
+England
+5
+TA Boult
+0
+4
+MJ McClenaghan
+2
+AD Hales
+LJ Wright
+9
+TA Boult
+0
+5
+MJ McClenaghan
+0
+2
+IG Butler
+1
+JM Bairstow
+6
+MJ McClenaghan
+0
+4
+IG Butler
+0
+6
+NL McCullum
+0
+2
+IG Butler
+0
+4
+NL McCullum
+1
+MJ Lumb
+3
+IG Butler
+1
+EJG Morgan
+10
+MJ McClenaghan
+0
+3
+JEC Franklin
+1
+SR Patel
+16
+NL McCullum
+0
+2
+JEC Franklin
+1
+SCJ Broad
+20
+GD Elliott
+0
+14
+TA Boult
+0
+9
+JEC Franklin
+1
+JC Buttler
+12
+TA Boult
+0
+1
+JEC Franklin
+2
+JC Tredwell
+JW Dernbach

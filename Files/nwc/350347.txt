@@ -1,0 +1,110 @@
+Johannesburg
+2008-11-05
+runs: 12
+method: D/L
+South Africa
+Bangladesh
+venue: New Wanderers Stadium
+1st innings
+South Africa
+3
+Syed Rasel
+0
+4
+Shahadat Hossain
+0
+16
+Syed Rasel
+0
+20
+Shahadat Hossain
+0
+14
+Syed Rasel
+1
+HH Gibbs
+5
+Abdur Razzak
+1
+LE Bosman
+4
+Syed Rasel
+0
+6
+Abdur Razzak
+1
+JL Ontong
+10
+Shakib Al Hasan
+0
+7
+Naeem Islam
+0
+6
+Shakib Al Hasan
+1
+JP Duminy
+13
+Naeem Islam
+0
+5
+Shakib Al Hasan
+1
+JA Morkel
+5
+Abdur Razzak
+2
+AB de Villiers
+J Botha
+2nd innings
+Bangladesh
+6
+DW Steyn
+0
+9
+J Louw
+0
+10
+DW Steyn
+0
+20
+RK Kleinveldt
+1
+Junaid Siddique
+11
+M Morkel
+0
+7
+J Botha
+1
+Mohammad Ashraful
+6
+M Morkel
+1
+Raqibul Hasan
+5
+J Botha
+2
+Tamim Iqbal
+Shakib Al Hasan
+11
+JA Morkel
+0
+3
+J Botha
+0
+9
+JA Morkel
+1
+Mushfiqur Rahim
+3
+J Louw
+0
+3
+DW Steyn
+2
+Naeem Islam
+Abdur Razzak
+6
+J Louw
+0

@@ -1,0 +1,140 @@
+Cape Town
+2007-09-22
+wickets: 6
+winner: Pakistan
+New Zealand
+Pakistan
+venue: Newlands
+1st innings
+New Zealand
+2
+Mohammad Asif
+0
+2
+Sohail Tanvir
+0
+11
+Mohammad Asif
+0
+14
+Sohail Tanvir
+0
+4
+Mohammad Asif
+0
+8
+Sohail Tanvir
+0
+5
+Shahid Afridi
+0
+5
+Fawad Alam
+1
+L Vincent
+10
+Shahid Afridi
+0
+11
+Fawad Alam
+0
+3
+Shahid Afridi
+1
+BB McCullum
+3
+Umar Gul
+0
+7
+Shahid Afridi
+0
+6
+Umar Gul
+2
+SB Styris
+PG Fulton
+13
+Fawad Alam
+1
+CD McMillan
+2
+Umar Gul
+1
+JDP Oram
+10
+Mohammad Hafeez
+1
+DL Vettori
+4
+Umar Gul
+0
+6
+Sohail Tanvir
+1
+SE Bond
+17
+Mohammad Asif
+0
+2nd innings
+Pakistan
+6
+SE Bond
+0
+14
+MR Gillespie
+0
+9
+SE Bond
+0
+4
+MR Gillespie
+0
+9
+SE Bond
+0
+12
+MR Gillespie
+0
+6
+DL Vettori
+0
+2
+SB Styris
+1
+Mohammad Hafeez
+7
+DL Vettori
+0
+8
+SB Styris
+0
+2
+JS Patel
+0
+16
+JDP Oram
+0
+7
+JS Patel
+1
+Imran Nazir
+4
+DL Vettori
+1
+Younis Khan
+9
+SE Bond
+1
+Shahid Afridi
+4
+SB Styris
+0
+8
+JS Patel
+0
+5
+DL Vettori
+0
+15
+JS Patel
+0

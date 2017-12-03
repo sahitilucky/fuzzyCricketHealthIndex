@@ -1,0 +1,145 @@
+Cape Town
+2007-09-12
+wickets: 5
+winner: Zimbabwe
+Australia
+Zimbabwe
+venue: Newlands
+1st innings
+Australia
+7
+E Chigumbura
+1
+ML Hayden
+4
+GB Brent
+0
+3
+E Chigumbura
+1
+AC Gilchrist
+5
+GB Brent
+1
+RT Ponting
+2
+T Mupariwa
+0
+1
+GB Brent
+0
+10
+T Mupariwa
+0
+5
+CJ Chibhabha
+0
+11
+P Utseya
+0
+3
+CJ Chibhabha
+1
+MEK Hussey
+9
+P Utseya
+0
+9
+CJ Chibhabha
+0
+9
+T Taibu
+0
+9
+H Masakadza
+1
+A Symonds
+3
+P Utseya
+0
+11
+T Mupariwa
+0
+5
+P Utseya
+1
+BJ Haddin
+13
+T Taibu
+0
+9
+GB Brent
+1
+B Lee
+10
+E Chigumbura
+2
+MG Johnson
+NW Bracken
+2nd innings
+Zimbabwe
+8
+B Lee
+0
+5
+NW Bracken
+0
+11
+B Lee
+0
+7
+NW Bracken
+1
+V Sibanda
+7
+SR Clark
+0
+9
+MG Johnson
+0
+7
+SR Clark
+1
+CJ Chibhabha
+1
+MG Johnson
+1
+T Taibu
+3
+SR Clark
+0
+8
+MG Johnson
+0
+5
+SR Clark
+1
+S Matsikenyeri
+4
+A Symonds
+0
+5
+BJ Hodge
+0
+7
+A Symonds
+0
+15
+BJ Hodge
+0
+8
+MG Johnson
+0
+6
+B Lee
+0
+5
+NW Bracken
+0
+6
+B Lee
+1
+H Masakadza
+12
+NW Bracken
+0

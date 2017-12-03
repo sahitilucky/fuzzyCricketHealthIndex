@@ -1,0 +1,96 @@
+Guyana
+2010-05-03
+wickets: 8
+method: D/L
+West Indies
+England
+venue: Providence Stadium
+1st innings
+England
+5
+SJ Benn
+0
+16
+R Rampaul
+0
+9
+SJ Benn
+0
+11
+CH Gayle
+1
+MJ Lumb
+10
+NO Miller
+0
+9
+R Rampaul
+0
+11
+NO Miller
+1
+C Kieswetter
+4
+DJG Sammy
+0
+5
+NO Miller
+0
+8
+DJG Sammy
+2
+PD Collingwood
+KP Pietersen
+3
+NO Miller
+0
+6
+DJG Sammy
+0
+8
+DJ Bravo
+0
+4
+DJG Sammy
+0
+6
+DJ Bravo
+0
+16
+KA Pollard
+0
+14
+DJ Bravo
+0
+27
+R Rampaul
+0
+10
+SJ Benn
+0
+9
+DJ Bravo
+1
+EJG Morgan
+2nd innings
+West Indies
+15
+RJ Sidebottom
+0
+11
+GP Swann
+0
+7
+TT Bresnan
+0
+13
+GP Swann
+2
+CH Gayle
+KA Pollard
+6
+MH Yardy
+0
+8
+SCJ Broad
+0

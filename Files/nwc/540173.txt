@@ -1,0 +1,137 @@
+St Lucia
+2012-03-27
+wickets: 8
+winner: Australia
+West Indies
+Australia
+venue: 'Beausejour Stadium, Gros Islet'
+1st innings
+West Indies
+7
+B Lee
+0
+8
+JL Pattinson
+0
+4
+B Lee
+1
+DR Smith
+3
+JL Pattinson
+0
+13
+B Lee
+0
+3
+CJ McKay
+0
+4
+SR Watson
+1
+J Charles
+11
+CJ McKay
+0
+3
+SR Watson
+0
+7
+XJ Doherty
+0
+4
+DT Christian
+1
+DM Bravo
+5
+XJ Doherty
+0
+9
+DT Christian
+1
+NE Bonner
+10
+JL Pattinson
+0
+7
+CJ McKay
+0
+22
+XJ Doherty
+0
+14
+DT Christian
+1
+DJ Bravo
+4
+SR Watson
+0
+7
+B Lee
+1
+DJG Sammy
+5
+SR Watson
+1
+CS Baugh
+2nd innings
+Australia
+1
+K Santokie
+1
+DA Warner
+6
+GE Mathurin
+0
+9
+K Santokie
+0
+8
+SP Narine
+0
+11
+GE Mathurin
+0
+17
+K Santokie
+0
+6
+DJG Sammy
+0
+2
+SP Narine
+0
+12
+DJG Sammy
+0
+3
+SP Narine
+0
+8
+DJ Bravo
+0
+16
+KA Pollard
+0
+11
+GE Mathurin
+1
+SR Watson
+3
+DJ Bravo
+0
+6
+GE Mathurin
+0
+10
+DJ Bravo
+0
+12
+DR Smith
+0
+8
+SP Narine
+0
+4
+DJG Sammy
+0

@@ -1,0 +1,126 @@
+none
+2010-02-10
+wickets: 9
+winner: Kenya
+Canada
+Kenya
+venue: Dubai International Cricket Stadium
+1st innings
+Canada
+1
+HA Varaiya
+1
+JM Davison
+9
+SO Tikolo
+0
+6
+HA Varaiya
+0
+7
+SO Tikolo
+0
+3
+JK Kamande
+1
+H Patel
+11
+SO Tikolo
+0
+3
+JK Kamande
+1
+Rizwan Cheema
+9
+SO Ngoche
+0
+5
+AO Suji
+0
+8
+SO Ngoche
+0
+10
+AO Suji
+0
+12
+NN Odhiambo
+0
+5
+JK Kamande
+0
+5
+HA Varaiya
+0
+5
+SO Tikolo
+1
+GEF Barnett
+6
+HA Varaiya
+0
+7
+JK Kamande
+0
+10
+LN Onyango
+1
+A Bagai
+12
+AO Suji
+1
+IS Billcliff
+4
+NN Odhiambo
+3
+U Bhatti
+S Dhaniram
+Khurram Chohan
+2nd innings
+Kenya
+14
+U Bhatti
+0
+13
+HS Baidwan
+0
+11
+H Patel
+0
+11
+Rizwan Cheema
+0
+15
+Khurram Chohan
+0
+12
+Arsalan Qadir
+0
+5
+S Dhaniram
+0
+10
+JM Davison
+0
+5
+S Dhaniram
+0
+9
+JM Davison
+0
+5
+S Dhaniram
+0
+14
+H Patel
+0
+2
+S Dhaniram
+1
+AA Obanda
+6
+Rizwan Cheema
+0
+9
+H Patel
+0

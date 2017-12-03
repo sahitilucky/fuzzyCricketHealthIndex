@@ -1,0 +1,132 @@
+Antigua
+2013-03-02
+wickets: 8
+winner: West Indies
+West Indies
+Zimbabwe
+venue: 'Sir Vivian Richards Stadium, North Sound'
+1st innings
+Zimbabwe
+3
+TL Best
+0
+8
+S Badree
+0
+5
+TL Best
+1
+V Sibanda
+5
+S Badree
+1
+BRM Taylor
+7
+TL Best
+1
+H Masakadza
+6
+S Badree
+0
+5
+DJG Sammy
+0
+8
+S Badree
+0
+7
+DJG Sammy
+0
+2
+SP Narine
+0
+5
+DJG Sammy
+0
+3
+SP Narine
+0
+10
+DJ Bravo
+0
+6
+AD Russell
+0
+8
+KA Pollard
+0
+3
+SP Narine
+1
+CR Ervine
+18
+DJG Sammy
+0
+10
+SP Narine
+1
+MN Waller
+5
+TL Best
+1
+CJ Chibhabha
+6
+DJ Bravo
+2
+TC Mutombodzi
+P Utseya
+2nd innings
+West Indies
+5
+KM Jarvis
+0
+2
+CB Mpofu
+0
+21
+KM Jarvis
+0
+2
+CB Mpofu
+1
+J Charles
+15
+TC Mutombodzi
+0
+4
+CB Mpofu
+1
+DM Bravo
+5
+TC Mutombodzi
+0
+6
+P Utseya
+0
+4
+N Mushangwe
+0
+4
+P Utseya
+0
+11
+N Mushangwe
+0
+5
+P Utseya
+0
+18
+N Mushangwe
+0
+10
+P Utseya
+0
+7
+KM Jarvis
+0
+6
+CB Mpofu
+0
+6
+KM Jarvis
+0

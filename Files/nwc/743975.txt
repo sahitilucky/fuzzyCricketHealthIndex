@@ -1,0 +1,144 @@
+Cardiff
+2015-08-31
+runs: 5
+winner: England
+England
+Australia
+venue: Sophia Gardens
+1st innings
+England
+7
+MA Starc
+0
+4
+NM Coulter-Nile
+0
+6
+MA Starc
+0
+1
+PJ Cummins
+2
+AD Hales
+JJ Roy
+4
+NM Coulter-Nile
+0
+5
+PJ Cummins
+0
+10
+MR Marsh
+0
+6
+GJ Maxwell
+0
+13
+MP Stoinis
+0
+6
+GJ Maxwell
+0
+11
+MR Marsh
+0
+11
+NM Coulter-Nile
+0
+11
+SR Watson
+0
+19
+CJ Boyce
+0
+22
+SR Watson
+0
+16
+PJ Cummins
+0
+5
+NM Coulter-Nile
+1
+EJG Morgan
+11
+MA Starc
+1
+JC Buttler
+6
+PJ Cummins
+0
+8
+MA Starc
+1
+SW Billings
+2nd innings
+Australia
+4
+DJ Willey
+1
+DA Warner
+8
+ST Finn
+1
+SR Watson
+10
+DJ Willey
+0
+10
+ST Finn
+0
+5
+RJW Topley
+0
+8
+ST Finn
+0
+14
+RJW Topley
+0
+5
+AU Rashid
+0
+9
+BA Stokes
+0
+13
+AU Rashid
+0
+10
+BA Stokes
+0
+14
+AU Rashid
+0
+14
+ST Finn
+0
+3
+MM Ali
+1
+GJ Maxwell
+7
+BA Stokes
+0
+8
+RJW Topley
+0
+13
+DJ Willey
+0
+8
+RJW Topley
+1
+MR Marsh
+8
+DJ Willey
+1
+SPD Smith
+6
+BA Stokes
+3
+MS Wade
+NM Coulter-Nile
+PJ Cummins

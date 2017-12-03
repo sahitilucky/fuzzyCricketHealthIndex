@@ -1,0 +1,133 @@
+Mirpur
+2014-04-01
+wickets: 7
+winner: Australia
+Bangladesh
+Australia
+venue: Shere Bangla National Stadium
+1st innings
+Bangladesh
+1
+MA Starc
+0
+3
+NM Coulter-Nile
+1
+Anamul Haque
+8
+MA Starc
+0
+1
+NM Coulter-Nile
+1
+Tamim Iqbal
+8
+DE Bollinger
+0
+11
+SR Watson
+0
+11
+GJ Maxwell
+0
+8
+DE Bollinger
+0
+4
+SR Watson
+0
+13
+NM Coulter-Nile
+0
+11
+GJ Maxwell
+0
+9
+DE Bollinger
+0
+9
+DT Christian
+0
+11
+GJ Maxwell
+0
+8
+DT Christian
+0
+7
+MA Starc
+0
+6
+SR Watson
+1
+Mushfiqur Rahim
+6
+DE Bollinger
+1
+Shakib Al Hasan
+9
+SR Watson
+0
+9
+MA Starc
+1
+Nasir Hossain
+2nd innings
+Australia
+11
+Sohag Gazi
+0
+7
+Al-Amin Hossain
+0
+3
+Sohag Gazi
+0
+6
+Shakib Al Hasan
+0
+9
+Sohag Gazi
+0
+16
+Shakib Al Hasan
+0
+4
+Taskin Ahmed
+0
+12
+Abdur Razzak
+0
+3
+Taskin Ahmed
+0
+14
+Shakib Al Hasan
+0
+12
+Sohag Gazi
+0
+6
+Al-Amin Hossain
+1
+DA Warner
+14
+Taskin Ahmed
+0
+4
+Abdur Razzak
+0
+14
+Mominul Haque
+0
+8
+Al-Amin Hossain
+1
+AJ Finch
+5
+Taskin Ahmed
+1
+GJ Maxwell
+10
+Al-Amin Hossain
+0

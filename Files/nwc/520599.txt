@@ -1,0 +1,145 @@
+Auckland
+2012-02-22
+runs: 3
+winner: South Africa
+New Zealand
+South Africa
+venue: Eden Park
+1st innings
+South Africa
+6
+RM Hira
+0
+8
+MD Bates
+0
+9
+JEC Franklin
+1
+RE Levi
+14
+MD Bates
+0
+3
+TG Southee
+1
+JA Morkel
+14
+RM Hira
+0
+5
+TG Southee
+0
+4
+DAJ Bracewell
+1
+HM Amla
+6
+NL McCullum
+0
+10
+DAJ Bracewell
+0
+16
+NL McCullum
+0
+14
+JEC Franklin
+0
+12
+RJ Nicol
+1
+JP Duminy
+8
+MD Bates
+0
+4
+RJ Nicol
+2
+AB de Villiers
+JL Ontong
+4
+DAJ Bracewell
+0
+1
+TG Southee
+1
+J Botha
+10
+DAJ Bracewell
+0
+4
+RJ Nicol
+0
+13
+TG Southee
+0
+2nd innings
+New Zealand
+4
+RJ Peterson
+0
+11
+M de Lange
+0
+11
+RJ Peterson
+0
+12
+M de Lange
+0
+17
+JA Morkel
+0
+10
+M Morkel
+1
+RJ Nicol
+8
+J Botha
+1
+MJ Guptill
+9
+M Morkel
+0
+7
+J Botha
+0
+14
+WD Parnell
+0
+5
+JP Duminy
+0
+4
+RJ Peterson
+1
+BB McCullum
+4
+JP Duminy
+0
+15
+RJ Peterson
+0
+10
+M de Lange
+0
+8
+M Morkel
+1
+KS Williamson
+2
+J Botha
+0
+5
+M Morkel
+0
+3
+J Botha
+1
+JD Ryder
+3
+M de Lange
+2
+NL McCullum
+DAJ Bracewell

@@ -1,0 +1,143 @@
+none
+2013-10-11
+runs: 34
+winner: Kenya
+Afghanistan
+Kenya
+venue: Sharjah Cricket Stadium
+1st innings
+Kenya
+4
+Shapoor Zadran
+0
+9
+Hamid Hassan
+0
+9
+Shapoor Zadran
+0
+15
+Hamid Hassan
+0
+8
+Hamza Hotak
+0
+14
+Mirwais Ashraf
+0
+3
+Mohammad Nabi
+0
+6
+Samiullah Shenwari
+0
+5
+Mohammad Nabi
+0
+14
+Samiullah Shenwari
+1
+NN Odhiambo
+10
+Hamza Hotak
+0
+1
+Karim Sadiq
+1
+RR Patel
+2
+Mohammad Nabi
+0
+5
+Karim Sadiq
+0
+4
+Mohammad Nabi
+0
+10
+Karim Sadiq
+0
+7
+Hamza Hotak
+1
+IA Karim
+8
+Hamid Hassan
+0
+6
+Shapoor Zadran
+0
+9
+Hamid Hassan
+1
+MA Ouma
+2nd innings
+Afghanistan
+1
+E Otieno
+0
+10
+NN Odhiambo
+0
+10
+E Otieno
+1
+Mohammad Shahzad
+2
+SO Ngoche
+1
+Karim Sadiq
+5
+NN Odhiambo
+0
+10
+SO Ngoche
+0
+10
+RG Aga
+0
+8
+HA Varaiya
+0
+12
+CO Obuya
+1
+Nawroz Mangal
+1
+HA Varaiya
+0
+4
+CO Obuya
+0
+0
+HA Varaiya
+1
+Afsar Zazai
+10
+CO Obuya
+0
+3
+HA Varaiya
+0
+10
+CO Obuya
+1
+Mohammad Nabi
+4
+SO Ngoche
+0
+4
+E Otieno
+1
+Samiullah Shenwari
+4
+SO Ngoche
+0
+2
+E Otieno
+1
+Asghar Stanikzai
+5
+NN Odhiambo
+1
+Mirwais Ashraf

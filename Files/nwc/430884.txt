@@ -1,0 +1,145 @@
+Nagpur
+2009-12-09
+runs: 29
+winner: Sri Lanka
+India
+Sri Lanka
+venue: 'Vidarbha Cricket Association Stadium, Jamtha'
+1st innings
+Sri Lanka
+9
+A Nehra
+0
+1
+I Sharma
+0
+4
+A Nehra
+0
+3
+I Sharma
+0
+22
+A Nehra
+0
+4
+I Sharma
+0
+9
+AB Dinda
+1
+ST Jayasuriya
+8
+YK Pathan
+0
+17
+PP Ojha
+0
+12
+YK Pathan
+0
+6
+RG Sharma
+0
+15
+AB Dinda
+0
+10
+RG Sharma
+1
+TM Dilshan
+14
+YK Pathan
+1
+DPMD Jayawardene
+8
+RG Sharma
+0
+10
+PP Ojha
+0
+15
+I Sharma
+0
+10
+AB Dinda
+0
+18
+A Nehra
+1
+CK Kapugedera
+20
+YK Pathan
+1
+KC Sangakkara
+2nd innings
+India
+8
+KMDN Kulasekara
+0
+12
+CRD Fernando
+0
+12
+KMDN Kulasekara
+1
+V Sehwag
+10
+CRD Fernando
+0
+16
+KMDN Kulasekara
+0
+19
+SL Malinga
+0
+11
+AD Mathews
+0
+3
+ST Jayasuriya
+0
+7
+AD Mathews
+1
+G Gambhir
+3
+ST Jayasuriya
+1
+MS Dhoni
+5
+AD Mathews
+2
+RG Sharma
+Yuvraj Singh
+10
+ST Jayasuriya
+1
+YK Pathan
+7
+AD Mathews
+0
+6
+M Pushpakumara
+1
+SK Raina
+5
+ST Jayasuriya
+0
+18
+M Pushpakumara
+0
+10
+SL Malinga
+0
+6
+CRD Fernando
+1
+A Nehra
+4
+M Pushpakumara
+0
+14
+TM Dilshan
+1
+AB Dinda

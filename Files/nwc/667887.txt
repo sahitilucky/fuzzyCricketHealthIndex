@@ -1,0 +1,145 @@
+London
+2014-05-20
+runs: 9
+winner: Sri Lanka
+England
+Sri Lanka
+venue: Kennington Oval
+1st innings
+Sri Lanka
+9
+JE Root
+0
+11
+CR Woakes
+0
+4
+HF Gurney
+1
+TM Dilshan
+5
+CJ Jordan
+1
+MDKJ Perera
+2
+HF Gurney
+0
+12
+CJ Jordan
+0
+10
+JC Tredwell
+0
+15
+RS Bopara
+0
+8
+JC Tredwell
+0
+3
+CR Woakes
+1
+KDK Vithanage
+7
+JE Root
+1
+LD Chandimal
+4
+CR Woakes
+0
+9
+JC Tredwell
+0
+9
+RS Bopara
+0
+14
+JC Tredwell
+1
+AD Mathews
+15
+CR Woakes
+0
+4
+CJ Jordan
+0
+11
+HF Gurney
+1
+HDRL Thirimanne
+22
+CJ Jordan
+0
+9
+HF Gurney
+1
+NLTC Perera
+2nd innings
+England
+9
+KMDN Kulasekara
+0
+2
+AD Mathews
+1
+MA Carberry
+6
+KMDN Kulasekara
+0
+13
+RAS Lakmal
+0
+14
+SMSM Senanayake
+0
+5
+SL Malinga
+1
+IR Bell
+5
+AD Mathews
+0
+4
+RAS Lakmal
+1
+JE Root
+6
+NLTC Perera
+0
+10
+SL Malinga
+0
+10
+SMSM Senanayake
+0
+7
+NLTC Perera
+1
+EJG Morgan
+7
+SMSM Senanayake
+0
+13
+RAS Lakmal
+0
+11
+NLTC Perera
+0
+11
+KMDN Kulasekara
+1
+JC Buttler
+10
+SL Malinga
+1
+AD Hales
+13
+KMDN Kulasekara
+0
+4
+SL Malinga
+1
+CJ Jordan
+14
+RAS Lakmal
+0

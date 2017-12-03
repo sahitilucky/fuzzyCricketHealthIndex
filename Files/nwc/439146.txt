@@ -1,0 +1,148 @@
+Antigua
+2010-05-19
+runs: 13
+winner: South Africa
+West Indies
+South Africa
+venue: 'Sir Vivian Richards Stadium, North Sound'
+1st innings
+South Africa
+10
+KAJ Roach
+0
+2
+JE Taylor
+0
+3
+KAJ Roach
+0
+2
+JE Taylor
+1
+LE Bosman
+3
+SJ Benn
+0
+13
+JE Taylor
+0
+6
+SJ Benn
+0
+7
+DJG Sammy
+0
+11
+SJ Benn
+0
+4
+DJG Sammy
+0
+15
+DJ Bravo
+0
+12
+CH Gayle
+0
+2
+NO Miller
+1
+GC Smith
+6
+KA Pollard
+0
+11
+NO Miller
+0
+7
+KA Pollard
+1
+JH Kallis
+5
+KAJ Roach
+2
+JP Duminy
+J Botha
+3
+KA Pollard
+1
+AB de Villiers
+8
+KAJ Roach
+1
+AN Petersen
+6
+KA Pollard
+0
+2nd innings
+West Indies
+12
+RE van der Merwe
+0
+2
+DW Steyn
+0
+1
+R McLaren
+1
+ADS Fletcher
+9
+CK Langeveldt
+0
+4
+DW Steyn
+0
+3
+R McLaren
+1
+CH Gayle
+4
+JH Kallis
+0
+3
+J Botha
+0
+9
+JH Kallis
+0
+4
+J Botha
+2
+DJ Bravo
+N Deonarine
+4
+RE van der Merwe
+1
+RR Sarwan
+2
+J Botha
+0
+2
+RE van der Merwe
+0
+10
+J Botha
+0
+12
+CK Langeveldt
+0
+9
+R McLaren
+1
+KA Pollard
+7
+DW Steyn
+0
+10
+CK Langeveldt
+1
+NO Miller
+10
+DW Steyn
+1
+JE Taylor
+6
+R McLaren
+2
+DJG Sammy
+SJ Benn

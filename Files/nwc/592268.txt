@@ -1,0 +1,142 @@
+Dubai
+2013-03-15
+wickets: 5
+winner: Canada
+Canada
+Kenya
+venue: ICC Global Cricket Academy
+1st innings
+Kenya
+5
+H Osinde
+0
+1
+Junaid Siddiqui
+0
+21
+H Osinde
+1
+AA Obanda
+5
+Junaid Siddiqui
+0
+4
+H Osinde
+1
+DI Allan
+2
+Junaid Siddiqui
+2
+MA Ouma
+T Mishra
+6
+H Osinde
+1
+CO Obuya
+2
+Junaid Siddiqui
+1
+RG Aga
+3
+MS Aulakh
+0
+5
+Raza-ur-Rehman
+0
+10
+MS Aulakh
+0
+13
+Raza-ur-Rehman
+0
+7
+Rizwan Cheema
+0
+6
+Raza-ur-Rehman
+0
+5
+Rizwan Cheema
+0
+1
+AS Hansra
+1
+NM Odhiambo
+3
+Rizwan Cheema
+1
+SO Ngoche
+5
+AS Hansra
+0
+15
+Rizwan Cheema
+0
+7
+AS Hansra
+1
+E Otieno
+2nd innings
+Canada
+7
+RG Aga
+0
+5
+SO Ngoche
+1
+Rizwan Cheema
+2
+E Otieno
+0
+3
+SO Ngoche
+0
+5
+E Otieno
+0
+7
+SO Ngoche
+0
+9
+NM Odhiambo
+0
+6
+HA Varaiya
+1
+R Gunasekera
+14
+NM Odhiambo
+0
+9
+HA Varaiya
+0
+9
+DI Allan
+0
+3
+SO Ngoche
+1
+NR Kumar
+2
+CO Obuya
+0
+6
+HA Varaiya
+0
+10
+RG Aga
+1
+H Patel
+2
+HA Varaiya
+1
+Raza-ur-Rehman
+10
+E Otieno
+0
+9
+CO Obuya
+0
+10
+E Otieno
+0

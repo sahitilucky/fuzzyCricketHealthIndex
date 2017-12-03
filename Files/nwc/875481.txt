@@ -1,0 +1,135 @@
+Edinburgh
+2015-07-12
+wickets: 7
+winner: Netherlands
+Netherlands
+United Arab Emirates
+venue: 'Grange Cricket Club Ground, Raeburn Place'
+1st innings
+United Arab Emirates
+14
+Mudassar Bukhari
+0
+8
+T van der Gugten
+0
+7
+MAA Jamil
+0
+6
+T van der Gugten
+1
+Mohammad Shahzad (2)
+0
+MAA Jamil
+1
+Faizan Asif
+9
+PA van Meekeren
+0
+4
+RE van der Merwe
+0
+8
+PA van Meekeren
+0
+4
+RE van der Merwe
+0
+7
+MJG Rippon
+0
+7
+PW Borren
+0
+5
+MJG Rippon
+1
+Shaiman Anwar
+3
+PW Borren
+0
+2
+MJG Rippon
+1
+SP Patil
+1
+RE van der Merwe
+0
+13
+Mudassar Bukhari
+0
+1
+RE van der Merwe
+2
+Fayyaz Ahmed
+Abdul Shakoor
+8
+MAA Jamil
+0
+7
+T van der Gugten
+0
+5
+MAA Jamil
+1
+Mohammad Naveed
+2nd innings
+Netherlands
+7
+Nasir Aziz
+0
+9
+AM Guruge
+0
+6
+Nasir Aziz
+0
+9
+AM Guruge
+1
+SJ Myburgh
+1
+Nasir Aziz
+0
+5
+Mohammad Naveed
+1
+W Barresi
+5
+Mohammad Tauqir
+0
+5
+Mohammad Naveed
+0
+0
+Mohammad Tauqir
+0
+5
+Umair Ali
+0
+7
+Mohammad Tauqir
+0
+11
+Umair Ali
+0
+6
+Fayyaz Ahmed
+0
+10
+Mohammad Tauqir
+0
+7
+Fayyaz Ahmed
+1
+MR Swart
+8
+Nasir Aziz
+0
+18
+Fayyaz Ahmed
+0
+6
+Mohammad Shahzad (2)
+0

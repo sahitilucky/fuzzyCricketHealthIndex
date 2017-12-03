@@ -1,0 +1,126 @@
+Bloemfontein
+2010-10-08
+wickets: 7
+winner: South Africa
+South Africa
+Zimbabwe
+venue: OUTsurance Oval
+1st innings
+Zimbabwe
+2
+M Morkel
+0
+5
+WD Parnell
+0
+7
+M Morkel
+0
+5
+J Theron
+0
+3
+WD Parnell
+1
+BRM Taylor
+8
+R McLaren
+0
+6
+J Theron
+0
+8
+J Botha
+0
+15
+R McLaren
+0
+4
+J Botha
+0
+11
+JP Duminy
+0
+9
+J Botha
+0
+13
+JP Duminy
+0
+4
+WD Parnell
+1
+CJ Chibhabha
+10
+J Botha
+0
+3
+R McLaren
+0
+11
+J Theron
+1
+E Chigumbura
+18
+WD Parnell
+0
+12
+J Theron
+1
+H Masakadza
+14
+R McLaren
+0
+2nd innings
+South Africa
+5
+CB Mpofu
+0
+13
+EC Rainsford
+0
+15
+CB Mpofu
+0
+16
+EC Rainsford
+0
+15
+P Utseya
+0
+14
+H Masakadza
+0
+12
+P Utseya
+1
+LE Bosman
+7
+AG Cremer
+1
+GC Smith
+2
+P Utseya
+1
+CA Ingram
+7
+AG Cremer
+0
+12
+KM Dabengwa
+0
+18
+AG Cremer
+0
+2
+CB Mpofu
+0
+13
+EC Rainsford
+0
+4
+CB Mpofu
+0
+14
+P Utseya
+0

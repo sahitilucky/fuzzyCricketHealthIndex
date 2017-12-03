@@ -1,0 +1,145 @@
+Belfast
+2015-07-15
+wickets: 2
+winner: Papua New Guinea
+Ireland
+Papua New Guinea
+venue: 'Civil Service Cricket Club, Stormont'
+1st innings
+Ireland
+2
+L Nou
+0
+2
+N Vanua
+1
+PR Stirling
+8
+L Nou
+0
+8
+N Vanua
+0
+6
+WT Gavera
+2
+NJ O'Brien
+KJ O'Brien
+5
+JB Reva
+0
+1
+WT Gavera
+0
+1
+JB Reva
+1
+A Balbirnie
+7
+CJA Amini
+0
+5
+JB Reva
+0
+6
+L Nou
+0
+6
+N Vanua
+0
+5
+WT Gavera
+0
+8
+A Vala
+1
+GC Wilson
+13
+MD Dai
+0
+5
+A Vala
+1
+SR Thompson
+8
+L Nou
+1
+JF Mooney
+6
+N Vanua
+1
+GH Dockrell
+6
+WT Gavera
+1
+TE Kane
+15
+JB Reva
+0
+2nd innings
+Papua New Guinea
+13
+TE Kane
+0
+5
+AR Cusack
+1
+TP Ura
+10
+JF Mooney
+1
+L Siaka
+7
+AR Cusack
+0
+6
+JF Mooney
+0
+4
+SR Thompson
+0
+2
+KJ O'Brien
+1
+K Pala
+7
+SR Thompson
+0
+3
+KJ O'Brien
+0
+9
+GH Dockrell
+0
+3
+KJ O'Brien
+0
+4
+TE Kane
+1
+MD Dai
+3
+KJ O'Brien
+1
+A Vala
+4
+SR Thompson
+0
+4
+JF Mooney
+1
+CJA Amini
+7
+AR Cusack
+0
+3
+TE Kane
+2
+JNT Vare
+JB Reva
+10
+AR Cusack
+0
+20
+JF Mooney
+0

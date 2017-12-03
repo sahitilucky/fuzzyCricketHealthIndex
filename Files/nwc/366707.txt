@@ -1,0 +1,146 @@
+Auckland
+2008-12-26
+result
+tie
+New Zealand
+West Indies
+venue: Eden Park
+1st innings
+New Zealand
+6
+LS Baker
+0
+4
+JE Taylor
+0
+11
+LS Baker
+1
+BB McCullum
+8
+JE Taylor
+0
+8
+LS Baker
+0
+10
+FH Edwards
+1
+JD Ryder
+7
+LS Baker
+0
+4
+FH Edwards
+0
+6
+SJ Benn
+0
+9
+KA Pollard
+1
+SB Styris
+5
+SJ Benn
+0
+16
+KA Pollard
+0
+3
+SJ Benn
+0
+7
+CH Gayle
+0
+6
+SJ Benn
+1
+JDP Oram
+4
+CH Gayle
+1
+JEC Franklin
+10
+JE Taylor
+0
+14
+FH Edwards
+0
+11
+JE Taylor
+1
+LRPL Taylor
+6
+CH Gayle
+1
+DR Flynn
+2nd innings
+West Indies
+7
+KD Mills
+0
+12
+TG Southee
+0
+10
+KD Mills
+1
+S Chanderpaul
+18
+TG Southee
+0
+1
+KD Mills
+0
+7
+JDP Oram
+0
+7
+JS Patel
+0
+6
+JDP Oram
+0
+14
+JS Patel
+0
+3
+DL Vettori
+1
+XM Marshall
+3
+TG Southee
+0
+3
+DL Vettori
+0
+18
+JDP Oram
+0
+5
+DL Vettori
+1
+RR Sarwan
+9
+JS Patel
+1
+CH Gayle
+5
+DL Vettori
+1
+KA Pollard
+4
+JS Patel
+1
+CS Baugh
+8
+JDP Oram
+0
+9
+KD Mills
+0
+6
+TG Southee
+2
+SE Findlay
+FH Edwards

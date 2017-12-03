@@ -1,0 +1,147 @@
+Christchurch
+2008-02-07
+runs: 50
+winner: England
+New Zealand
+England
+venue: Jade Stadium
+1st innings
+England
+2
+KD Mills
+0
+11
+CS Martin
+0
+11
+KD Mills
+0
+11
+CS Martin
+0
+22
+PA Hitchcock
+0
+10
+CS Martin
+1
+LJ Wright
+4
+TG Southee
+1
+KP Pietersen
+5
+SB Styris
+1
+IR Bell
+1
+TG Southee
+1
+P Mustard
+7
+SB Styris
+0
+5
+TG Southee
+0
+13
+SB Styris
+0
+12
+TG Southee
+0
+6
+PA Hitchcock
+0
+6
+JD Ryder
+0
+13
+CS Martin
+0
+16
+JD Ryder
+0
+14
+KD Mills
+0
+15
+PA Hitchcock
+2
+OA Shah
+PD Collingwood
+9
+KD Mills
+2
+AD Mascarenhas
+SCJ Broad
+2nd innings
+New Zealand
+5
+JM Anderson
+0
+7
+RJ Sidebottom
+0
+3
+JM Anderson
+1
+JD Ryder
+4
+RJ Sidebottom
+1
+BB McCullum
+14
+JM Anderson
+0
+9
+SCJ Broad
+1
+LRPL Taylor
+4
+AD Mascarenhas
+0
+8
+GP Swann
+0
+13
+AD Mascarenhas
+0
+4
+SCJ Broad
+0
+4
+AD Mascarenhas
+1
+SB Styris
+5
+GP Swann
+1
+PG Fulton
+6
+AD Mascarenhas
+1
+JM How
+9
+GP Swann
+1
+DR Flynn
+6
+SCJ Broad
+0
+8
+GP Swann
+0
+12
+SCJ Broad
+0
+1
+RJ Sidebottom
+1
+PA Hitchcock
+14
+JM Anderson
+0
+7
+RJ Sidebottom
+0

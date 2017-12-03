@@ -1,0 +1,146 @@
+Dubai
+2016-02-03
+runs: 84
+winner: Netherlands
+United Arab Emirates
+Netherlands
+venue: ICC Academy
+1st innings
+Netherlands
+6
+Qadeer Ahmed
+0
+8
+Mohammad Naveed
+1
+MR Swart
+7
+Qadeer Ahmed
+0
+1
+Mohammad Naveed
+0
+4
+Qadeer Ahmed
+0
+7
+Mohammad Naveed
+0
+9
+Farhan Ahmed
+0
+5
+Mohammad Shahzad (2)
+0
+9
+Ahmed Raza
+0
+12
+Mohammad Shahzad (2)
+1
+SJ Myburgh
+5
+Ahmed Raza
+0
+11
+Rohan Mustafa
+0
+8
+Mohammad Shahzad (2)
+0
+5
+Fahad Tariq
+0
+10
+Mohammad Shahzad (2)
+0
+19
+Ahmed Raza
+0
+13
+Fahad Tariq
+0
+1
+Rohan Mustafa
+2
+PW Borren
+W Barresi
+9
+Mohammad Naveed
+0
+8
+Rohan Mustafa
+1
+PM Seelaar
+2nd innings
+United Arab Emirates
+5
+MR Swart
+1
+Mohammad Shahzad (2)
+0
+Mudassar Bukhari
+1
+Shaiman Anwar
+1
+PA van Meekeren
+1
+SP Patil
+1
+Mudassar Bukhari
+2
+Hafiz Qaleem
+Fahad Tariq
+4
+PA van Meekeren
+0
+6
+Mudassar Bukhari
+0
+4
+PW Borren
+1
+Rohan Mustafa
+0
+Mudassar Bukhari
+1
+Mohammad Naveed
+8
+PW Borren
+0
+16
+PA van Meekeren
+0
+2
+MJG Rippon
+0
+4
+Ahsan Malik
+0
+3
+MJG Rippon
+1
+Ahmed Raza
+7
+MP O'Dowd
+0
+2
+MJG Rippon
+1
+Farhan Ahmed
+9
+Ahsan Malik
+0
+1
+MJG Rippon
+1
+Qadeer Ahmed
+0
+MJG Rippon
+0
+0
+MJG Rippon
+0
+0
+MJG Rippon
+0

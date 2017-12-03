@@ -1,0 +1,146 @@
+Johannesburg
+2007-09-24
+runs: 5
+winner: India
+India
+Pakistan
+venue: New Wanderers Stadium
+1st innings
+India
+13
+Mohammad Asif
+0
+7
+Sohail Tanvir
+0
+6
+Mohammad Asif
+1
+YK Pathan
+7
+Sohail Tanvir
+0
+6
+Mohammad Asif
+0
+1
+Sohail Tanvir
+1
+RV Uthappa
+5
+Shahid Afridi
+0
+5
+Mohammad Hafeez
+0
+8
+Shahid Afridi
+0
+11
+Mohammad Hafeez
+0
+13
+Shahid Afridi
+0
+7
+Umar Gul
+0
+9
+Mohammad Hafeez
+0
+7
+Umar Gul
+1
+Yuvraj Singh
+5
+Shahid Afridi
+0
+4
+Umar Gul
+1
+MS Dhoni
+6
+Yasir Arafat
+0
+10
+Umar Gul
+1
+G Gambhir
+13
+Yasir Arafat
+0
+14
+Sohail Tanvir
+0
+2nd innings
+Pakistan
+4
+RP Singh
+1
+Mohammad Hafeez
+21
+S Sreesanth
+0
+6
+RP Singh
+1
+Kamran Akmal
+0
+S Sreesanth
+0
+13
+RP Singh
+0
+9
+S Sreesanth
+1
+Imran Nazir
+5
+Joginder Sharma
+0
+5
+YK Pathan
+0
+2
+Joginder Sharma
+1
+Younis Khan
+5
+IK Pathan
+0
+6
+Joginder Sharma
+0
+2
+IK Pathan
+2
+Shoaib Malik
+Shahid Afridi
+10
+Harbhajan Singh
+0
+4
+IK Pathan
+0
+7
+Harbhajan Singh
+0
+5
+IK Pathan
+1
+Yasir Arafat
+19
+Harbhajan Singh
+0
+15
+S Sreesanth
+1
+Sohail Tanvir
+7
+RP Singh
+1
+Umar Gul
+7
+Joginder Sharma
+1
+Misbah-ul-Haq

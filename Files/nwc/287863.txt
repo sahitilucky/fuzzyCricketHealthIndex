@@ -1,0 +1,138 @@
+Johannesburg
+2007-09-15
+wickets: 7
+winner: Sri Lanka
+New Zealand
+Sri Lanka
+venue: New Wanderers Stadium
+1st innings
+New Zealand
+3
+WPUJC Vaas
+0
+8
+CRD Fernando
+0
+8
+WPUJC Vaas
+0
+3
+CRD Fernando
+1
+BB McCullum
+3
+WPUJC Vaas
+0
+13
+CRD Fernando
+1
+L Vincent
+13
+WPUJC Vaas
+0
+8
+ST Jayasuriya
+0
+15
+G Wijekoon
+0
+6
+ST Jayasuriya
+0
+15
+G Wijekoon
+1
+PG Fulton
+4
+ST Jayasuriya
+1
+SB Styris
+4
+SL Malinga
+1
+CD McMillan
+9
+ST Jayasuriya
+0
+6
+SL Malinga
+0
+10
+G Wijekoon
+0
+13
+SL Malinga
+0
+7
+CRD Fernando
+0
+6
+SL Malinga
+1
+LRPL Taylor
+10
+G Wijekoon
+1
+DL Vettori
+2nd innings
+Sri Lanka
+9
+SE Bond
+0
+11
+CS Martin
+0
+15
+SE Bond
+0
+7
+CS Martin
+0
+11
+SE Bond
+0
+7
+CS Martin
+0
+20
+MR Gillespie
+0
+3
+DL Vettori
+1
+WU Tharanga
+3
+SB Styris
+0
+4
+DL Vettori
+0
+7
+SB Styris
+0
+5
+DL Vettori
+0
+10
+SB Styris
+1
+KC Sangakkara
+13
+JDP Oram
+0
+10
+SE Bond
+0
+12
+JDP Oram
+0
+4
+MR Gillespie
+0
+11
+DL Vettori
+1
+ST Jayasuriya
+6
+MR Gillespie
+0

@@ -1,0 +1,144 @@
+Johannesburg
+2006-12-01
+wickets: 6
+winner: India
+South Africa
+India
+venue: New Wanderers Stadium
+1st innings
+South Africa
+2
+Z Khan
+0
+13
+S Sreesanth
+0
+4
+Z Khan
+1
+LE Bosman
+5
+S Sreesanth
+0
+7
+Z Khan
+0
+0
+AB Agarkar
+1
+HH Gibbs
+3
+Z Khan
+1
+GC Smith
+7
+AB Agarkar
+1
+AB de Villiers
+8
+IK Pathan
+0
+8
+AB Agarkar
+0
+5
+IK Pathan
+0
+2
+SR Tendulkar
+1
+JM Kemp
+12
+IK Pathan
+0
+7
+S Sreesanth
+0
+11
+Harbhajan Singh
+0
+9
+S Sreesanth
+1
+JA Morkel
+5
+Harbhajan Singh
+0
+5
+IK Pathan
+0
+7
+Harbhajan Singh
+2
+RJ Peterson
+JJ van der Wath
+6
+SR Tendulkar
+1
+T Henderson
+2nd innings
+India
+4
+JJ van der Wath
+0
+4
+CK Langeveldt
+0
+1
+JJ van der Wath
+0
+8
+CK Langeveldt
+1
+SR Tendulkar
+7
+JJ van der Wath
+0
+5
+R Telemachus
+0
+11
+T Henderson
+0
+12
+R Telemachus
+0
+8
+T Henderson
+0
+5
+CK Langeveldt
+1
+V Sehwag
+6
+T Henderson
+0
+4
+CK Langeveldt
+1
+MS Dhoni
+6
+T Henderson
+0
+8
+JA Morkel
+0
+5
+R Telemachus
+0
+4
+JA Morkel
+0
+10
+R Telemachus
+0
+3
+RJ Peterson
+1
+D Mongia
+7
+JJ van der Wath
+0
+9
+RJ Peterson
+0

@@ -1,0 +1,146 @@
+Nottingham
+2009-06-16
+runs: 48
+winner: Sri Lanka
+New Zealand
+Sri Lanka
+venue: Trent Bridge
+1st innings
+Sri Lanka
+9
+NL McCullum
+1
+ST Jayasuriya
+6
+KD Mills
+0
+4
+JDP Oram
+0
+8
+KD Mills
+1
+LPC Silva
+12
+IG Butler
+0
+12
+KD Mills
+0
+3
+NL McCullum
+0
+12
+DL Vettori
+0
+5
+NL McCullum
+0
+9
+SB Styris
+0
+5
+NL McCullum
+0
+3
+DL Vettori
+1
+TM Dilshan
+6
+JDP Oram
+0
+11
+DL Vettori
+0
+4
+JDP Oram
+0
+15
+KD Mills
+0
+8
+IG Butler
+0
+7
+DL Vettori
+1
+KC Sangakkara
+9
+IG Butler
+1
+J Mubarak
+10
+JDP Oram
+0
+2nd innings
+New Zealand
+6
+I Udana
+0
+20
+ST Jayasuriya
+0
+4
+I Udana
+1
+BB McCullum
+8
+M Muralitharan
+0
+5
+SL Malinga
+1
+AJ Redmond
+3
+BAW Mendis
+0
+14
+SL Malinga
+0
+4
+M Muralitharan
+0
+2
+BAW Mendis
+2
+LRPL Taylor
+SB Styris
+11
+TM Dilshan
+0
+5
+ST Jayasuriya
+0
+4
+M Muralitharan
+0
+7
+I Udana
+1
+JDP Oram
+3
+ST Jayasuriya
+1
+MJ Guptill
+4
+BAW Mendis
+1
+PD McGlashan
+2
+M Muralitharan
+2
+NL McCullum
+DL Vettori
+8
+SL Malinga
+1
+KD Mills
+0
+SL Malinga
+0
+0
+SL Malinga
+0
+0
+SL Malinga
+0

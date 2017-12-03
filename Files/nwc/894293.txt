@@ -1,0 +1,144 @@
+none
+2015-08-09
+runs: 80
+winner: New Zealand
+Zimbabwe
+New Zealand
+venue: Harare Sports Club
+1st innings
+New Zealand
+15
+P Utseya
+0
+10
+T Muzarabani
+0
+1
+CB Mpofu
+0
+11
+T Muzarabani
+1
+KS Williamson
+7
+CB Mpofu
+0
+5
+CJ Chibhabha
+0
+7
+SC Williams
+0
+17
+CJ Chibhabha
+0
+4
+SC Williams
+1
+MJ Guptill
+10
+AG Cremer
+0
+6
+Sikandar Raza
+0
+4
+AG Cremer
+1
+GD Elliott
+15
+P Utseya
+0
+14
+AG Cremer
+0
+11
+Sikandar Raza
+0
+5
+SC Williams
+1
+GH Worker
+15
+Sikandar Raza
+0
+12
+SC Williams
+1
+L Ronchi
+13
+T Muzarabani
+0
+16
+CB Mpofu
+0
+2nd innings
+Zimbabwe
+1
+AF Milne
+0
+7
+MJ McClenaghan
+0
+4
+AF Milne
+1
+H Masakadza
+4
+JDS Neesham
+1
+CJ Chibhabha
+3
+AF Milne
+0
+9
+MJ McClenaghan
+1
+Sikandar Raza
+6
+NL McCullum
+1
+E Chigumbura
+4
+IS Sodhi
+0
+8
+NL McCullum
+0
+4
+IS Sodhi
+0
+8
+NL McCullum
+0
+6
+IS Sodhi
+1
+SC Williams
+4
+NL McCullum
+0
+5
+JDS Neesham
+0
+11
+MJ McClenaghan
+0
+2
+IS Sodhi
+0
+3
+AF Milne
+1
+RW Chakabva
+12
+JDS Neesham
+0
+6
+MJ McClenaghan
+1
+AG Cremer
+11
+GD Elliott
+1
+CR Ervine

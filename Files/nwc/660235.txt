@@ -1,0 +1,148 @@
+Abu Dhabi
+2013-11-30
+runs: 68
+winner: Ireland
+Afghanistan
+Ireland
+venue: Sheikh Zayed Stadium
+1st innings
+Ireland
+11
+Shapoor Zadran
+0
+15
+Dawlat Zadran
+0
+11
+Samiullah Shenwari
+0
+15
+Dawlat Zadran
+0
+11
+Samiullah Shenwari
+0
+19
+Hamza Hotak
+1
+WTS Porterfield
+9
+Shapoor Zadran
+0
+7
+Hamza Hotak
+0
+6
+Mohammad Nabi
+0
+11
+Karim Sadiq
+1
+KJ O'Brien
+6
+Mohammad Nabi
+0
+8
+Karim Sadiq
+0
+20
+Mohammad Nabi
+0
+15
+Mirwais Ashraf
+0
+9
+Hamza Hotak
+1
+PR Stirling
+10
+Dawlat Zadran
+1
+GC Wilson
+11
+Shapoor Zadran
+0
+17
+Dawlat Zadran
+0
+10
+Shapoor Zadran
+2
+JF Mooney
+DT Johnston
+4
+Hamza Hotak
+1
+JNK Shannon
+2nd innings
+Afghanistan
+14
+MC Sorensen
+0
+13
+TJ Murtagh
+0
+9
+AR Cusack
+0
+5
+GH Dockrell
+1
+Nawroz Mangal
+17
+DT Johnston
+0
+16
+GH Dockrell
+1
+Mohammad Shahzad
+2
+AR Cusack
+2
+Mohammad Nabi
+Karim Sadiq
+4
+PR Stirling
+0
+3
+MC Sorensen
+0
+18
+PR Stirling
+0
+2
+MC Sorensen
+1
+Mirwais Ashraf
+16
+GH Dockrell
+0
+10
+DT Johnston
+2
+Gulbadin Naib
+Samiullah Shenwari
+10
+TJ Murtagh
+1
+Dawlat Zadran
+0
+DT Johnston
+0
+3
+MC Sorensen
+0
+7
+DT Johnston
+1
+Najibullah Zadran
+7
+AR Cusack
+0
+1
+TJ Murtagh
+1
+Shapoor Zadran
+0
+TJ Murtagh
+0

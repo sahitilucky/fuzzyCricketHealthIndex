@@ -1,0 +1,131 @@
+Barbados
+2010-05-16
+wickets: 7
+winner: England
+Australia
+England
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+Australia
+6
+RJ Sidebottom
+1
+SR Watson
+2
+TT Bresnan
+1
+DA Warner
+2
+RJ Sidebottom
+1
+BJ Haddin
+6
+SCJ Broad
+0
+7
+RJ Sidebottom
+0
+1
+SCJ Broad
+0
+10
+TT Bresnan
+0
+4
+GP Swann
+0
+6
+MH Yardy
+0
+3
+GP Swann
+1
+MJ Clarke
+7
+MH Yardy
+0
+5
+GP Swann
+0
+21
+MH Yardy
+0
+5
+GP Swann
+0
+7
+TT Bresnan
+0
+5
+LJ Wright
+1
+CL White
+17
+TT Bresnan
+0
+14
+SCJ Broad
+0
+12
+RJ Sidebottom
+0
+7
+SCJ Broad
+1
+DJ Hussey
+2nd innings
+England
+3
+DP Nannes
+0
+4
+SW Tait
+1
+MJ Lumb
+8
+DP Nannes
+0
+9
+SW Tait
+0
+12
+MG Johnson
+0
+5
+DP Nannes
+0
+8
+MG Johnson
+0
+7
+SPD Smith
+0
+12
+SR Watson
+0
+5
+MG Johnson
+0
+16
+SR Watson
+0
+15
+SW Tait
+0
+14
+DP Nannes
+0
+3
+SPD Smith
+1
+KP Pietersen
+2
+MG Johnson
+1
+C Kieswetter
+11
+SPD Smith
+0
+14
+SR Watson
+0

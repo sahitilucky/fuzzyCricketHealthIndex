@@ -1,0 +1,97 @@
+Guyana
+2010-05-04
+runs: 7
+method: D/L
+New Zealand
+Zimbabwe
+venue: Providence Stadium
+1st innings
+Zimbabwe
+8
+NL McCullum
+0
+6
+SE Bond
+0
+6
+TG Southee
+0
+8
+SE Bond
+0
+13
+TG Southee
+1
+T Taibu
+13
+JDP Oram
+0
+5
+NL McCullum
+1
+H Masakadza
+3
+DL Vettori
+1
+AM Blignaut
+1
+NL McCullum
+3
+E Chigumbura
+CK Coventry
+CR Ervine
+3
+DL Vettori
+0
+2
+NL McCullum
+0
+4
+DL Vettori
+0
+2
+SB Styris
+3
+T Maruma
+AG Cremer
+P Utseya
+6
+SE Bond
+0
+4
+SB Styris
+0
+0
+DL Vettori
+1
+RW Price
+2nd innings
+New Zealand
+6
+P Utseya
+0
+1
+RW Price
+0
+0
+P Utseya
+1
+JD Ryder
+3
+RW Price
+0
+9
+P Utseya
+0
+7
+RW Price
+0
+6
+P Utseya
+0
+3
+RW Price
+0
+1
+GA Lamb
+0

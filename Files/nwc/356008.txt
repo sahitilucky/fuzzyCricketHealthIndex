@@ -1,0 +1,124 @@
+London
+2009-06-13
+wickets: 6
+winner: Pakistan
+New Zealand
+Pakistan
+venue: Kennington Oval
+1st innings
+New Zealand
+14
+Mohammad Amir
+0
+3
+Abdul Razzaq
+1
+BB McCullum
+6
+Mohammad Amir
+0
+10
+Abdul Razzaq
+0
+3
+Mohammad Amir
+1
+AJ Redmond
+1
+Abdul Razzaq
+1
+MJ Guptill
+4
+Saeed Ajmal
+0
+2
+Shahid Afridi
+0
+11
+Saeed Ajmal
+0
+2
+Shahid Afridi
+1
+JDP Oram
+8
+Shoaib Malik
+0
+8
+Shahid Afridi
+0
+2
+Umar Gul
+2
+SB Styris
+PD McGlashan
+6
+Shahid Afridi
+0
+4
+Saeed Ajmal
+0
+4
+Umar Gul
+1
+NL McCullum
+5
+Saeed Ajmal
+0
+2
+Umar Gul
+2
+JEC Franklin
+KD Mills
+4
+Abdul Razzaq
+1
+DL Vettori
+2nd innings
+Pakistan
+7
+KD Mills
+0
+6
+JEC Franklin
+0
+6
+KD Mills
+0
+11
+DL Vettori
+0
+10
+KD Mills
+1
+Kamran Akmal
+14
+IG Butler
+0
+5
+KD Mills
+0
+2
+DL Vettori
+1
+Abdul Razzaq
+9
+NL McCullum
+1
+Shahzaib Hasan
+3
+DL Vettori
+1
+Shoaib Malik
+8
+IG Butler
+0
+4
+DL Vettori
+0
+13
+JEC Franklin
+0
+2
+NL McCullum
+0

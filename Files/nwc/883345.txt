@@ -1,0 +1,146 @@
+Rotterdam
+2015-07-02
+runs: 18
+winner: Netherlands
+Netherlands
+Nepal
+venue: Hazelaarweg
+1st innings
+Netherlands
+12
+Sompal Kami
+0
+4
+Sagar Pun
+0
+5
+Sompal Kami
+0
+4
+Sagar Pun
+0
+4
+Karan KC
+0
+8
+Sagar Pun
+0
+7
+Karan KC
+1
+RI Ahmed
+8
+Sagar Pun
+1
+BN Cooper
+6
+B Regmi
+0
+5
+SP Gauchan
+0
+11
+B Regmi
+0
+10
+SP Gauchan
+1
+W Barresi
+9
+P Khadka
+0
+7
+B Regmi
+1
+PW Borren
+7
+SP Gauchan
+0
+5
+B Regmi
+1
+PM Seelaar
+8
+SP Gauchan
+0
+7
+Sompal Kami
+0
+13
+Karan KC
+1
+MP O'Dowd
+9
+Sompal Kami
+0
+2nd innings
+Nepal
+7
+MB van Schelven
+0
+3
+T van der Gugten
+1
+Sagar Pun
+4
+MB van Schelven
+0
+3
+T van der Gugten
+0
+2
+PA van Meekeren
+0
+6
+MAA Jamil
+0
+9
+PA van Meekeren
+0
+7
+PM Seelaar
+0
+2
+MB van Schelven
+1
+G Malla
+11
+PM Seelaar
+1
+SP Khakurel
+2
+PA van Meekeren
+0
+4
+PW Borren
+1
+B Bhandari
+5
+MAA Jamil
+0
+7
+PW Borren
+0
+12
+T van der Gugten
+0
+13
+PW Borren
+0
+9
+PA van Meekeren
+0
+6
+MAA Jamil
+1
+S Vesawkar
+15
+T van der Gugten
+1
+P Khadka
+4
+MAA Jamil
+3
+PS Airee
+B Regmi
+Sompal Kami

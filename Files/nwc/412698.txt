@@ -1,0 +1,144 @@
+St Lucia
+2010-05-10
+wickets: 3
+winner: England
+England
+New Zealand
+venue: 'Beausejour Stadium, Gros Islet'
+1st innings
+New Zealand
+1
+TT Bresnan
+0
+8
+RJ Sidebottom
+0
+11
+TT Bresnan
+0
+9
+SCJ Broad
+0
+3
+TT Bresnan
+1
+JD Ryder
+7
+SCJ Broad
+0
+5
+GP Swann
+0
+6
+MH Yardy
+0
+9
+GP Swann
+1
+AJ Redmond
+4
+MH Yardy
+0
+5
+GP Swann
+1
+BB McCullum
+9
+MH Yardy
+0
+12
+GP Swann
+0
+12
+RJ Sidebottom
+0
+11
+SCJ Broad
+0
+6
+MH Yardy
+0
+8
+RJ Sidebottom
+0
+7
+SCJ Broad
+2
+SB Styris
+GJ Hopkins
+9
+RJ Sidebottom
+1
+LRPL Taylor
+7
+TT Bresnan
+0
+2nd innings
+England
+13
+NL McCullum
+0
+9
+SE Bond
+0
+6
+KD Mills
+1
+C Kieswetter
+10
+SE Bond
+0
+8
+KD Mills
+0
+11
+DL Vettori
+0
+3
+SB Styris
+1
+RS Bopara
+2
+DL Vettori
+1
+MJ Lumb
+4
+SB Styris
+1
+PD Collingwood
+2
+DL Vettori
+0
+9
+SB Styris
+0
+10
+IG Butler
+0
+8
+NL McCullum
+0
+9
+DL Vettori
+0
+13
+NL McCullum
+0
+6
+SE Bond
+1
+LJ Wright
+14
+KD Mills
+0
+9
+SE Bond
+1
+EJG Morgan
+3
+NL McCullum
+1
+MH Yardy
+4
+KD Mills
+0

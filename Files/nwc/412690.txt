@@ -1,0 +1,142 @@
+Barbados
+2010-05-06
+runs: 13
+winner: South Africa
+New Zealand
+South Africa
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+South Africa
+6
+NL McCullum
+0
+13
+SE Bond
+0
+8
+NL McCullum
+0
+6
+SE Bond
+0
+8
+TG Southee
+1
+GC Smith
+7
+JDP Oram
+0
+3
+DL Vettori
+0
+4
+JDP Oram
+1
+JH Kallis
+6
+DL Vettori
+0
+5
+SB Styris
+0
+4
+DL Vettori
+0
+9
+SB Styris
+0
+11
+JDP Oram
+0
+10
+NL McCullum
+1
+HH Gibbs
+8
+DL Vettori
+0
+11
+NL McCullum
+0
+14
+TG Southee
+0
+11
+SE Bond
+0
+21
+TG Southee
+0
+5
+SE Bond
+1
+JA Morkel
+2nd innings
+New Zealand
+7
+CK Langeveldt
+1
+BB McCullum
+3
+DW Steyn
+0
+15
+CK Langeveldt
+0
+8
+DW Steyn
+0
+3
+M Morkel
+0
+3
+JH Kallis
+0
+10
+M Morkel
+0
+3
+J Botha
+1
+MJ Guptill
+8
+JH Kallis
+0
+7
+J Botha
+1
+JD Ryder
+6
+JH Kallis
+0
+14
+J Botha
+0
+2
+M Morkel
+1
+LRPL Taylor
+11
+JH Kallis
+0
+9
+CK Langeveldt
+1
+SB Styris
+8
+DW Steyn
+1
+JDP Oram
+12
+M Morkel
+1
+GJ Hopkins
+6
+DW Steyn
+0
+9
+CK Langeveldt
+0
+13
+JA Morkel
+0

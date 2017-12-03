@@ -1,0 +1,149 @@
+Abu Dhabi
+2016-02-14
+runs: 34
+winner: Ireland
+United Arab Emirates
+Ireland
+venue: Sheikh Zayed Stadium
+1st innings
+Ireland
+11
+Mohammad Naveed
+0
+1
+Qadeer Ahmed
+0
+4
+Mohammad Naveed
+1
+WTS Porterfield
+0
+Qadeer Ahmed
+1
+SW Poynter
+3
+Amjad Javed
+2
+PR Stirling
+GC Wilson
+1
+Qadeer Ahmed
+0
+9
+Amjad Javed
+0
+3
+Mohammad Shahzad (2)
+0
+9
+Zaheer Maqsood
+0
+5
+Mohammad Shahzad (2)
+0
+12
+Zaheer Maqsood
+0
+8
+Mohammad Shahzad (2)
+0
+8
+Rohan Mustafa
+1
+NJ O'Brien
+3
+Mohammad Shahzad (2)
+1
+AR McBrine
+7
+Rohan Mustafa
+0
+6
+Mohammad Naveed
+1
+KJ O'Brien
+9
+Rohan Mustafa
+0
+9
+Amjad Javed
+1
+MC Sorensen
+6
+Mohammad Naveed
+0
+20
+Amjad Javed
+0
+2nd innings
+United Arab Emirates
+3
+TJ Murtagh
+1
+Mohammad Shahzad (2)
+5
+CA Young
+1
+Rohan Mustafa
+5
+TJ Murtagh
+0
+3
+WB Rankin
+1
+Muhammad Usman
+7
+MC Sorensen
+0
+8
+WB Rankin
+1
+SP Patil
+5
+MC Sorensen
+0
+10
+CA Young
+0
+2
+KJ O'Brien
+1
+Amjad Javed
+3
+WB Rankin
+0
+5
+KJ O'Brien
+0
+5
+CA Young
+0
+1
+KJ O'Brien
+2
+Saqlain Haider
+Shaiman Anwar
+2
+WB Rankin
+0
+6
+KJ O'Brien
+0
+11
+MC Sorensen
+0
+3
+TJ Murtagh
+1
+Fahad Tariq
+6
+CA Young
+1
+Zaheer Maqsood
+9
+TJ Murtagh
+0
+1
+MC Sorensen
+1
+Mohammad Naveed

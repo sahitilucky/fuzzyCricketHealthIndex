@@ -1,0 +1,146 @@
+Southampton
+2006-06-15
+runs: 2
+winner: Sri Lanka
+England
+Sri Lanka
+venue: The Rose Bowl
+1st innings
+Sri Lanka
+5
+TT Bresnan
+0
+5
+SJ Harmison
+0
+15
+TT Bresnan
+0
+8
+SJ Harmison
+0
+13
+SI Mahmood
+0
+12
+LE Plunkett
+0
+10
+SI Mahmood
+0
+7
+PD Collingwood
+1
+WU Tharanga
+7
+JWM Dalrymple
+1
+DPMD Jayawardene
+2
+PD Collingwood
+1
+ST Jayasuriya
+11
+JWM Dalrymple
+1
+TM Dilshan
+7
+PD Collingwood
+1
+RP Arnold
+9
+SJ Harmison
+0
+7
+PD Collingwood
+1
+KC Sangakkara
+8
+SJ Harmison
+0
+11
+LE Plunkett
+1
+MF Maharoof
+4
+SI Mahmood
+0
+10
+LE Plunkett
+0
+7
+SI Mahmood
+1
+CK Kapugedera
+5
+LE Plunkett
+2
+SL Malinga
+CRD Fernando
+2nd innings
+England
+7
+PDRL Perera
+0
+3
+SL Malinga
+0
+5
+PDRL Perera
+0
+8
+SL Malinga
+0
+19
+PDRL Perera
+0
+7
+CRD Fernando
+0
+8
+MF Maharoof
+0
+4
+CRD Fernando
+1
+AJ Strauss
+4
+MF Maharoof
+0
+7
+CRD Fernando
+0
+9
+MF Maharoof
+0
+8
+ST Jayasuriya
+1
+KP Pietersen
+9
+MF Maharoof
+0
+9
+ST Jayasuriya
+0
+7
+TM Dilshan
+1
+PD Collingwood
+6
+ST Jayasuriya
+1
+JWM Dalrymple
+11
+TM Dilshan
+0
+14
+SL Malinga
+0
+10
+ST Jayasuriya
+1
+ME Trescothick
+6
+CRD Fernando
+0

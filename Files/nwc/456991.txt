@@ -1,0 +1,148 @@
+Lauderhill
+2010-05-22
+runs: 28
+winner: New Zealand
+New Zealand
+Sri Lanka
+venue: Central Broward Regional Park Stadium Turf Ground
+1st innings
+New Zealand
+6
+AD Mathews
+0
+3
+KMDN Kulasekara
+0
+6
+AD Mathews
+0
+12
+KMDN Kulasekara
+1
+BB McCullum
+5
+AD Mathews
+1
+AJ Redmond
+1
+SL Malinga
+0
+4
+S Randiv
+0
+6
+NLTC Perera
+0
+8
+S Randiv
+1
+RJ Nicol
+3
+NLTC Perera
+0
+4
+BAW Mendis
+0
+7
+SL Malinga
+0
+7
+BAW Mendis
+1
+SB Styris
+7
+NLTC Perera
+1
+LRPL Taylor
+6
+BAW Mendis
+0
+9
+NLTC Perera
+0
+2
+BAW Mendis
+1
+MJ Guptill
+10
+SL Malinga
+0
+7
+KMDN Kulasekara
+0
+7
+SL Malinga
+1
+NL McCullum
+2nd innings
+Sri Lanka
+4
+KD Mills
+1
+DPMD Jayawardene
+9
+AJ McKay
+0
+6
+KD Mills
+0
+1
+AJ McKay
+0
+1
+KD Mills
+1
+TM Dilshan
+4
+TG Southee
+0
+3
+NL McCullum
+0
+3
+DL Vettori
+0
+16
+NL McCullum
+0
+3
+DL Vettori
+1
+KC Sangakkara
+6
+SB Styris
+0
+3
+DL Vettori
+0
+4
+SB Styris
+2
+AD Mathews
+CK Kapugedera
+4
+TG Southee
+0
+3
+SB Styris
+1
+NLTC Perera
+2
+DL Vettori
+0
+6
+KD Mills
+1
+KMDN Kulasekara
+7
+AJ McKay
+1
+S Randiv
+3
+TG Southee
+1
+SL Malinga
+4
+AJ McKay
+1
+BAW Mendis

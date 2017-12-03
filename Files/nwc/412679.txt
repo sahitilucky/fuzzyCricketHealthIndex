@@ -1,0 +1,127 @@
+St Lucia
+2010-05-01
+wickets: 7
+winner: India
+Afghanistan
+India
+venue: 'Beausejour Stadium, Gros Islet'
+1st innings
+Afghanistan
+3
+P Kumar
+0
+5
+A Nehra
+1
+Karim Sadiq
+10
+P Kumar
+0
+4
+A Nehra
+1
+Mohammad Shahzad
+7
+Z Khan
+0
+0
+RA Jadeja
+1
+Nowroz Mangal
+4
+Yuvraj Singh
+0
+2
+Harbhajan Singh
+0
+5
+RA Jadeja
+0
+3
+Harbhajan Singh
+0
+9
+RA Jadeja
+0
+5
+Harbhajan Singh
+0
+12
+YK Pathan
+0
+10
+Z Khan
+0
+2
+RA Jadeja
+0
+14
+Harbhajan Singh
+0
+2
+A Nehra
+1
+Noor Ali
+3
+P Kumar
+2
+Asghar Stanikzai
+Mohammad Nabi
+8
+A Nehra
+1
+Samiullah Shenwari
+7
+Z Khan
+1
+Hamid Hassan
+2nd innings
+India
+16
+Dawlat Ahmadzai
+0
+3
+Shapoor Zadran
+0
+5
+Dawlat Ahmadzai
+1
+G Gambhir
+3
+Shapoor Zadran
+0
+14
+Mohammad Nabi
+0
+6
+Samiullah Shenwari
+1
+SK Raina
+6
+Mohammad Nabi
+0
+5
+Samiullah Shenwari
+0
+6
+Karim Sadiq
+0
+3
+Hamid Hassan
+0
+16
+Karim Sadiq
+0
+5
+Hamid Hassan
+0
+13
+Mohammad Nabi
+0
+1
+Hamid Hassan
+1
+M Vijay
+14
+Nowroz Mangal
+0

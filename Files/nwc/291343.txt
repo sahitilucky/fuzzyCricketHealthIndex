@@ -1,0 +1,147 @@
+Perth
+2007-12-11
+runs: 54
+winner: Australia
+Australia
+New Zealand
+venue: Western Australia Cricket Association Ground
+1st innings
+Australia
+5
+KD Mills
+0
+0
+MR Gillespie
+1
+AC Gilchrist
+5
+KD Mills
+0
+15
+MR Gillespie
+0
+16
+KD Mills
+0
+7
+JDP Oram
+0
+7
+JS Patel
+1
+MEK Hussey
+5
+DL Vettori
+0
+8
+JS Patel
+0
+5
+DL Vettori
+1
+MJ Clarke
+10
+JDP Oram
+0
+7
+DL Vettori
+0
+15
+JDP Oram
+0
+14
+SB Styris
+0
+12
+JS Patel
+0
+9
+DL Vettori
+0
+13
+JS Patel
+1
+AC Voges
+16
+MR Gillespie
+0
+9
+KD Mills
+0
+8
+MR Gillespie
+2
+LA Pomersbach
+AA Noffke
+2nd innings
+New Zealand
+1
+B Lee
+1
+L Vincent
+5
+NW Bracken
+0
+12
+B Lee
+0
+3
+NW Bracken
+0
+3
+B Lee
+1
+BB McCullum
+5
+MG Johnson
+0
+1
+SW Tait
+2
+JM How
+LRPL Taylor
+1
+MG Johnson
+1
+MS Sinclair
+5
+SW Tait
+0
+13
+MG Johnson
+1
+SB Styris
+7
+SW Tait
+0
+3
+AA Noffke
+1
+DL Vettori
+6
+B Lee
+0
+11
+AA Noffke
+1
+KD Mills
+9
+SW Tait
+0
+19
+A Symonds
+0
+0
+AA Noffke
+1
+MR Gillespie
+24
+A Symonds
+0
+4
+AA Noffke
+1
+JS Patel
+0
+AA Noffke
+0

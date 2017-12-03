@@ -1,0 +1,127 @@
+Centurion
+2014-03-14
+wickets: 6
+winner: Australia
+South Africa
+Australia
+venue: SuperSport Park
+1st innings
+South Africa
+0
+MA Starc
+0
+13
+NM Coulter-Nile
+0
+3
+MA Starc
+1
+HM Amla
+6
+GJ Maxwell
+1
+F du Plessis
+6
+MC Henriques
+0
+6
+GJ Maxwell
+0
+9
+GB Hogg
+0
+3
+GJ Maxwell
+1
+JP Duminy
+10
+GB Hogg
+0
+3
+NM Coulter-Nile
+0
+9
+GB Hogg
+1
+AB de Villiers
+4
+GJ Maxwell
+0
+5
+MC Henriques
+1
+DA Miller
+4
+GB Hogg
+1
+Q de Kock
+5
+MC Henriques
+0
+11
+SR Watson
+0
+7
+MA Starc
+1
+JA Morkel
+6
+NM Coulter-Nile
+0
+6
+MA Starc
+0
+12
+NM Coulter-Nile
+0
+2nd innings
+Australia
+10
+JP Duminy
+0
+8
+LL Tsotsobe
+0
+9
+BE Hendricks
+0
+11
+LL Tsotsobe
+0
+9
+WD Parnell
+1
+CL White
+8
+BE Hendricks
+0
+4
+Imran Tahir
+0
+8
+JA Morkel
+0
+2
+Imran Tahir
+1
+AJ Finch
+6
+WD Parnell
+0
+10
+Imran Tahir
+0
+18
+JA Morkel
+0
+4
+BE Hendricks
+1
+GJ Maxwell
+5
+Imran Tahir
+1
+SR Watson
+17
+JP Duminy
+0

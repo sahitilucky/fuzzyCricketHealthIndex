@@ -1,0 +1,146 @@
+Colombo
+2012-09-21
+runs: 116
+winner: England
+Afghanistan
+England
+venue: R Premadasa Stadium
+1st innings
+England
+0
+Shapoor Zadran
+1
+C Kieswetter
+5
+Dawlat Zadran
+0
+5
+Shapoor Zadran
+0
+5
+Dawlat Zadran
+0
+23
+Shapoor Zadran
+0
+14
+Izatullah Dawlatzai
+0
+4
+Samiullah Shenwari
+0
+4
+Karim Sadiq
+0
+9
+Samiullah Shenwari
+0
+5
+Karim Sadiq
+1
+AD Hales
+5
+Samiullah Shenwari
+0
+5
+Mohammad Nabi
+0
+15
+Samiullah Shenwari
+0
+6
+Mohammad Nabi
+0
+4
+Dawlat Zadran
+0
+22
+Mohammad Nabi
+0
+10
+Izatullah Dawlatzai
+1
+EJG Morgan
+14
+Mohammad Nabi
+0
+32
+Izatullah Dawlatzai
+1
+JC Buttler
+9
+Dawlat Zadran
+1
+JM Bairstow
+2nd innings
+Afghanistan
+2
+ST Finn
+1
+Mohammad Shahzad
+2
+JW Dernbach
+1
+Shafiqullah
+8
+ST Finn
+0
+5
+SCJ Broad
+1
+Nawroz Mangal
+5
+ST Finn
+0
+0
+SCJ Broad
+2
+Karim Sadiq
+Asghar Stanikzai
+3
+SR Patel
+0
+0
+GP Swann
+1
+Samiullah Shenwari
+1
+SR Patel
+2
+Mohammad Nabi
+Dawlat Zadran
+0
+GP Swann
+0
+2
+SR Patel
+0
+16
+GP Swann
+0
+1
+LJ Wright
+0
+5
+SCJ Broad
+0
+14
+JW Dernbach
+0
+6
+GP Swann
+1
+Shapoor Zadran
+10
+ST Finn
+0
+0
+JW Dernbach
+1
+Gulbodin Naib
+0
+JW Dernbach
+0
+0
+JW Dernbach
+0

@@ -1,0 +1,142 @@
+Wellington
+2009-02-27
+wickets: 5
+winner: New Zealand
+New Zealand
+India
+venue: Westpac Stadium
+1st innings
+India
+2
+TG Southee
+0
+12
+IE O'Brien
+0
+14
+TG Southee
+0
+1
+IE O'Brien
+1
+V Sehwag
+8
+IG Butler
+1
+SK Raina
+10
+IE O'Brien
+0
+8
+IG Butler
+1
+G Gambhir
+4
+DL Vettori
+0
+2
+JD Ryder
+0
+3
+DL Vettori
+0
+9
+JD Ryder
+0
+13
+DL Vettori
+0
+7
+IE O'Brien
+1
+Yuvraj Singh
+2
+DL Vettori
+1
+YK Pathan
+3
+JD Ryder
+0
+11
+IG Butler
+0
+13
+TG Southee
+1
+RA Jadeja
+4
+JD Ryder
+0
+7
+TG Southee
+0
+16
+IG Butler
+0
+2nd innings
+New Zealand
+7
+IK Pathan
+0
+8
+Z Khan
+0
+18
+IK Pathan
+0
+12
+I Sharma
+0
+8
+Z Khan
+1
+JD Ryder
+7
+I Sharma
+0
+3
+Harbhajan Singh
+0
+4
+RA Jadeja
+0
+2
+Harbhajan Singh
+1
+MJ Guptill
+2
+RA Jadeja
+0
+8
+Harbhajan Singh
+0
+8
+RA Jadeja
+0
+3
+Harbhajan Singh
+0
+9
+RA Jadeja
+0
+10
+Z Khan
+0
+6
+Yuvraj Singh
+0
+7
+Z Khan
+0
+5
+IK Pathan
+2
+LRPL Taylor
+JDP Oram
+11
+Yuvraj Singh
+1
+NT Broom
+12
+IK Pathan
+0

@@ -1,0 +1,139 @@
+Cape Town
+2016-03-09
+wickets: 6
+winner: Australia
+South Africa
+Australia
+venue: Newlands
+1st innings
+South Africa
+11
+NM Coulter-Nile
+0
+3
+JW Hastings
+0
+18
+SR Watson
+0
+15
+JW Hastings
+0
+11
+NM Coulter-Nile
+1
+Q de Kock
+10
+JP Faulkner
+0
+3
+A Zampa
+0
+4
+SR Watson
+1
+F du Plessis
+6
+A Zampa
+0
+6
+GJ Maxwell
+0
+6
+A Zampa
+0
+8
+JP Faulkner
+0
+8
+A Zampa
+0
+10
+GJ Maxwell
+0
+4
+NM Coulter-Nile
+1
+RR Rossouw
+8
+GJ Maxwell
+0
+10
+JP Faulkner
+0
+10
+JW Hastings
+0
+11
+NM Coulter-Nile
+0
+16
+JP Faulkner
+1
+DA Miller
+2nd innings
+Australia
+5
+DW Steyn
+0
+11
+K Rabada
+0
+7
+DW Steyn
+0
+6
+KJ Abbott
+0
+10
+K Rabada
+0
+12
+KJ Abbott
+0
+16
+Imran Tahir
+0
+7
+D Wiese
+0
+5
+Imran Tahir
+2
+SR Watson
+UT Khawaja
+7
+JP Duminy
+0
+11
+Imran Tahir
+0
+11
+JP Duminy
+0
+8
+DW Steyn
+0
+16
+D Wiese
+0
+6
+Imran Tahir
+0
+9
+KJ Abbott
+0
+9
+K Rabada
+0
+11
+DW Steyn
+1
+DA Warner
+9
+K Rabada
+1
+SPD Smith
+5
+KJ Abbott
+0

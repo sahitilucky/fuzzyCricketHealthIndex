@@ -1,0 +1,147 @@
+Wellington
+2016-01-22
+runs: 95
+winner: New Zealand
+New Zealand
+Pakistan
+venue: Westpac Stadium
+1st innings
+New Zealand
+16
+Anwar Ali
+0
+7
+Mohammad Amir
+0
+17
+Imad Wasim
+0
+6
+Mohammad Amir
+0
+6
+Wahab Riaz
+0
+5
+Shahid Afridi
+1
+MJ Guptill
+6
+Anwar Ali
+1
+C Munro
+2
+Shahid Afridi
+0
+9
+Anwar Ali
+0
+11
+Shahid Afridi
+0
+9
+Wahab Riaz
+1
+KS Williamson
+16
+Shoaib Malik
+1
+LRPL Taylor
+5
+Imad Wasim
+0
+9
+Shahid Afridi
+0
+5
+Imad Wasim
+0
+15
+Mohammad Amir
+0
+15
+Wahab Riaz
+0
+16
+Imad Wasim
+1
+GD Elliott
+13
+Wahab Riaz
+1
+L Ronchi
+8
+Mohammad Amir
+0
+2nd innings
+Pakistan
+7
+CJ Anderson
+0
+7
+TA Boult
+1
+Mohammad Hafeez
+3
+CJ Anderson
+2
+Ahmed Shehzad
+Mohammad Rizwan
+14
+TA Boult
+0
+7
+CJ Anderson
+1
+Shoaib Malik
+4
+AF Milne
+0
+7
+MJ Santner
+0
+6
+MJ McClenaghan
+0
+0
+AF Milne
+1
+Umar Akmal
+7
+MJ McClenaghan
+0
+11
+TA Boult
+0
+4
+GD Elliott
+2
+Shahid Afridi
+Imad Wasim
+13
+C Munro
+0
+3
+GD Elliott
+1
+Sarfraz Ahmed
+5
+AF Milne
+1
+Anwar Ali
+3
+MJ McClenaghan
+0
+0
+AF Milne
+1
+Wahab Riaz
+0
+AF Milne
+0
+0
+AF Milne
+0
+0
+AF Milne
+0

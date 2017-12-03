@@ -1,0 +1,144 @@
+none
+2012-08-07
+runs: 39
+winner: India
+Sri Lanka
+India
+venue: Pallekele International Cricket Stadium
+1st innings
+India
+7
+AD Mathews
+0
+1
+RMS Eranga
+1
+G Gambhir
+12
+AD Mathews
+0
+12
+RMS Eranga
+0
+6
+SL Malinga
+0
+12
+NLTC Perera
+0
+5
+HMRKB Herath
+0
+8
+NLTC Perera
+0
+4
+HMRKB Herath
+0
+4
+BMAJ Mendis
+0
+8
+HMRKB Herath
+0
+9
+BMAJ Mendis
+1
+AM Rahane
+16
+RMS Eranga
+0
+6
+SL Malinga
+0
+10
+NLTC Perera
+0
+4
+AD Mathews
+0
+6
+RMS Eranga
+1
+V Kohli
+12
+SL Malinga
+0
+4
+NLTC Perera
+0
+9
+SL Malinga
+0
+2nd innings
+Sri Lanka
+9
+IK Pathan
+1
+TM Dilshan
+5
+UT Yadav
+0
+4
+IK Pathan
+1
+WU Tharanga
+17
+UT Yadav
+0
+4
+IK Pathan
+1
+DPMD Jayawardene
+13
+AB Dinda
+0
+4
+V Kohli
+0
+9
+RG Sharma
+0
+3
+V Kohli
+0
+4
+R Ashwin
+1
+HDRL Thirimanne
+6
+V Kohli
+0
+12
+R Ashwin
+0
+6
+AB Dinda
+1
+AD Mathews
+3
+R Ashwin
+0
+2
+UT Yadav
+1
+BMAJ Mendis
+3
+R Ashwin
+1
+NLTC Perera
+12
+IK Pathan
+0
+0
+AB Dinda
+3
+LD Chandimal
+RMS Eranga
+SL Malinga
+0
+AB Dinda
+0
+0
+AB Dinda
+0

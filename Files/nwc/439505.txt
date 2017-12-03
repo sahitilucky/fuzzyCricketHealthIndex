@@ -1,0 +1,148 @@
+none
+2010-02-11
+runs: 37
+winner: Ireland
+Ireland
+Scotland
+venue: Dubai International Cricket Stadium
+1st innings
+Ireland
+11
+JD Nel
+0
+11
+GD Drummond
+0
+3
+RD Berrington
+0
+7
+GD Drummond
+1
+NJ O'Brien
+6
+RD Berrington
+0
+13
+RT Lyons
+0
+4
+RM Haq
+0
+7
+RT Lyons
+2
+WTS Porterfield
+AC Botha
+3
+RM Haq
+1
+AR Cusack
+3
+RT Lyons
+0
+7
+RM Haq
+0
+5
+RT Lyons
+0
+5
+KJ Coetzer
+0
+11
+GD Drummond
+0
+3
+RM Haq
+1
+GC Wilson
+10
+RD Berrington
+0
+5
+JD Nel
+0
+2
+KJ Coetzer
+2
+AR White
+JF Mooney
+11
+JD Nel
+0
+9
+KJ Coetzer
+0
+2nd innings
+Scotland
+6
+PC Connell
+2
+DF Watts
+GM Hamilton
+0
+DT Johnston
+2
+RD Berrington
+NFI McCallum
+4
+PC Connell
+0
+5
+DT Johnston
+1
+JH Stander
+5
+PC Connell
+0
+9
+DT Johnston
+0
+5
+PC Connell
+0
+6
+DT Johnston
+0
+12
+AR Cusack
+0
+5
+AC Botha
+0
+6
+AR Cusack
+0
+9
+AC Botha
+0
+3
+AR Cusack
+1
+KJ Coetzer
+3
+AC Botha
+0
+9
+KJ O'Brien
+0
+7
+GH Dockrell
+0
+3
+KJ O'Brien
+1
+SJS Smith
+2
+GH Dockrell
+2
+RT Lyons
+GD Drummond
+0
+KJ O'Brien
+1
+JD Nel
+0
+KJ O'Brien
+0

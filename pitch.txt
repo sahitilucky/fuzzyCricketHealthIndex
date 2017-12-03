@@ -1,0 +1,79 @@
+Adelaide Oval,7.96 
+AMI Stadium,8.76 
+ANZ Stadium,7.59
+Arnos Vale Ground,7.11 
+Barabati Stadium,5.45 
+Beausejour Cricket Ground,7.85
+Bellerive Oval,9.16 
+Brabourne Stadium,8.72 
+Bready Cricket Club,8.46
+Brisbane Cricket Ground,8.49
+Buffalo Park,8.79
+Central Broward Regional Park,6.90
+Civil Service Cricket Club,5.83
+Clontarf Cricket Club Ground,6.62
+County Ground (Bristol),7.52 
+Diamond Oval,9.50
+Dubai International Cricket Stadium,7.02
+Eden Gardens,7.34
+Eden Park,8.14
+Edgbaston,8.47
+Feroz Shah Kotla,7.48
+Gaddafi Stadium,8.79
+Grange Cricket Club,8.22
+Gymkhana Club Ground,7.22 
+Harare Sports Club,7.52
+Himachal Pradesh Cricket Association Stadium,8.18
+ICC Global Cricket Academy,7.24
+Kennington Oval,8.27
+Kensington Oval,7.69 
+Khan Shaheb Osman Ali Stadium,8.34 
+Kingsmead,7.93 
+Lord's,7.30
+M Chinnaswamy Stadium,7.16 
+MA Chidambaram Stadium,8.32 
+Maharashtra Cricket Association Stadium,6.98 
+Mahinda Rajapaksha International Cricket Stadium,6.84 
+Mangaung Oval,9.40
+Maple Leaf North - West Ground,6.55
+Melbourne Cricket Ground,7.19 
+Mombasa Sports Ground,6.12 
+Moses Mabhida Stadium,7.88
+National Stadium,8.44
+New Wanderers Stadium,8.59 
+Newlands,7.65
+Old Trafford,7.91
+P Sara Oval,5.00
+Pallekele International Cricket Stadium,8.18
+Providence Stadium,6.82
+Punjab Cricket Association IS Bindra Stadium,9.10
+Queen's Park Oval,6.24
+Queens Sports Club,8.30
+R Premadasa Stadium,7.50
+Riverside Ground,7.59 
+Sabina Park,5.23
+Sardar Patel Stadium,9.32
+Seddon Park,8.70 
+Sharjah Cricket Stadium,7.20 
+Sheikh Abu Naser Stadium,8.08
+Sheikh Zayed Stadium,7.12
+Shere Bangla National Stadium,7.20
+Sinhalese Sports Club Ground,7.90
+Sir Vivian Richards Stadium,6.63
+Sophia Gardens,7.22
+Sportpark Westvliet,7.22
+St George's Park,7.05
+SuperSport Park,8.36 
+Sydney Cricket Ground,8.84
+Sylhet Stadium,7.97
+The Rose Bowl,9.07 
+The Village,6.81
+Trent Bridge,7.61
+Vidarbha Cricket Association Stadium,7.19 
+WACA Ground,7.81
+Wanderers Cricket Ground,8.21
+Wankhede Stadium,9.88
+Warner Park,6.46
+Westpac Stadium,7.86
+Windsor Park,7.48
+Zahur Ahmed Chowdhury Stadium,7.42

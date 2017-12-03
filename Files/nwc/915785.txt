@@ -1,0 +1,147 @@
+Colombo
+2015-11-11
+runs: 23
+winner: West Indies
+Sri Lanka
+West Indies
+venue: R Premadasa Stadium
+1st innings
+West Indies
+1
+SL Malinga
+0
+8
+KMDN Kulasekara
+0
+6
+SL Malinga
+0
+2
+KMDN Kulasekara
+0
+22
+SMSM Senanayake
+0
+22
+PVD Chameera
+0
+5
+TAM Siriwardana
+2
+ADS Fletcher
+MN Samuels
+6
+DSNFG Jayasuriya
+0
+3
+TAM Siriwardana
+1
+J Charles
+6
+DSNFG Jayasuriya
+0
+9
+TAM Siriwardana
+0
+7
+PVD Chameera
+1
+AD Russell
+6
+SMSM Senanayake
+0
+15
+DSNFG Jayasuriya
+0
+10
+SMSM Senanayake
+0
+6
+KMDN Kulasekara
+0
+5
+SL Malinga
+1
+DJ Bravo
+7
+KMDN Kulasekara
+0
+5
+SL Malinga
+1
+KA Pollard
+11
+PVD Chameera
+0
+2nd innings
+Sri Lanka
+9
+SP Narine
+0
+6
+R Rampaul
+0
+8
+JE Taylor
+1
+MDKJ Perera
+3
+R Rampaul
+0
+14
+JE Taylor
+0
+2
+SP Narine
+0
+7
+KA Pollard
+0
+5
+DJG Sammy
+0
+8
+DJ Bravo
+0
+6
+KA Pollard
+0
+13
+DJG Sammy
+0
+9
+SP Narine
+0
+4
+DJ Bravo
+1
+DSNFG Jayasuriya
+8
+R Rampaul
+2
+LD Chandimal
+TM Dilshan
+6
+KA Pollard
+0
+12
+DJ Bravo
+1
+AD Mathews
+8
+KA Pollard
+1
+CK Kapugedera
+4
+SP Narine
+1
+TAM Siriwardana
+4
+DJ Bravo
+2
+SMSM Senanayake
+KMDN Kulasekara
+3
+R Rampaul
+1
+SL Malinga

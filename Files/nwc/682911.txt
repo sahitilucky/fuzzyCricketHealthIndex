@@ -1,0 +1,126 @@
+none
+2014-03-19
+runs: 21
+method: D/L
+Ireland
+United Arab Emirates
+venue: Sylhet Stadium
+1st innings
+United Arab Emirates
+3
+PR Stirling
+0
+5
+MC Sorensen
+0
+9
+PR Stirling
+0
+10
+MC Sorensen
+0
+8
+TJ Murtagh
+1
+Faizan Asif
+11
+AR Cusack
+0
+0
+PR Stirling
+2
+Amjad Ali
+SP Patil
+4
+AR Cusack
+0
+10
+GH Dockrell
+0
+6
+TJ Murtagh
+0
+9
+MC Sorensen
+0
+2
+KJ O'Brien
+0
+5
+SR Thompson
+0
+6
+KJ O'Brien
+1
+Shaiman Anwar
+3
+TJ Murtagh
+1
+Khurram Khan
+3
+KJ O'Brien
+0
+6
+TJ Murtagh
+0
+8
+AR Cusack
+0
+7
+KJ O'Brien
+1
+Amjad Javed
+8
+AR Cusack
+0
+2nd innings
+Ireland
+10
+Sharif Asadullah
+0
+14
+Kamran Shazad
+1
+PR Stirling
+7
+Sharif Asadullah
+0
+2
+Amjad Javed
+0
+2
+Rohan Mustafa
+0
+16
+Amjad Javed
+0
+2
+Rohan Mustafa
+0
+15
+Ahmed Raza
+0
+2
+Rohan Mustafa
+0
+4
+Kamran Shazad
+0
+7
+Rohan Mustafa
+0
+11
+Kamran Shazad
+0
+4
+Sharif Asadullah
+2
+EC Joyce
+KJ O'Brien
+5
+Amjad Javed
+1
+AD Poynter
+2
+Ahmed Raza
+0

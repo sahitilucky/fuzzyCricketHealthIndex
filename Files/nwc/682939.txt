@@ -1,0 +1,139 @@
+Chittagong
+2014-03-27
+wickets: 6
+winner: England
+England
+Sri Lanka
+venue: Zahur Ahmed Chowdhury Stadium
+1st innings
+Sri Lanka
+4
+MM Ali
+0
+4
+JW Dernbach
+1
+MDKJ Perera
+6
+TT Bresnan
+0
+9
+JW Dernbach
+0
+12
+TT Bresnan
+0
+7
+CJ Jordan
+0
+6
+JC Tredwell
+0
+10
+SCJ Broad
+0
+3
+JC Tredwell
+0
+9
+CJ Jordan
+0
+13
+JC Tredwell
+0
+6
+SCJ Broad
+0
+14
+JC Tredwell
+0
+14
+TT Bresnan
+0
+13
+JW Dernbach
+0
+13
+SCJ Broad
+0
+9
+CJ Jordan
+1
+DPMD Jayawardene
+17
+JW Dernbach
+1
+TM Dilshan
+4
+CJ Jordan
+1
+KC Sangakkara
+16
+TT Bresnan
+0
+2nd innings
+England
+0
+KMDN Kulasekara
+2
+MJ Lumb
+MM Ali
+8
+AD Mathews
+0
+11
+KMDN Kulasekara
+0
+5
+SL Malinga
+0
+7
+SMSM Senanayake
+0
+6
+SL Malinga
+0
+10
+BAW Mendis
+0
+5
+SMSM Senanayake
+0
+4
+BAW Mendis
+0
+16
+AD Mathews
+0
+13
+BAW Mendis
+0
+9
+SMSM Senanayake
+0
+14
+NLTC Perera
+0
+9
+SMSM Senanayake
+0
+25
+BAW Mendis
+0
+9
+SL Malinga
+0
+5
+KMDN Kulasekara
+2
+EJG Morgan
+JC Buttler
+11
+SL Malinga
+0
+16
+KMDN Kulasekara
+0
+7
+AD Mathews
+0

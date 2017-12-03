@@ -1,0 +1,144 @@
+Cape Town
+2007-09-20
+wickets: 4
+winner: Pakistan
+Bangladesh
+Pakistan
+venue: Newlands
+1st innings
+Bangladesh
+10
+Mohammad Asif
+0
+4
+Sohail Tanvir
+0
+3
+Mohammad Asif
+1
+Tamim Iqbal
+10
+Sohail Tanvir
+0
+11
+Mohammad Asif
+0
+13
+Sohail Tanvir
+0
+5
+Shahid Afridi
+0
+6
+Mohammad Hafeez
+0
+12
+Shahid Afridi
+0
+6
+Mohammad Hafeez
+1
+Aftab Ahmed
+5
+Shahid Afridi
+1
+Mohammad Ashraful
+17
+Mohammad Hafeez
+1
+Shakib Al Hasan
+3
+Shahid Afridi
+0
+7
+Umar Gul
+0
+9
+Shoaib Malik
+2
+Junaid Siddique
+Nadif Chowdhury
+3
+Umar Gul
+1
+Mahmudullah
+6
+Shoaib Malik
+0
+7
+Umar Gul
+0
+2
+Mohammad Asif
+2
+Mashrafe Mortaza
+Abdur Razzak
+1
+Umar Gul
+1
+Syed Rasel
+2nd innings
+Pakistan
+7
+Mashrafe Mortaza
+0
+6
+Syed Rasel
+0
+17
+Mashrafe Mortaza
+0
+11
+Syed Rasel
+0
+7
+Abdur Razzak
+0
+17
+Syed Rasel
+1
+Mohammad Hafeez
+1
+Abdur Razzak
+1
+Shahid Afridi
+2
+Shakib Al Hasan
+0
+4
+Abdur Razzak
+1
+Younis Khan
+4
+Shakib Al Hasan
+0
+5
+Mahmudullah
+0
+3
+Shakib Al Hasan
+0
+8
+Mahmudullah
+0
+8
+Shakib Al Hasan
+0
+5
+Mahmudullah
+1
+Shoaib Malik
+10
+Mashrafe Mortaza
+1
+Misbah-ul-Haq
+10
+Mahmudullah
+1
+Salman Butt
+4
+Abdur Razzak
+0
+12
+Mashrafe Mortaza
+0

@@ -1,0 +1,138 @@
+none
+2011-10-17
+runs: 34
+method: D/L
+Zimbabwe
+New Zealand
+venue: Harare Sports Club
+1st innings
+New Zealand
+8
+CB Mpofu
+0
+9
+KM Jarvis
+0
+11
+CB Mpofu
+0
+12
+KM Jarvis
+0
+7
+RW Price
+0
+6
+E Chigumbura
+0
+10
+P Utseya
+0
+7
+RW Price
+0
+24
+P Utseya
+0
+11
+E Chigumbura
+0
+15
+RW Price
+0
+7
+KM Jarvis
+1
+BB McCullum
+11
+P Utseya
+0
+7
+RW Price
+0
+9
+CJ Chibhabha
+0
+17
+CB Mpofu
+0
+10
+KM Jarvis
+1
+MJ Guptill
+6
+CB Mpofu
+1
+LRPL Taylor
+2nd innings
+Zimbabwe
+6
+DAJ Bracewell
+0
+14
+GW Aldridge
+0
+6
+DAJ Bracewell
+1
+H Masakadza
+8
+GW Aldridge
+1
+BRM Taylor
+10
+DAJ Bracewell
+0
+13
+JDP Oram
+0
+8
+LJ Woodcock
+0
+6
+JDP Oram
+0
+12
+LJ Woodcock
+0
+2
+NL McCullum
+2
+E Chigumbura
+CK Coventry
+11
+RJ Nicol
+0
+6
+NL McCullum
+0
+9
+GW Aldridge
+0
+15
+NL McCullum
+1
+CJ Chibhabha
+14
+GW Aldridge
+0
+11
+JDP Oram
+1
+MN Waller
+3
+DAJ Bracewell
+4
+F Mutizwa
+RW Price
+KM Jarvis
+CB Mpofu
+0
+DAJ Bracewell
+0
+0
+DAJ Bracewell
+0
+0
+DAJ Bracewell
+0

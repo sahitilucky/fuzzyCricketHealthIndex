@@ -1,0 +1,141 @@
+Durban
+2007-09-19
+runs: 18
+winner: India
+England
+India
+venue: Kingsmead
+1st innings
+India
+9
+JM Anderson
+0
+4
+SCJ Broad
+0
+4
+A Flintoff
+0
+6
+JM Anderson
+0
+12
+SCJ Broad
+0
+6
+A Flintoff
+0
+15
+AD Mascarenhas
+0
+14
+CT Tremlett
+0
+7
+JM Anderson
+0
+13
+PD Collingwood
+0
+8
+SCJ Broad
+0
+12
+CT Tremlett
+0
+8
+JM Anderson
+0
+11
+DL Maddy
+0
+9
+CT Tremlett
+1
+V Sehwag
+10
+DL Maddy
+1
+G Gambhir
+11
+CT Tremlett
+1
+RV Uthappa
+12
+A Flintoff
+0
+36
+SCJ Broad
+0
+11
+A Flintoff
+1
+Yuvraj Singh
+2nd innings
+England
+3
+S Sreesanth
+0
+8
+RP Singh
+0
+8
+S Sreesanth
+0
+11
+RP Singh
+0
+15
+Joginder Sharma
+0
+12
+IK Pathan
+1
+DL Maddy
+8
+Harbhajan Singh
+0
+9
+Joginder Sharma
+0
+9
+Harbhajan Singh
+0
+11
+S Sreesanth
+0
+5
+IK Pathan
+1
+VS Solanki
+18
+Joginder Sharma
+0
+3
+IK Pathan
+0
+6
+RP Singh
+0
+9
+Harbhajan Singh
+1
+KP Pietersen
+16
+S Sreesanth
+0
+16
+Joginder Sharma
+0
+4
+RP Singh
+2
+OA Shah
+PD Collingwood
+12
+Harbhajan Singh
+0
+17
+IK Pathan
+1
+LJ Wright

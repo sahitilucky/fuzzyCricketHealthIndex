@@ -1,0 +1,138 @@
+Hamilton
+2012-02-14
+wickets: 5
+winner: New Zealand
+New Zealand
+Zimbabwe
+venue: Seddon Park
+1st innings
+Zimbabwe
+7
+KD Mills
+0
+3
+MD Bates
+0
+14
+KD Mills
+0
+16
+MD Bates
+0
+10
+TG Southee
+0
+15
+NL McCullum
+0
+11
+RM Hira
+1
+S Matsikenyeri
+10
+AM Ellis
+0
+4
+TG Southee
+0
+8
+RM Hira
+0
+6
+KS Williamson
+0
+12
+RM Hira
+0
+5
+RJ Nicol
+0
+11
+MD Bates
+1
+H Masakadza
+10
+KS Williamson
+0
+11
+TG Southee
+0
+14
+KD Mills
+0
+17
+MD Bates
+0
+11
+TG Southee
+0
+5
+KD Mills
+0
+2nd innings
+New Zealand
+3
+KO Meth
+0
+12
+KM Jarvis
+0
+11
+KO Meth
+0
+4
+KM Jarvis
+0
+16
+KO Meth
+0
+3
+P Utseya
+0
+5
+RW Price
+0
+16
+SW Masakadza
+0
+18
+RW Price
+0
+15
+P Utseya
+0
+3
+E Chigumbura
+1
+RJ Nicol
+6
+KM Jarvis
+0
+9
+RW Price
+0
+14
+P Utseya
+0
+13
+E Chigumbura
+1
+JEC Franklin
+9
+RW Price
+0
+7
+E Chigumbura
+1
+C de Grandhomme
+10
+P Utseya
+0
+13
+KM Jarvis
+2
+BB McCullum
+NL McCullum
+15
+SW Masakadza
+0

@@ -1,0 +1,143 @@
+Colombo
+2015-07-30
+runs: 29
+winner: Pakistan
+Sri Lanka
+Pakistan
+venue: R Premadasa Stadium
+1st innings
+Pakistan
+6
+B Fernando
+0
+4
+AD Mathews
+1
+Mukhtar Ahmed
+4
+B Fernando
+0
+12
+AD Mathews
+0
+9
+SL Malinga
+0
+7
+AD Mathews
+0
+6
+JDF Vandersay
+0
+10
+NLTC Perera
+1
+Mohammad Hafeez
+8
+JDF Vandersay
+0
+5
+NLTC Perera
+0
+8
+JDF Vandersay
+0
+6
+NLTC Perera
+1
+Ahmed Shehzad
+5
+JDF Vandersay
+0
+15
+SL Malinga
+0
+11
+AD Mathews
+0
+17
+B Fernando
+0
+11
+SL Malinga
+0
+9
+NLTC Perera
+0
+11
+SL Malinga
+1
+Umar Akmal
+11
+B Fernando
+1
+Shahid Afridi
+2nd innings
+Sri Lanka
+7
+Anwar Ali
+1
+MDKJ Perera
+6
+Sohail Tanvir
+1
+TM Dilshan
+6
+Anwar Ali
+0
+4
+Sohail Tanvir
+1
+KDK Vithanage
+6
+Anwar Ali
+0
+6
+Mohammad Irfan
+0
+8
+Shahid Afridi
+0
+4
+Mohammad Irfan
+0
+4
+Shahid Afridi
+0
+4
+Imad Wasim
+1
+AD Mathews
+8
+Shahid Afridi
+0
+14
+Imad Wasim
+0
+12
+Shahid Afridi
+0
+10
+Shoaib Malik
+1
+DM de Silva
+15
+Mohammad Irfan
+0
+5
+Sohail Tanvir
+1
+TAM Siriwardana
+9
+Anwar Ali
+1
+NLTC Perera
+1
+Mohammad Irfan
+0
+14
+Sohail Tanvir
+0
+3
+Imad Wasim
+0

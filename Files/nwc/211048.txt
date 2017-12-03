@@ -1,0 +1,146 @@
+Auckland
+2005-02-17
+runs: 44
+winner: Australia
+New Zealand
+Australia
+venue: Eden Park
+1st innings
+Australia
+10
+DR Tuffey
+1
+MJ Clarke
+12
+KD Mills
+1
+AC Gilchrist
+4
+DR Tuffey
+0
+20
+KD Mills
+1
+A Symonds
+8
+DR Tuffey
+0
+4
+KD Mills
+1
+DR Martyn
+6
+CL Cairns
+0
+8
+KD Mills
+0
+7
+CL Cairns
+0
+10
+JW Wilson
+0
+5
+AR Adams
+0
+15
+JW Wilson
+0
+8
+AR Adams
+0
+17
+JW Wilson
+0
+7
+CL Cairns
+1
+SM Katich
+6
+JW Wilson
+0
+8
+CL Cairns
+0
+15
+AR Adams
+0
+30
+DR Tuffey
+0
+14
+AR Adams
+0
+2nd innings
+New Zealand
+2
+B Lee
+0
+10
+GD McGrath
+0
+9
+B Lee
+0
+15
+GD McGrath
+0
+13
+B Lee
+0
+3
+MS Kasprowicz
+2
+SP Fleming
+MS Sinclair
+11
+JR Hopes
+0
+13
+MS Kasprowicz
+1
+BB McCullum
+9
+JR Hopes
+0
+7
+MS Kasprowicz
+0
+3
+JR Hopes
+1
+CD McMillan
+6
+MS Kasprowicz
+1
+CL Cairns
+5
+A Symonds
+1
+HJH Marshall
+8
+MJ Clarke
+0
+9
+A Symonds
+1
+AR Adams
+3
+MJ Clarke
+0
+19
+A Symonds
+0
+14
+GD McGrath
+0
+2
+B Lee
+1
+SB Styris
+9
+GD McGrath
+2
+JW Wilson
+KD Mills

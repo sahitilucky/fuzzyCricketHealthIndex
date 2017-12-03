@@ -1,0 +1,145 @@
+none
+2007-01-09
+runs: 77
+winner: Australia
+Australia
+England
+venue: Sydney Cricket Ground
+1st innings
+Australia
+6
+A Flintoff
+0
+14
+JM Anderson
+0
+2
+A Flintoff
+0
+12
+JM Anderson
+1
+ML Hayden
+18
+A Flintoff
+0
+21
+JM Anderson
+0
+10
+MS Panesar
+0
+14
+J Lewis
+0
+8
+MS Panesar
+1
+AC Gilchrist
+12
+JWM Dalrymple
+0
+12
+MS Panesar
+1
+MEK Hussey
+10
+PD Collingwood
+0
+10
+MS Panesar
+0
+4
+PD Collingwood
+1
+RT Ponting
+4
+J Lewis
+1
+MJ Clarke
+11
+PD Collingwood
+0
+14
+J Lewis
+0
+12
+PD Collingwood
+0
+10
+A Flintoff
+0
+17
+JM Anderson
+0
+2nd innings
+England
+4
+NW Bracken
+1
+EC Joyce
+6
+SM Harwood
+1
+A Flintoff
+6
+NW Bracken
+0
+15
+SM Harwood
+0
+10
+NW Bracken
+1
+KP Pietersen
+12
+BW Hilfenhaus
+0
+4
+A Symonds
+1
+MP Vaughan
+3
+BW Hilfenhaus
+0
+7
+A Symonds
+0
+3
+BW Hilfenhaus
+1
+PD Collingwood
+6
+GB Hogg
+0
+2
+BW Hilfenhaus
+1
+IR Bell
+6
+GB Hogg
+0
+11
+SM Harwood
+0
+12
+GB Hogg
+0
+8
+A Symonds
+0
+9
+CL White
+0
+5
+A Symonds
+1
+JWM Dalrymple
+2
+CL White
+1
+J Lewis
+13
+SM Harwood
+1
+MS Panesar

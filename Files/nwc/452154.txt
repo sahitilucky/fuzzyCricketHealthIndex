@@ -1,0 +1,133 @@
+none
+2010-06-13
+wickets: 7
+winner: India
+Zimbabwe
+India
+venue: Harare Sports Club
+1st innings
+Zimbabwe
+2
+AB Dinda
+0
+6
+R Vinay Kumar
+0
+1
+AB Dinda
+1
+H Masakadza
+1
+R Vinay Kumar
+0
+6
+AB Dinda
+0
+5
+PP Ojha
+1
+CJ Chibhabha
+5
+A Mishra
+0
+7
+PP Ojha
+0
+5
+A Mishra
+0
+9
+PP Ojha
+0
+6
+A Mishra
+0
+7
+R Ashwin
+0
+5
+A Mishra
+1
+BRM Taylor
+4
+R Ashwin
+0
+5
+PP Ojha
+0
+19
+R Ashwin
+0
+13
+R Vinay Kumar
+0
+6
+AB Dinda
+1
+CK Coventry
+18
+R Ashwin
+1
+E Chigumbura
+10
+R Vinay Kumar
+0
+2nd innings
+India
+3
+CB Mpofu
+0
+1
+TL Chatara
+0
+16
+CB Mpofu
+0
+8
+TL Chatara
+0
+4
+RW Price
+1
+NV Ojha
+8
+TL Chatara
+0
+8
+GA Lamb
+0
+7
+RW Price
+0
+6
+GA Lamb
+0
+9
+AG Cremer
+0
+7
+GA Lamb
+0
+12
+E Chigumbura
+0
+5
+CJ Chibhabha
+0
+14
+RW Price
+0
+4
+CJ Chibhabha
+1
+M Vijay
+10
+CB Mpofu
+0
+10
+CJ Chibhabha
+0
+12
+TL Chatara
+1
+YK Pathan

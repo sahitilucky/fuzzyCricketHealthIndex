@@ -1,0 +1,145 @@
+Johannesburg
+2007-11-23
+wickets: 3
+winner: South Africa
+South Africa
+New Zealand
+venue: New Wanderers Stadium
+1st innings
+New Zealand
+4
+SM Pollock
+0
+3
+DW Steyn
+0
+15
+SM Pollock
+1
+BB McCullum
+6
+DW Steyn
+0
+6
+SM Pollock
+1
+JM How
+5
+CK Langeveldt
+0
+9
+JA Morkel
+1
+LRPL Taylor
+6
+CK Langeveldt
+0
+9
+JA Morkel
+0
+3
+J Botha
+1
+L Vincent
+5
+JA Morkel
+0
+4
+J Botha
+0
+6
+JA Morkel
+1
+GJ Hopkins
+2
+J Botha
+0
+3
+SM Pollock
+1
+DL Vettori
+11
+J Botha
+0
+2
+DW Steyn
+1
+SB Styris
+14
+CK Langeveldt
+0
+6
+DW Steyn
+0
+10
+CK Langeveldt
+0
+2nd innings
+South Africa
+5
+KD Mills
+0
+1
+MR Gillespie
+1
+JH Kallis
+6
+KD Mills
+0
+4
+MR Gillespie
+0
+17
+KD Mills
+1
+GC Smith
+7
+MR Gillespie
+0
+7
+DL Vettori
+0
+9
+MJ Mason
+0
+8
+DL Vettori
+1
+JP Duminy
+6
+MJ Mason
+0
+5
+DL Vettori
+0
+13
+MJ Mason
+0
+3
+JS Patel
+1
+MV Boucher
+10
+MR Gillespie
+0
+4
+JS Patel
+1
+SM Pollock
+4
+DL Vettori
+0
+7
+JS Patel
+0
+4
+SB Styris
+1
+JA Morkel
+3
+JS Patel
+0
+8
+KD Mills
+1
+VD Philander

@@ -1,0 +1,144 @@
+none
+2015-09-29
+runs: 15
+winner: Pakistan
+Zimbabwe
+Pakistan
+venue: Harare Sports Club
+1st innings
+Pakistan
+6
+CJ Chibhabha
+0
+5
+T Panyangara
+0
+8
+CJ Chibhabha
+0
+5
+T Panyangara
+1
+Ahmed Shehzad
+2
+LM Jongwe
+0
+7
+SC Williams
+0
+7
+LM Jongwe
+1
+Mohammad Hafeez
+6
+SC Williams
+0
+8
+AG Cremer
+0
+9
+P Utseya
+0
+8
+AG Cremer
+1
+Shoaib Malik
+11
+P Utseya
+1
+Sohaib Maqsood
+4
+AG Cremer
+0
+7
+SC Williams
+0
+5
+AG Cremer
+0
+6
+SC Williams
+0
+5
+LM Jongwe
+1
+Mohammad Rizwan
+3
+T Panyangara
+1
+Shahid Afridi
+10
+LM Jongwe
+0
+14
+T Panyangara
+0
+2nd innings
+Zimbabwe
+3
+Sohail Tanvir
+0
+3
+Mohammad Irfan
+0
+1
+Sohail Tanvir
+1
+CJ Chibhabha
+8
+Mohammad Irfan
+1
+H Masakadza
+1
+Imad Wasim
+1
+CR Ervine
+8
+Mohammad Irfan
+0
+2
+Imad Wasim
+1
+R Mutumbami
+5
+Shahid Afridi
+0
+6
+Imad Wasim
+0
+7
+Shahid Afridi
+0
+5
+Imad Wasim
+0
+7
+Shahid Afridi
+0
+6
+Imran Khan (1)
+0
+7
+Shahid Afridi
+0
+9
+Imran Khan (1)
+0
+6
+Sohail Tanvir
+0
+15
+Imran Khan (1)
+1
+Sikandar Raza
+7
+Mohammad Irfan
+1
+E Chigumbura
+10
+Sohail Tanvir
+0
+5
+Imran Khan (1)
+1
+LM Jongwe

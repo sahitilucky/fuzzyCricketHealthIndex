@@ -1,0 +1,146 @@
+none
+2012-09-23
+runs: 13
+winner: Pakistan
+New Zealand
+Pakistan
+venue: Pallekele International Cricket Stadium
+1st innings
+Pakistan
+1
+KD Mills
+0
+8
+DL Vettori
+0
+12
+KD Mills
+0
+7
+TG Southee
+0
+14
+JDP Oram
+0
+9
+TG Southee
+1
+Imran Nazir
+10
+NL McCullum
+0
+12
+AF Milne
+0
+13
+NL McCullum
+0
+6
+DL Vettori
+0
+13
+KD Mills
+0
+5
+DL Vettori
+0
+8
+JDP Oram
+0
+7
+JEC Franklin
+1
+Mohammad Hafeez
+6
+JDP Oram
+1
+Kamran Akmal
+4
+DL Vettori
+1
+Nasir Jamshed
+10
+KD Mills
+0
+3
+TG Southee
+0
+17
+JDP Oram
+1
+Umar Akmal
+12
+TG Southee
+1
+Shahid Afridi
+2nd innings
+New Zealand
+1
+Mohammad Hafeez
+0
+12
+Sohail Tanvir
+0
+5
+Umar Gul
+0
+8
+Sohail Tanvir
+0
+12
+Yasir Arafat
+0
+9
+Umar Gul
+0
+7
+Shahid Afridi
+1
+RJ Nicol
+1
+Mohammad Hafeez
+1
+KS Williamson
+7
+Shahid Afridi
+0
+4
+Mohammad Hafeez
+0
+7
+Shahid Afridi
+0
+10
+Saeed Ajmal
+0
+9
+Shahid Afridi
+0
+10
+Mohammad Hafeez
+0
+6
+Saeed Ajmal
+1
+DL Vettori
+13
+Umar Gul
+1
+BB McCullum
+10
+Saeed Ajmal
+1
+JDP Oram
+13
+Sohail Tanvir
+1
+JEC Franklin
+15
+Umar Gul
+1
+LRPL Taylor
+5
+Saeed Ajmal
+2
+TG Southee
+NL McCullum

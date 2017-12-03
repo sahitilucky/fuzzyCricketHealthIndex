@@ -1,0 +1,137 @@
+Pune
+2016-02-09
+wickets: 5
+winner: Sri Lanka
+India
+Sri Lanka
+venue: Maharashtra Cricket Association Stadium
+1st innings
+India
+5
+CAK Rajitha
+2
+RG Sharma
+AM Rahane
+0
+NLTC Perera
+0
+5
+CAK Rajitha
+0
+9
+NLTC Perera
+0
+13
+CAK Rajitha
+1
+S Dhawan
+8
+SMSM Senanayake
+0
+3
+PVD Chameera
+0
+4
+SMSM Senanayake
+0
+4
+MD Shanaka
+2
+SK Raina
+MS Dhoni
+3
+PVD Chameera
+1
+Yuvraj Singh
+4
+MD Shanaka
+1
+HH Pandya
+6
+PVD Chameera
+0
+8
+MD Shanaka
+0
+6
+SMSM Senanayake
+1
+RA Jadeja
+2
+NLTC Perera
+0
+4
+S Prasanna
+0
+6
+CAK Rajitha
+0
+7
+S Prasanna
+0
+4
+PVD Chameera
+2
+A Nehra
+JJ Bumrah
+2nd innings
+Sri Lanka
+10
+A Nehra
+1
+N Dickwella
+0
+JJ Bumrah
+0
+7
+A Nehra
+0
+4
+JJ Bumrah
+0
+5
+A Nehra
+1
+MD Gunathilaka
+2
+JJ Bumrah
+0
+3
+RA Jadeja
+0
+5
+HH Pandya
+0
+3
+RA Jadeja
+0
+9
+HH Pandya
+0
+12
+RA Jadeja
+0
+4
+R Ashwin
+1
+CK Kapugedera
+5
+SK Raina
+0
+7
+R Ashwin
+0
+8
+SK Raina
+1
+LD Chandimal
+6
+HH Pandya
+0
+2
+R Ashwin
+1
+MD Shanaka
+13
+JJ Bumrah
+0

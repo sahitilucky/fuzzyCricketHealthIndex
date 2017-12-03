@@ -1,0 +1,147 @@
+none
+2012-03-13
+runs: 42
+winner: Netherlands
+Canada
+Netherlands
+venue: Dubai International Cricket Stadium
+1st innings
+Netherlands
+3
+H Osinde
+0
+4
+Junaid Siddiqui
+1
+MR Swart
+9
+H Osinde
+0
+6
+Junaid Siddiqui
+0
+11
+AS Hansra
+0
+4
+Rizwan Cheema
+1
+SJ Myburgh
+9
+H Osinde
+0
+3
+Zahid Hussain
+0
+5
+Rizwan Cheema
+0
+6
+Zahid Hussain
+0
+6
+HS Baidwan
+1
+TLW Cooper
+6
+Zahid Hussain
+0
+5
+HS Baidwan
+1
+W Barresi
+5
+Zahid Hussain
+0
+9
+Rizwan Cheema
+0
+7
+Junaid Siddiqui
+1
+PW Borren
+6
+HS Baidwan
+1
+AN Kervezee
+7
+Junaid Siddiqui
+0
+12
+HS Baidwan
+0
+12
+Rizwan Cheema
+0
+2nd innings
+Canada
+3
+MR Swart
+0
+3
+T van der Gugten
+0
+4
+MR Swart
+0
+8
+T van der Gugten
+1
+R Gunasekera
+4
+MR Swart
+0
+2
+Mudassar Bukhari
+2
+Raza-ur-Rehman
+Rizwan Cheema
+2
+PW Borren
+2
+NR Kumar
+H Patel
+5
+Mudassar Bukhari
+0
+3
+PW Borren
+0
+15
+Mudassar Bukhari
+0
+9
+PW Borren
+0
+8
+PM Seelaar
+0
+8
+MAA Jamil
+0
+5
+PM Seelaar
+1
+HS Baidwan
+4
+MAA Jamil
+1
+AS Hansra
+3
+PM Seelaar
+2
+RA Bhatti
+Junaid Siddiqui
+7
+MAA Jamil
+1
+H Osinde
+0
+MAA Jamil
+0
+0
+MAA Jamil
+0
+0
+MAA Jamil
+0

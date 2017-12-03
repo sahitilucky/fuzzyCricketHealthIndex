@@ -1,0 +1,119 @@
+Johannesburg
+2009-11-13
+runs: 1
+method: D/L
+South Africa
+England
+venue: New Wanderers Stadium
+1st innings
+England
+2
+CK Langeveldt
+1
+JL Denly
+7
+R McLaren
+0
+11
+CK Langeveldt
+0
+7
+R McLaren
+1
+AN Cook
+18
+DW Steyn
+0
+11
+JA Morkel
+0
+5
+RE van der Merwe
+1
+IJL Trott
+5
+DW Steyn
+0
+9
+J Botha
+0
+12
+RE van der Merwe
+0
+10
+J Botha
+0
+14
+DW Steyn
+0
+8
+J Botha
+0
+21
+JA Morkel
+0
+9
+J Botha
+0
+10
+CK Langeveldt
+0
+4
+R McLaren
+1
+PD Collingwood
+5
+DW Steyn
+1
+LJ Wright
+17
+R McLaren
+1
+MJ Prior
+17
+CK Langeveldt
+0
+2nd innings
+South Africa
+2
+JM Anderson
+0
+11
+TT Bresnan
+0
+16
+JM Anderson
+0
+5
+SI Mahmood
+0
+14
+TT Bresnan
+0
+19
+SI Mahmood
+0
+9
+LJ Wright
+0
+15
+GP Swann
+0
+8
+LJ Wright
+1
+GC Smith
+8
+GP Swann
+1
+LE Bosman
+7
+SI Mahmood
+1
+JP Duminy
+7
+GP Swann
+0
+6
+JM Anderson
+0

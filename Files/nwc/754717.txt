@@ -1,0 +1,137 @@
+none
+2014-11-05
+wickets: 7
+winner: South Africa
+Australia
+South Africa
+venue: Adelaide Oval
+1st innings
+Australia
+5
+KJ Abbott
+0
+12
+K Rabada
+0
+10
+WD Parnell
+0
+6
+K Rabada
+0
+6
+R McLaren
+1
+AJ Finch
+4
+WD Parnell
+1
+CL White
+4
+JP Duminy
+0
+4
+Imran Tahir
+1
+BR Dunk
+5
+JP Duminy
+0
+11
+Imran Tahir
+0
+2
+KJ Abbott
+1
+NJ Reardon
+10
+K Rabada
+0
+14
+R McLaren
+0
+4
+Imran Tahir
+0
+7
+R McLaren
+0
+12
+Imran Tahir
+0
+7
+WD Parnell
+0
+5
+KJ Abbott
+1
+SR Watson
+7
+WD Parnell
+0
+9
+KJ Abbott
+1
+BCJ Cutting
+2nd innings
+South Africa
+1
+DE Bollinger
+1
+RR Hendricks
+7
+PJ Cummins
+0
+7
+DE Bollinger
+0
+9
+KW Richardson
+0
+14
+DE Bollinger
+0
+13
+SR Watson
+0
+7
+CJ Boyce
+0
+6
+JP Faulkner
+0
+8
+CJ Boyce
+0
+8
+JP Faulkner
+0
+15
+KW Richardson
+0
+11
+BCJ Cutting
+0
+3
+PJ Cummins
+0
+14
+CJ Boyce
+0
+6
+PJ Cummins
+1
+RR Rossouw
+2
+CJ Boyce
+1
+Q de Kock
+5
+PJ Cummins
+0
+3
+JP Faulkner
+0
+6
+KW Richardson
+0

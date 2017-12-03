@@ -1,0 +1,133 @@
+Edinburgh
+2015-07-10
+wickets: 8
+winner: Afghanistan
+Afghanistan
+United Arab Emirates
+venue: 'Grange Cricket Club Ground, Raeburn Place'
+1st innings
+United Arab Emirates
+10
+Dawlat Zadran
+0
+15
+Mohammad Nabi
+0
+0
+Dawlat Zadran
+0
+8
+Hamid Hassan
+0
+10
+Mirwais Ashraf
+0
+15
+Hamid Hassan
+0
+5
+Mirwais Ashraf
+1
+Faizan Asif
+11
+Sharafuddin Ashraf
+0
+5
+Mirwais Ashraf
+1
+Mohammad Shahzad (2)
+3
+Sharafuddin Ashraf
+0
+10
+Mohammad Nabi
+0
+5
+Sharafuddin Ashraf
+0
+2
+Mirwais Ashraf
+1
+SP Patil
+3
+Mohammad Nabi
+0
+18
+Dawlat Zadran
+0
+11
+Sharafuddin Ashraf
+0
+2
+Hamid Hassan
+1
+Shaiman Anwar
+8
+Mohammad Nabi
+0
+18
+Dawlat Zadran
+1
+Amjad Javed
+5
+Hamid Hassan
+1
+Mohammad Naveed
+2nd innings
+Afghanistan
+10
+Mohammad Naveed
+0
+12
+Amjad Javed
+0
+14
+Mohammad Naveed
+0
+7
+Amjad Javed
+1
+Nawroz Mangal
+9
+Rohan Mustafa
+0
+11
+Amjad Javed
+0
+4
+Ahmed Raza
+0
+14
+Rohan Mustafa
+0
+14
+Ahmed Raza
+0
+4
+Mohammad Shahzad (2)
+0
+2
+Umair Ali
+1
+Mohammad Shahzad
+8
+Ahmed Raza
+0
+3
+Mohammad Tauqir
+0
+5
+Ahmed Raza
+0
+17
+Mohammad Tauqir
+0
+11
+Umair Ali
+0
+16
+Mohammad Naveed
+0
+7
+Amjad Javed
+0

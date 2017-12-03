@@ -1,0 +1,138 @@
+Belfast
+2008-08-04
+wickets: 5
+winner: Netherlands
+Netherlands
+Scotland
+venue: 'Civil Service Cricket Club, Stormont'
+1st innings
+Scotland
+5
+E Schiferli
+0
+3
+Mudassar Bukhari
+0
+1
+E Schiferli
+0
+11
+Mudassar Bukhari
+0
+6
+E Schiferli
+0
+9
+RN ten Doeschate
+0
+4
+PW Borren
+0
+2
+PM Seelaar
+0
+7
+PW Borren
+0
+7
+PM Seelaar
+0
+5
+PW Borren
+1
+RR Watson
+8
+PM Seelaar
+0
+6
+PW Borren
+0
+4
+PM Seelaar
+1
+KJ Coetzer
+4
+RN ten Doeschate
+1
+CJO Smith
+6
+E Schiferli
+0
+6
+RN ten Doeschate
+0
+4
+Mudassar Bukhari
+0
+4
+RN ten Doeschate
+3
+GM Hamilton
+NFI McCallum
+NS Poonia
+5
+Mudassar Bukhari
+2
+RD Berrington
+GD Drummond
+2nd innings
+Netherlands
+4
+JAR Blain
+1
+DJ Reekers
+10
+JD Nel
+0
+9
+JAR Blain
+0
+7
+JD Nel
+0
+5
+JAR Blain
+0
+6
+GD Drummond
+0
+3
+RD Berrington
+0
+2
+GD Drummond
+0
+8
+RD Berrington
+1
+TN de Grooth
+2
+RM Haq
+0
+5
+RD Berrington
+1
+Mudassar Bukhari
+3
+RM Haq
+0
+6
+RD Berrington
+0
+6
+RM Haq
+0
+6
+JAR Blain
+1
+ES Szwarczynski
+2
+JD Nel
+1
+DLS van Bunge
+8
+GD Drummond
+0
+18
+RM Haq
+0

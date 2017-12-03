@@ -1,0 +1,136 @@
+Chittagong
+2014-03-29
+wickets: 6
+winner: New Zealand
+Netherlands
+New Zealand
+venue: Zahur Ahmed Chowdhury Stadium
+1st innings
+Netherlands
+5
+KD Mills
+0
+6
+TA Boult
+0
+3
+KD Mills
+0
+8
+TA Boult
+0
+7
+CJ Anderson
+0
+8
+TA Boult
+1
+SJ Myburgh
+3
+NL McCullum
+0
+2
+MJ McClenaghan
+1
+W Barresi
+8
+NL McCullum
+0
+12
+MJ McClenaghan
+0
+7
+NL McCullum
+0
+12
+CJ Anderson
+0
+6
+NL McCullum
+1
+MR Swart
+4
+MJ McClenaghan
+0
+17
+KS Williamson
+0
+13
+MJ McClenaghan
+0
+8
+JDS Neesham
+0
+12
+KD Mills
+1
+PW Borren
+1
+JDS Neesham
+0
+9
+TA Boult
+0
+2nd innings
+New Zealand
+6
+MR Swart
+0
+3
+T van der Gugten
+0
+5
+Mudassar Bukhari
+0
+6
+T van der Gugten
+1
+MJ Guptill
+10
+Mudassar Bukhari
+0
+12
+MAA Jamil
+0
+4
+PW Borren
+0
+9
+PM Seelaar
+0
+4
+LV van Beek
+1
+KS Williamson
+6
+PW Borren
+0
+10
+LV van Beek
+0
+7
+PM Seelaar
+0
+9
+T van der Gugten
+1
+LRPL Taylor
+5
+MAA Jamil
+0
+11
+Mudassar Bukhari
+0
+16
+MAA Jamil
+0
+12
+T van der Gugten
+1
+BB McCullum
+10
+MAA Jamil
+0
+7
+Mudassar Bukhari
+0

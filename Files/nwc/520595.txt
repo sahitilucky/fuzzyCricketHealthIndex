@@ -1,0 +1,133 @@
+Auckland
+2012-02-11
+wickets: 7
+winner: New Zealand
+New Zealand
+Zimbabwe
+venue: Eden Park
+1st innings
+Zimbabwe
+3
+KD Mills
+0
+2
+MD Bates
+1
+BRM Taylor
+12
+KD Mills
+1
+F Mutizwa
+5
+MD Bates
+0
+15
+DAJ Bracewell
+0
+9
+MD Bates
+0
+8
+NL McCullum
+0
+6
+RM Hira
+0
+9
+RJ Nicol
+0
+7
+RM Hira
+0
+6
+KS Williamson
+1
+H Masakadza
+5
+DAJ Bracewell
+0
+3
+NL McCullum
+1
+T Taibu
+7
+DAJ Bracewell
+0
+9
+KD Mills
+1
+MN Waller
+6
+RM Hira
+0
+20
+DAJ Bracewell
+0
+4
+RM Hira
+1
+SW Masakadza
+8
+KD Mills
+0
+15
+MD Bates
+2
+E Chigumbura
+P Utseya
+2nd innings
+New Zealand
+6
+KO Meth
+0
+11
+KM Jarvis
+2
+RJ Nicol
+BB McCullum
+7
+KO Meth
+0
+14
+KM Jarvis
+0
+7
+SW Masakadza
+0
+8
+RW Price
+0
+12
+P Utseya
+0
+13
+RW Price
+0
+7
+SW Masakadza
+0
+16
+E Chigumbura
+0
+6
+P Utseya
+0
+7
+KM Jarvis
+0
+9
+KO Meth
+0
+6
+RW Price
+0
+12
+KO Meth
+0
+7
+RW Price
+0
+12
+SW Masakadza
+1
+KS Williamson

@@ -1,0 +1,142 @@
+Johannesburg
+2006-02-24
+runs: 2
+winner: South Africa
+South Africa
+Australia
+venue: New Wanderers Stadium
+1st innings
+South Africa
+6
+B Lee
+0
+9
+NW Bracken
+0
+5
+B Lee
+0
+11
+NW Bracken
+0
+9
+B Lee
+0
+8
+ML Lewis
+1
+LE Bosman
+11
+SR Clark
+0
+6
+ML Lewis
+0
+4
+SR Clark
+0
+14
+SR Watson
+0
+7
+SR Clark
+0
+15
+SR Watson
+0
+7
+SR Clark
+0
+15
+GB Hogg
+0
+9
+NW Bracken
+0
+23
+GB Hogg
+0
+11
+ML Lewis
+1
+HH Gibbs
+7
+SR Watson
+1
+SM Pollock
+7
+ML Lewis
+0
+17
+NW Bracken
+1
+JJ van der Wath
+2nd innings
+Australia
+16
+M Ntini
+0
+2
+AJ Hall
+1
+AC Gilchrist
+12
+M Ntini
+0
+5
+AJ Hall
+1
+RT Ponting
+12
+R Telemachus
+0
+6
+JJ van der Wath
+1
+DR Martyn
+6
+R Telemachus
+0
+15
+JJ van der Wath
+0
+10
+R Telemachus
+1
+SM Katich
+4
+GC Smith
+0
+5
+RJ Peterson
+1
+SR Watson
+18
+GC Smith
+0
+13
+RJ Peterson
+1
+MJ Clarke
+8
+AJ Hall
+0
+11
+RJ Peterson
+0
+12
+JJ van der Wath
+0
+14
+R Telemachus
+0
+7
+JJ van der Wath
+0
+7
+AJ Hall
+1
+GB Hogg
+16
+M Ntini
+0

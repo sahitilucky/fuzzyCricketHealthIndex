@@ -1,0 +1,143 @@
+London
+2009-06-14
+runs: 3
+winner: England
+England
+India
+venue: Lord's
+1st innings
+England
+3
+Z Khan
+0
+1
+RP Singh
+1
+LJ Wright
+11
+Z Khan
+0
+6
+RP Singh
+0
+13
+I Sharma
+0
+6
+RP Singh
+0
+11
+Yuvraj Singh
+0
+5
+Harbhajan Singh
+0
+10
+Yuvraj Singh
+0
+5
+Harbhajan Singh
+0
+4
+RA Jadeja
+1
+RS Bopara
+7
+I Sharma
+0
+10
+RA Jadeja
+1
+KP Pietersen
+4
+I Sharma
+0
+4
+RA Jadeja
+0
+13
+I Sharma
+0
+8
+RA Jadeja
+0
+10
+Harbhajan Singh
+1
+OA Shah
+12
+Z Khan
+1
+PD Collingwood
+10
+Harbhajan Singh
+2
+JS Foster
+GP Swann
+2nd innings
+India
+6
+JM Anderson
+0
+6
+RJ Sidebottom
+1
+RG Sharma
+10
+JM Anderson
+0
+4
+RJ Sidebottom
+1
+SK Raina
+5
+SCJ Broad
+0
+5
+JM Anderson
+0
+4
+SCJ Broad
+0
+9
+KP Pietersen
+0
+5
+LJ Wright
+0
+5
+GP Swann
+0
+9
+AD Mascarenhas
+1
+G Gambhir
+6
+GP Swann
+0
+4
+SCJ Broad
+0
+9
+GP Swann
+2
+RA Jadeja
+Yuvraj Singh
+7
+RJ Sidebottom
+0
+10
+GP Swann
+0
+11
+LJ Wright
+0
+11
+JM Anderson
+0
+9
+SCJ Broad
+0
+15
+RJ Sidebottom
+0

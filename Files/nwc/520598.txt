@@ -1,0 +1,125 @@
+Hamilton
+2012-02-19
+wickets: 8
+winner: South Africa
+New Zealand
+South Africa
+venue: Seddon Park
+1st innings
+New Zealand
+6
+J Botha
+0
+7
+LL Tsotsobe
+0
+11
+M Morkel
+0
+11
+LL Tsotsobe
+0
+9
+M de Lange
+1
+RJ Nicol
+5
+LL Tsotsobe
+0
+4
+J Botha
+0
+13
+WD Parnell
+0
+7
+J Botha
+0
+6
+M Morkel
+0
+9
+JP Duminy
+0
+9
+M de Lange
+1
+MJ Guptill
+3
+JP Duminy
+0
+8
+M Morkel
+0
+6
+J Botha
+1
+BB McCullum
+16
+M de Lange
+0
+16
+JP Duminy
+0
+13
+M Morkel
+1
+JEC Franklin
+3
+WD Parnell
+0
+11
+M de Lange
+0
+2nd innings
+South Africa
+8
+NL McCullum
+0
+17
+DAJ Bracewell
+0
+10
+NL McCullum
+1
+HM Amla
+5
+TG Southee
+0
+11
+RJ Nicol
+1
+WD Parnell
+12
+TG Southee
+0
+9
+RM Hira
+0
+10
+KD Mills
+0
+7
+JEC Franklin
+0
+16
+KD Mills
+0
+9
+RM Hira
+0
+21
+DAJ Bracewell
+0
+2
+RM Hira
+0
+10
+TG Southee
+0
+14
+RM Hira
+0
+13
+TG Southee
+0

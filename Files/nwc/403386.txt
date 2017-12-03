@@ -1,0 +1,143 @@
+Colombo
+2009-09-04
+runs: 22
+winner: New Zealand
+Sri Lanka
+New Zealand
+venue: R Premadasa Stadium
+1st innings
+New Zealand
+9
+KMDN Kulasekara
+0
+4
+SL Malinga
+0
+8
+KMDN Kulasekara
+0
+19
+SL Malinga
+0
+6
+KMDN Kulasekara
+0
+3
+BAW Mendis
+0
+5
+ST Jayasuriya
+0
+11
+HMCM Bandara
+0
+7
+ST Jayasuriya
+0
+11
+TM Dilshan
+0
+3
+ST Jayasuriya
+1
+BB McCullum
+20
+TM Dilshan
+0
+3
+BAW Mendis
+1
+JD Ryder
+9
+HMCM Bandara
+0
+6
+BAW Mendis
+0
+7
+ST Jayasuriya
+1
+LRPL Taylor
+17
+KMDN Kulasekara
+0
+6
+SL Malinga
+0
+9
+BAW Mendis
+0
+7
+SL Malinga
+1
+MJ Guptill
+2nd innings
+Sri Lanka
+2
+SE Bond
+1
+TM Dilshan
+1
+KD Mills
+1
+ML Udawatte
+7
+SE Bond
+0
+6
+KD Mills
+1
+ST Jayasuriya
+6
+IG Butler
+0
+15
+KD Mills
+0
+10
+DL Vettori
+0
+8
+IG Butler
+0
+9
+DL Vettori
+0
+12
+IG Butler
+0
+4
+NL McCullum
+2
+DPMD Jayawardene
+AD Mathews
+8
+JDP Oram
+0
+5
+NL McCullum
+0
+8
+JDP Oram
+0
+9
+NL McCullum
+0
+9
+IG Butler
+0
+8
+DL Vettori
+0
+4
+SE Bond
+1
+RJMGM Rupasinghe
+12
+JDP Oram
+1
+KC Sangakkara
+5
+SE Bond
+1
+KMDN Kulasekara

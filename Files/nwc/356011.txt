@@ -1,0 +1,109 @@
+London
+2009-06-15
+wickets: 5
+method: D/L
+England
+West Indies
+venue: Kennington Oval
+1st innings
+England
+7
+DJG Sammy
+0
+10
+KA Pollard
+1
+LJ Wright
+6
+DJG Sammy
+0
+5
+SJ Benn
+0
+15
+JE Taylor
+0
+6
+SJ Benn
+0
+5
+CH Gayle
+0
+14
+LMP Simmons
+1
+KP Pietersen
+7
+CH Gayle
+0
+8
+DJ Bravo
+0
+11
+JE Taylor
+0
+4
+DJ Bravo
+1
+OA Shah
+7
+DJG Sammy
+0
+7
+CH Gayle
+0
+4
+DJG Sammy
+0
+6
+CH Gayle
+1
+RS Bopara
+10
+DJ Bravo
+1
+PD Collingwood
+6
+SJ Benn
+0
+9
+DJ Bravo
+0
+14
+SJ Benn
+1
+JS Foster
+2nd innings
+West Indies
+6
+JM Anderson
+1
+ADS Fletcher
+10
+RJ Sidebottom
+1
+CH Gayle
+7
+SCJ Broad
+1
+LMP Simmons
+9
+GP Swann
+0
+11
+AU Rashid
+1
+KA Pollard
+8
+GP Swann
+1
+DJ Bravo
+13
+JM Anderson
+0
+13
+SCJ Broad
+0
+5
+RJ Sidebottom
+0

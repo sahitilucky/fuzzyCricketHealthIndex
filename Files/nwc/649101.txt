@@ -1,0 +1,126 @@
+none
+2013-11-13
+wickets: 9
+winner: South Africa
+Pakistan
+South Africa
+venue: Dubai International Cricket Stadium
+1st innings
+Pakistan
+0
+LL Tsotsobe
+1
+Ahmed Shehzad
+4
+DW Steyn
+2
+Sohaib Maqsood
+Mohammad Hafeez
+5
+LL Tsotsobe
+0
+4
+DW Steyn
+0
+0
+LL Tsotsobe
+0
+5
+R McLaren
+0
+4
+LL Tsotsobe
+1
+Shahid Afridi
+8
+R McLaren
+0
+6
+WD Parnell
+0
+5
+Imran Tahir
+1
+Shoaib Malik
+4
+WD Parnell
+0
+5
+Imran Tahir
+0
+9
+R McLaren
+0
+3
+Imran Tahir
+0
+8
+R McLaren
+1
+Abdul Razzaq
+4
+Imran Tahir
+1
+Sohail Tanvir
+5
+WD Parnell
+0
+3
+DW Steyn
+0
+12
+WD Parnell
+0
+4
+DW Steyn
+2
+Umar Akmal
+Saeed Ajmal
+2nd innings
+South Africa
+9
+Mohammad Hafeez
+0
+3
+Mohammad Irfan
+0
+8
+Sohail Tanvir
+1
+HM Amla
+4
+Mohammad Irfan
+0
+13
+Sohail Tanvir
+0
+2
+Saeed Ajmal
+0
+6
+Shahid Afridi
+0
+1
+Saeed Ajmal
+0
+5
+Shahid Afridi
+0
+2
+Saeed Ajmal
+0
+4
+Mohammad Hafeez
+0
+18
+Abdur Rehman
+0
+11
+Mohammad Hafeez
+0
+7
+Saeed Ajmal
+0
+6
+Shahid Afridi
+0

@@ -1,0 +1,132 @@
+Hamilton
+2016-01-17
+wickets: 10
+winner: New Zealand
+New Zealand
+Pakistan
+venue: Seddon Park
+1st innings
+Pakistan
+11
+MJ Santner
+0
+3
+CJ Anderson
+0
+8
+AF Milne
+0
+7
+CJ Anderson
+1
+Ahmed Shehzad
+1
+MJ McClenaghan
+0
+4
+CJ Anderson
+0
+2
+MJ Santner
+1
+Mohammad Hafeez
+13
+TD Astle
+0
+4
+MJ McClenaghan
+0
+7
+GD Elliott
+0
+7
+AF Milne
+0
+8
+GD Elliott
+1
+Sohaib Maqsood
+16
+MJ Santner
+0
+11
+GD Elliott
+0
+14
+CJ Anderson
+0
+11
+GD Elliott
+0
+4
+MJ McClenaghan
+1
+Shoaib Malik
+15
+AF Milne
+1
+Shahid Afridi
+15
+MJ McClenaghan
+1
+Imad Wasim
+7
+AF Milne
+1
+Sarfraz Ahmed
+2nd innings
+New Zealand
+10
+Umar Gul
+0
+7
+Mohammad Amir
+0
+14
+Imad Wasim
+0
+5
+Shahid Afridi
+0
+17
+Mohammad Amir
+0
+6
+Shahid Afridi
+0
+7
+Wahab Riaz
+0
+6
+Imad Wasim
+0
+6
+Wahab Riaz
+0
+4
+Imad Wasim
+0
+9
+Umar Gul
+0
+9
+Shahid Afridi
+0
+15
+Mohammad Amir
+0
+8
+Imad Wasim
+0
+18
+Shahid Afridi
+0
+7
+Shoaib Malik
+0
+17
+Wahab Riaz
+0
+6
+Shoaib Malik
+0

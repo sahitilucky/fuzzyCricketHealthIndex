@@ -1,0 +1,109 @@
+Edinburgh
+2015-07-09
+wickets: 9
+winner: Scotland
+Scotland
+United Arab Emirates
+venue: 'Grange Cricket Club Ground, Raeburn Place'
+1st innings
+United Arab Emirates
+12
+AC Evans
+0
+9
+SM Sharif
+0
+3
+AC Evans
+1
+Faizan Asif
+8
+JH Davey
+0
+7
+SM Sharif
+1
+Mohammad Shahzad (2)
+2
+JH Davey
+0
+10
+MRJ Watt
+0
+3
+MA Leask
+1
+Shaiman Anwar
+6
+MRJ Watt
+1
+Amjad Ali
+2
+MA Leask
+1
+Abdul Shakoor
+7
+AC Evans
+1
+SP Patil
+10
+MA Leask
+1
+Umair Ali
+5
+MRJ Watt
+1
+Mohammad Tauqir
+6
+SM Sharif
+0
+5
+MA Leask
+0
+5
+JH Davey
+0
+7
+MRJ Watt
+1
+Amjad Javed
+2
+AC Evans
+0
+0
+SM Sharif
+1
+AM Guruge
+2nd innings
+Scotland
+2
+Mohammad Naveed
+0
+8
+AM Guruge
+0
+10
+Mohammad Naveed
+0
+20
+AM Guruge
+0
+19
+Amjad Javed
+0
+17
+Mohammad Shahzad (2)
+0
+13
+Mohammad Tauqir
+0
+7
+Mohammad Naveed
+1
+KJ Coetzer
+6
+Amjad Javed
+0
+8
+Mohammad Naveed
+0

@@ -1,0 +1,140 @@
+none
+2010-02-20
+wickets: 4
+winner: Pakistan
+England
+Pakistan
+venue: Dubai International Cricket Stadium
+1st innings
+England
+4
+Abdul Razzaq
+0
+4
+Yasir Arafat
+0
+2
+Abdul Razzaq
+0
+8
+Yasir Arafat
+1
+JL Denly
+8
+Abdul Razzaq
+0
+13
+Yasir Arafat
+0
+3
+Abdul Razzaq
+0
+2
+Shahid Afridi
+0
+11
+Saeed Ajmal
+0
+10
+Shahid Afridi
+0
+8
+Saeed Ajmal
+0
+9
+Shahid Afridi
+0
+4
+Umar Gul
+0
+6
+Shahid Afridi
+0
+12
+Umar Gul
+0
+6
+Saeed Ajmal
+0
+10
+Umar Gul
+1
+IJL Trott
+4
+Saeed Ajmal
+1
+KP Pietersen
+17
+Umar Gul
+1
+EJG Morgan
+7
+Yasir Arafat
+2
+LJ Wright
+TT Bresnan
+2nd innings
+Pakistan
+4
+A Shahzad
+2
+Imran Nazir
+Imran Farhat
+8
+TT Bresnan
+0
+13
+A Shahzad
+0
+2
+SCJ Broad
+0
+9
+TT Bresnan
+0
+3
+SCJ Broad
+0
+6
+GP Swann
+1
+Shoaib Malik
+8
+A Shahzad
+0
+1
+GP Swann
+0
+8
+LJ Wright
+0
+5
+GP Swann
+1
+Shahid Afridi
+6
+PD Collingwood
+0
+5
+GP Swann
+1
+Umar Akmal
+14
+PD Collingwood
+0
+13
+LJ Wright
+0
+13
+SCJ Broad
+0
+8
+TT Bresnan
+0
+6
+SCJ Broad
+1
+Fawad Alam
+17
+A Shahzad
+0

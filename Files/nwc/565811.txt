@@ -1,0 +1,143 @@
+Mumbai
+2012-12-22
+wickets: 6
+winner: England
+India
+England
+venue: Wankhede Stadium
+1st innings
+India
+5
+TT Bresnan
+0
+2
+JW Dernbach
+1
+AM Rahane
+6
+TT Bresnan
+0
+11
+JW Dernbach
+0
+15
+SC Meaker
+0
+20
+LJ Wright
+0
+6
+SC Meaker
+1
+V Kohli
+6
+JC Tredwell
+0
+6
+LJ Wright
+1
+Yuvraj Singh
+9
+JC Tredwell
+0
+3
+LJ Wright
+1
+G Gambhir
+4
+SC Meaker
+0
+6
+JC Tredwell
+0
+9
+LJ Wright
+0
+6
+JC Tredwell
+1
+RG Sharma
+9
+TT Bresnan
+0
+20
+SC Meaker
+0
+18
+JW Dernbach
+0
+8
+TT Bresnan
+1
+MS Dhoni
+8
+JW Dernbach
+2
+R Ashwin
+PP Chawla
+2nd innings
+England
+12
+AB Dinda
+0
+13
+P Awana
+0
+9
+AB Dinda
+0
+6
+R Ashwin
+0
+9
+P Awana
+0
+13
+R Ashwin
+0
+6
+PP Chawla
+0
+11
+R Ashwin
+0
+2
+Yuvraj Singh
+1
+MJ Lumb
+9
+PP Chawla
+0
+4
+Yuvraj Singh
+1
+LJ Wright
+9
+R Ashwin
+0
+6
+Yuvraj Singh
+0
+11
+PP Chawla
+0
+7
+Yuvraj Singh
+1
+AD Hales
+7
+P Awana
+0
+7
+PP Chawla
+0
+14
+AB Dinda
+1
+SR Patel
+14
+P Awana
+0
+12
+AB Dinda
+0

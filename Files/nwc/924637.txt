@@ -1,0 +1,140 @@
+Bulawayo
+2015-10-26
+wickets: 6
+winner: Afghanistan
+Zimbabwe
+Afghanistan
+venue: Queens Sports Club
+1st innings
+Zimbabwe
+12
+Amir Hamza
+0
+10
+Mohammad Nabi
+0
+4
+Dawlat Zadran
+0
+10
+Gulbadin Naib
+0
+12
+Dawlat Zadran
+0
+10
+Gulbadin Naib
+0
+5
+Rashid Khan
+0
+11
+Mohammad Nabi
+0
+6
+Rashid Khan
+0
+4
+Amir Hamza
+0
+5
+Rashid Khan
+0
+9
+Amir Hamza
+0
+4
+Rashid Khan
+1
+Sikandar Raza
+6
+Karim Sadiq
+0
+4
+Amir Hamza
+0
+9
+Karim Sadiq
+0
+4
+Dawlat Zadran
+1
+CJ Chibhabha
+12
+Mohammad Nabi
+0
+9
+Dawlat Zadran
+2
+SC Williams
+CR Ervine
+7
+Mohammad Nabi
+1
+E Chigumbura
+2nd innings
+Afghanistan
+10
+T Muzarabani
+0
+4
+CB Mpofu
+0
+6
+T Muzarabani
+0
+12
+CB Mpofu
+0
+4
+TS Chisoro
+0
+12
+WP Masakadza
+0
+9
+TS Chisoro
+1
+Mohammad Shahzad
+3
+WP Masakadza
+1
+Usman Ghani
+10
+SC Williams
+0
+5
+Sikandar Raza
+0
+10
+SC Williams
+2
+Asghar Stanikzai
+Karim Sadiq
+7
+CJ Chibhabha
+0
+2
+TS Chisoro
+0
+10
+WP Masakadza
+0
+11
+TS Chisoro
+0
+14
+WP Masakadza
+0
+6
+T Muzarabani
+0
+4
+CB Mpofu
+0
+9
+T Muzarabani
+0
+6
+CB Mpofu
+0

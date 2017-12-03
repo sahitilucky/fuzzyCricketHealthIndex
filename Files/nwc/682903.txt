@@ -1,0 +1,142 @@
+none
+2014-03-17
+wickets: 6
+winner: Netherlands
+Netherlands
+United Arab Emirates
+venue: Sylhet Stadium
+1st innings
+United Arab Emirates
+11
+MR Swart
+1
+Faizan Asif
+2
+T van der Gugten
+1
+Amjad Ali
+3
+Mudassar Bukhari
+0
+9
+T van der Gugten
+0
+6
+LV van Beek
+0
+10
+Mudassar Bukhari
+0
+8
+MR Swart
+0
+15
+LV van Beek
+0
+4
+PM Seelaar
+0
+7
+MAA Jamil
+0
+6
+TLW Cooper
+2
+SP Patil
+Khurram Khan
+12
+Mudassar Bukhari
+0
+12
+TLW Cooper
+0
+4
+MAA Jamil
+0
+9
+PM Seelaar
+0
+13
+T van der Gugten
+2
+Rohan Mustafa
+Shaiman Anwar
+5
+MAA Jamil
+1
+Amjad Javed
+3
+T van der Gugten
+0
+10
+LV van Beek
+1
+EHSN Silva
+2
+MAA Jamil
+2
+V Shetty
+Kamran Shazad
+2nd innings
+Netherlands
+10
+AM Guruge
+0
+5
+EHSN Silva
+0
+9
+AM Guruge
+0
+16
+EHSN Silva
+0
+16
+AM Guruge
+0
+11
+Amjad Javed
+0
+2
+Kamran Shazad
+1
+MR Swart
+10
+Rohan Mustafa
+0
+9
+Kamran Shazad
+0
+5
+Amjad Javed
+1
+SJ Myburgh
+10
+Rohan Mustafa
+0
+9
+Amjad Javed
+0
+4
+EHSN Silva
+0
+5
+AM Guruge
+0
+14
+EHSN Silva
+1
+W Barresi
+6
+Kamran Shazad
+0
+2
+Amjad Javed
+0
+3
+Kamran Shazad
+1
+PW Borren
+6
+Rohan Mustafa
+0

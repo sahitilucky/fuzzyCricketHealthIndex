@@ -1,0 +1,147 @@
+London
+2009-06-14
+runs: 9
+winner: Sri Lanka
+Ireland
+Sri Lanka
+venue: Lord's
+1st innings
+Sri Lanka
+4
+WB Rankin
+1
+TM Dilshan
+3
+DT Johnston
+0
+5
+WB Rankin
+0
+2
+DT Johnston
+1
+KC Sangakkara
+10
+WB Rankin
+0
+4
+DT Johnston
+0
+2
+RM West
+0
+12
+DT Johnston
+0
+15
+RM West
+0
+10
+WK McCallan
+0
+7
+AR Cusack
+0
+9
+WK McCallan
+1
+ST Jayasuriya
+9
+KJ O'Brien
+0
+5
+WK McCallan
+1
+LPC Silva
+4
+RM West
+0
+10
+WK McCallan
+0
+13
+RM West
+0
+4
+AR Cusack
+2
+J Mubarak
+DPMD Jayawardene
+9
+WB Rankin
+1
+KMDN Kulasekara
+7
+AR Cusack
+2
+AD Mathews
+M Muralitharan
+2nd innings
+Ireland
+5
+AD Mathews
+0
+6
+KMDN Kulasekara
+0
+8
+AD Mathews
+0
+10
+KMDN Kulasekara
+0
+3
+BAW Mendis
+0
+5
+SL Malinga
+0
+7
+BAW Mendis
+0
+5
+M Muralitharan
+0
+10
+AD Mathews
+0
+1
+M Muralitharan
+1
+WTS Porterfield
+7
+ST Jayasuriya
+0
+5
+M Muralitharan
+0
+3
+SL Malinga
+0
+13
+KMDN Kulasekara
+1
+AR White
+3
+BAW Mendis
+2
+KJ O'Brien
+NJ O'Brien
+3
+M Muralitharan
+0
+11
+BAW Mendis
+0
+4
+SL Malinga
+2
+DT Johnston
+AC Botha
+18
+KMDN Kulasekara
+0
+8
+SL Malinga
+1
+AR Cusack

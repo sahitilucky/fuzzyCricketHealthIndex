@@ -1,0 +1,99 @@
+Johannesburg
+2012-03-30
+runs: 11
+method: D/L
+South Africa
+India
+venue: New Wanderers Stadium
+1st innings
+South Africa
+13
+P Kumar
+0
+14
+IK Pathan
+1
+RE Levi
+2
+R Vinay Kumar
+0
+8
+IK Pathan
+0
+10
+R Vinay Kumar
+0
+8
+R Ashwin
+0
+10
+P Kumar
+0
+9
+YK Pathan
+0
+4
+R Ashwin
+0
+5
+SK Raina
+0
+11
+R Ashwin
+0
+14
+RG Sharma
+0
+8
+IK Pathan
+0
+15
+V Kohli
+0
+10
+R Ashwin
+1
+JH Kallis
+7
+SK Raina
+0
+20
+R Vinay Kumar
+0
+11
+SK Raina
+1
+CA Ingram
+14
+IK Pathan
+0
+26
+SK Raina
+1
+JL Ontong
+2nd innings
+India
+7
+LL Tsotsobe
+0
+16
+JA Morkel
+0
+4
+LL Tsotsobe
+0
+13
+J Theron
+0
+7
+LL Tsotsobe
+0
+4
+WD Parnell
+0
+10
+J Botha
+0
+10
+WD Parnell
+0

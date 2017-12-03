@@ -1,0 +1,148 @@
+Mirpur
+2014-03-30
+runs: 73
+winner: India
+Australia
+India
+venue: Shere Bangla National Stadium
+1st innings
+India
+7
+BJ Hodge
+1
+RG Sharma
+9
+GJ Maxwell
+0
+7
+MA Starc
+0
+7
+SR Watson
+0
+7
+MA Starc
+0
+7
+DE Bollinger
+0
+7
+JM Muirhead
+1
+V Kohli
+1
+GJ Maxwell
+0
+2
+DE Bollinger
+1
+AM Rahane
+5
+GJ Maxwell
+0
+5
+DE Bollinger
+0
+5
+GJ Maxwell
+1
+SK Raina
+8
+BJ Hodge
+0
+17
+JM Muirhead
+0
+8
+SR Watson
+0
+10
+DE Bollinger
+0
+19
+MA Starc
+0
+16
+SR Watson
+0
+5
+MA Starc
+1
+MS Dhoni
+7
+SR Watson
+2
+Yuvraj Singh
+RA Jadeja
+2nd innings
+Australia
+6
+B Kumar
+0
+6
+MM Sharma
+0
+1
+B Kumar
+0
+6
+R Ashwin
+1
+AJ Finch
+2
+B Kumar
+1
+CL White
+6
+MM Sharma
+1
+SR Watson
+16
+SK Raina
+0
+3
+R Ashwin
+1
+DA Warner
+8
+RA Jadeja
+0
+2
+R Ashwin
+1
+GJ Maxwell
+8
+RA Jadeja
+1
+GJ Bailey
+5
+A Mishra
+0
+5
+RA Jadeja
+0
+3
+A Mishra
+1
+BJ Haddin
+4
+RA Jadeja
+1
+MA Starc
+5
+A Mishra
+1
+BJ Hodge
+0
+R Ashwin
+1
+JM Muirhead
+0
+R Ashwin
+0
+0
+R Ashwin
+0
+0
+R Ashwin
+0

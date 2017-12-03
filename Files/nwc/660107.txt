@@ -1,0 +1,123 @@
+Sharjah
+2013-11-15
+wickets: 7
+winner: Netherlands
+Afghanistan
+Netherlands
+venue: Sharjah Cricket Stadium
+1st innings
+Afghanistan
+4
+Mudassar Bukhari
+0
+8
+PA van Meekeren
+1
+Nawroz Mangal
+1
+Mudassar Bukhari
+1
+Karim Sadiq
+1
+PA van Meekeren
+1
+Samiullah Shenwari
+10
+PW Borren
+0
+1
+PA van Meekeren
+0
+5
+PM Seelaar
+0
+9
+PA van Meekeren
+0
+6
+PM Seelaar
+1
+Shafiqullah
+3
+MJG Rippon
+0
+2
+PW Borren
+1
+Mohammad Shahzad
+5
+MJG Rippon
+0
+2
+PM Seelaar
+1
+Mohammad Nabi
+3
+PW Borren
+0
+9
+PM Seelaar
+0
+7
+MAA Jamil
+0
+8
+PW Borren
+0
+3
+Mudassar Bukhari
+1
+Najibullah Zadran
+3
+MAA Jamil
+2
+Gulbadin Naib
+Shapoor Zadran
+0
+Mudassar Bukhari
+1
+Hamza Hotak
+2nd innings
+Netherlands
+8
+Shapoor Zadran
+1
+W Barresi
+7
+Hamid Hassan
+0
+6
+Shapoor Zadran
+0
+8
+Hamid Hassan
+0
+2
+Karim Sadiq
+0
+1
+Hamza Hotak
+0
+6
+Karim Sadiq
+0
+8
+Mohammad Nabi
+1
+ES Szwarczynski
+2
+Karim Sadiq
+0
+10
+Mohammad Nabi
+1
+SJ Myburgh
+2
+Hamza Hotak
+0
+11
+Hamid Hassan
+0
+21
+Hamza Hotak
+0

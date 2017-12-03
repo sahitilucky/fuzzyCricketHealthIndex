@@ -1,0 +1,141 @@
+St Lucia
+2010-05-02
+runs: 14
+winner: India
+India
+South Africa
+venue: 'Beausejour Stadium, Gros Islet'
+1st innings
+India
+5
+RK Kleinveldt
+1
+M Vijay
+4
+DW Steyn
+0
+5
+M Morkel
+0
+7
+JA Morkel
+0
+9
+M Morkel
+0
+6
+JH Kallis
+1
+KD Karthik
+3
+RK Kleinveldt
+0
+4
+JH Kallis
+0
+13
+RE van der Merwe
+0
+11
+JH Kallis
+0
+13
+JA Morkel
+0
+9
+JH Kallis
+0
+7
+DW Steyn
+0
+8
+M Morkel
+0
+7
+DW Steyn
+0
+15
+RK Kleinveldt
+1
+Yuvraj Singh
+10
+M Morkel
+0
+25
+RK Kleinveldt
+0
+6
+DW Steyn
+1
+YK Pathan
+19
+JA Morkel
+1
+SK Raina
+2nd innings
+South Africa
+6
+Harbhajan Singh
+0
+4
+P Kumar
+0
+3
+Harbhajan Singh
+0
+4
+A Nehra
+0
+8
+YK Pathan
+1
+LE Bosman
+7
+A Nehra
+0
+7
+YK Pathan
+0
+6
+PP Chawla
+0
+8
+YK Pathan
+0
+4
+RA Jadeja
+0
+12
+PP Chawla
+0
+7
+RA Jadeja
+0
+8
+Harbhajan Singh
+0
+10
+RA Jadeja
+0
+16
+Harbhajan Singh
+0
+16
+RA Jadeja
+1
+GC Smith
+10
+PP Chawla
+1
+JH Kallis
+8
+A Nehra
+0
+19
+YK Pathan
+1
+JA Morkel
+9
+A Nehra
+1
+AB de Villiers

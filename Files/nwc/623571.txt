@@ -1,0 +1,144 @@
+Bulawayo
+2013-05-11
+runs: 6
+winner: Zimbabwe
+Zimbabwe
+Bangladesh
+venue: Queens Sports Club
+1st innings
+Zimbabwe
+5
+Sohag Gazi
+1
+V Sibanda
+14
+Shafiul Islam
+0
+6
+Sohag Gazi
+0
+7
+Abdur Razzak
+0
+7
+Sohag Gazi
+0
+9
+Abdur Razzak
+0
+10
+Shakib Al Hasan
+0
+15
+Sajedul Islam
+0
+3
+Shakib Al Hasan
+1
+BRM Taylor
+8
+Mahmudullah
+0
+8
+Shakib Al Hasan
+0
+6
+Mahmudullah
+1
+SC Williams
+10
+Sohag Gazi
+0
+8
+Mahmudullah
+0
+4
+Shafiul Islam
+1
+Sikandar Raza
+13
+Mahmudullah
+0
+8
+Abdur Razzak
+0
+5
+Shakib Al Hasan
+1
+H Masakadza
+11
+Abdur Razzak
+0
+11
+Shafiul Islam
+0
+2nd innings
+Bangladesh
+3
+BV Vitori
+1
+Tamim Iqbal
+10
+TL Chatara
+0
+9
+BV Vitori
+0
+9
+TL Chatara
+0
+6
+P Utseya
+0
+12
+T Panyangara
+0
+3
+P Utseya
+0
+6
+TC Mutombodzi
+0
+18
+P Utseya
+0
+6
+TC Mutombodzi
+0
+7
+H Masakadza
+0
+10
+T Panyangara
+0
+2
+BV Vitori
+0
+16
+TC Mutombodzi
+0
+8
+P Utseya
+2
+Shakib Al Hasan
+Shamsur Rahman
+5
+TC Mutombodzi
+2
+Nasir Hossain
+Mahmudullah
+11
+TL Chatara
+0
+8
+T Panyangara
+1
+Ziaur Rahman
+10
+BV Vitori
+0
+3
+T Panyangara
+2
+Mushfiqur Rahim
+Abdur Razzak

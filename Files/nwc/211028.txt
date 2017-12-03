@@ -1,0 +1,149 @@
+Southampton
+2005-06-13
+runs: 100
+winner: England
+England
+Australia
+venue: The Rose Bowl
+1st innings
+England
+4
+B Lee
+0
+2
+GD McGrath
+0
+14
+B Lee
+0
+9
+GD McGrath
+1
+GO Jones
+14
+B Lee
+0
+7
+MS Kasprowicz
+1
+A Flintoff
+8
+JN Gillespie
+0
+10
+MS Kasprowicz
+0
+14
+JN Gillespie
+0
+11
+MS Kasprowicz
+0
+8
+MJ Clarke
+1
+KP Pietersen
+4
+A Symonds
+1
+MP Vaughan
+4
+MJ Clarke
+0
+2
+A Symonds
+1
+ME Trescothick
+13
+MJ Clarke
+0
+8
+A Symonds
+0
+17
+JN Gillespie
+0
+8
+GD McGrath
+0
+10
+JN Gillespie
+1
+AJ Strauss
+12
+GD McGrath
+2
+VS Solanki
+PD Collingwood
+2nd innings
+Australia
+8
+D Gough
+0
+10
+J Lewis
+0
+5
+D Gough
+2
+AC Gilchrist
+ML Hayden
+1
+J Lewis
+2
+MJ Clarke
+A Symonds
+4
+D Gough
+1
+MEK Hussey
+3
+J Lewis
+2
+RT Ponting
+DR Martyn
+8
+SJ Harmison
+0
+10
+J Lewis
+0
+5
+SJ Harmison
+0
+11
+A Flintoff
+0
+3
+PD Collingwood
+1
+JN Gillespie
+4
+A Flintoff
+0
+6
+PD Collingwood
+1
+B Lee
+1
+A Flintoff
+0
+0
+SJ Harmison
+1
+GD McGrath
+0
+SJ Harmison
+0
+0
+SJ Harmison
+0
+0
+SJ Harmison
+0
+0
+SJ Harmison
+0
+0
+SJ Harmison
+0

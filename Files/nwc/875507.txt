@@ -1,0 +1,146 @@
+Belfast
+2015-07-15
+wickets: 5
+winner: Hong Kong
+Hong Kong
+Nepal
+venue: 'Civil Service Cricket Club, Stormont'
+1st innings
+Nepal
+8
+Tanwir Afzal
+0
+2
+Haseeb Amjad
+2
+SP Khakurel
+G Malla
+2
+Tanwir Afzal
+0
+1
+Haseeb Amjad
+1
+P Khadka
+3
+Tanwir Afzal
+0
+1
+Aizaz Khan
+0
+1
+Irfan Ahmed
+1
+Sagar Pun
+1
+Aizaz Khan
+0
+11
+Irfan Ahmed
+0
+1
+Aizaz Khan
+1
+B Regmi
+10
+Nadeem Ahmed
+0
+4
+Aizaz Khan
+0
+3
+Nizakat Khan
+0
+4
+Irfan Ahmed
+0
+6
+Nizakat Khan
+0
+14
+Irfan Ahmed
+1
+RP Magar
+2
+Nizakat Khan
+1
+PS Airee
+8
+Haseeb Amjad
+0
+22
+Tanwir Afzal
+1
+S Vesawkar
+5
+Haseeb Amjad
+2
+Sompal Kami
+SP Gauchan
+2nd innings
+Hong Kong
+6
+P Khadka
+0
+6
+Sompal Kami
+1
+Irfan Ahmed
+0
+P Khadka
+0
+11
+Sompal Kami
+0
+6
+P Khadka
+0
+5
+SP Gauchan
+0
+8
+JK Mukhiya
+0
+11
+Sagar Pun
+0
+3
+B Regmi
+1
+Nizakat Khan
+4
+Sagar Pun
+0
+6
+B Regmi
+1
+Anshuman Rath
+3
+SP Gauchan
+0
+4
+B Regmi
+1
+MS Chapman
+4
+SP Gauchan
+0
+5
+JK Mukhiya
+0
+4
+Sagar Pun
+0
+3
+B Regmi
+1
+KD Shah
+10
+Sompal Kami
+0
+10
+SP Gauchan
+0
+1
+P Khadka
+0

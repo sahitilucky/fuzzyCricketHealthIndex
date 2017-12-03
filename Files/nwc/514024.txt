@@ -1,0 +1,146 @@
+Johannesburg
+2011-10-16
+wickets: 3
+winner: South Africa
+South Africa
+Australia
+venue: New Wanderers Stadium
+1st innings
+Australia
+3
+LL Tsotsobe
+0
+1
+M Morkel
+1
+DA Warner
+3
+LL Tsotsobe
+0
+9
+M Morkel
+0
+1
+LL Tsotsobe
+1
+MS Wade
+11
+WD Parnell
+0
+3
+J Theron
+0
+13
+WD Parnell
+0
+6
+J Botha
+0
+13
+J Theron
+1
+SE Marsh
+4
+J Botha
+1
+DJ Hussey
+7
+M Morkel
+0
+8
+J Botha
+0
+5
+LL Tsotsobe
+1
+SPD Smith
+8
+J Botha
+0
+8
+J Theron
+0
+5
+WD Parnell
+1
+CL White
+4
+J Theron
+1
+SNJ O'Keefe
+15
+WD Parnell
+0
+20
+M Morkel
+1
+MR Marsh
+2nd innings
+South Africa
+5
+DE Bollinger
+1
+HM Amla
+3
+PJ Cummins
+0
+10
+DE Bollinger
+0
+0
+PJ Cummins
+2
+CA Ingram
+JP Duminy
+9
+DE Bollinger
+0
+3
+JL Pattinson
+0
+6
+DJ Hussey
+0
+6
+SNJ O'Keefe
+0
+8
+DJ Hussey
+1
+GC Smith
+9
+SNJ O'Keefe
+0
+3
+JL Pattinson
+0
+11
+MR Marsh
+0
+7
+JL Pattinson
+1
+DA Miller
+2
+SNJ O'Keefe
+1
+J Botha
+5
+JL Pattinson
+1
+HG Kuhn
+12
+PJ Cummins
+0
+12
+DE Bollinger
+0
+18
+SNJ O'Keefe
+0
+13
+PJ Cummins
+0
+6
+DJ Hussey
+0

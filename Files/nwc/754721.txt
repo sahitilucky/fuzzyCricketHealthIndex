@@ -1,0 +1,145 @@
+Sydney
+2014-11-09
+wickets: 2
+winner: Australia
+Australia
+South Africa
+venue: Stadium Australia
+1st innings
+South Africa
+6
+DE Bollinger
+0
+5
+GJ Maxwell
+0
+3
+DE Bollinger
+0
+9
+JP Faulkner
+0
+16
+DE Bollinger
+0
+14
+SA Abbott
+0
+6
+GJ Maxwell
+0
+9
+CJ Boyce
+0
+10
+PJ Cummins
+1
+Q de Kock
+6
+GJ Maxwell
+0
+4
+PJ Cummins
+0
+5
+CJ Boyce
+1
+RR Rossouw
+7
+GJ Maxwell
+0
+12
+CJ Boyce
+0
+4
+JP Faulkner
+0
+4
+DE Bollinger
+1
+RR Hendricks
+8
+JP Faulkner
+1
+F Behardien
+5
+PJ Cummins
+0
+7
+JP Faulkner
+2
+JP Duminy
+D Wiese
+5
+PJ Cummins
+0
+2nd innings
+Australia
+4
+KJ Abbott
+0
+13
+M de Lange
+0
+4
+KJ Abbott
+0
+15
+WD Parnell
+0
+4
+D Wiese
+1
+AJ Finch
+6
+M de Lange
+0
+7
+RJ Peterson
+1
+BR Dunk
+8
+D Wiese
+1
+NJ Maddinson
+3
+RJ Peterson
+1
+SR Watson
+12
+WD Parnell
+0
+14
+RJ Peterson
+0
+7
+D Wiese
+0
+4
+RJ Peterson
+1
+GJ Maxwell
+4
+M de Lange
+0
+9
+WD Parnell
+0
+11
+M de Lange
+1
+JP Faulkner
+9
+KJ Abbott
+0
+2
+D Wiese
+1
+PJ Cummins
+7
+WD Parnell
+0
+3
+KJ Abbott
+1
+SA Abbott

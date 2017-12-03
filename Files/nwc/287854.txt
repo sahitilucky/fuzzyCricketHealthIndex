@@ -1,0 +1,97 @@
+Durban
+2007-09-12
+wickets: 9
+winner: New Zealand
+Kenya
+New Zealand
+venue: Kingsmead
+1st innings
+Kenya
+0
+SE Bond
+2
+MA Ouma
+T Mishra
+1
+MR Gillespie
+2
+DO Obuya
+SO Tikolo
+1
+SE Bond
+0
+3
+MR Gillespie
+0
+6
+SE Bond
+0
+12
+JDP Oram
+0
+5
+SE Bond
+0
+9
+JDP Oram
+0
+0
+CS Martin
+1
+TM Odoyo
+1
+DL Vettori
+0
+1
+CS Martin
+1
+NN Odhiambo
+3
+DL Vettori
+1
+CO Obuya
+4
+CS Martin
+0
+5
+DL Vettori
+1
+AA Obanda
+10
+CS Martin
+0
+9
+DL Vettori
+0
+3
+MR Gillespie
+2
+JK Kamande
+PJ Ongondo
+2nd innings
+New Zealand
+5
+TM Odoyo
+0
+12
+PJ Ongondo
+0
+10
+TM Odoyo
+0
+9
+PJ Ongondo
+0
+11
+TM Odoyo
+1
+L Vincent
+2
+PJ Ongondo
+0
+8
+NN Odhiambo
+0
+17
+RL Bhudia
+0

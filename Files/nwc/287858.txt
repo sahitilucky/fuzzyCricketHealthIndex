@@ -1,0 +1,147 @@
+Cape Town
+2007-09-13
+runs: 50
+winner: England
+England
+Zimbabwe
+venue: Newlands
+1st innings
+England
+3
+E Chigumbura
+0
+13
+GB Brent
+0
+4
+E Chigumbura
+2
+DL Maddy
+LJ Wright
+8
+T Mupariwa
+0
+17
+E Chigumbura
+0
+14
+T Mupariwa
+1
+MJ Prior
+7
+P Utseya
+0
+9
+T Taibu
+0
+7
+P Utseya
+0
+11
+T Taibu
+0
+8
+KM Dabengwa
+0
+12
+GB Brent
+0
+22
+KM Dabengwa
+0
+10
+CJ Chibhabha
+0
+8
+P Utseya
+1
+KP Pietersen
+6
+CJ Chibhabha
+1
+PD Collingwood
+5
+P Utseya
+0
+8
+CJ Chibhabha
+1
+A Flintoff
+7
+E Chigumbura
+2
+OA Shah
+AD Mascarenhas
+9
+GB Brent
+1
+SCJ Broad
+2nd innings
+Zimbabwe
+6
+SCJ Broad
+0
+16
+JM Anderson
+0
+10
+SCJ Broad
+0
+1
+A Flintoff
+0
+14
+SCJ Broad
+0
+10
+A Flintoff
+0
+5
+AD Mascarenhas
+0
+5
+CP Schofield
+0
+8
+AD Mascarenhas
+1
+V Sibanda
+5
+CP Schofield
+0
+2
+AD Mascarenhas
+1
+T Taibu
+2
+CP Schofield
+0
+3
+AD Mascarenhas
+1
+BRM Taylor
+3
+CP Schofield
+2
+S Matsikenyeri
+CJ Chibhabha
+6
+JM Anderson
+0
+11
+PD Collingwood
+1
+E Chigumbura
+9
+JM Anderson
+0
+12
+PD Collingwood
+0
+7
+A Flintoff
+0
+3
+SCJ Broad
+1
+H Masakadza

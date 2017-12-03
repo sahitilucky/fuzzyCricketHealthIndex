@@ -1,0 +1,143 @@
+Khulna
+2016-01-17
+runs: 42
+winner: Bangladesh
+Bangladesh
+Zimbabwe
+venue: Sheikh Abu Naser Stadium
+1st innings
+Bangladesh
+1
+BV Vitori
+0
+6
+N Madziva
+0
+10
+BV Vitori
+0
+11
+T Muzarabani
+0
+12
+N Madziva
+0
+6
+T Muzarabani
+1
+Tamim Iqbal
+5
+WP Masakadza
+0
+8
+AG Cremer
+0
+14
+WP Masakadza
+0
+3
+AG Cremer
+1
+Soumya Sarkar
+3
+WP Masakadza
+1
+Mahmudullah
+7
+AG Cremer
+0
+9
+SC Williams
+0
+12
+N Madziva
+0
+10
+WP Masakadza
+0
+11
+AG Cremer
+1
+Mushfiqur Rahim
+11
+BV Vitori
+0
+10
+T Muzarabani
+0
+9
+BV Vitori
+0
+9
+T Muzarabani
+0
+2nd innings
+Zimbabwe
+7
+Shuvagata Hom
+0
+13
+Shakib Al Hasan
+0
+9
+Al-Amin Hossain
+0
+4
+Mustafizur Rahman
+0
+1
+Mashrafe Mortaza
+0
+11
+Mustafizur Rahman
+0
+5
+Mashrafe Mortaza
+1
+V Sibanda
+4
+Shakib Al Hasan
+0
+7
+Sabbir Rahman
+1
+H Masakadza
+4
+Shuvagata Hom
+1
+SC Williams
+4
+Sabbir Rahman
+1
+R Mutumbami
+2
+Shakib Al Hasan
+0
+10
+Mashrafe Mortaza
+0
+8
+Shakib Al Hasan
+0
+9
+Mashrafe Mortaza
+0
+9
+Al-Amin Hossain
+1
+MN Waller
+2
+Mustafizur Rahman
+2
+N Madziva
+PJ Moor
+5
+Al-Amin Hossain
+0
+7
+Shuvagata Hom
+0
+4
+Mustafizur Rahman
+1
+AG Cremer

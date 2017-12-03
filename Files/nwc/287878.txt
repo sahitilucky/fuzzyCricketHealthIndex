@@ -1,0 +1,143 @@
+Durban
+2007-09-22
+runs: 15
+winner: India
+Australia
+India
+venue: Kingsmead
+1st innings
+India
+5
+B Lee
+0
+4
+NW Bracken
+0
+1
+B Lee
+0
+9
+NW Bracken
+0
+7
+SR Clark
+0
+10
+MG Johnson
+1
+V Sehwag
+3
+SR Clark
+0
+2
+MG Johnson
+1
+G Gambhir
+7
+SR Clark
+0
+12
+B Lee
+0
+19
+A Symonds
+0
+9
+NW Bracken
+0
+4
+A Symonds
+0
+21
+SR Clark
+0
+14
+MG Johnson
+1
+RV Uthappa
+14
+A Symonds
+0
+7
+B Lee
+0
+13
+MJ Clarke
+1
+Yuvraj Singh
+18
+NW Bracken
+0
+9
+MG Johnson
+1
+MS Dhoni
+2nd innings
+Australia
+5
+RP Singh
+0
+5
+S Sreesanth
+0
+7
+RP Singh
+0
+2
+S Sreesanth
+0
+17
+RP Singh
+0
+1
+S Sreesanth
+1
+AC Gilchrist
+9
+IK Pathan
+0
+18
+Joginder Sharma
+0
+8
+IK Pathan
+1
+BJ Hodge
+5
+Harbhajan Singh
+0
+16
+IK Pathan
+0
+7
+Harbhajan Singh
+0
+20
+V Sehwag
+0
+9
+Harbhajan Singh
+0
+6
+S Sreesanth
+1
+ML Hayden
+13
+Joginder Sharma
+0
+11
+IK Pathan
+1
+A Symonds
+3
+Harbhajan Singh
+1
+MJ Clarke
+5
+RP Singh
+0
+6
+Joginder Sharma
+2
+MEK Hussey
+B Lee

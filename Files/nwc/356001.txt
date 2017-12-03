@@ -1,0 +1,123 @@
+Nottingham
+2009-06-10
+wickets: 8
+winner: India
+India
+Ireland
+venue: Trent Bridge
+1st innings
+Ireland
+2
+IK Pathan
+0
+2
+Z Khan
+1
+JP Bray
+5
+IK Pathan
+0
+8
+Z Khan
+2
+WTS Porterfield
+AC Botha
+7
+I Sharma
+0
+4
+Yuvraj Singh
+0
+2
+PP Ojha
+1
+KJ O'Brien
+4
+Harbhajan Singh
+0
+11
+PP Ojha
+0
+3
+Harbhajan Singh
+1
+GC Wilson
+6
+I Sharma
+0
+7
+Harbhajan Singh
+0
+3
+PP Ojha
+0
+5
+I Sharma
+0
+4
+PP Ojha
+2
+JF Mooney
+RM West
+15
+IK Pathan
+0
+9
+Z Khan
+1
+AR White
+15
+Harbhajan Singh
+0
+2nd innings
+India
+5
+WB Rankin
+0
+8
+KJ O'Brien
+0
+2
+WB Rankin
+0
+9
+KJ O'Brien
+0
+14
+WB Rankin
+0
+7
+AR Cusack
+0
+5
+RM West
+0
+6
+AR Cusack
+0
+11
+RM West
+0
+8
+WK McCallan
+0
+2
+RM West
+1
+G Gambhir
+8
+WK McCallan
+0
+11
+WB Rankin
+0
+5
+WK McCallan
+1
+MS Dhoni
+5
+RM West
+0
+7
+WK McCallan
+0

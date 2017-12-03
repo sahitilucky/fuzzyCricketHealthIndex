@@ -1,0 +1,143 @@
+London
+2009-06-09
+runs: 1
+winner: South Africa
+New Zealand
+South Africa
+venue: Lord's
+1st innings
+South Africa
+4
+KD Mills
+0
+6
+JDP Oram
+0
+12
+KD Mills
+0
+6
+JDP Oram
+0
+7
+IG Butler
+0
+12
+BJ Diamanti
+0
+2
+NL McCullum
+0
+1
+IG Butler
+1
+JH Kallis
+3
+NL McCullum
+0
+8
+BJ Diamanti
+0
+2
+SB Styris
+1
+HH Gibbs
+1
+IG Butler
+1
+GC Smith
+4
+NL McCullum
+1
+RE van der Merwe
+9
+KD Mills
+0
+9
+NL McCullum
+1
+AB de Villiers
+8
+SB Styris
+0
+12
+JDP Oram
+0
+6
+IG Butler
+1
+MV Boucher
+10
+KD Mills
+1
+JP Duminy
+6
+JDP Oram
+0
+2nd innings
+New Zealand
+6
+DW Steyn
+0
+13
+WD Parnell
+0
+2
+DW Steyn
+1
+MJ Guptill
+7
+JH Kallis
+1
+NT Broom
+3
+WD Parnell
+0
+4
+JH Kallis
+0
+3
+J Botha
+0
+6
+JH Kallis
+0
+8
+J Botha
+0
+5
+JA Morkel
+0
+5
+RE van der Merwe
+0
+9
+JA Morkel
+0
+4
+RE van der Merwe
+0
+6
+DW Steyn
+0
+2
+RE van der Merwe
+1
+LRPL Taylor
+6
+J Botha
+0
+4
+RE van der Merwe
+1
+BB McCullum
+9
+WD Parnell
+0
+12
+DW Steyn
+0
+13
+WD Parnell
+1
+JDP Oram

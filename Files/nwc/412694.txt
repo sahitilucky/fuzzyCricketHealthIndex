@@ -1,0 +1,148 @@
+Barbados
+2010-05-08
+runs: 39
+winner: England
+England
+South Africa
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+England
+4
+J Botha
+1
+MJ Lumb
+13
+DW Steyn
+0
+13
+M Morkel
+0
+7
+CK Langeveldt
+0
+12
+M Morkel
+0
+16
+CK Langeveldt
+0
+4
+JH Kallis
+0
+4
+J Botha
+0
+4
+JH Kallis
+0
+5
+J Botha
+0
+16
+DW Steyn
+0
+2
+J Botha
+1
+KP Pietersen
+7
+JH Kallis
+0
+11
+JP Duminy
+1
+C Kieswetter
+7
+M Morkel
+1
+PD Collingwood
+12
+DW Steyn
+0
+2
+CK Langeveldt
+1
+LJ Wright
+9
+DW Steyn
+0
+10
+CK Langeveldt
+1
+EJG Morgan
+10
+M Morkel
+1
+TT Bresnan
+2nd innings
+South Africa
+5
+RJ Sidebottom
+0
+2
+TT Bresnan
+0
+9
+SCJ Broad
+0
+3
+TT Bresnan
+0
+6
+SCJ Broad
+1
+JH Kallis
+9
+TT Bresnan
+0
+4
+MH Yardy
+1
+HH Gibbs
+7
+GP Swann
+1
+GC Smith
+5
+MH Yardy
+1
+JA Morkel
+5
+GP Swann
+1
+AB de Villiers
+12
+MH Yardy
+0
+6
+GP Swann
+0
+10
+MH Yardy
+0
+9
+GP Swann
+1
+MV Boucher
+6
+RJ Sidebottom
+0
+13
+SCJ Broad
+0
+11
+RJ Sidebottom
+1
+JP Duminy
+4
+SCJ Broad
+1
+DW Steyn
+3
+RJ Sidebottom
+2
+J Botha
+M Morkel
+0
+RJ Sidebottom
+0

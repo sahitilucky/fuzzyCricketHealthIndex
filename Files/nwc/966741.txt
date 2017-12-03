@@ -1,0 +1,148 @@
+Mirpur
+2016-02-22
+runs: 66
+winner: Afghanistan
+Afghanistan
+Hong Kong
+venue: Shere Bangla National Stadium
+1st innings
+Afghanistan
+1
+Nadeem Ahmed
+0
+9
+Tanwir Afzal
+0
+12
+A Mehmood
+0
+5
+Tanwir Afzal
+1
+Mohammad Shahzad
+9
+MS Chapman
+0
+12
+Tanwir Afzal
+0
+4
+MS Chapman
+1
+Noor Ali Zadran
+14
+Tanwir Afzal
+0
+11
+MS Chapman
+0
+6
+Nadeem Ahmed
+0
+1
+Aizaz Khan
+1
+Karim Sadiq
+10
+Nadeem Ahmed
+0
+11
+Aizaz Khan
+0
+11
+Tanveer Ahmed
+0
+16
+Nadeem Ahmed
+0
+3
+Tanveer Ahmed
+1
+Asghar Stanikzai
+3
+Aizaz Khan
+2
+Mohammad Nabi
+Gulbadin Naib
+9
+Tanveer Ahmed
+0
+23
+Aizaz Khan
+0
+8
+Tanveer Ahmed
+1
+Dawlat Zadran
+2nd innings
+Hong Kong
+12
+Shapoor Zadran
+0
+7
+Dawlat Zadran
+0
+4
+Karim Sadiq
+0
+10
+Dawlat Zadran
+0
+9
+Karim Sadiq
+0
+13
+Gulbadin Naib
+0
+1
+Mohammad Nabi
+1
+KD Shah
+12
+Gulbadin Naib
+0
+8
+Rashid Khan
+0
+3
+Mohammad Nabi
+1
+Babar Hayat
+8
+Shapoor Zadran
+0
+8
+Mohammad Nabi
+1
+MS Chapman
+2
+Shapoor Zadran
+1
+Nizakat Khan
+5
+Mohammad Nabi
+1
+Tanwir Afzal
+3
+Rashid Khan
+1
+Anshuman Rath
+5
+Dawlat Zadran
+1
+Aizaz Khan
+2
+Rashid Khan
+2
+C Carter
+Nadeem Ahmed
+0
+Dawlat Zadran
+1
+Tanveer Ahmed
+0
+Dawlat Zadran
+0
+0
+Dawlat Zadran
+0

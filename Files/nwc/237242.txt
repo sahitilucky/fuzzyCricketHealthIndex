@@ -1,0 +1,146 @@
+Auckland
+2006-02-16
+    bowl_out: New Zealand
+bowl_out
+New Zealand
+West Indies
+venue: Eden Park
+1st innings
+West Indies
+6
+JEC Franklin
+0
+2
+SE Bond
+0
+5
+JEC Franklin
+0
+1
+SE Bond
+1
+CH Gayle
+7
+JEC Franklin
+0
+2
+SE Bond
+0
+3
+JEC Franklin
+0
+13
+SB Styris
+1
+RS Morton
+5
+CL Cairns
+1
+DR Smith
+10
+SB Styris
+1
+D Ganga
+5
+CL Cairns
+0
+6
+JS Patel
+0
+8
+SB Styris
+0
+6
+JS Patel
+1
+WW Hinds
+2
+SB Styris
+0
+3
+CL Cairns
+0
+9
+JS Patel
+0
+11
+CL Cairns
+0
+11
+JS Patel
+1
+S Chanderpaul
+11
+SE Bond
+1
+D Ramdin
+2nd innings
+New Zealand
+3
+IDR Bradshaw
+0
+11
+JE Taylor
+1
+SP Fleming
+2
+IDR Bradshaw
+0
+5
+JE Taylor
+0
+9
+DK Butler
+0
+15
+JE Taylor
+1
+NJ Astle
+11
+DK Butler
+0
+10
+DJ Bravo
+0
+3
+DK Butler
+0
+5
+DJ Bravo
+1
+SB Styris
+5
+IDR Bradshaw
+0
+3
+DJ Bravo
+1
+CL Cairns
+3
+CH Gayle
+0
+2
+DR Smith
+1
+L Vincent
+6
+CH Gayle
+1
+HJH Marshall
+2
+DR Smith
+0
+6
+CH Gayle
+0
+3
+DR Smith
+1
+BB McCullum
+7
+CH Gayle
+1
+PG Fulton
+15
+IDR Bradshaw
+0

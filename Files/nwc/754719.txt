@@ -1,0 +1,120 @@
+none
+2014-11-07
+wickets: 7
+winner: Australia
+Australia
+South Africa
+venue: Melbourne Cricket Ground
+1st innings
+South Africa
+9
+DE Bollinger
+1
+Q de Kock
+5
+JP Faulkner
+1
+RR Rossouw
+2
+DE Bollinger
+0
+3
+JP Faulkner
+0
+10
+SA Abbott
+0
+7
+DE Bollinger
+0
+8
+GJ Maxwell
+0
+0
+PJ Cummins
+0
+3
+CJ Boyce
+1
+RR Hendricks
+4
+PJ Cummins
+0
+3
+CJ Boyce
+0
+5
+DE Bollinger
+0
+4
+CJ Boyce
+1
+F Behardien
+3
+GJ Maxwell
+0
+5
+CJ Boyce
+0
+6
+SA Abbott
+0
+13
+JP Faulkner
+1
+DA Miller
+3
+PJ Cummins
+1
+R McLaren
+4
+JP Faulkner
+1
+JP Duminy
+4
+PJ Cummins
+0
+2nd innings
+Australia
+3
+KJ Abbott
+0
+10
+K Rabada
+0
+14
+KJ Abbott
+0
+9
+JP Duminy
+0
+8
+WD Parnell
+1
+BR Dunk
+10
+Imran Tahir
+0
+16
+R McLaren
+0
+8
+Imran Tahir
+0
+7
+WD Parnell
+0
+7
+K Rabada
+0
+0
+WD Parnell
+1
+SR Watson
+8
+K Rabada
+1
+GJ Maxwell
+2
+WD Parnell
+0

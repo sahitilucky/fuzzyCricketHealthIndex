@@ -1,0 +1,135 @@
+Manchester
+2008-06-13
+wickets: 9
+winner: England
+England
+New Zealand
+venue: Old Trafford
+1st innings
+New Zealand
+1
+SCJ Broad
+0
+5
+JM Anderson
+1
+JM How
+8
+SCJ Broad
+1
+JAH Marshall
+0
+JM Anderson
+0
+5
+SCJ Broad
+0
+14
+JM Anderson
+0
+7
+LJ Wright
+0
+8
+PD Collingwood
+1
+LRPL Taylor
+2
+LJ Wright
+0
+9
+PD Collingwood
+0
+8
+LJ Wright
+1
+BB McCullum
+2
+GP Swann
+1
+PG Fulton
+3
+AD Mascarenhas
+0
+6
+GP Swann
+0
+8
+AD Mascarenhas
+0
+9
+GP Swann
+0
+3
+SCJ Broad
+1
+SB Styris
+4
+GP Swann
+1
+DR Flynn
+15
+LJ Wright
+0
+6
+JM Anderson
+2
+KD Mills
+MJ Mason
+2nd innings
+England
+8
+KD Mills
+0
+0
+MR Gillespie
+0
+10
+KD Mills
+0
+14
+MR Gillespie
+0
+12
+KD Mills
+0
+4
+MJ Mason
+1
+LJ Wright
+2
+DL Vettori
+0
+2
+MJ Mason
+0
+6
+DL Vettori
+0
+12
+MJ Mason
+0
+5
+SB Styris
+0
+10
+DL Vettori
+0
+10
+SB Styris
+0
+4
+MR Gillespie
+0
+9
+DL Vettori
+0
+7
+MR Gillespie
+0
+7
+DR Flynn
+0
+5
+SB Styris
+0

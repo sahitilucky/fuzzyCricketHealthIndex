@@ -1,0 +1,147 @@
+Mirpur
+2014-04-01
+runs: 84
+winner: West Indies
+Pakistan
+West Indies
+venue: Shere Bangla National Stadium
+1st innings
+West Indies
+4
+Mohammad Hafeez
+0
+6
+Sohail Tanvir
+0
+11
+Mohammad Hafeez
+1
+CH Gayle
+1
+Sohail Tanvir
+1
+DR Smith
+10
+Zulfiqar Babar
+0
+7
+Sohail Tanvir
+0
+4
+Shahid Afridi
+0
+8
+Umar Gul
+0
+7
+Shahid Afridi
+0
+3
+Saeed Ajmal
+0
+8
+Shahid Afridi
+2
+LMP Simmons
+MN Samuels
+5
+Zulfiqar Babar
+0
+4
+Shahid Afridi
+0
+3
+Zulfiqar Babar
+1
+D Ramdin
+3
+Saeed Ajmal
+0
+11
+Zulfiqar Babar
+0
+12
+Saeed Ajmal
+0
+21
+Umar Gul
+0
+24
+Saeed Ajmal
+0
+14
+Sohail Tanvir
+1
+DJ Bravo
+2nd innings
+Pakistan
+1
+K Santokie
+1
+Ahmed Shehzad
+2
+S Badree
+1
+Kamran Akmal
+5
+K Santokie
+0
+1
+S Badree
+1
+Umar Akmal
+2
+MN Samuels
+0
+2
+S Badree
+1
+Shoaib Malik
+10
+MN Samuels
+0
+5
+S Badree
+0
+4
+AD Russell
+0
+3
+SP Narine
+0
+7
+AD Russell
+1
+Mohammad Hafeez
+6
+SP Narine
+1
+Sohaib Maqsood
+9
+MN Samuels
+0
+6
+SP Narine
+0
+11
+DR Smith
+0
+1
+SP Narine
+2
+Sohail Tanvir
+Shahid Afridi
+4
+AD Russell
+1
+Saeed Ajmal
+3
+K Santokie
+1
+Umar Gul
+0
+K Santokie
+0
+0
+K Santokie
+0

@@ -1,0 +1,144 @@
+none
+2011-01-14
+runs: 4
+winner: Australia
+Australia
+England
+venue: Melbourne Cricket Ground
+1st innings
+Australia
+2
+CR Woakes
+0
+9
+A Shahzad
+0
+15
+CR Woakes
+0
+11
+A Shahzad
+0
+12
+CR Woakes
+1
+SR Watson
+8
+TT Bresnan
+0
+6
+GP Swann
+1
+TD Paine
+6
+TT Bresnan
+0
+3
+GP Swann
+0
+1
+MH Yardy
+1
+DA Warner
+3
+GP Swann
+1
+CL White
+4
+MH Yardy
+1
+DJ Hussey
+7
+GP Swann
+0
+8
+MH Yardy
+0
+7
+KP Pietersen
+0
+6
+MH Yardy
+0
+10
+KP Pietersen
+0
+6
+TT Bresnan
+0
+14
+A Shahzad
+1
+SPD Smith
+9
+TT Bresnan
+1
+SNJ O'Keefe
+2nd innings
+England
+11
+SW Tait
+0
+2
+B Lee
+0
+9
+SW Tait
+0
+8
+B Lee
+0
+9
+SR Watson
+0
+11
+MG Johnson
+0
+8
+DJ Hussey
+0
+5
+MG Johnson
+2
+IR Bell
+KP Pietersen
+9
+SNJ O'Keefe
+0
+2
+SR Watson
+1
+PD Collingwood
+5
+DJ Hussey
+0
+3
+SR Watson
+0
+6
+MG Johnson
+0
+3
+SR Watson
+1
+SM Davies
+6
+DJ Hussey
+0
+6
+B Lee
+0
+9
+SW Tait
+1
+LJ Wright
+7
+MG Johnson
+1
+EJG Morgan
+11
+SW Tait
+0
+13
+B Lee
+0

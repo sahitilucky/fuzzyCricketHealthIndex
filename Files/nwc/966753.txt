@@ -1,0 +1,146 @@
+Mirpur
+2016-02-28
+runs: 23
+winner: Bangladesh
+Bangladesh
+Sri Lanka
+venue: Shere Bangla National Stadium
+1st innings
+Bangladesh
+1
+AD Mathews
+1
+Mohammad Mithun
+1
+KMDN Kulasekara
+1
+Soumya Sarkar
+4
+AD Mathews
+0
+18
+KMDN Kulasekara
+0
+3
+AD Mathews
+1
+Mushfiqur Rahim
+14
+NLTC Perera
+0
+3
+DSNFG Jayasuriya
+0
+8
+HMRKB Herath
+0
+1
+DSNFG Jayasuriya
+0
+4
+HMRKB Herath
+0
+5
+TM Dilshan
+0
+5
+HMRKB Herath
+0
+17
+DSNFG Jayasuriya
+0
+6
+PVD Chameera
+0
+7
+HMRKB Herath
+0
+11
+PVD Chameera
+1
+Sabbir Rahman
+11
+KMDN Kulasekara
+0
+6
+PVD Chameera
+1
+Shakib Al Hasan
+14
+KMDN Kulasekara
+0
+8
+PVD Chameera
+2
+Nurul Hasan
+Mashrafe Mortaza
+2nd innings
+Sri Lanka
+4
+Taskin Ahmed
+0
+5
+Al-Amin Hossain
+0
+11
+Taskin Ahmed
+0
+6
+Shakib Al Hasan
+1
+TM Dilshan
+12
+Al-Amin Hossain
+0
+6
+Mustafizur Rahman
+0
+8
+Mashrafe Mortaza
+0
+4
+Taskin Ahmed
+0
+4
+Mahmudullah
+0
+6
+Shakib Al Hasan
+0
+10
+Mahmudullah
+1
+LD Chandimal
+3
+Shakib Al Hasan
+1
+DSNFG Jayasuriya
+5
+Mashrafe Mortaza
+0
+4
+Mustafizur Rahman
+1
+NLTC Perera
+4
+Mashrafe Mortaza
+1
+TAM Siriwardana
+6
+Shakib Al Hasan
+0
+4
+Mustafizur Rahman
+0
+9
+Al-Amin Hossain
+1
+AD Mathews
+5
+Mustafizur Rahman
+0
+8
+Al-Amin Hossain
+2
+MD Shanaka
+KMDN Kulasekara

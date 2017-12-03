@@ -1,0 +1,122 @@
+Cape Town
+2007-09-16
+wickets: 9
+winner: Australia
+Australia
+Bangladesh
+venue: Newlands
+1st innings
+Bangladesh
+2
+B Lee
+0
+3
+NW Bracken
+0
+11
+B Lee
+0
+2
+SR Clark
+0
+7
+MG Johnson
+0
+6
+SR Clark
+0
+9
+MG Johnson
+1
+Nazimuddin
+4
+A Symonds
+0
+13
+MJ Clarke
+0
+6
+A Symonds
+0
+3
+MJ Clarke
+1
+Tamim Iqbal
+7
+NW Bracken
+0
+9
+MG Johnson
+0
+4
+SR Clark
+1
+Mohammad Ashraful
+5
+MG Johnson
+0
+12
+MJ Clarke
+0
+9
+B Lee
+3
+Shakib Al Hasan
+Mashrafe Mortaza
+Alok Kapali
+2
+SR Clark
+0
+5
+B Lee
+0
+4
+NW Bracken
+2
+Aftab Ahmed
+Farhad Reza
+2nd innings
+Australia
+1
+Mashrafe Mortaza
+0
+14
+Syed Rasel
+0
+13
+Mashrafe Mortaza
+0
+11
+Syed Rasel
+0
+10
+Mashrafe Mortaza
+0
+13
+Abdur Razzak
+0
+4
+Shakib Al Hasan
+0
+9
+Abdur Razzak
+0
+11
+Shakib Al Hasan
+0
+2
+Abdur Razzak
+0
+9
+Alok Kapali
+0
+10
+Abdur Razzak
+1
+AC Gilchrist
+14
+Alok Kapali
+0
+3
+Mashrafe Mortaza
+0

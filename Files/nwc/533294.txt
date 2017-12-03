@@ -1,0 +1,144 @@
+Colombo
+2012-10-02
+runs: 32
+winner: Pakistan
+Australia
+Pakistan
+venue: R Premadasa Stadium
+1st innings
+Pakistan
+5
+XJ Doherty
+0
+3
+MA Starc
+1
+Mohammad Hafeez
+4
+SR Watson
+0
+3
+MA Starc
+0
+13
+PJ Cummins
+0
+3
+SR Watson
+1
+Imran Nazir
+6
+GJ Maxwell
+0
+4
+GB Hogg
+0
+8
+XJ Doherty
+0
+11
+GB Hogg
+0
+10
+PJ Cummins
+0
+9
+XJ Doherty
+0
+10
+SR Watson
+0
+14
+GB Hogg
+0
+5
+XJ Doherty
+1
+Nasir Jamshed
+6
+MA Starc
+1
+Kamran Akmal
+9
+PJ Cummins
+0
+7
+SR Watson
+0
+10
+PJ Cummins
+1
+Abdul Razzaq
+9
+MA Starc
+1
+Shahid Afridi
+2nd innings
+Australia
+7
+Mohammad Hafeez
+0
+4
+Raza Hasan
+0
+2
+Mohammad Hafeez
+0
+3
+Raza Hasan
+1
+SR Watson
+3
+Mohammad Hafeez
+1
+DA Warner
+2
+Saeed Ajmal
+0
+8
+Shahid Afridi
+0
+5
+Shoaib Malik
+0
+9
+Shahid Afridi
+0
+2
+Saeed Ajmal
+1
+GJ Bailey
+3
+Raza Hasan
+0
+10
+Mohammad Hafeez
+1
+CL White
+5
+Shahid Afridi
+0
+5
+Raza Hasan
+1
+GJ Maxwell
+14
+Shoaib Malik
+0
+8
+Saeed Ajmal
+0
+11
+Shahid Afridi
+0
+4
+Umar Gul
+0
+5
+Saeed Ajmal
+2
+MS Wade
+PJ Cummins
+7
+Umar Gul
+0

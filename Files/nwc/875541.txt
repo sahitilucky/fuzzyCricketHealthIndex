@@ -1,0 +1,143 @@
+Dublin
+2015-07-21
+wickets: 5
+winner: Hong Kong
+Afghanistan
+Hong Kong
+venue: 'The Village, Malahide'
+1st innings
+Afghanistan
+11
+Tanwir Afzal
+0
+6
+Haseeb Amjad
+0
+10
+Tanwir Afzal
+0
+0
+Haseeb Amjad
+1
+Mohammad Shahzad
+7
+Tanwir Afzal
+0
+7
+Nadeem Ahmed
+0
+5
+Tanwir Afzal
+0
+4
+Nadeem Ahmed
+0
+14
+Irfan Ahmed
+0
+9
+Aizaz Khan
+0
+12
+Anshuman Rath
+0
+6
+Aizaz Khan
+1
+Asghar Stanikzai
+4
+Nadeem Ahmed
+0
+10
+Aizaz Khan
+0
+10
+Nadeem Ahmed
+1
+Nawroz Mangal
+5
+Aizaz Khan
+0
+7
+Irfan Ahmed
+1
+Najibullah Zadran
+10
+Haseeb Amjad
+1
+Samiullah Shenwari
+12
+Irfan Ahmed
+0
+12
+Haseeb Amjad
+2
+Mohammad Nabi
+Shafiqullah
+2nd innings
+Hong Kong
+2
+Dawlat Zadran
+0
+6
+Shapoor Zadran
+0
+7
+Dawlat Zadran
+0
+12
+Shapoor Zadran
+0
+2
+Mirwais Ashraf
+1
+Irfan Ahmed
+8
+Sharafuddin Ashraf
+0
+6
+Mirwais Ashraf
+0
+13
+Sharafuddin Ashraf
+0
+5
+Mirwais Ashraf
+0
+3
+Mohammad Nabi
+0
+10
+Mirwais Ashraf
+0
+4
+Sharafuddin Ashraf
+0
+4
+Shapoor Zadran
+1
+Nizakat Khan
+6
+Sharafuddin Ashraf
+0
+13
+Shapoor Zadran
+1
+JJ Atkinson
+12
+Mohammad Nabi
+0
+12
+Dawlat Zadran
+0
+12
+Mohammad Nabi
+0
+9
+Dawlat Zadran
+0
+16
+Mohammad Nabi
+2
+MS Chapman
+Tanwir Afzal

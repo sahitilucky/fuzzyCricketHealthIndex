@@ -1,0 +1,138 @@
+Windhoek
+2013-04-19
+wickets: 5
+winner: Kenya
+Kenya
+Netherlands
+venue: Wanderers Cricket Ground
+1st innings
+Netherlands
+7
+SO Ngoche
+0
+4
+JO Ngoche
+0
+7
+HA Varaiya
+0
+10
+JO Ngoche
+0
+11
+HA Varaiya
+0
+11
+NN Odhiambo
+0
+10
+HA Varaiya
+0
+4
+NN Odhiambo
+0
+5
+SO Ngoche
+0
+9
+RG Aga
+0
+14
+L Oluoch
+0
+7
+RG Aga
+1
+SJ Myburgh
+17
+SO Ngoche
+0
+7
+NN Odhiambo
+0
+16
+L Oluoch
+0
+13
+NN Odhiambo
+1
+MR Swart
+9
+JO Ngoche
+0
+4
+RG Aga
+3
+TLW Cooper
+Mudassar Bukhari
+TN de Grooth
+3
+JO Ngoche
+0
+4
+RG Aga
+0
+2nd innings
+Kenya
+6
+Mudassar Bukhari
+0
+3
+TGJ Gruijters
+1
+T Mishra
+4
+Mudassar Bukhari
+0
+5
+TGJ Gruijters
+0
+1
+MR Swart
+1
+MA Ouma
+16
+TGJ Gruijters
+0
+7
+MR Swart
+0
+8
+PM Seelaar
+0
+9
+MAA Jamil
+0
+11
+PM Seelaar
+0
+9
+MAA Jamil
+1
+AA Obanda
+7
+MJG Rippon
+0
+9
+MR Swart
+0
+9
+MJG Rippon
+0
+6
+Mudassar Bukhari
+0
+14
+MAA Jamil
+0
+22
+MR Swart
+0
+15
+MAA Jamil
+1
+RR Patel
+15
+Mudassar Bukhari
+1
+RG Aga

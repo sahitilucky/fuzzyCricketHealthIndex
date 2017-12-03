@@ -1,0 +1,148 @@
+Chittagong
+2014-02-14
+wickets: 3
+winner: Sri Lanka
+Bangladesh
+Sri Lanka
+venue: Zahur Ahmed Chowdhury Stadium
+1st innings
+Bangladesh
+3
+TM Dilshan
+1
+Shamsur Rahman
+12
+KMDN Kulasekara
+1
+Tamim Iqbal
+20
+TM Dilshan
+0
+3
+SMSM Senanayake
+1
+Shakib Al Hasan
+1
+SL Malinga
+0
+3
+SMSM Senanayake
+1
+Anamul Haque
+3
+AD Mathews
+0
+4
+BAW Mendis
+1
+Nasir Hossain
+6
+AD Mathews
+0
+4
+BAW Mendis
+0
+4
+KMDN Kulasekara
+1
+Mahmudullah
+3
+SMSM Senanayake
+0
+4
+BAW Mendis
+0
+4
+SMSM Senanayake
+0
+10
+KMDN Kulasekara
+1
+Farhad Reza
+7
+SL Malinga
+0
+9
+BAW Mendis
+0
+6
+SL Malinga
+1
+Mashrafe Mortaza
+8
+KMDN Kulasekara
+0
+6
+SL Malinga
+2
+Arafat Sunny
+Sabbir Rahman
+2nd innings
+Sri Lanka
+7
+Arafat Sunny
+0
+8
+Mashrafe Mortaza
+0
+7
+Rubel Hossain
+0
+3
+Shakib Al Hasan
+1
+MDKJ Perera
+1
+Arafat Sunny
+1
+TM Dilshan
+5
+Shakib Al Hasan
+0
+1
+Mahmudullah
+1
+LD Chandimal
+6
+Nasir Hossain
+0
+4
+Mahmudullah
+0
+4
+Mashrafe Mortaza
+2
+AK Perera
+AD Mathews
+4
+Mahmudullah
+0
+12
+Mashrafe Mortaza
+1
+KMDN Kulasekara
+7
+Mahmudullah
+0
+8
+Rubel Hossain
+0
+5
+Nasir Hossain
+0
+5
+Farhad Reza
+0
+11
+Rubel Hossain
+1
+KC Sangakkara
+5
+Mashrafe Mortaza
+0
+9
+Rubel Hossain
+0
+11
+Farhad Reza
+0

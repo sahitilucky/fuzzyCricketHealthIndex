@@ -1,0 +1,147 @@
+none
+2015-11-27
+runs: 3
+winner: England
+England
+Pakistan
+venue: Dubai International Cricket Stadium
+1st innings
+England
+4
+Anwar Ali
+0
+7
+Sohail Tanvir
+0
+11
+Anwar Ali
+0
+10
+Wahab Riaz
+0
+4
+Shahid Afridi
+1
+AD Hales
+9
+Sohail Tanvir
+0
+3
+Shahid Afridi
+1
+JJ Roy
+10
+Ahmed Shehzad
+0
+5
+Shoaib Malik
+0
+5
+Shahid Afridi
+0
+10
+Shoaib Malik
+1
+JE Root
+11
+Wahab Riaz
+0
+17
+Shoaib Malik
+0
+3
+Shahid Afridi
+1
+JM Vince
+5
+Anwar Ali
+0
+16
+Sohail Tanvir
+0
+9
+Wahab Riaz
+1
+SW Billings
+12
+Sohail Tanvir
+1
+JC Buttler
+7
+Anwar Ali
+2
+LE Plunkett
+DJ Willey
+14
+Wahab Riaz
+0
+2nd innings
+Pakistan
+6
+DJ Willey
+0
+8
+CR Woakes
+0
+16
+DJ Willey
+0
+15
+LE Plunkett
+0
+6
+SD Parry
+1
+Ahmed Shehzad
+3
+CR Woakes
+0
+2
+AU Rashid
+0
+4
+SD Parry
+0
+2
+AU Rashid
+1
+Rafatullah Mohmand
+12
+SD Parry
+0
+12
+AU Rashid
+0
+7
+LE Plunkett
+1
+Mohammad Hafeez
+2
+AU Rashid
+1
+Sohaib Maqsood
+11
+SD Parry
+0
+3
+LE Plunkett
+1
+Umar Akmal
+9
+DJ Willey
+0
+8
+LE Plunkett
+1
+Shoaib Malik
+22
+CR Woakes
+1
+Shahid Afridi
+14
+DJ Willey
+0
+7
+CR Woakes
+1
+Sarfraz Ahmed

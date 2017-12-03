@@ -1,0 +1,146 @@
+Nottingham
+2009-06-11
+runs: 83
+winner: New Zealand
+Ireland
+New Zealand
+venue: Trent Bridge
+1st innings
+New Zealand
+14
+P Connell
+0
+18
+DT Johnston
+0
+2
+KJ O'Brien
+0
+9
+DT Johnston
+0
+8
+KJ O'Brien
+0
+1
+WK McCallan
+1
+BB McCullum
+4
+KJ O'Brien
+0
+14
+WK McCallan
+0
+17
+KJ O'Brien
+0
+7
+AR Cusack
+1
+AJ Redmond
+6
+RM West
+0
+11
+AR Cusack
+0
+13
+RM West
+0
+4
+WK McCallan
+0
+12
+RM West
+0
+14
+WK McCallan
+1
+SB Styris
+14
+AR Cusack
+1
+JDP Oram
+8
+DT Johnston
+1
+PD McGlashan
+11
+AR Cusack
+0
+11
+DT Johnston
+0
+2nd innings
+Ireland
+3
+KD Mills
+1
+WTS Porterfield
+6
+JEC Franklin
+0
+6
+KD Mills
+1
+NJ O'Brien
+7
+JEC Franklin
+0
+11
+IG Butler
+0
+9
+JDP Oram
+0
+6
+IG Butler
+0
+10
+SB Styris
+1
+GC Wilson
+2
+NL McCullum
+1
+AC Botha
+6
+SB Styris
+0
+11
+NL McCullum
+1
+KJ O'Brien
+9
+JDP Oram
+0
+4
+JEC Franklin
+1
+JF Mooney
+13
+SB Styris
+0
+2
+NL McCullum
+2
+AR Cusack
+WK McCallan
+7
+JDP Oram
+1
+DT Johnston
+3
+KD Mills
+1
+RM West
+0
+KD Mills
+0
+0
+KD Mills
+0
+0
+KD Mills
+0

@@ -1,0 +1,133 @@
+Perth
+2010-10-31
+wickets: 7
+winner: Sri Lanka
+Australia
+Sri Lanka
+venue: Western Australia Cricket Association Ground
+1st innings
+Australia
+2
+CRD Fernando
+0
+5
+SL Malinga
+0
+5
+CRD Fernando
+1
+DA Warner
+8
+M Muralitharan
+0
+2
+NLTC Perera
+1
+MJ Clarke
+5
+M Muralitharan
+0
+4
+NLTC Perera
+1
+SR Watson
+4
+S Randiv
+1
+DJ Hussey
+3
+NLTC Perera
+0
+5
+S Randiv
+0
+1
+SL Malinga
+1
+CL White
+9
+S Randiv
+0
+13
+NLTC Perera
+0
+10
+M Muralitharan
+0
+9
+CRD Fernando
+0
+8
+M Muralitharan
+0
+10
+SL Malinga
+0
+7
+S Randiv
+2
+SPD Smith
+BJ Haddin
+10
+SL Malinga
+0
+13
+CRD Fernando
+1
+JW Hastings
+2nd innings
+Sri Lanka
+2
+CJ McKay
+0
+13
+DP Nannes
+0
+12
+CJ McKay
+0
+10
+PM Siddle
+1
+DPMD Jayawardene
+8
+DP Nannes
+1
+LD Chandimal
+12
+PM Siddle
+0
+2
+JW Hastings
+0
+5
+PM Siddle
+0
+4
+JW Hastings
+0
+5
+CJ McKay
+0
+10
+SPD Smith
+0
+7
+DP Nannes
+0
+13
+JW Hastings
+0
+9
+PM Siddle
+0
+7
+SPD Smith
+1
+TM Dilshan
+0
+CJ McKay
+0
+16
+SPD Smith
+0

@@ -1,0 +1,127 @@
+Johannesburg
+2016-02-21
+wickets: 9
+winner: South Africa
+South Africa
+England
+venue: New Wanderers Stadium
+1st innings
+England
+3
+K Rabada
+0
+5
+KJ Abbott
+0
+6
+K Rabada
+1
+JJ Roy
+7
+KJ Abbott
+0
+16
+K Rabada
+0
+10
+CH Morris
+0
+10
+D Wiese
+0
+4
+Imran Tahir
+2
+JE Root
+AD Hales
+5
+CH Morris
+0
+8
+Imran Tahir
+0
+13
+D Wiese
+0
+2
+Imran Tahir
+0
+17
+D Wiese
+0
+11
+Imran Tahir
+0
+16
+JP Duminy
+0
+17
+CH Morris
+0
+8
+KJ Abbott
+2
+JC Buttler
+EJG Morgan
+2
+CH Morris
+2
+BA Stokes
+MM Ali
+6
+KJ Abbott
+2
+CJ Jordan
+SW Billings
+5
+K Rabada
+1
+AU Rashid
+2nd innings
+South Africa
+14
+RJW Topley
+0
+4
+BA Stokes
+0
+22
+CJ Jordan
+0
+13
+BA Stokes
+0
+19
+CJ Jordan
+0
+16
+BA Stokes
+0
+13
+AU Rashid
+0
+20
+RJW Topley
+0
+6
+AU Rashid
+1
+AB de Villiers
+7
+MM Ali
+0
+4
+AU Rashid
+0
+6
+MM Ali
+0
+9
+AU Rashid
+0
+12
+MM Ali
+0
+7
+CJ Jordan
+0

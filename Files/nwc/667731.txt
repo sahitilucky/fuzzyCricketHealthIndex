@@ -1,0 +1,143 @@
+Birmingham
+2014-09-07
+runs: 3
+winner: England
+England
+India
+venue: Edgbaston
+1st innings
+England
+17
+R Ashwin
+0
+7
+MM Sharma
+0
+3
+Mohammed Shami
+1
+JJ Roy
+4
+MM Sharma
+1
+MM Ali
+7
+Mohammed Shami
+0
+8
+MM Sharma
+0
+7
+KV Sharma
+0
+6
+RA Jadeja
+0
+5
+R Ashwin
+0
+12
+RA Jadeja
+1
+AD Hales
+8
+R Ashwin
+0
+2
+KV Sharma
+1
+JE Root
+7
+R Ashwin
+0
+3
+RA Jadeja
+0
+3
+KV Sharma
+0
+14
+RA Jadeja
+0
+17
+KV Sharma
+0
+14
+Mohammed Shami
+1
+JC Buttler
+21
+MM Sharma
+0
+15
+Mohammed Shami
+2
+EJG Morgan
+CR Woakes
+2nd innings
+India
+3
+ST Finn
+0
+9
+MM Ali
+1
+AM Rahane
+6
+HF Gurney
+0
+12
+CR Woakes
+0
+10
+HF Gurney
+0
+13
+ST Finn
+0
+14
+RS Bopara
+0
+4
+JC Tredwell
+0
+10
+MM Ali
+0
+8
+JC Tredwell
+0
+5
+CR Woakes
+1
+S Dhawan
+10
+JC Tredwell
+0
+14
+CR Woakes
+0
+12
+MM Ali
+0
+5
+ST Finn
+1
+V Kohli
+6
+JC Tredwell
+0
+5
+HF Gurney
+1
+SK Raina
+9
+ST Finn
+1
+RA Jadeja
+9
+HF Gurney
+0
+13
+CR Woakes
+0

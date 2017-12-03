@@ -1,0 +1,145 @@
+Colombo
+2012-09-28
+wickets: 2
+winner: Pakistan
+Pakistan
+South Africa
+venue: R Premadasa Stadium
+1st innings
+South Africa
+3
+Raza Hasan
+0
+6
+Yasir Arafat
+1
+HM Amla
+0
+Raza Hasan
+0
+9
+Yasir Arafat
+0
+9
+Raza Hasan
+0
+1
+Saeed Ajmal
+1
+RE Levi
+3
+Mohammad Hafeez
+1
+JH Kallis
+4
+Shahid Afridi
+0
+4
+Mohammad Hafeez
+0
+8
+Shahid Afridi
+0
+5
+Mohammad Hafeez
+0
+7
+Saeed Ajmal
+0
+11
+Mohammad Hafeez
+1
+F Behardien
+5
+Shahid Afridi
+0
+8
+Saeed Ajmal
+0
+10
+Shahid Afridi
+0
+11
+Saeed Ajmal
+0
+10
+Umar Gul
+1
+AB de Villiers
+10
+Yasir Arafat
+1
+JP Duminy
+9
+Umar Gul
+0
+2nd innings
+Pakistan
+9
+DW Steyn
+0
+11
+M Morkel
+0
+4
+DW Steyn
+1
+Imran Nazir
+7
+RJ Peterson
+2
+Mohammad Hafeez
+Nasir Jamshed
+6
+JA Morkel
+0
+0
+RJ Peterson
+0
+0
+J Botha
+1
+Kamran Akmal
+2
+RJ Peterson
+0
+10
+J Botha
+0
+6
+M Morkel
+0
+2
+JP Duminy
+0
+6
+JH Kallis
+1
+Shoaib Malik
+3
+JP Duminy
+1
+Shahid Afridi
+7
+RJ Peterson
+0
+3
+DW Steyn
+1
+Yasir Arafat
+16
+JH Kallis
+0
+20
+JA Morkel
+0
+7
+M Morkel
+0
+6
+DW Steyn
+1
+Umar Gul
+11
+M Morkel
+0

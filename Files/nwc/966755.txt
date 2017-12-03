@@ -1,0 +1,137 @@
+Mirpur
+2016-02-29
+wickets: 7
+winner: Pakistan
+Pakistan
+United Arab Emirates
+venue: Shere Bangla National Stadium
+1st innings
+United Arab Emirates
+1
+Mohammad Amir
+0
+4
+Mohammad Sami
+1
+Rohan Mustafa
+0
+Mohammad Amir
+1
+Muhammad Kaleem
+7
+Mohammad Irfan
+1
+Mohammad Shahzad (2)
+4
+Mohammad Sami
+0
+4
+Mohammad Irfan
+0
+3
+Shahid Afridi
+0
+10
+Mohammad Nawaz (3)
+0
+3
+Shahid Afridi
+0
+4
+Mohammad Nawaz (3)
+0
+1
+Shahid Afridi
+1
+Usman Mushtaq
+12
+Mohammad Nawaz (3)
+0
+17
+Shahid Afridi
+0
+6
+Mohammad Irfan
+1
+Shaiman Anwar
+14
+Shoaib Malik
+0
+10
+Mohammad Sami
+0
+1
+Mohammad Amir
+0
+13
+Mohammad Irfan
+0
+4
+Mohammad Amir
+1
+Muhammad Usman
+11
+Mohammad Sami
+0
+2nd innings
+Pakistan
+7
+Mohammad Naveed
+0
+4
+Amjad Javed
+2
+Sharjeel Khan
+Khurram Manzoor
+5
+Mohammad Naveed
+0
+1
+Amjad Javed
+1
+Mohammad Hafeez
+1
+Mohammad Shahzad (2)
+0
+8
+Amjad Javed
+0
+5
+Ahmed Raza
+0
+4
+Mohammad Shahzad (2)
+0
+6
+Ahmed Raza
+0
+7
+Mohammad Shahzad (2)
+0
+3
+Rohan Mustafa
+0
+8
+Fahad Tariq
+0
+5
+Rohan Mustafa
+0
+11
+Mohammad Naveed
+0
+9
+Ahmed Raza
+0
+7
+Mohammad Shahzad (2)
+0
+12
+Rohan Mustafa
+0
+23
+Amjad Javed
+0
+5
+Mohammad Naveed
+0

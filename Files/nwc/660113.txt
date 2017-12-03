@@ -1,0 +1,139 @@
+Abu Dhabi
+2013-11-16
+runs: 2
+winner: Ireland
+Canada
+Ireland
+venue: Sheikh Zayed Stadium
+1st innings
+Ireland
+4
+JOA Gordon
+0
+8
+Junaid Siddiqui
+0
+5
+JOA Gordon
+0
+5
+Junaid Siddiqui
+1
+WTS Porterfield
+7
+HS Baidwan
+1
+PR Stirling
+8
+Junaid Siddiqui
+0
+14
+HS Baidwan
+0
+9
+Junaid Siddiqui
+0
+9
+Raza-ur-Rehman
+0
+6
+Rizwan Cheema
+0
+11
+AS Hansra
+1
+KJ O'Brien
+6
+Rizwan Cheema
+0
+5
+AS Hansra
+1
+NJ O'Brien
+5
+Rizwan Cheema
+0
+8
+AS Hansra
+0
+9
+Raza-ur-Rehman
+0
+10
+JOA Gordon
+0
+12
+HS Baidwan
+1
+GC Wilson
+13
+Rizwan Cheema
+0
+14
+JOA Gordon
+0
+2nd innings
+Canada
+2
+MC Sorensen
+2
+H Patel
+Rizwan Cheema
+9
+TJ Murtagh
+0
+9
+MC Sorensen
+0
+8
+TJ Murtagh
+0
+12
+MC Sorensen
+0
+13
+DT Johnston
+0
+4
+GH Dockrell
+0
+3
+AR Cusack
+0
+5
+GH Dockrell
+0
+13
+AR Cusack
+0
+3
+TJ Murtagh
+0
+8
+KJ O'Brien
+0
+11
+GH Dockrell
+0
+14
+KJ O'Brien
+0
+9
+TJ Murtagh
+0
+4
+AR Cusack
+1
+R Gunasekera
+8
+DT Johnston
+0
+10
+GH Dockrell
+0
+10
+DT Johnston
+0
+11
+AR Cusack
+0

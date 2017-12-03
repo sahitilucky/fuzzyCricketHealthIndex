@@ -1,0 +1,143 @@
+none
+2013-12-11
+wickets: 3
+winner: Pakistan
+Pakistan
+Sri Lanka
+venue: Dubai International Cricket Stadium
+1st innings
+Sri Lanka
+3
+Mohammad Hafeez
+0
+6
+Sohail Tanvir
+1
+TM Dilshan
+9
+Usman Khan
+0
+10
+Sohail Tanvir
+0
+2
+Bilawal Bhatti
+0
+11
+Saeed Ajmal
+1
+MDKJ Perera
+3
+Bilawal Bhatti
+0
+8
+Shahid Afridi
+0
+7
+Mohammad Hafeez
+0
+3
+Shahid Afridi
+1
+LD Chandimal
+4
+Mohammad Hafeez
+0
+6
+Shahid Afridi
+0
+10
+Mohammad Hafeez
+0
+4
+Saeed Ajmal
+1
+KC Sangakkara
+3
+Shahid Afridi
+0
+8
+Saeed Ajmal
+0
+11
+Sohail Tanvir
+0
+18
+Bilawal Bhatti
+0
+12
+Saeed Ajmal
+0
+7
+Sohail Tanvir
+1
+AD Mathews
+2nd innings
+Pakistan
+9
+SL Malinga
+0
+2
+KMDN Kulasekara
+0
+7
+SMSM Senanayake
+1
+Ahmed Shehzad
+8
+KMDN Kulasekara
+0
+3
+SMSM Senanayake
+0
+7
+BAW Mendis
+0
+4
+SMSM Senanayake
+0
+5
+AD Mathews
+0
+7
+BAW Mendis
+0
+15
+AD Mathews
+0
+7
+NLTC Perera
+1
+Sharjeel Khan
+6
+BAW Mendis
+2
+Mohammad Hafeez
+Umar Akmal
+7
+NLTC Perera
+0
+9
+BAW Mendis
+0
+7
+SL Malinga
+1
+Umar Amin
+14
+KMDN Kulasekara
+0
+4
+SL Malinga
+1
+Sohaib Maqsood
+13
+NLTC Perera
+0
+6
+SL Malinga
+1
+Bilawal Bhatti
+6
+KMDN Kulasekara
+0

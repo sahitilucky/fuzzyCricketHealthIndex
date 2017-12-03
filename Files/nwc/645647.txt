@@ -1,0 +1,147 @@
+St Vincent
+2013-07-28
+runs: 11
+winner: Pakistan
+West Indies
+Pakistan
+venue: 'Arnos Vale Ground, Kingstown'
+1st innings
+Pakistan
+6
+DJG Sammy
+0
+4
+S Badree
+0
+7
+DJG Sammy
+0
+7
+S Badree
+1
+Mohammad Hafeez
+5
+DJG Sammy
+0
+10
+SP Narine
+0
+2
+DJG Sammy
+1
+Umar Amin
+1
+S Badree
+1
+Haris Sohail
+9
+TL Best
+0
+4
+S Badree
+0
+11
+TL Best
+0
+3
+DJ Bravo
+0
+9
+KA Pollard
+1
+Ahmed Shehzad
+6
+DJ Bravo
+0
+8
+KA Pollard
+0
+5
+SP Narine
+1
+Shahid Afridi
+11
+DJ Bravo
+0
+5
+SP Narine
+2
+Hammad Azam
+Sohail Tanvir
+16
+DJ Bravo
+0
+6
+SP Narine
+0
+2nd innings
+West Indies
+1
+Mohammad Hafeez
+0
+1
+Sohail Tanvir
+1
+J Charles
+2
+Mohammad Hafeez
+1
+CH Gayle
+1
+Sohail Tanvir
+1
+MN Samuels
+1
+Mohammad Hafeez
+0
+7
+Sohail Tanvir
+0
+2
+Zulfiqar Babar
+0
+2
+Shahid Afridi
+1
+LMP Simmons
+5
+Mohammad Hafeez
+0
+16
+Shahid Afridi
+0
+3
+Saeed Ajmal
+0
+7
+Asad Ali
+0
+12
+Zulfiqar Babar
+0
+5
+Saeed Ajmal
+1
+SP Narine
+4
+Zulfiqar Babar
+0
+5
+Saeed Ajmal
+0
+20
+Zulfiqar Babar
+2
+KA Pollard
+DJ Bravo
+11
+Shahid Afridi
+1
+CD Barnwell
+8
+Saeed Ajmal
+1
+DJG Sammy
+11
+Sohail Tanvir
+0

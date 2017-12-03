@@ -1,0 +1,145 @@
+London
+2009-06-15
+runs: 39
+winner: Pakistan
+Ireland
+Pakistan
+venue: Kennington Oval
+1st innings
+Pakistan
+4
+WB Rankin
+0
+9
+DT Johnston
+0
+1
+WB Rankin
+0
+20
+DT Johnston
+0
+3
+WB Rankin
+0
+1
+AR Cusack
+1
+Shahzaib Hasan
+11
+RM West
+0
+14
+AR Cusack
+0
+10
+RM West
+0
+6
+WK McCallan
+1
+Shahid Afridi
+12
+DT Johnston
+0
+5
+WK McCallan
+0
+7
+RM West
+1
+Younis Khan
+6
+WK McCallan
+0
+7
+RM West
+0
+13
+AR Cusack
+0
+4
+DT Johnston
+1
+Kamran Akmal
+9
+WK McCallan
+1
+Misbah-ul-Haq
+4
+WB Rankin
+0
+13
+AR Cusack
+0
+2nd innings
+Ireland
+6
+Mohammad Amir
+0
+7
+Abdul Razzaq
+0
+5
+Mohammad Amir
+1
+NJ O'Brien
+5
+Abdul Razzaq
+0
+7
+Mohammad Amir
+0
+7
+Abdul Razzaq
+0
+5
+Shahid Afridi
+1
+PR Stirling
+5
+Saeed Ajmal
+0
+8
+Shahid Afridi
+0
+11
+Shoaib Malik
+0
+8
+Shahid Afridi
+0
+7
+Umar Gul
+0
+6
+Shahid Afridi
+0
+1
+Saeed Ajmal
+1
+WTS Porterfield
+1
+Umar Gul
+0
+9
+Saeed Ajmal
+1
+JF Mooney
+7
+Umar Gul
+1
+DT Johnston
+5
+Saeed Ajmal
+2
+KJ O'Brien
+AR Cusack
+6
+Umar Gul
+2
+AR White
+RM West
+4
+Mohammad Amir
+0

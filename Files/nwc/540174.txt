@@ -1,0 +1,150 @@
+Barbados
+2012-03-30
+runs: 14
+winner: West Indies
+West Indies
+Australia
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+West Indies
+14
+JL Pattinson
+0
+15
+B Lee
+0
+5
+CJ McKay
+0
+4
+XJ Doherty
+0
+9
+CJ McKay
+0
+18
+XJ Doherty
+0
+11
+SR Watson
+1
+J Charles
+4
+B Lee
+1
+KA Pollard
+20
+JL Pattinson
+0
+10
+XJ Doherty
+1
+DR Smith
+5
+DT Christian
+0
+5
+SR Watson
+0
+4
+CJ McKay
+1
+DJG Sammy
+10
+DT Christian
+0
+6
+CJ McKay
+1
+DP Hyatt
+5
+DT Christian
+1
+MN Samuels
+7
+SR Watson
+0
+3
+B Lee
+1
+CS Baugh
+4
+SR Watson
+1
+DJ Bravo
+1
+B Lee
+2
+SP Narine
+FH Edwards
+2nd innings
+Australia
+1
+FH Edwards
+1
+SR Watson
+2
+SP Narine
+0
+9
+FH Edwards
+0
+15
+GE Mathurin
+0
+11
+DJG Sammy
+0
+15
+SP Narine
+0
+6
+DJ Bravo
+0
+6
+MN Samuels
+1
+GJ Bailey
+5
+DJ Bravo
+0
+5
+MN Samuels
+0
+6
+KA Pollard
+0
+9
+MN Samuels
+1
+MEK Hussey
+8
+GE Mathurin
+1
+DA Warner
+6
+SP Narine
+0
+7
+FH Edwards
+0
+10
+SP Narine
+0
+12
+DJ Bravo
+0
+3
+MN Samuels
+1
+MS Wade
+6
+FH Edwards
+2
+DT Christian
+B Lee
+4
+DJ Bravo
+2
+DJ Hussey
+CJ McKay

@@ -1,0 +1,138 @@
+Londonderry
+2015-06-20
+wickets: 6
+winner: Scotland
+Ireland
+Scotland
+venue: 'Bready Cricket Club, Magheramason'
+1st innings
+Ireland
+7
+SM Sharif
+0
+9
+GT Main
+0
+3
+SM Sharif
+1
+SW Poynter
+1
+GT Main
+1
+J Anderson
+7
+SM Sharif
+0
+9
+JH Davey
+0
+6
+MRJ Watt
+0
+14
+RD Berrington
+0
+5
+MRJ Watt
+0
+10
+MA Leask
+1
+AD Poynter
+13
+GT Main
+0
+10
+JH Davey
+0
+10
+MRJ Watt
+1
+A Balbirnie
+9
+MA Leask
+0
+6
+RD Berrington
+1
+SR Thompson
+10
+MRJ Watt
+0
+10
+JH Davey
+0
+9
+SM Sharif
+1
+KJ O'Brien
+12
+RD Berrington
+0
+6
+JH Davey
+0
+2nd innings
+Scotland
+5
+TE Kane
+1
+HG Munsey
+5
+CA Young
+0
+11
+TE Kane
+0
+10
+AR Cusack
+0
+15
+CA Young
+0
+12
+AR Cusack
+0
+13
+GJ McCarter
+0
+3
+GH Dockrell
+1
+KJ Coetzer
+6
+GJ McCarter
+0
+9
+GH Dockrell
+1
+MH Cross
+11
+GJ McCarter
+0
+3
+GH Dockrell
+1
+MA Leask
+7
+SR Thompson
+0
+9
+KJ O'Brien
+0
+17
+SR Thompson
+0
+7
+GH Dockrell
+0
+9
+TE Kane
+0
+11
+AR Cusack
+0
+4
+TE Kane
+0

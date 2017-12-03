@@ -1,0 +1,148 @@
+Durban
+2007-09-18
+runs: 5
+winner: New Zealand
+England
+New Zealand
+venue: Kingsmead
+1st innings
+New Zealand
+7
+JM Anderson
+1
+BB McCullum
+9
+SCJ Broad
+0
+3
+A Flintoff
+1
+PG Fulton
+7
+JM Anderson
+1
+LRPL Taylor
+3
+A Flintoff
+0
+2
+SCJ Broad
+1
+L Vincent
+3
+JM Anderson
+0
+1
+AD Mascarenhas
+0
+5
+PD Collingwood
+0
+20
+AD Mascarenhas
+0
+12
+CP Schofield
+0
+12
+SCJ Broad
+0
+8
+AD Mascarenhas
+1
+SB Styris
+8
+JM Anderson
+0
+14
+AD Mascarenhas
+0
+20
+PD Collingwood
+0
+6
+DL Maddy
+2
+CD McMillan
+JDP Oram
+6
+PD Collingwood
+1
+SE Bond
+6
+A Flintoff
+0
+12
+SCJ Broad
+1
+MR Gillespie
+2nd innings
+England
+6
+SE Bond
+0
+8
+MR Gillespie
+0
+3
+SE Bond
+0
+11
+MR Gillespie
+0
+7
+SE Bond
+0
+15
+JDP Oram
+0
+9
+CS Martin
+0
+3
+DL Vettori
+1
+VS Solanki
+4
+CS Martin
+0
+6
+DL Vettori
+0
+9
+CS Martin
+1
+DL Maddy
+6
+SB Styris
+0
+15
+CS Martin
+1
+PD Collingwood
+4
+DL Vettori
+2
+KP Pietersen
+A Flintoff
+13
+SB Styris
+0
+7
+DL Vettori
+0
+11
+JDP Oram
+0
+8
+MR Gillespie
+0
+4
+SE Bond
+3
+OA Shah
+AD Mascarenhas
+LJ Wright
+10
+MR Gillespie
+0

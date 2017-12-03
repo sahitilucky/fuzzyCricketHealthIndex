@@ -1,0 +1,149 @@
+Birmingham
+2010-07-05
+runs: 23
+winner: Pakistan
+Australia
+Pakistan
+venue: Edgbaston
+1st innings
+Pakistan
+3
+DP Nannes
+1
+Shahzaib Hasan
+3
+SW Tait
+0
+17
+DP Nannes
+0
+5
+MG Johnson
+0
+8
+SW Tait
+0
+7
+MG Johnson
+0
+3
+DJ Hussey
+2
+Kamran Akmal
+Salman Butt
+2
+SPD Smith
+1
+Shahid Afridi
+4
+DJ Hussey
+0
+15
+SPD Smith
+0
+20
+DJ Hussey
+0
+11
+DP Nannes
+1
+Shoaib Malik
+8
+MG Johnson
+0
+7
+SPD Smith
+0
+14
+MG Johnson
+0
+10
+SPD Smith
+0
+8
+SW Tait
+1
+Abdul Razzaq
+6
+DJ Hussey
+0
+6
+SW Tait
+1
+Umar Akmal
+10
+DP Nannes
+1
+Umar Gul
+2nd innings
+Australia
+2
+Mohammad Amir
+1
+SR Watson
+20
+Shoaib Akhtar
+0
+5
+Mohammad Amir
+0
+3
+Abdul Razzaq
+1
+MJ Clarke
+14
+Shoaib Akhtar
+0
+12
+Abdul Razzaq
+0
+2
+Shahid Afridi
+0
+5
+Umar Gul
+0
+9
+Shahid Afridi
+0
+5
+Umar Gul
+0
+7
+Shahid Afridi
+1
+DJ Hussey
+3
+Saeed Ajmal
+1
+DA Warner
+8
+Shahid Afridi
+0
+13
+Saeed Ajmal
+0
+10
+Mohammad Amir
+1
+CL White
+4
+Saeed Ajmal
+0
+11
+Mohammad Amir
+1
+SPD Smith
+4
+Umar Gul
+2
+MEK Hussey
+TD Paine
+7
+Saeed Ajmal
+2
+MG Johnson
+SW Tait
+0
+Saeed Ajmal
+0

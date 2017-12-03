@@ -1,0 +1,141 @@
+Wellington
+2012-02-17
+wickets: 6
+winner: New Zealand
+New Zealand
+South Africa
+venue: Westpac Stadium
+1st innings
+South Africa
+3
+NL McCullum
+0
+8
+KD Mills
+0
+7
+NL McCullum
+0
+16
+KD Mills
+1
+HM Amla
+1
+NL McCullum
+1
+CA Ingram
+3
+TG Southee
+1
+RE Levi
+6
+NL McCullum
+0
+5
+TG Southee
+0
+3
+RM Hira
+1
+AB de Villiers
+5
+DAJ Bracewell
+0
+9
+RM Hira
+0
+5
+DAJ Bracewell
+0
+1
+KS Williamson
+0
+3
+RJ Nicol
+0
+26
+KS Williamson
+0
+9
+TG Southee
+1
+JL Ontong
+7
+KD Mills
+0
+12
+TG Southee
+1
+JP Duminy
+3
+DAJ Bracewell
+0
+15
+KD Mills
+0
+2nd innings
+New Zealand
+2
+JA Morkel
+0
+7
+LL Tsotsobe
+0
+13
+JA Morkel
+0
+7
+LL Tsotsobe
+0
+1
+M Morkel
+0
+14
+LL Tsotsobe
+0
+5
+J Botha
+0
+7
+J Theron
+1
+RJ Nicol
+9
+J Botha
+0
+12
+M Morkel
+0
+4
+J Botha
+0
+7
+J Theron
+0
+9
+JP Duminy
+1
+BB McCullum
+5
+JA Morkel
+0
+11
+JP Duminy
+0
+5
+J Theron
+0
+9
+M Morkel
+1
+KS Williamson
+9
+J Theron
+0
+6
+M Morkel
+1
+C de Grandhomme
+6
+J Botha
+0

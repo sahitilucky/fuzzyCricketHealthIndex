@@ -1,0 +1,143 @@
+Barbados
+2014-03-09
+runs: 27
+winner: West Indies
+West Indies
+England
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+West Indies
+19
+SCJ Broad
+0
+5
+JW Dernbach
+0
+1
+TT Bresnan
+0
+7
+JW Dernbach
+0
+13
+TT Bresnan
+0
+11
+BA Stokes
+0
+7
+RS Bopara
+1
+DR Smith
+2
+JC Tredwell
+0
+4
+RS Bopara
+0
+9
+JC Tredwell
+0
+8
+RS Bopara
+0
+4
+JC Tredwell
+1
+CH Gayle
+19
+BA Stokes
+0
+2
+JC Tredwell
+0
+4
+RS Bopara
+1
+LMP Simmons
+7
+SCJ Broad
+0
+10
+TT Bresnan
+0
+20
+JW Dernbach
+0
+13
+TT Bresnan
+0
+5
+JW Dernbach
+0
+2nd innings
+England
+2
+S Badree
+0
+9
+R Rampaul
+0
+6
+S Badree
+2
+AD Hales
+LJ Wright
+7
+R Rampaul
+0
+7
+S Badree
+0
+5
+SP Narine
+0
+4
+S Badree
+1
+MJ Lumb
+3
+SP Narine
+1
+JC Buttler
+10
+DJ Bravo
+0
+5
+MN Samuels
+1
+EJG Morgan
+12
+DJG Sammy
+0
+6
+MN Samuels
+1
+BA Stokes
+15
+R Rampaul
+0
+5
+MN Samuels
+0
+6
+DJ Bravo
+1
+RS Bopara
+5
+MN Samuels
+0
+12
+AD Russell
+0
+4
+DJ Bravo
+1
+SCJ Broad
+10
+AD Russell
+1
+JC Tredwell
+10
+DJ Bravo
+0

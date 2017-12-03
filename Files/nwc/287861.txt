@@ -1,0 +1,128 @@
+Cape Town
+2007-09-14
+wickets: 8
+winner: Australia
+Australia
+England
+venue: Newlands
+1st innings
+England
+4
+B Lee
+0
+8
+NW Bracken
+0
+5
+B Lee
+0
+8
+SR Clark
+0
+4
+MG Johnson
+1
+MJ Prior
+6
+SR Clark
+0
+7
+MG Johnson
+1
+LJ Wright
+7
+SR Clark
+1
+DL Maddy
+3
+MG Johnson
+0
+12
+A Symonds
+0
+11
+B Lee
+1
+PD Collingwood
+11
+MJ Clarke
+0
+11
+B Lee
+0
+3
+NW Bracken
+1
+KP Pietersen
+3
+MJ Clarke
+0
+16
+A Symonds
+0
+8
+MG Johnson
+1
+A Flintoff
+2
+NW Bracken
+1
+OA Shah
+3
+SR Clark
+2
+CP Schofield
+AD Mascarenhas
+3
+NW Bracken
+1
+SCJ Broad
+2nd innings
+Australia
+6
+SCJ Broad
+0
+6
+A Flintoff
+0
+10
+SCJ Broad
+0
+6
+A Flintoff
+0
+16
+PD Collingwood
+0
+17
+RJ Kirtley
+0
+8
+AD Mascarenhas
+0
+9
+A Flintoff
+0
+2
+CP Schofield
+1
+AC Gilchrist
+14
+AD Mascarenhas
+0
+2
+CP Schofield
+0
+8
+SCJ Broad
+0
+13
+CP Schofield
+0
+5
+A Flintoff
+1
+RT Ponting
+14
+CP Schofield
+0

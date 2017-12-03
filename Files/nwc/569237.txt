@@ -1,0 +1,147 @@
+Auckland
+2013-02-09
+runs: 40
+winner: England
+New Zealand
+England
+venue: Eden Park
+1st innings
+England
+6
+MJ McClenaghan
+0
+13
+TA Boult
+0
+6
+MJ McClenaghan
+0
+5
+RM Hira
+1
+AD Hales
+11
+TA Boult
+0
+21
+RM Hira
+0
+9
+NL McCullum
+0
+18
+AM Ellis
+1
+LJ Wright
+6
+MJ McClenaghan
+1
+MJ Lumb
+14
+JEC Franklin
+0
+9
+NL McCullum
+0
+15
+AM Ellis
+0
+11
+MJ McClenaghan
+0
+9
+RM Hira
+0
+13
+NL McCullum
+0
+7
+RM Hira
+1
+EJG Morgan
+18
+NL McCullum
+0
+4
+TA Boult
+1
+JM Bairstow
+7
+AM Ellis
+1
+SR Patel
+12
+TA Boult
+1
+SCJ Broad
+2nd innings
+New Zealand
+13
+ST Finn
+0
+5
+SCJ Broad
+0
+7
+JW Dernbach
+0
+13
+SCJ Broad
+1
+HD Rutherford
+8
+ST Finn
+1
+BB McCullum
+8
+JW Dernbach
+0
+10
+LJ Wright
+0
+7
+SR Patel
+0
+6
+ST Finn
+1
+LRPL Taylor
+11
+SR Patel
+0
+8
+LJ Wright
+0
+8
+JC Tredwell
+0
+7
+LJ Wright
+1
+MJ Guptill
+16
+JC Tredwell
+0
+3
+SCJ Broad
+2
+JEC Franklin
+C Munro
+5
+LJ Wright
+1
+NL McCullum
+12
+ST Finn
+1
+AM Ellis
+8
+JW Dernbach
+0
+4
+SCJ Broad
+1
+TA Boult
+15
+JW Dernbach
+0

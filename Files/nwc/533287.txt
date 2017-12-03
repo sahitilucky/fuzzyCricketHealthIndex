@@ -1,0 +1,124 @@
+Colombo
+2012-09-28
+wickets: 9
+winner: Australia
+Australia
+India
+venue: R Premadasa Stadium
+1st innings
+India
+8
+GJ Maxwell
+0
+7
+MA Starc
+0
+6
+PJ Cummins
+1
+G Gambhir
+8
+MA Starc
+0
+13
+SR Watson
+0
+8
+DT Christian
+0
+6
+GB Hogg
+0
+4
+PJ Cummins
+1
+V Kohli
+6
+GB Hogg
+0
+4
+GJ Maxwell
+0
+4
+SR Watson
+2
+Yuvraj Singh
+IK Pathan
+4
+MA Starc
+1
+RG Sharma
+7
+GB Hogg
+0
+6
+SR Watson
+0
+10
+GB Hogg
+0
+3
+PJ Cummins
+1
+MS Dhoni
+11
+DT Christian
+0
+9
+MA Starc
+0
+5
+PJ Cummins
+0
+11
+SR Watson
+1
+SK Raina
+2nd innings
+Australia
+9
+R Ashwin
+0
+4
+Z Khan
+0
+4
+R Ashwin
+0
+5
+Z Khan
+0
+16
+R Ashwin
+0
+9
+Z Khan
+0
+6
+Harbhajan Singh
+0
+14
+PP Chawla
+0
+14
+Harbhajan Singh
+0
+19
+IK Pathan
+0
+10
+V Kohli
+0
+2
+Yuvraj Singh
+0
+12
+RG Sharma
+0
+14
+Yuvraj Singh
+1
+SR Watson
+3
+R Ashwin
+0

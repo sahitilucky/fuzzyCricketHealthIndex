@@ -1,0 +1,147 @@
+none
+2012-02-24
+runs: 2
+winner: Ireland
+Kenya
+Ireland
+venue: Mombasa Sports Club Ground
+1st innings
+Ireland
+4
+SO Ngoche
+2
+PR Stirling
+KJ O'Brien
+5
+HA Varaiya
+0
+5
+SO Ngoche
+1
+WTS Porterfield
+5
+JO Ngoche
+0
+2
+HA Varaiya
+0
+6
+JO Ngoche
+0
+3
+NM Odhiambo
+0
+3
+CO Obuya
+0
+7
+NM Odhiambo
+0
+7
+CO Obuya
+0
+5
+RG Aga
+0
+8
+CO Obuya
+0
+9
+RG Aga
+0
+4
+CO Obuya
+1
+GC Wilson
+9
+HA Varaiya
+0
+5
+JO Ngoche
+0
+3
+HA Varaiya
+2
+JF Mooney
+NG Jones
+7
+JO Ngoche
+0
+5
+SO Ngoche
+2
+EC Joyce
+AR White
+5
+NM Odhiambo
+1
+RD McCann
+2nd innings
+Kenya
+1
+GH Dockrell
+0
+1
+PR Stirling
+0
+3
+WB Rankin
+1
+DO Obuya
+2
+GH Dockrell
+1
+DI Allan
+4
+WB Rankin
+0
+12
+PR Stirling
+0
+4
+JF Mooney
+0
+3
+AR White
+0
+6
+NG Jones
+0
+3
+PR Stirling
+0
+12
+JF Mooney
+0
+4
+AR White
+0
+6
+WB Rankin
+1
+CO Obuya
+4
+AR White
+1
+RR Patel
+6
+GH Dockrell
+0
+7
+PR Stirling
+0
+12
+WB Rankin
+0
+7
+AR White
+1
+T Mishra
+4
+GH Dockrell
+1
+RG Aga
+4
+JF Mooney
+1
+AA Obanda

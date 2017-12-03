@@ -1,0 +1,105 @@
+Manchester
+2012-09-10
+    result: no result
+tie
+England
+South Africa
+venue: Old Trafford
+1st innings
+South Africa
+10
+ST Finn
+1
+RE Levi
+10
+SCJ Broad
+0
+12
+ST Finn
+1
+AB de Villiers
+5
+GP Swann
+0
+4
+LJ Wright
+1
+JA Morkel
+6
+GP Swann
+1
+JP Duminy
+3
+JW Dernbach
+1
+JL Ontong
+18
+SCJ Broad
+0
+9
+JW Dernbach
+0
+2nd innings
+England
+2
+M Morkel
+0
+10
+DW Steyn
+1
+C Kieswetter
+7
+M Morkel
+0
+10
+J Botha
+0
+0
+JA Morkel
+1
+LJ Wright
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0

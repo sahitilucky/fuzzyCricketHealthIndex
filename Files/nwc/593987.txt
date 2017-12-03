@@ -1,0 +1,144 @@
+Antigua
+2013-03-03
+runs: 41
+winner: West Indies
+West Indies
+Zimbabwe
+venue: 'Sir Vivian Richards Stadium, North Sound'
+1st innings
+West Indies
+5
+CB Mpofu
+0
+2
+TL Chatara
+0
+8
+CB Mpofu
+0
+6
+TL Chatara
+1
+J Charles
+2
+P Utseya
+0
+16
+TL Chatara
+0
+6
+P Utseya
+0
+4
+N Mushangwe
+0
+6
+TC Mutombodzi
+0
+9
+N Mushangwe
+1
+DJ Bravo
+4
+TC Mutombodzi
+0
+10
+N Mushangwe
+0
+4
+P Utseya
+1
+CD Barnwell
+10
+N Mushangwe
+1
+LMP Simmons
+7
+TC Mutombodzi
+0
+12
+CB Mpofu
+0
+10
+P Utseya
+0
+23
+TL Chatara
+0
+11
+TC Mutombodzi
+2
+DJG Sammy
+AD Russell
+3
+CB Mpofu
+1
+D Ramdin
+2nd innings
+Zimbabwe
+7
+ST Gabriel
+0
+5
+S Badree
+0
+5
+ST Gabriel
+0
+3
+S Badree
+1
+CJ Chibhabha
+2
+ST Gabriel
+0
+4
+S Badree
+1
+V Sibanda
+6
+DJG Sammy
+0
+5
+S Badree
+1
+BRM Taylor
+7
+DJG Sammy
+0
+8
+SP Narine
+0
+6
+DJ Bravo
+0
+6
+SP Narine
+0
+5
+DJ Bravo
+1
+CR Ervine
+4
+SP Narine
+0
+11
+AD Russell
+0
+6
+KA Pollard
+0
+4
+DJ Bravo
+2
+MN Waller
+TC Mutombodzi
+5
+SP Narine
+0
+10
+AD Russell
+0
+8
+CD Barnwell
+0

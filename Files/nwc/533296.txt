@@ -1,0 +1,142 @@
+Colombo
+2012-10-04
+runs: 16
+winner: Sri Lanka
+Sri Lanka
+Pakistan
+venue: R Premadasa Stadium
+1st innings
+Sri Lanka
+5
+Sohail Tanvir
+0
+7
+Raza Hasan
+0
+2
+Sohail Tanvir
+0
+6
+Raza Hasan
+0
+4
+Sohail Tanvir
+0
+10
+Saeed Ajmal
+0
+6
+Shahid Afridi
+0
+4
+Raza Hasan
+0
+9
+Shahid Afridi
+0
+9
+Raza Hasan
+0
+6
+Shahid Afridi
+1
+DPMD Jayawardene
+12
+Saeed Ajmal
+0
+5
+Mohammad Hafeez
+1
+KC Sangakkara
+8
+Shahid Afridi
+0
+7
+Mohammad Hafeez
+0
+7
+Umar Gul
+0
+7
+Saeed Ajmal
+0
+3
+Umar Gul
+1
+TM Dilshan
+6
+Saeed Ajmal
+1
+BMAJ Mendis
+16
+Umar Gul
+0
+2nd innings
+Pakistan
+8
+AD Mathews
+0
+7
+KMDN Kulasekara
+0
+7
+SL Malinga
+0
+2
+KMDN Kulasekara
+0
+2
+SL Malinga
+0
+5
+BAW Mendis
+1
+Imran Nazir
+8
+NLTC Perera
+0
+9
+BAW Mendis
+0
+7
+HMRKB Herath
+0
+3
+AD Mathews
+2
+Nasir Jamshed
+Kamran Akmal
+6
+HMRKB Herath
+1
+Shoaib Malik
+7
+AD Mathews
+0
+12
+HMRKB Herath
+0
+8
+BAW Mendis
+0
+1
+HMRKB Herath
+2
+Mohammad Hafeez
+Shahid Afridi
+9
+AD Mathews
+0
+7
+SL Malinga
+0
+5
+BAW Mendis
+1
+Sohail Tanvir
+4
+SL Malinga
+0
+6
+KMDN Kulasekara
+0

@@ -1,0 +1,147 @@
+Mirpur
+2015-11-15
+wickets: 3
+winner: Zimbabwe
+Bangladesh
+Zimbabwe
+venue: Shere Bangla National Stadium
+1st innings
+Bangladesh
+5
+T Panyangara
+0
+9
+N Madziva
+0
+12
+T Panyangara
+0
+8
+N Madziva
+1
+Tamim Iqbal
+1
+TS Chisoro
+1
+Imrul Kayes
+3
+SC Williams
+0
+9
+TS Chisoro
+0
+12
+SC Williams
+0
+4
+AG Cremer
+1
+Mushfiqur Rahim
+6
+SC Williams
+0
+7
+AG Cremer
+0
+6
+SC Williams
+0
+6
+AG Cremer
+0
+10
+TS Chisoro
+0
+4
+AG Cremer
+1
+Sabbir Rahman
+11
+TS Chisoro
+0
+8
+T Panyangara
+2
+Nasir Hossain
+Mahmudullah
+4
+N Madziva
+1
+Mashrafe Mortaza
+5
+T Panyangara
+1
+Arafat Sunny
+5
+N Madziva
+1
+Anamul Haque
+2nd innings
+Zimbabwe
+7
+Mashrafe Mortaza
+0
+1
+Al-Amin Hossain
+2
+Sikandar Raza
+SC Williams
+4
+Mashrafe Mortaza
+0
+3
+Al-Amin Hossain
+0
+2
+Mustafizur Rahman
+1
+RW Chakabva
+8
+Mashrafe Mortaza
+0
+6
+Arafat Sunny
+0
+3
+Nasir Hossain
+1
+CR Ervine
+5
+Arafat Sunny
+1
+E Chigumbura
+13
+Nasir Hossain
+0
+7
+Arafat Sunny
+0
+1
+Mustafizur Rahman
+0
+13
+Arafat Sunny
+0
+11
+Nasir Hossain
+0
+9
+Mashrafe Mortaza
+0
+6
+Al-Amin Hossain
+1
+LM Jongwe
+3
+Mustafizur Rahman
+0
+10
+Al-Amin Hossain
+0
+6
+Mustafizur Rahman
+0
+18
+Nasir Hossain
+1
+MN Waller

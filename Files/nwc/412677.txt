@@ -1,0 +1,150 @@
+Guyana
+2010-04-30
+runs: 70
+winner: West Indies
+West Indies
+Ireland
+venue: Providence Stadium
+1st innings
+West Indies
+7
+WB Rankin
+0
+2
+DT Johnston
+0
+10
+WB Rankin
+1
+S Chanderpaul
+10
+DT Johnston
+0
+8
+KJ O'Brien
+0
+6
+AR Cusack
+1
+DJ Bravo
+4
+PR Stirling
+0
+5
+AR Cusack
+0
+11
+PR Stirling
+0
+6
+G Dockrell
+0
+7
+DT Johnston
+0
+2
+G Dockrell
+2
+ADS Fletcher
+RR Sarwan
+5
+WB Rankin
+1
+D Ramdin
+7
+G Dockrell
+0
+2
+AC Botha
+0
+1
+G Dockrell
+1
+N Deonarine
+14
+WB Rankin
+0
+18
+DT Johnston
+0
+5
+AC Botha
+2
+KA Pollard
+DJG Sammy
+8
+AR Cusack
+1
+R Rampaul
+2nd innings
+Ireland
+5
+KAJ Roach
+1
+WTS Porterfield
+6
+R Rampaul
+2
+PR Stirling
+NJ O'Brien
+3
+KAJ Roach
+0
+4
+R Rampaul
+1
+AR Cusack
+5
+KAJ Roach
+0
+8
+R Rampaul
+0
+4
+DJ Bravo
+0
+4
+NO Miller
+0
+2
+DJG Sammy
+1
+KJ O'Brien
+6
+NO Miller
+0
+4
+DJG Sammy
+0
+4
+NO Miller
+0
+1
+DJ Bravo
+2
+GC Wilson
+DT Johnston
+6
+NO Miller
+1
+JF Mooney
+2
+DJG Sammy
+1
+WB Rankin
+3
+KAJ Roach
+0
+1
+DJG Sammy
+1
+G Dockrell
+0
+DJG Sammy
+0
+0
+DJG Sammy
+0
+0
+DJG Sammy
+0

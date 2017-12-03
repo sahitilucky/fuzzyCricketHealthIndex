@@ -1,0 +1,140 @@
+none
+2012-09-27
+runs: 15
+winner: West Indies
+England
+West Indies
+venue: Pallekele International Cricket Stadium
+1st innings
+West Indies
+6
+ST Finn
+0
+14
+JW Dernbach
+0
+6
+ST Finn
+0
+11
+SCJ Broad
+0
+3
+ST Finn
+0
+7
+SCJ Broad
+0
+6
+GP Swann
+0
+19
+SR Patel
+0
+18
+GP Swann
+0
+5
+JW Dernbach
+0
+8
+GP Swann
+1
+CH Gayle
+11
+LJ Wright
+0
+4
+SR Patel
+0
+0
+SCJ Broad
+1
+MN Samuels
+10
+SR Patel
+0
+12
+ST Finn
+1
+KA Pollard
+6
+SR Patel
+0
+8
+JW Dernbach
+1
+J Charles
+10
+SCJ Broad
+1
+DJG Sammy
+15
+JW Dernbach
+0
+2nd innings
+England
+0
+R Rampaul
+2
+C Kieswetter
+LJ Wright
+2
+S Badree
+0
+6
+R Rampaul
+0
+9
+S Badree
+0
+8
+SP Narine
+0
+4
+S Badree
+0
+13
+DJG Sammy
+0
+7
+S Badree
+0
+4
+SP Narine
+0
+2
+CH Gayle
+1
+JM Bairstow
+11
+MN Samuels
+0
+6
+CH Gayle
+0
+14
+MN Samuels
+0
+10
+CH Gayle
+0
+14
+SP Narine
+0
+9
+CH Gayle
+0
+15
+R Rampaul
+0
+7
+SP Narine
+0
+16
+R Rampaul
+0
+7
+MN Samuels
+1
+AD Hales

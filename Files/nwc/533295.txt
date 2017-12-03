@@ -1,0 +1,147 @@
+Colombo
+2012-10-02
+runs: 1
+winner: India
+India
+South Africa
+venue: R Premadasa Stadium
+1st innings
+India
+9
+DW Steyn
+0
+8
+M Morkel
+0
+5
+DW Steyn
+0
+3
+M Morkel
+1
+G Gambhir
+5
+JH Kallis
+1
+V Kohli
+6
+RJ Peterson
+1
+V Sehwag
+9
+J Botha
+0
+8
+RJ Peterson
+0
+8
+J Botha
+0
+7
+M Morkel
+1
+Yuvraj Singh
+3
+F du Plessis
+0
+10
+M Morkel
+0
+9
+RJ Peterson
+0
+13
+J Botha
+0
+6
+JP Duminy
+0
+3
+RJ Peterson
+1
+RG Sharma
+7
+DW Steyn
+0
+10
+JH Kallis
+0
+14
+DW Steyn
+0
+9
+JH Kallis
+1
+SK Raina
+2nd innings
+South Africa
+2
+Z Khan
+1
+HM Amla
+8
+IK Pathan
+0
+6
+Z Khan
+0
+5
+IK Pathan
+1
+JH Kallis
+11
+Z Khan
+0
+14
+IK Pathan
+0
+4
+Yuvraj Singh
+1
+AB de Villiers
+13
+RG Sharma
+0
+5
+Yuvraj Singh
+0
+5
+R Ashwin
+0
+6
+Yuvraj Singh
+0
+11
+L Balaji
+0
+8
+Yuvraj Singh
+1
+F du Plessis
+6
+R Ashwin
+0
+3
+L Balaji
+1
+JP Duminy
+6
+R Ashwin
+0
+13
+L Balaji
+0
+3
+Z Khan
+2
+F Behardien
+RJ Peterson
+10
+R Ashwin
+1
+J Botha
+12
+L Balaji
+2
+JA Morkel
+M Morkel

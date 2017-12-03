@@ -1,0 +1,144 @@
+Barbados
+2010-05-06
+wickets: 6
+winner: England
+England
+Pakistan
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+Pakistan
+11
+RJ Sidebottom
+0
+5
+TT Bresnan
+0
+7
+SCJ Broad
+0
+5
+TT Bresnan
+0
+5
+SCJ Broad
+1
+Kamran Akmal
+11
+TT Bresnan
+0
+12
+MH Yardy
+0
+4
+GP Swann
+0
+10
+PD Collingwood
+0
+6
+GP Swann
+1
+Salman Butt
+2
+MH Yardy
+2
+Mohammad Hafeez
+Shahid Afridi
+8
+GP Swann
+0
+2
+MH Yardy
+0
+11
+SCJ Broad
+0
+3
+MH Yardy
+1
+Misbah-ul-Haq
+10
+GP Swann
+0
+8
+RJ Sidebottom
+1
+Umar Akmal
+3
+SCJ Broad
+1
+Fawad Alam
+9
+RJ Sidebottom
+1
+Abdul Razzaq
+15
+TT Bresnan
+1
+Mohammad Amir
+2nd innings
+England
+5
+Abdul Razzaq
+0
+6
+Mohammad Asif
+0
+7
+Mohammad Amir
+0
+19
+Mohammad Asif
+0
+5
+Mohammad Amir
+0
+3
+Saeed Ajmal
+1
+MJ Lumb
+12
+Mohammad Hafeez
+0
+8
+Shahid Afridi
+0
+5
+Abdul Razzaq
+1
+C Kieswetter
+5
+Shahid Afridi
+0
+12
+Abdul Razzaq
+0
+8
+Shahid Afridi
+0
+8
+Mohammad Asif
+0
+8
+Saeed Ajmal
+0
+7
+Mohammad Amir
+0
+7
+Shahid Afridi
+1
+PD Collingwood
+11
+Mohammad Asif
+0
+4
+Saeed Ajmal
+1
+EJG Morgan
+6
+Mohammad Amir
+0
+5
+Saeed Ajmal
+0

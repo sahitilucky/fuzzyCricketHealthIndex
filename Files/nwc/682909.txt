@@ -1,0 +1,141 @@
+none
+2014-03-19
+wickets: 5
+winner: Zimbabwe
+Netherlands
+Zimbabwe
+venue: Sylhet Stadium
+1st innings
+Netherlands
+5
+P Utseya
+1
+SJ Myburgh
+9
+T Panyangara
+1
+W Barresi
+5
+P Utseya
+0
+8
+TL Chatara
+1
+MR Swart
+10
+P Utseya
+1
+PW Borren
+1
+TL Chatara
+0
+10
+N Mushangwe
+0
+5
+SC Williams
+0
+5
+N Mushangwe
+0
+4
+SC Williams
+0
+4
+N Mushangwe
+0
+9
+SC Williams
+0
+11
+H Masakadza
+0
+5
+N Mushangwe
+1
+BN Cooper
+4
+SC Williams
+0
+8
+T Panyangara
+0
+8
+P Utseya
+0
+15
+T Panyangara
+0
+6
+TL Chatara
+0
+8
+T Panyangara
+0
+2nd innings
+Zimbabwe
+9
+Mudassar Bukhari
+0
+2
+T van der Gugten
+0
+5
+MAA Jamil
+0
+7
+T van der Gugten
+0
+3
+MAA Jamil
+1
+Sikandar Raza
+11
+LV van Beek
+0
+4
+Mudassar Bukhari
+0
+6
+PW Borren
+0
+5
+PM Seelaar
+0
+14
+TLW Cooper
+0
+6
+Mudassar Bukhari
+0
+6
+LV van Beek
+0
+7
+Mudassar Bukhari
+0
+4
+PM Seelaar
+2
+H Masakadza
+E Chigumbura
+6
+PW Borren
+0
+6
+T van der Gugten
+0
+15
+LV van Beek
+0
+10
+MAA Jamil
+0
+8
+T van der Gugten
+1
+BRM Taylor
+12
+MAA Jamil
+1
+SC Williams

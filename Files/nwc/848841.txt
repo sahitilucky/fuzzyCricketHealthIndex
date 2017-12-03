@@ -1,0 +1,146 @@
+Centurion
+2015-08-16
+runs: 32
+winner: New Zealand
+South Africa
+New Zealand
+venue: SuperSport Park
+1st innings
+New Zealand
+7
+AM Phangiso
+0
+1
+KJ Abbott
+0
+13
+K Rabada
+0
+14
+KJ Abbott
+0
+11
+D Wiese
+0
+7
+K Rabada
+1
+KS Williamson
+12
+E Leie
+0
+4
+D Wiese
+0
+6
+E Leie
+1
+TWM Latham
+11
+AM Phangiso
+0
+15
+E Leie
+0
+4
+F Behardien
+1
+MJ Guptill
+8
+AM Phangiso
+1
+GD Elliott
+6
+D Wiese
+0
+14
+AM Phangiso
+0
+8
+K Rabada
+0
+5
+D Wiese
+1
+L Ronchi
+19
+KJ Abbott
+0
+2
+K Rabada
+2
+C Munro
+JDS Neesham
+10
+KJ Abbott
+0
+2nd innings
+South Africa
+5
+NL McCullum
+0
+7
+AF Milne
+0
+3
+MJ McClenaghan
+1
+MN van Wyk
+7
+AF Milne
+1
+HM Amla
+8
+MJ McClenaghan
+0
+10
+JDS Neesham
+0
+9
+NL McCullum
+1
+AB de Villiers
+7
+IS Sodhi
+0
+10
+GD Elliott
+0
+9
+IS Sodhi
+1
+RR Rossouw
+7
+NL McCullum
+0
+8
+AF Milne
+0
+6
+JDS Neesham
+0
+7
+IS Sodhi
+0
+10
+NL McCullum
+1
+F Behardien
+4
+IS Sodhi
+1
+D Wiese
+6
+JDS Neesham
+1
+AM Phangiso
+10
+MJ McClenaghan
+1
+DA Miller
+5
+AF Milne
+0
+7
+MJ McClenaghan
+0

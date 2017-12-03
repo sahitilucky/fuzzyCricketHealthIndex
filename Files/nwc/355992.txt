@@ -1,0 +1,57 @@
+London
+2009-06-06
+wickets: 7
+winner: New Zealand
+New Zealand
+Scotland
+venue: Kennington Oval
+1st innings
+Scotland
+18
+IE O'Brien
+0
+12
+JEC Franklin
+0
+11
+IG Butler
+1
+RR Watson
+7
+JDP Oram
+0
+19
+JD Ryder
+0
+14
+JDP Oram
+0
+8
+IG Butler
+3
+KJ Coetzer
+NS Poonia
+CJO Smith
+2nd innings
+New Zealand
+19
+CS MacLeod
+0
+12
+GD Drummond
+0
+20
+CM Wright
+1
+JD Ryder
+13
+GD Drummond
+1
+BB McCullum
+4
+RR Watson
+1
+JDP Oram
+22
+JH Stander
+0

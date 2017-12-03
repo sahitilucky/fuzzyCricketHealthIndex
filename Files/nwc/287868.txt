@@ -1,0 +1,146 @@
+Johannesburg
+2007-09-17
+runs: 33
+winner: Pakistan
+Pakistan
+Sri Lanka
+venue: New Wanderers Stadium
+1st innings
+Pakistan
+7
+WPUJC Vaas
+0
+10
+CRD Fernando
+0
+5
+WPUJC Vaas
+1
+Imran Nazir
+2
+CRD Fernando
+1
+Salman Butt
+9
+WPUJC Vaas
+0
+0
+CRD Fernando
+1
+Mohammad Hafeez
+4
+WPUJC Vaas
+0
+12
+SL Malinga
+0
+14
+ST Jayasuriya
+0
+6
+G Wijekoon
+0
+12
+ST Jayasuriya
+0
+8
+G Wijekoon
+0
+20
+ST Jayasuriya
+0
+12
+G Wijekoon
+0
+13
+SL Malinga
+1
+Younis Khan
+13
+G Wijekoon
+0
+11
+SL Malinga
+1
+Shoaib Malik
+6
+CRD Fernando
+0
+7
+SL Malinga
+1
+Shahid Afridi
+18
+ST Jayasuriya
+0
+2nd innings
+Sri Lanka
+5
+Mohammad Asif
+1
+WU Tharanga
+1
+Sohail Tanvir
+1
+ST Jayasuriya
+9
+Mohammad Asif
+0
+9
+Sohail Tanvir
+0
+11
+Mohammad Asif
+1
+KC Sangakkara
+14
+Sohail Tanvir
+0
+22
+Mohammad Asif
+0
+9
+Mohammad Hafeez
+0
+4
+Shahid Afridi
+0
+4
+Mohammad Hafeez
+0
+2
+Shahid Afridi
+1
+DPMD Jayawardene
+12
+Mohammad Hafeez
+0
+10
+Shahid Afridi
+1
+LPC Silva
+1
+Umar Gul
+1
+J Mubarak
+3
+Shahid Afridi
+1
+G Wijekoon
+3
+Umar Gul
+0
+6
+Sohail Tanvir
+0
+5
+Umar Gul
+0
+21
+Mohammad Hafeez
+1
+TM Dilshan
+5
+Umar Gul
+1
+SL Malinga

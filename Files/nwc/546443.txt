@@ -1,0 +1,148 @@
+Dubai
+2012-03-18
+runs: 41
+winner: Afghanistan
+Afghanistan
+Canada
+venue: ICC Global Cricket Academy
+1st innings
+Afghanistan
+5
+H Osinde
+0
+14
+Junaid Siddiqui
+0
+3
+H Osinde
+0
+2
+Zahid Hussain
+0
+14
+H Osinde
+0
+10
+Zahid Hussain
+0
+4
+Junaid Siddiqui
+0
+1
+Zahid Hussain
+3
+Karim Sadiq
+Shabir Noori
+Nawroz Mangal
+4
+Junaid Siddiqui
+0
+3
+Zahid Hussain
+0
+3
+Rizwan Cheema
+0
+13
+HS Baidwan
+0
+6
+Rizwan Cheema
+0
+13
+HS Baidwan
+0
+14
+H Patel
+0
+14
+Rizwan Cheema
+0
+10
+HS Baidwan
+1
+Mohammad Shahzad
+12
+Rizwan Cheema
+0
+13
+HS Baidwan
+1
+Mohammad Nabi
+16
+H Osinde
+3
+Samiullah Shenwari
+Gulbodin Naib
+Mirwais Ashraf
+2nd innings
+Canada
+12
+Dawlat Zadran
+0
+7
+Karim Sadiq
+1
+H Patel
+6
+Dawlat Zadran
+1
+R Gunasekera
+17
+Karim Sadiq
+0
+11
+Izatullah Dawlatzai
+0
+1
+Samiullah Shenwari
+1
+Junaid Siddiqui
+7
+Zamir Khan
+0
+6
+Samiullah Shenwari
+0
+6
+Zamir Khan
+0
+1
+Samiullah Shenwari
+1
+AS Hansra
+8
+Zamir Khan
+1
+Rizwan Cheema
+6
+Samiullah Shenwari
+2
+TG Gordon
+HS Baidwan
+5
+Zamir Khan
+0
+8
+Mohammad Nabi
+0
+3
+Dawlat Zadran
+1
+NR Kumar
+16
+Mohammad Nabi
+0
+4
+Dawlat Zadran
+0
+2
+Mohammad Nabi
+0
+2
+Izatullah Dawlatzai
+1
+H Osinde
+5
+Nawroz Mangal
+0

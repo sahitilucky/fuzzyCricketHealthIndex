@@ -1,0 +1,125 @@
+Nairobi
+2007-09-04
+wickets: 8
+winner: Pakistan
+Kenya
+Pakistan
+venue: Gymkhana Club Ground
+1st innings
+Kenya
+5
+Shoaib Akhtar
+1
+DO Obuya
+0
+Umar Gul
+0
+5
+Shoaib Akhtar
+1
+JK Kamande
+1
+Umar Gul
+0
+13
+Shoaib Akhtar
+0
+7
+Umar Gul
+0
+4
+Fawad Alam
+1
+T Mishra
+4
+Abdur Rehman
+1
+TM Odoyo
+4
+Fawad Alam
+0
+1
+Abdur Rehman
+1
+AO Suji
+1
+Fawad Alam
+0
+2
+Abdur Rehman
+0
+6
+Fawad Alam
+0
+2
+Younis Khan
+1
+AA Obanda
+3
+Mohammad Hafeez
+1
+CO Obuya
+1
+Younis Khan
+0
+10
+Mohammad Hafeez
+1
+LN Onyango
+8
+Younis Khan
+1
+RL Bhudia
+6
+Mohammad Hafeez
+0
+9
+Younis Khan
+1
+PJ Ongondo
+2nd innings
+Pakistan
+4
+PJ Ongondo
+0
+11
+RL Bhudia
+0
+2
+PJ Ongondo
+1
+Mohammad Hafeez
+9
+RL Bhudia
+0
+6
+PJ Ongondo
+0
+2
+RL Bhudia
+0
+16
+HA Varaiya
+0
+7
+RL Bhudia
+0
+9
+HA Varaiya
+0
+5
+LN Onyango
+0
+3
+HA Varaiya
+1
+Shoaib Malik
+5
+LN Onyango
+0
+5
+HA Varaiya
+0
+9
+LN Onyango
+0

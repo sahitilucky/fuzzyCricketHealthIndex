@@ -1,0 +1,87 @@
+Birmingham
+2012-09-12
+runs: 28
+winner: England
+England
+South Africa
+venue: Edgbaston
+1st innings
+England
+16
+M Morkel
+0
+5
+WD Parnell
+1
+MJ Lumb
+6
+JA Morkel
+0
+10
+RJ Peterson
+0
+7
+J Botha
+1
+LJ Wright
+6
+RJ Peterson
+0
+2
+J Botha
+0
+11
+JH Kallis
+0
+11
+J Botha
+1
+EJG Morgan
+32
+WD Parnell
+0
+12
+M Morkel
+2
+C Kieswetter
+JM Bairstow
+2nd innings
+South Africa
+9
+DR Briggs
+0
+4
+TT Bresnan
+1
+RE Levi
+12
+SCJ Broad
+0
+9
+DR Briggs
+1
+F du Plessis
+10
+GP Swann
+0
+7
+SCJ Broad
+0
+2
+GP Swann
+2
+AB de Villiers
+HM Amla
+2
+JW Dernbach
+0
+13
+GP Swann
+0
+10
+TT Bresnan
+1
+JL Ontong
+12
+JW Dernbach
+0

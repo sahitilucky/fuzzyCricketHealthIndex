@@ -1,0 +1,138 @@
+Dublin
+2015-07-23
+wickets: 6
+winner: Afghanistan
+Afghanistan
+Papua New Guinea
+venue: 'The Village, Malahide'
+1st innings
+Papua New Guinea
+3
+Mohammad Nabi
+0
+6
+Dawlat Zadran
+0
+3
+Shapoor Zadran
+0
+2
+Dawlat Zadran
+1
+L Siaka
+3
+Shapoor Zadran
+1
+TP Ura
+3
+Dawlat Zadran
+0
+10
+Mirwais Ashraf
+0
+4
+Mohammad Nabi
+1
+VV Morea
+3
+Hamid Hassan
+0
+5
+Mirwais Ashraf
+1
+A Vala
+7
+Hamid Hassan
+0
+2
+Mohammad Nabi
+0
+4
+Shapoor Zadran
+1
+MD Dai
+4
+Mohammad Nabi
+0
+7
+Mirwais Ashraf
+0
+16
+Dawlat Zadran
+0
+7
+Hamid Hassan
+1
+JNT Vare
+8
+Shapoor Zadran
+0
+20
+Hamid Hassan
+0
+10
+Mirwais Ashraf
+0
+2nd innings
+Afghanistan
+1
+N Vanua
+1
+Mohammad Shahzad
+12
+L Nou
+0
+5
+N Vanua
+0
+3
+CA Soper
+0
+3
+WT Gavera
+0
+8
+CA Soper
+0
+7
+WT Gavera
+0
+5
+L Nou
+0
+9
+MD Dai
+0
+4
+CJA Amini
+1
+Asghar Stanikzai
+14
+MD Dai
+0
+3
+CJA Amini
+0
+4
+CA Soper
+0
+9
+CJA Amini
+1
+Samiullah Shenwari
+7
+CA Soper
+0
+7
+CJA Amini
+0
+7
+N Vanua
+1
+Mohammad Nabi
+13
+L Nou
+0
+7
+N Vanua
+0

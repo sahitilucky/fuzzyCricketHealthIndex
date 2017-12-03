@@ -1,0 +1,138 @@
+Mirpur
+2014-03-21
+wickets: 7
+winner: India
+India
+Pakistan
+venue: Shere Bangla National Stadium
+1st innings
+Pakistan
+4
+R Ashwin
+0
+5
+B Kumar
+1
+Kamran Akmal
+6
+R Ashwin
+0
+2
+Mohammed Shami
+0
+5
+B Kumar
+0
+12
+Mohammed Shami
+0
+6
+A Mishra
+0
+7
+RA Jadeja
+1
+Mohammad Hafeez
+0
+A Mishra
+1
+Ahmed Shehzad
+3
+RA Jadeja
+0
+13
+Yuvraj Singh
+0
+13
+A Mishra
+0
+7
+R Ashwin
+0
+6
+RA Jadeja
+0
+7
+R Ashwin
+0
+4
+A Mishra
+1
+Shoaib Malik
+2
+RA Jadeja
+0
+2
+Mohammed Shami
+1
+Umar Akmal
+11
+B Kumar
+1
+Shahid Afridi
+15
+Mohammed Shami
+1
+Sohaib Maqsood
+2nd innings
+India
+3
+Mohammad Hafeez
+0
+2
+Junaid Khan
+0
+2
+Mohammad Hafeez
+0
+12
+Junaid Khan
+0
+12
+Saeed Ajmal
+0
+7
+Umar Gul
+0
+3
+Shahid Afridi
+0
+13
+Umar Gul
+1
+S Dhawan
+9
+Shahid Afridi
+0
+2
+Saeed Ajmal
+1
+RG Sharma
+7
+Bilawal Bhatti
+1
+Yuvraj Singh
+9
+Mohammad Hafeez
+0
+10
+Bilawal Bhatti
+0
+3
+Saeed Ajmal
+0
+12
+Shahid Afridi
+0
+8
+Umar Gul
+0
+1
+Saeed Ajmal
+0
+9
+Junaid Khan
+0
+7
+Umar Gul
+0

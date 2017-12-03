@@ -1,0 +1,146 @@
+Johannesburg
+2007-09-14
+runs: 172
+winner: Sri Lanka
+Kenya
+Sri Lanka
+venue: New Wanderers Stadium
+1st innings
+Sri Lanka
+4
+TM Odoyo
+0
+9
+PJ Ongondo
+0
+6
+TM Odoyo
+1
+WU Tharanga
+15
+PJ Ongondo
+0
+6
+TM Odoyo
+0
+13
+PJ Ongondo
+0
+12
+NN Odhiambo
+0
+9
+LN Onyango
+0
+19
+NN Odhiambo
+0
+8
+JK Kamande
+1
+KC Sangakkara
+13
+LN Onyango
+0
+17
+JK Kamande
+0
+25
+SO Tikolo
+0
+19
+JK Kamande
+0
+9
+NN Odhiambo
+1
+ST Jayasuriya
+10
+LN Onyango
+1
+LPC Silva
+17
+NN Odhiambo
+0
+4
+JK Kamande
+2
+DPMD Jayawardene
+TM Dilshan
+29
+LN Onyango
+0
+16
+PJ Ongondo
+0
+2nd innings
+Kenya
+0
+WPUJC Vaas
+1
+MA Ouma
+17
+CRD Fernando
+0
+3
+WPUJC Vaas
+1
+NN Odhiambo
+4
+CRD Fernando
+0
+9
+WPUJC Vaas
+0
+2
+CRD Fernando
+0
+3
+WPUJC Vaas
+0
+1
+ST Jayasuriya
+0
+3
+SL Malinga
+0
+5
+ST Jayasuriya
+1
+T Mishra
+4
+SL Malinga
+2
+SO Tikolo
+CO Obuya
+3
+ST Jayasuriya
+0
+6
+SL Malinga
+0
+4
+LPC Silva
+0
+4
+G Wijekoon
+1
+DO Obuya
+8
+LPC Silva
+0
+4
+G Wijekoon
+0
+2
+TM Dilshan
+1
+AA Obanda
+4
+G Wijekoon
+1
+JK Kamande
+2
+TM Dilshan
+1
+PJ Ongondo

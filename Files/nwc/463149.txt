@@ -1,0 +1,146 @@
+Durban
+2011-01-09
+runs: 21
+winner: India
+South Africa
+India
+venue: Moses Mabhida Stadium
+1st innings
+India
+11
+WD Parnell
+0
+6
+M Ntini
+0
+5
+WD Parnell
+1
+M Vijay
+7
+J Theron
+0
+20
+M Ntini
+0
+8
+J Theron
+0
+6
+RJ Peterson
+0
+6
+J Botha
+1
+V Kohli
+9
+RJ Peterson
+0
+3
+J Botha
+0
+5
+JP Duminy
+0
+16
+J Botha
+0
+7
+JP Duminy
+1
+RG Sharma
+5
+RJ Peterson
+1
+Yuvraj Singh
+9
+M Ntini
+0
+13
+J Theron
+1
+YK Pathan
+6
+WD Parnell
+0
+11
+M Ntini
+0
+4
+WD Parnell
+0
+11
+J Theron
+1
+SK Raina
+2nd innings
+South Africa
+6
+P Kumar
+0
+2
+A Nehra
+1
+HM Amla
+15
+MM Patel
+0
+8
+A Nehra
+0
+11
+MM Patel
+1
+CA Ingram
+17
+R Ashwin
+0
+10
+Yuvraj Singh
+0
+10
+R Ashwin
+0
+8
+P Kumar
+0
+4
+Yuvraj Singh
+2
+AB de Villiers
+JP Duminy
+7
+P Kumar
+1
+MN van Wyk
+3
+Yuvraj Singh
+0
+8
+YK Pathan
+1
+DA Miller
+4
+Yuvraj Singh
+0
+8
+YK Pathan
+1
+RJ Peterson
+4
+R Ashwin
+0
+6
+YK Pathan
+0
+9
+A Nehra
+0
+2
+R Ashwin
+1
+WD Parnell
+5
+A Nehra
+1
+J Botha

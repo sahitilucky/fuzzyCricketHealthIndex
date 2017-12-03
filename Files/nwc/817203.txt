@@ -1,0 +1,145 @@
+Mirpur
+2015-07-05
+runs: 52
+winner: South Africa
+Bangladesh
+South Africa
+venue: Shere Bangla National Stadium
+1st innings
+South Africa
+2
+Arafat Sunny
+1
+AB de Villiers
+5
+Nasir Hossain
+0
+9
+Arafat Sunny
+0
+15
+Nasir Hossain
+1
+Q de Kock
+4
+Shakib Al Hasan
+0
+2
+Mustafizur Rahman
+0
+8
+Shakib Al Hasan
+0
+8
+Sohag Gazi
+0
+9
+Mashrafe Mortaza
+0
+8
+Sohag Gazi
+0
+6
+Mashrafe Mortaza
+0
+8
+Arafat Sunny
+1
+JP Duminy
+5
+Mashrafe Mortaza
+0
+7
+Shakib Al Hasan
+1
+DA Miller
+9
+Mustafizur Rahman
+0
+4
+Nasir Hossain
+0
+8
+Mustafizur Rahman
+0
+13
+Nasir Hossain
+0
+13
+Mustafizur Rahman
+0
+5
+Shakib Al Hasan
+0
+2nd innings
+Bangladesh
+7
+KJ Abbott
+1
+Tamim Iqbal
+7
+K Rabada
+1
+Soumya Sarkar
+3
+KJ Abbott
+0
+7
+K Rabada
+0
+8
+WD Parnell
+0
+5
+D Wiese
+0
+11
+AM Phangiso
+0
+3
+JP Duminy
+1
+Mushfiqur Rahim
+4
+AM Phangiso
+0
+2
+JP Duminy
+1
+Sabbir Rahman
+3
+AM Phangiso
+1
+Nasir Hossain
+4
+JP Duminy
+0
+5
+AM Phangiso
+0
+4
+D Wiese
+1
+Shakib Al Hasan
+14
+K Rabada
+1
+Mashrafe Mortaza
+2
+JP Duminy
+0
+4
+WD Parnell
+0
+3
+D Wiese
+2
+Sohag Gazi
+Litton Das
+0
+WD Parnell
+1
+Mustafizur Rahman
+0
+WD Parnell
+0

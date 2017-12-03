@@ -1,0 +1,146 @@
+none
+2012-10-01
+runs: 19
+winner: Sri Lanka
+Sri Lanka
+England
+venue: Pallekele International Cricket Stadium
+1st innings
+Sri Lanka
+8
+ST Finn
+0
+4
+JW Dernbach
+0
+6
+ST Finn
+0
+16
+JW Dernbach
+0
+7
+ST Finn
+1
+TM Dilshan
+3
+SCJ Broad
+0
+9
+GP Swann
+0
+4
+RS Bopara
+0
+7
+GP Swann
+0
+10
+SR Patel
+0
+8
+GP Swann
+2
+DPMD Jayawardene
+KC Sangakkara
+8
+SCJ Broad
+0
+6
+GP Swann
+0
+8
+RS Bopara
+0
+17
+SR Patel
+0
+7
+SCJ Broad
+2
+BMAJ Mendis
+AD Mathews
+4
+ST Finn
+0
+16
+JW Dernbach
+0
+14
+SCJ Broad
+1
+HDRL Thirimanne
+7
+JW Dernbach
+0
+2nd innings
+England
+7
+AD Mathews
+0
+8
+KMDN Kulasekara
+0
+3
+SL Malinga
+3
+LJ Wright
+JM Bairstow
+AD Hales
+1
+KMDN Kulasekara
+0
+9
+AD Mathews
+0
+8
+KMDN Kulasekara
+0
+14
+BAW Mendis
+0
+6
+AD Mathews
+0
+5
+A Dananjaya
+0
+11
+BAW Mendis
+0
+3
+A Dananjaya
+1
+EJG Morgan
+5
+BMAJ Mendis
+1
+RS Bopara
+6
+A Dananjaya
+0
+7
+SL Malinga
+1
+JC Buttler
+13
+A Dananjaya
+1
+SCJ Broad
+5
+BAW Mendis
+0
+15
+SL Malinga
+0
+11
+BAW Mendis
+0
+7
+SL Malinga
+1
+SR Patel
+6
+KMDN Kulasekara
+1
+GP Swann

@@ -1,0 +1,149 @@
+Townsville
+2016-02-09
+runs: 11
+winner: Papua New Guinea
+Ireland
+Papua New Guinea
+venue: Tony Ireland Stadium
+1st innings
+Papua New Guinea
+4
+AR McBrine
+0
+3
+TJ Murtagh
+0
+3
+AR McBrine
+0
+11
+MC Sorensen
+0
+5
+TJ Murtagh
+1
+A Vala
+2
+GH Dockrell
+1
+L Siaka
+4
+PR Stirling
+1
+VV Morea
+6
+GH Dockrell
+0
+10
+PR Stirling
+0
+7
+AR McBrine
+0
+5
+KJ O'Brien
+0
+6
+GH Dockrell
+0
+10
+KJ O'Brien
+0
+2
+GH Dockrell
+1
+S Bau
+3
+AR McBrine
+1
+MD Dai
+4
+PR Stirling
+0
+5
+TJ Murtagh
+2
+H Hiri
+N Vanua
+5
+PR Stirling
+0
+11
+TJ Murtagh
+0
+10
+KJ O'Brien
+1
+CJA Amini
+2nd innings
+Ireland
+6
+N Vanua
+0
+7
+CA Soper
+1
+PR Stirling
+3
+N Vanua
+0
+4
+CA Soper
+1
+A Balbirnie
+9
+MD Dai
+0
+2
+CA Soper
+0
+9
+P Raho
+0
+4
+MD Dai
+0
+6
+CJA Amini
+2
+GC Wilson
+KJ O'Brien
+2
+N Pokana
+0
+7
+CJA Amini
+0
+4
+N Pokana
+1
+SW Poynter
+5
+MD Dai
+0
+4
+A Vala
+0
+8
+MD Dai
+2
+SR Thompson
+MC Sorensen
+4
+A Vala
+1
+NJ O'Brien
+8
+N Vanua
+1
+GH Dockrell
+6
+A Vala
+0
+7
+N Vanua
+0
+0
+CA Soper
+1
+TJ Murtagh

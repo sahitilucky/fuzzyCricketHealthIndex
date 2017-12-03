@@ -1,0 +1,133 @@
+Cuttack
+2015-10-05
+wickets: 6
+winner: South Africa
+India
+South Africa
+venue: Barabati Stadium
+1st innings
+India
+6
+KJ Abbott
+0
+6
+Imran Tahir
+0
+4
+K Rabada
+0
+12
+CH Morris
+1
+S Dhawan
+4
+K Rabada
+1
+V Kohli
+3
+CH Morris
+0
+6
+K Rabada
+0
+3
+JA Morkel
+1
+RG Sharma
+4
+K Rabada
+1
+AT Rayudu
+10
+KJ Abbott
+0
+7
+Imran Tahir
+0
+3
+JA Morkel
+1
+MS Dhoni
+5
+Imran Tahir
+2
+SK Raina
+Harbhajan Singh
+2
+JA Morkel
+0
+6
+Imran Tahir
+0
+4
+JA Morkel
+2
+AR Patel
+B Kumar
+6
+KJ Abbott
+0
+1
+CH Morris
+1
+R Ashwin
+2nd innings
+South Africa
+9
+B Kumar
+0
+4
+R Ashwin
+1
+HM Amla
+4
+Harbhajan Singh
+0
+1
+R Ashwin
+0
+7
+Harbhajan Singh
+0
+13
+R Ashwin
+1
+F du Plessis
+5
+Harbhajan Singh
+0
+6
+R Ashwin
+1
+AB de Villiers
+4
+Harbhajan Singh
+0
+4
+B Kumar
+0
+7
+MM Sharma
+0
+2
+SK Raina
+0
+4
+AR Patel
+0
+4
+SK Raina
+0
+5
+AR Patel
+1
+F Behardien
+4
+SK Raina
+0
+9
+AR Patel
+0
+4
+SK Raina
+0

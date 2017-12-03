@@ -1,0 +1,125 @@
+Dublin
+2015-07-25
+wickets: 5
+winner: Scotland
+Hong Kong
+Scotland
+venue: 'The Village, Malahide'
+1st innings
+Hong Kong
+6
+AC Evans
+1
+JJ Atkinson
+15
+JH Davey
+0
+0
+AC Evans
+1
+Nizakat Khan
+7
+SM Sharif
+1
+Irfan Ahmed
+8
+AC Evans
+0
+6
+JH Davey
+0
+3
+RML Taylor
+0
+6
+SM Sharif
+1
+MS Chapman
+2
+CD de Lange
+0
+3
+RD Berrington
+0
+2
+CD de Lange
+0
+3
+SM Sharif
+0
+1
+RML Taylor
+2
+Babar Hayat
+Anshuman Rath
+5
+CD de Lange
+0
+5
+RML Taylor
+0
+13
+JH Davey
+0
+3
+AC Evans
+1
+Tanwir Afzal
+13
+SM Sharif
+1
+Aizaz Khan
+8
+RML Taylor
+1
+Haseeb Amjad
+7
+JH Davey
+1
+Nadeem Ahmed
+2nd innings
+Scotland
+16
+Tanwir Afzal
+0
+0
+Haseeb Amjad
+1
+CS MacLeod
+6
+Nadeem Ahmed
+0
+13
+Haseeb Amjad
+0
+15
+Nadeem Ahmed
+0
+18
+Tanwir Afzal
+1
+MH Cross
+4
+Irfan Ahmed
+1
+KJ Coetzer
+7
+Aizaz Khan
+0
+4
+Irfan Ahmed
+1
+RD Berrington
+4
+Aizaz Khan
+0
+19
+Irfan Ahmed
+0
+9
+Aizaz Khan
+1
+PL Mommsen
+2
+Haseeb Amjad
+0

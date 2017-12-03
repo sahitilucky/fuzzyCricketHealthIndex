@@ -1,0 +1,147 @@
+Hamilton
+2008-12-28
+runs: 36
+winner: New Zealand
+New Zealand
+West Indies
+venue: Seddon Park
+1st innings
+New Zealand
+9
+LS Baker
+0
+7
+JE Taylor
+0
+5
+LS Baker
+0
+15
+JE Taylor
+0
+13
+SJ Benn
+0
+7
+FH Edwards
+0
+2
+SJ Benn
+0
+24
+FH Edwards
+0
+14
+SJ Benn
+0
+10
+CH Gayle
+0
+16
+KA Pollard
+0
+9
+CH Gayle
+1
+BB McCullum
+11
+KA Pollard
+1
+LRPL Taylor
+4
+CH Gayle
+1
+JD Ryder
+6
+KA Pollard
+1
+DR Flynn
+8
+CH Gayle
+0
+4
+KA Pollard
+1
+JDP Oram
+3
+JE Taylor
+1
+DL Vettori
+18
+SJ Benn
+1
+JEC Franklin
+6
+JE Taylor
+2
+KD Mills
+TG Southee
+2nd innings
+West Indies
+5
+KD Mills
+0
+0
+EP Thompson
+1
+CH Gayle
+9
+KD Mills
+0
+9
+EP Thompson
+0
+15
+KD Mills
+0
+11
+EP Thompson
+0
+11
+TG Southee
+1
+XM Marshall
+6
+DL Vettori
+1
+S Chanderpaul
+6
+TG Southee
+0
+9
+DL Vettori
+0
+5
+JDP Oram
+0
+1
+DL Vettori
+1
+SE Findlay
+8
+JDP Oram
+1
+RR Sarwan
+3
+DL Vettori
+0
+11
+JDP Oram
+0
+12
+JS Patel
+0
+20
+TG Southee
+0
+6
+KD Mills
+0
+8
+TG Southee
+0
+0
+JS Patel
+2
+D Ramdin
+KA Pollard

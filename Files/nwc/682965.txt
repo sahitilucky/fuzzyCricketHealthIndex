@@ -1,0 +1,133 @@
+Mirpur
+2014-04-06
+wickets: 6
+winner: Sri Lanka
+India
+Sri Lanka
+venue: Shere Bangla National Stadium
+1st innings
+India
+4
+KMDN Kulasekara
+0
+1
+AD Mathews
+1
+AM Rahane
+6
+KMDN Kulasekara
+0
+4
+AD Mathews
+0
+8
+SMSM Senanayake
+0
+8
+SL Malinga
+0
+10
+HMRKB Herath
+0
+6
+AD Mathews
+0
+3
+HMRKB Herath
+0
+14
+AD Mathews
+0
+1
+HMRKB Herath
+1
+RG Sharma
+8
+SMSM Senanayake
+0
+10
+HMRKB Herath
+0
+10
+SL Malinga
+0
+2
+SMSM Senanayake
+0
+16
+KMDN Kulasekara
+0
+4
+SMSM Senanayake
+0
+4
+SL Malinga
+0
+4
+KMDN Kulasekara
+1
+Yuvraj Singh
+7
+SL Malinga
+1
+V Kohli
+2nd innings
+Sri Lanka
+5
+B Kumar
+0
+3
+MM Sharma
+1
+MDKJ Perera
+4
+B Kumar
+0
+15
+MM Sharma
+0
+10
+B Kumar
+0
+4
+R Ashwin
+1
+TM Dilshan
+1
+A Mishra
+0
+5
+SK Raina
+0
+11
+RA Jadeja
+0
+11
+SK Raina
+1
+DPMD Jayawardene
+4
+R Ashwin
+0
+2
+SK Raina
+0
+3
+A Mishra
+1
+HDRL Thirimanne
+6
+SK Raina
+0
+14
+A Mishra
+0
+6
+R Ashwin
+0
+15
+A Mishra
+0
+15
+R Ashwin
+0

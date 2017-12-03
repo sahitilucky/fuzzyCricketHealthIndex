@@ -1,0 +1,146 @@
+Mirpur
+2011-10-11
+wickets: 3
+winner: Bangladesh
+Bangladesh
+West Indies
+venue: Shere Bangla National Stadium
+1st innings
+West Indies
+2
+Abdur Razzak
+0
+9
+Shafiul Islam
+0
+10
+Abdur Razzak
+0
+4
+Rubel Hossain
+0
+5
+Shakib Al Hasan
+1
+AB Barath
+17
+Rubel Hossain
+0
+3
+Shakib Al Hasan
+0
+4
+Shafiul Islam
+0
+7
+Abdur Razzak
+1
+LMP Simmons
+4
+Naeem Islam
+0
+5
+Rubel Hossain
+0
+7
+Naeem Islam
+0
+6
+Shafiul Islam
+0
+6
+Shakib Al Hasan
+1
+AD Russell
+8
+Naeem Islam
+0
+8
+Abdur Razzak
+1
+DM Bravo
+6
+Rubel Hossain
+1
+DP Hyatt
+4
+Naeem Islam
+1
+DJG Sammy
+13
+Shakib Al Hasan
+0
+4
+Shafiul Islam
+2
+MN Samuels
+CR Brathwaite
+2nd innings
+Bangladesh
+6
+R Rampaul
+0
+8
+DJG Sammy
+0
+9
+AD Russell
+0
+5
+R Rampaul
+1
+Tamim Iqbal
+9
+DJG Sammy
+0
+6
+A Martin
+0
+3
+MN Samuels
+0
+3
+A Martin
+1
+Imrul Kayes
+1
+MN Samuels
+1
+Shakib Al Hasan
+3
+CR Brathwaite
+1
+Alok Kapali
+7
+MN Samuels
+0
+8
+CR Brathwaite
+0
+3
+MN Samuels
+1
+Mohammad Ashraful
+8
+AD Russell
+0
+11
+A Martin
+0
+7
+DJG Sammy
+1
+Naeem Islam
+9
+R Rampaul
+0
+7
+DJG Sammy
+0
+14
+CR Brathwaite
+0
+8
+R Rampaul
+1
+Nasir Hossain

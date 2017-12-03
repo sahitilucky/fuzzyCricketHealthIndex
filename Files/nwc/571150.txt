@@ -1,0 +1,148 @@
+none
+2012-09-10
+runs: 94
+winner: Australia
+Australia
+Pakistan
+venue: Dubai International Cricket Stadium
+1st innings
+Australia
+6
+Abdul Razzaq
+0
+4
+Umar Gul
+0
+6
+Abdul Razzaq
+0
+11
+Umar Gul
+0
+14
+Yasir Arafat
+0
+1
+Saeed Ajmal
+0
+8
+Raza Hasan
+0
+20
+Shoaib Malik
+0
+19
+Raza Hasan
+0
+15
+Saeed Ajmal
+0
+8
+Yasir Arafat
+1
+SR Watson
+2
+Mohammad Hafeez
+0
+9
+Yasir Arafat
+1
+DA Warner
+11
+Mohammad Hafeez
+0
+7
+Raza Hasan
+1
+GJ Maxwell
+4
+Mohammad Hafeez
+0
+6
+Saeed Ajmal
+1
+GJ Bailey
+7
+Umar Gul
+1
+CL White
+2
+Saeed Ajmal
+1
+MEK Hussey
+8
+Umar Gul
+1
+DT Christian
+2nd innings
+Pakistan
+6
+SR Watson
+0
+5
+MA Starc
+1
+Imran Nazir
+4
+PJ Cummins
+2
+Mohammad Hafeez
+Shoaib Malik
+1
+MA Starc
+1
+Kamran Akmal
+3
+PJ Cummins
+0
+2
+SR Watson
+1
+Umar Akmal
+5
+GB Hogg
+0
+3
+GJ Maxwell
+0
+5
+GB Hogg
+0
+4
+GJ Maxwell
+1
+Nasir Jamshed
+0
+GB Hogg
+0
+8
+DT Christian
+0
+5
+MA Starc
+0
+5
+SR Watson
+0
+1
+GB Hogg
+1
+Yasir Arafat
+3
+GJ Maxwell
+1
+Umar Gul
+4
+PJ Cummins
+1
+Abdul Razzaq
+6
+GJ Maxwell
+0
+4
+PJ Cummins
+0
+0
+MA Starc
+1
+Saeed Ajmal

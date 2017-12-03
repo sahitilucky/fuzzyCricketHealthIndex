@@ -1,0 +1,148 @@
+Mirpur
+2016-02-25
+runs: 14
+winner: Sri Lanka
+Sri Lanka
+United Arab Emirates
+venue: Shere Bangla National Stadium
+1st innings
+Sri Lanka
+1
+Mohammad Naveed
+0
+6
+Qadeer Ahmed
+0
+12
+Mohammad Naveed
+0
+12
+Qadeer Ahmed
+0
+11
+Amjad Javed
+0
+7
+Mohammad Shahzad (2)
+0
+2
+Ahmed Raza
+0
+14
+Mohammad Shahzad (2)
+0
+3
+Ahmed Raza
+0
+4
+Amjad Javed
+1
+TM Dilshan
+7
+Rohan Mustafa
+0
+5
+Amjad Javed
+1
+TAM Siriwardana
+3
+Ahmed Raza
+0
+5
+Amjad Javed
+1
+LD Chandimal
+6
+Ahmed Raza
+0
+7
+Mohammad Naveed
+1
+MD Shanaka
+3
+Rohan Mustafa
+1
+AD Mathews
+7
+Mohammad Naveed
+1
+DSNFG Jayasuriya
+8
+Rohan Mustafa
+0
+6
+Mohammad Shahzad (2)
+2
+CK Kapugedera
+KMDN Kulasekara
+2nd innings
+United Arab Emirates
+7
+SL Malinga
+2
+Rohan Mustafa
+Mohammad Shahzad (2)
+0
+KMDN Kulasekara
+0
+5
+SL Malinga
+0
+4
+KMDN Kulasekara
+2
+Muhammad Kaleem
+Muhammad Usman
+8
+AD Mathews
+0
+3
+KMDN Kulasekara
+0
+9
+AD Mathews
+0
+3
+HMRKB Herath
+1
+Shaiman Anwar
+1
+PVD Chameera
+0
+7
+HMRKB Herath
+1
+Saqlain Haider
+2
+PVD Chameera
+0
+6
+HMRKB Herath
+0
+8
+TAM Siriwardana
+0
+3
+AD Mathews
+0
+11
+PVD Chameera
+0
+6
+HMRKB Herath
+0
+8
+SL Malinga
+1
+SP Patil
+4
+KMDN Kulasekara
+1
+Amjad Javed
+6
+SL Malinga
+1
+Mohammad Naveed
+14
+PVD Chameera
+0

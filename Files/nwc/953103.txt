@@ -1,0 +1,70 @@
+Hong Kong
+2016-01-30
+wickets: 9
+winner: Hong Kong
+Hong Kong
+Scotland
+venue: 'Mission Road Ground, Mong Kok'
+1st innings
+Scotland
+2
+Haseeb Amjad
+1
+KJ Coetzer
+17
+Tanwir Afzal
+0
+9
+Aizaz Khan
+1
+MH Cross
+7
+Tanwir Afzal
+1
+HG Munsey
+4
+Nadeem Ahmed
+1
+MW Machan
+3
+Anshuman Rath
+0
+5
+Nadeem Ahmed
+1
+RD Berrington
+9
+Anshuman Rath
+1
+PL Mommsen
+6
+Haseeb Amjad
+0
+4
+Aizaz Khan
+1
+CS MacLeod
+2nd innings
+Hong Kong
+13
+RML Taylor
+0
+10
+B Wheal
+0
+15
+SM Sharif
+1
+JJ Atkinson
+5
+MRJ Watt
+0
+15
+CS MacLeod
+0
+7
+MRJ Watt
+0
+7
+B Wheal
+0

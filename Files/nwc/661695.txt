@@ -1,0 +1,144 @@
+Auckland
+2014-01-11
+runs: 81
+winner: New Zealand
+New Zealand
+West Indies
+venue: Eden Park
+1st innings
+New Zealand
+5
+S Badree
+0
+16
+TL Best
+0
+11
+S Badree
+0
+7
+TL Best
+1
+MJ Guptill
+6
+S Badree
+0
+10
+SP Narine
+0
+3
+NO Miller
+1
+JD Ryder
+3
+S Badree
+0
+5
+NO Miller
+1
+LRPL Taylor
+4
+DJ Bravo
+0
+18
+NO Miller
+0
+13
+SP Narine
+0
+4
+TL Best
+2
+C Munro
+CJ Anderson
+6
+DJ Bravo
+0
+23
+AD Russell
+0
+5
+SP Narine
+0
+4
+DJ Bravo
+0
+22
+SP Narine
+0
+10
+DJ Bravo
+0
+14
+TL Best
+0
+2nd innings
+West Indies
+11
+TG Southee
+0
+1
+AF Milne
+1
+LMP Simmons
+10
+TG Southee
+0
+7
+AF Milne
+0
+6
+JDS Neesham
+1
+J Charles
+4
+AF Milne
+0
+8
+NL McCullum
+0
+4
+CJ Anderson
+0
+4
+NL McCullum
+1
+KOA Powell
+4
+CJ Anderson
+0
+5
+NL McCullum
+2
+ADS Fletcher
+AD Russell
+4
+CJ Anderson
+0
+8
+NL McCullum
+1
+DJ Bravo
+2
+JDS Neesham
+2
+CAK Walton
+SP Narine
+7
+TG Southee
+0
+5
+JDS Neesham
+0
+4
+AF Milne
+0
+3
+CJ Anderson
+0
+8
+TG Southee
+0
+3
+JDS Neesham
+0

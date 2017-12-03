@@ -1,0 +1,145 @@
+Barbados
+2010-05-08
+runs: 1
+winner: New Zealand
+New Zealand
+Pakistan
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+New Zealand
+7
+Mohammad Amir
+0
+13
+Mohammad Sami
+0
+5
+Mohammad Amir
+0
+9
+Mohammad Sami
+1
+JD Ryder
+6
+Abdur Rehman
+0
+1
+Mohammad Hafeez
+0
+5
+Abdur Rehman
+1
+MJ Guptill
+3
+Mohammad Hafeez
+0
+8
+Abdur Rehman
+1
+BB McCullum
+4
+Mohammad Sami
+1
+LRPL Taylor
+6
+Shahid Afridi
+0
+7
+Mohammad Hafeez
+0
+11
+Shahid Afridi
+0
+3
+Saeed Ajmal
+0
+11
+Shahid Afridi
+1
+SB Styris
+4
+Saeed Ajmal
+0
+2
+Shahid Afridi
+1
+GJ Hopkins
+9
+Saeed Ajmal
+0
+8
+Mohammad Amir
+0
+11
+Saeed Ajmal
+1
+DL Vettori
+2nd innings
+Pakistan
+4
+SE Bond
+0
+11
+KD Mills
+1
+Kamran Akmal
+9
+SE Bond
+1
+Mohammad Hafeez
+3
+KD Mills
+1
+Umar Akmal
+0
+IG Butler
+0
+8
+KD Mills
+0
+7
+DL Vettori
+0
+7
+IG Butler
+1
+Misbah-ul-Haq
+6
+DL Vettori
+0
+4
+IG Butler
+1
+Shahid Afridi
+3
+DL Vettori
+0
+4
+NL McCullum
+0
+8
+SE Bond
+0
+4
+NL McCullum
+0
+16
+DL Vettori
+0
+7
+NL McCullum
+0
+7
+SE Bond
+0
+4
+NL McCullum
+1
+Abdul Razzaq
+11
+KD Mills
+0
+9
+IG Butler
+1
+Abdur Rehman

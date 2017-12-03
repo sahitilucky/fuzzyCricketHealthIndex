@@ -1,0 +1,147 @@
+Bulawayo
+2013-05-12
+runs: 34
+winner: Bangladesh
+Zimbabwe
+Bangladesh
+venue: Queens Sports Club
+1st innings
+Bangladesh
+4
+P Utseya
+1
+Shamsur Rahman
+6
+BV Vitori
+0
+18
+SW Masakadza
+0
+9
+BV Vitori
+0
+14
+T Panyangara
+0
+6
+P Utseya
+0
+2
+N Mushangwe
+0
+14
+SW Masakadza
+0
+17
+N Mushangwe
+1
+Shakib Al Hasan
+9
+SC Williams
+0
+3
+P Utseya
+1
+Tamim Iqbal
+7
+SC Williams
+0
+5
+H Masakadza
+1
+Mushfiqur Rahim
+2
+P Utseya
+0
+10
+T Panyangara
+1
+Mahmudullah
+10
+N Mushangwe
+0
+10
+T Panyangara
+0
+6
+BV Vitori
+2
+Mominul Haque
+Nasir Hossain
+8
+T Panyangara
+0
+8
+BV Vitori
+0
+2nd innings
+Zimbabwe
+5
+Sohag Gazi
+0
+6
+Abdur Razzak
+1
+H Masakadza
+16
+Sohag Gazi
+0
+8
+Abdur Razzak
+0
+10
+Shakib Al Hasan
+1
+BRM Taylor
+0
+Sohag Gazi
+0
+8
+Shafiul Islam
+1
+V Sibanda
+8
+Sohag Gazi
+0
+9
+Mahmudullah
+0
+4
+Shakib Al Hasan
+0
+5
+Shafiul Islam
+1
+SC Williams
+13
+Robiul Islam
+0
+7
+Mominul Haque
+0
+0
+Abdur Razzak
+1
+MN Waller
+11
+Mominul Haque
+0
+6
+Abdur Razzak
+0
+5
+Shakib Al Hasan
+1
+Sikandar Raza
+7
+Shafiul Islam
+0
+4
+Shakib Al Hasan
+2
+SW Masakadza
+N Mushangwe
+2
+Shafiul Islam
+1
+P Utseya

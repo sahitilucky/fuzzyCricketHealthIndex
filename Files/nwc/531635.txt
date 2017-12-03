@@ -1,0 +1,143 @@
+none
+2012-02-23
+runs: 8
+winner: Pakistan
+England
+Pakistan
+venue: Dubai International Cricket Stadium
+1st innings
+Pakistan
+8
+ST Finn
+0
+9
+JW Dernbach
+0
+19
+ST Finn
+1
+Awais Zia
+2
+SCJ Broad
+0
+8
+JW Dernbach
+0
+3
+SCJ Broad
+0
+8
+GP Swann
+0
+8
+RS Bopara
+0
+1
+GP Swann
+2
+Asad Shafiq
+Mohammad Hafeez
+7
+SCJ Broad
+0
+0
+GP Swann
+2
+Shahid Afridi
+Umar Akmal
+3
+SR Patel
+0
+4
+GP Swann
+0
+10
+SR Patel
+0
+9
+ST Finn
+0
+10
+SR Patel
+0
+9
+SCJ Broad
+0
+5
+JW Dernbach
+0
+12
+ST Finn
+0
+9
+JW Dernbach
+1
+Shoaib Malik
+2nd innings
+England
+13
+Junaid Khan
+0
+1
+Umar Gul
+0
+7
+Junaid Khan
+0
+11
+Umar Gul
+0
+8
+Saeed Ajmal
+0
+9
+Shahid Afridi
+1
+KP Pietersen
+2
+Mohammad Hafeez
+1
+C Kieswetter
+2
+Shahid Afridi
+0
+6
+Mohammad Hafeez
+0
+6
+Shahid Afridi
+0
+4
+Mohammad Hafeez
+0
+11
+Shahid Afridi
+0
+6
+Mohammad Hafeez
+1
+EJG Morgan
+14
+Junaid Khan
+0
+10
+Saeed Ajmal
+0
+4
+Umar Gul
+1
+RS Bopara
+6
+Saeed Ajmal
+0
+3
+Umar Gul
+2
+JC Buttler
+SR Patel
+4
+Saeed Ajmal
+0
+9
+Junaid Khan
+0

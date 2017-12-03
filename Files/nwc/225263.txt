@@ -1,0 +1,137 @@
+Bristol
+2006-08-28
+wickets: 5
+winner: Pakistan
+England
+Pakistan
+venue: County Ground
+1st innings
+England
+3
+Shoaib Akhtar
+0
+6
+Mohammad Asif
+0
+13
+Shoaib Akhtar
+0
+11
+Mohammad Asif
+0
+6
+Shoaib Akhtar
+1
+IR Bell
+1
+Mohammad Asif
+2
+KP Pietersen
+AJ Strauss
+4
+Naved-ul-Hasan
+0
+6
+Mohammad Asif
+0
+7
+Naved-ul-Hasan
+1
+PD Collingwood
+3
+Shahid Afridi
+0
+10
+Naved-ul-Hasan
+0
+12
+Shahid Afridi
+0
+5
+Abdul Razzaq
+0
+9
+Shahid Afridi
+0
+5
+Abdul Razzaq
+1
+ME Trescothick
+5
+Shahid Afridi
+0
+8
+Abdul Razzaq
+1
+JWM Dalrymple
+5
+Naved-ul-Hasan
+0
+11
+Shoaib Akhtar
+0
+14
+Abdul Razzaq
+1
+CMW Read
+2nd innings
+Pakistan
+9
+D Gough
+0
+2
+SCJ Broad
+0
+8
+D Gough
+0
+6
+SCJ Broad
+2
+Shoaib Malik
+Younis Khan
+22
+SI Mahmood
+0
+19
+SCJ Broad
+0
+3
+JWM Dalrymple
+1
+Shahid Afridi
+8
+SCJ Broad
+0
+7
+JWM Dalrymple
+0
+10
+MH Yardy
+0
+5
+SI Mahmood
+0
+3
+MH Yardy
+1
+Mohammad Yousuf
+2
+SI Mahmood
+0
+8
+MH Yardy
+0
+8
+PD Collingwood
+0
+7
+D Gough
+1
+Mohammad Hafeez
+11
+PD Collingwood
+0
+10
+D Gough
+0

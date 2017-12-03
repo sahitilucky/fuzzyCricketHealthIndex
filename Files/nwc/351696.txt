@@ -1,0 +1,143 @@
+none
+2009-02-15
+runs: 1
+winner: Australia
+Australia
+New Zealand
+venue: Sydney Cricket Ground
+1st innings
+Australia
+6
+JEC Franklin
+0
+8
+TG Southee
+0
+15
+IE O'Brien
+0
+5
+TG Southee
+1
+BJ Haddin
+7
+IE O'Brien
+1
+DA Warner
+6
+TG Southee
+0
+5
+IG Butler
+1
+CJ Ferguson
+6
+DL Vettori
+0
+4
+IG Butler
+0
+5
+DL Vettori
+0
+9
+IG Butler
+0
+6
+DL Vettori
+0
+7
+IE O'Brien
+0
+5
+NL McCullum
+0
+11
+GD Elliott
+1
+AC Voges
+9
+NL McCullum
+0
+12
+IG Butler
+0
+6
+DL Vettori
+1
+DJ Hussey
+5
+IE O'Brien
+1
+CL White
+13
+TG Southee
+1
+MC Henriques
+2nd innings
+New Zealand
+11
+PM Siddle
+1
+MJ Guptill
+0
+NW Bracken
+0
+4
+PM Siddle
+1
+PG Fulton
+1
+NW Bracken
+0
+11
+PM Siddle
+0
+16
+BW Hilfenhaus
+0
+3
+PM Siddle
+0
+9
+BW Hilfenhaus
+0
+6
+JR Hopes
+0
+5
+DJ Hussey
+0
+8
+JR Hopes
+1
+NT Broom
+6
+DJ Hussey
+0
+7
+JR Hopes
+0
+7
+DJ Hussey
+0
+2
+BW Hilfenhaus
+0
+10
+DJ Hussey
+0
+20
+JR Hopes
+0
+5
+NW Bracken
+0
+6
+BW Hilfenhaus
+1
+BB McCullum
+12
+NW Bracken
+1
+JEC Franklin

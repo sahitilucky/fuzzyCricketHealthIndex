@@ -1,0 +1,112 @@
+none
+2008-02-01
+wickets: 9
+winner: Australia
+Australia
+India
+venue: Melbourne Cricket Ground
+1st innings
+India
+5
+B Lee
+1
+V Sehwag
+9
+NW Bracken
+1
+G Gambhir
+6
+B Lee
+1
+KD Karthik
+0
+NW Bracken
+1
+RV Uthappa
+2
+B Lee
+0
+8
+AA Noffke
+0
+4
+JR Hopes
+1
+RG Sharma
+4
+AA Noffke
+0
+1
+JR Hopes
+0
+4
+DJ Hussey
+0
+5
+JR Hopes
+0
+1
+DJ Hussey
+1
+MS Dhoni
+4
+AC Voges
+0
+7
+DJ Hussey
+0
+2
+AA Noffke
+1
+P Kumar
+1
+AC Voges
+2
+Harbhajan Singh
+S Sreesanth
+9
+AA Noffke
+0
+2
+NW Bracken
+1
+IK Pathan
+2nd innings
+Australia
+6
+IK Pathan
+0
+5
+S Sreesanth
+0
+9
+IK Pathan
+0
+7
+S Sreesanth
+0
+3
+P Kumar
+0
+14
+S Sreesanth
+0
+7
+I Sharma
+0
+12
+P Kumar
+1
+AC Gilchrist
+3
+Harbhajan Singh
+0
+4
+IK Pathan
+0
+4
+Harbhajan Singh
+0
+1
+I Sharma
+0

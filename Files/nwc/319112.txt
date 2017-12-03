@@ -1,0 +1,93 @@
+Port Elizabeth
+2007-12-16
+wickets: 5
+winner: West Indies
+South Africa
+West Indies
+venue: St George's Park
+1st innings
+South Africa
+5
+DBL Powell
+0
+0
+JE Taylor
+3
+MN van Wyk
+JP Duminy
+AB de Villiers
+3
+DBL Powell
+1
+HH Gibbs
+2
+JE Taylor
+1
+SM Pollock
+2
+DBL Powell
+0
+4
+JE Taylor
+1
+JA Morkel
+2
+DJ Bravo
+0
+5
+FH Edwards
+1
+VD Philander
+2
+DJG Sammy
+0
+3
+FH Edwards
+0
+9
+DJG Sammy
+1
+GH Bodi
+6
+FH Edwards
+0
+15
+DJ Bravo
+0
+2nd innings
+West Indies
+10
+SM Pollock
+1
+BA Parchment
+9
+M Ntini
+0
+9
+SM Pollock
+0
+4
+DW Steyn
+1
+DS Smith
+7
+M Ntini
+0
+2
+DW Steyn
+3
+RS Morton
+MN Samuels
+DJ Bravo
+1
+M Ntini
+0
+3
+DW Steyn
+0
+5
+JA Morkel
+0
+10
+VD Philander
+0

@@ -1,0 +1,122 @@
+Dominica
+2014-07-05
+runs: 12
+method: D/L
+West Indies
+New Zealand
+venue: 'Windsor Park, Roseau'
+1st innings
+West Indies
+7
+TG Southee
+0
+1
+TA Boult
+1
+LMP Simmons
+2
+TG Southee
+1
+DR Smith
+8
+TA Boult
+0
+4
+JDS Neesham
+0
+10
+TA Boult
+0
+5
+JDS Neesham
+0
+7
+CJ Anderson
+0
+9
+IS Sodhi
+0
+4
+CJ Anderson
+0
+15
+IS Sodhi
+0
+10
+TG Southee
+0
+16
+CJ Anderson
+1
+DM Bravo
+6
+JDS Neesham
+0
+11
+IS Sodhi
+1
+ADS Fletcher
+9
+TA Boult
+1
+DJG Sammy
+5
+CJ Anderson
+1
+AD Russell
+3
+TG Southee
+2
+KA Pollard
+D Ramdin
+2nd innings
+New Zealand
+2
+S Badree
+0
+10
+K Santokie
+1
+JDS Neesham
+6
+S Badree
+0
+4
+SP Narine
+0
+17
+K Santokie
+0
+5
+S Badree
+0
+3
+AD Russell
+0
+10
+SP Narine
+0
+9
+DJG Sammy
+1
+KS Williamson
+4
+KA Pollard
+0
+18
+AD Russell
+0
+5
+SP Narine
+0
+4
+DJG Sammy
+1
+BB McCullum
+11
+KA Pollard
+0
+9
+DJG Sammy
+1
+CJ Anderson

@@ -1,0 +1,144 @@
+Johannesburg
+2008-01-18
+wickets: 4
+winner: South Africa
+South Africa
+West Indies
+venue: New Wanderers Stadium
+1st innings
+West Indies
+3
+SM Pollock
+0
+7
+M Ntini
+0
+10
+SM Pollock
+0
+4
+M Ntini
+1
+DS Smith
+5
+SM Pollock
+0
+2
+M Ntini
+1
+MN Samuels
+2
+JA Morkel
+0
+8
+M Morkel
+1
+D Ramdin
+5
+JA Morkel
+0
+2
+M Morkel
+0
+2
+J Botha
+0
+8
+JL Ontong
+0
+4
+J Botha
+1
+RS Morton
+17
+JL Ontong
+1
+S Chanderpaul
+2
+SM Pollock
+1
+RN Lewis
+10
+J Botha
+0
+6
+M Morkel
+0
+11
+M Ntini
+1
+DJ Bravo
+9
+JA Morkel
+0
+14
+M Morkel
+0
+2nd innings
+South Africa
+10
+JE Taylor
+1
+HH Gibbs
+5
+FH Edwards
+0
+7
+JE Taylor
+1
+GC Smith
+5
+FH Edwards
+0
+2
+JE Taylor
+0
+9
+DJG Sammy
+1
+JP Duminy
+10
+JE Taylor
+0
+6
+DJG Sammy
+1
+AB de Villiers
+2
+R Rampaul
+0
+3
+DJG Sammy
+0
+4
+R Rampaul
+0
+3
+DJG Sammy
+1
+JL Ontong
+9
+RN Lewis
+0
+2
+MN Samuels
+1
+MV Boucher
+8
+R Rampaul
+0
+4
+MN Samuels
+0
+13
+R Rampaul
+0
+10
+FH Edwards
+0
+18
+MN Samuels
+0
+4
+FH Edwards
+0

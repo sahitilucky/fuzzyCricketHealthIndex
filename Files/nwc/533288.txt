@@ -1,0 +1,138 @@
+none
+2012-09-29
+wickets: 6
+winner: England
+England
+New Zealand
+venue: Pallekele International Cricket Stadium
+1st innings
+New Zealand
+6
+DR Briggs
+0
+3
+ST Finn
+1
+MJ Guptill
+10
+DR Briggs
+0
+7
+ST Finn
+1
+BB McCullum
+4
+TT Bresnan
+0
+9
+ST Finn
+0
+3
+GP Swann
+1
+RJ Nicol
+4
+SCJ Broad
+0
+4
+GP Swann
+0
+8
+SCJ Broad
+0
+6
+GP Swann
+0
+4
+DR Briggs
+1
+KS Williamson
+7
+GP Swann
+0
+5
+TT Bresnan
+0
+16
+DR Briggs
+0
+10
+SCJ Broad
+0
+4
+ST Finn
+1
+LRPL Taylor
+14
+TT Bresnan
+0
+17
+SCJ Broad
+0
+7
+TT Bresnan
+1
+JEC Franklin
+2nd innings
+England
+2
+KD Mills
+0
+16
+TG Southee
+0
+1
+KD Mills
+0
+3
+DL Vettori
+1
+C Kieswetter
+8
+KD Mills
+0
+7
+DL Vettori
+0
+5
+NL McCullum
+1
+AD Hales
+4
+RJ Nicol
+0
+4
+NL McCullum
+0
+10
+RJ Nicol
+0
+10
+NL McCullum
+0
+13
+JEC Franklin
+0
+3
+NL McCullum
+0
+9
+DL Vettori
+0
+16
+TG Southee
+0
+15
+RJ Nicol
+0
+12
+KD Mills
+1
+EJG Morgan
+3
+DL Vettori
+0
+8
+DAJ Bracewell
+1
+LJ Wright

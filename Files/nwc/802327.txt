@@ -1,0 +1,149 @@
+Colombo
+2014-11-24
+wickets: 2
+winner: Hong Kong
+Hong Kong
+Nepal
+venue: P Sara Oval
+1st innings
+Nepal
+6
+Tanwir Afzal
+0
+3
+Haseeb Amjad
+1
+SP Khakurel
+3
+Tanwir Afzal
+2
+Sagar Pun
+P Khadka
+0
+Haseeb Amjad
+0
+3
+Tanwir Afzal
+0
+2
+Irfan Ahmed
+1
+NB Budayair
+1
+Tanwir Afzal
+0
+3
+Irfan Ahmed
+0
+1
+Aizaz Khan
+2
+RP Magar
+G Malla
+0
+Nadeem Ahmed
+1
+B Bhandari
+1
+Aizaz Khan
+0
+2
+Nadeem Ahmed
+1
+B Regmi
+0
+Aizaz Khan
+0
+4
+Nadeem Ahmed
+0
+2
+Aizaz Khan
+0
+5
+Nadeem Ahmed
+0
+7
+Irfan Ahmed
+0
+13
+Haseeb Amjad
+0
+12
+Irfan Ahmed
+1
+Sompal Kami
+4
+Haseeb Amjad
+1
+A Bhattarai
+2nd innings
+Hong Kong
+5
+Sompal Kami
+0
+1
+SP Gauchan
+2
+Waqas Barkat
+JJ Atkinson
+1
+Sompal Kami
+1
+Babar Hayat
+1
+SP Gauchan
+0
+3
+Sompal Kami
+0
+1
+SP Gauchan
+0
+3
+A Bhattarai
+1
+KD Shah
+5
+B Regmi
+0
+3
+A Bhattarai
+1
+Irfan Ahmed
+1
+B Regmi
+0
+7
+A Bhattarai
+0
+1
+Sagar Pun
+0
+4
+B Regmi
+0
+2
+Sagar Pun
+0
+7
+SP Gauchan
+0
+5
+Sagar Pun
+2
+Aizaz Khan
+Haseeb Amjad
+6
+B Regmi
+0
+5
+Sagar Pun
+0
+9
+Sompal Kami
+0
+3
+P Khadka
+1
+Tanwir Afzal

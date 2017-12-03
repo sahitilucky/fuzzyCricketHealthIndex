@@ -1,0 +1,146 @@
+London
+2009-06-07
+runs: 130
+winner: South Africa
+Scotland
+South Africa
+venue: Kennington Oval
+1st innings
+South Africa
+4
+CS MacLeod
+0
+3
+GD Drummond
+0
+9
+CS MacLeod
+0
+11
+GD Drummond
+0
+21
+JH Stander
+0
+7
+CS MacLeod
+0
+14
+GA Rogers
+0
+3
+RM Haq
+0
+13
+GA Rogers
+0
+3
+RM Haq
+2
+JH Kallis
+GC Smith
+7
+GA Rogers
+0
+10
+RM Haq
+0
+7
+RR Watson
+0
+9
+RM Haq
+0
+7
+RR Watson
+1
+HH Gibbs
+18
+GA Rogers
+0
+22
+RR Watson
+0
+10
+GD Drummond
+1
+JA Morkel
+17
+CS MacLeod
+0
+16
+GD Drummond
+1
+MV Boucher
+2nd innings
+Scotland
+6
+DW Steyn
+1
+RR Watson
+5
+WD Parnell
+1
+GM Hamilton
+3
+DW Steyn
+2
+NS Poonia
+CJO Smith
+1
+WD Parnell
+0
+12
+DW Steyn
+0
+5
+JH Kallis
+0
+3
+J Botha
+1
+NFI McCallum
+6
+RE van der Merwe
+0
+3
+J Botha
+1
+JH Stander
+6
+RE van der Merwe
+0
+4
+J Botha
+0
+3
+RE van der Merwe
+0
+7
+J Botha
+0
+15
+JA Morkel
+0
+2
+RE van der Merwe
+2
+KJ Coetzer
+RM Haq
+0
+JA Morkel
+2
+GD Drummond
+CS MacLeod
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0
+0
+JA Morkel
+0

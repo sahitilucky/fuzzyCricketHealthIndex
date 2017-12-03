@@ -1,0 +1,142 @@
+Rajkot
+2013-10-10
+wickets: 6
+winner: India
+India
+Australia
+venue: Saurashtra Cricket Association Stadium
+1st innings
+Australia
+9
+B Kumar
+0
+10
+R Vinay Kumar
+0
+17
+R Ashwin
+0
+12
+I Sharma
+0
+12
+B Kumar
+1
+NJ Maddinson
+14
+I Sharma
+0
+8
+RA Jadeja
+0
+4
+R Vinay Kumar
+2
+SR Watson
+GJ Bailey
+4
+RA Jadeja
+0
+24
+R Ashwin
+0
+10
+V Kohli
+0
+5
+RA Jadeja
+1
+GJ Maxwell
+14
+V Kohli
+0
+8
+B Kumar
+1
+BJ Haddin
+6
+RA Jadeja
+0
+15
+I Sharma
+0
+4
+R Vinay Kumar
+1
+AJ Finch
+6
+B Kumar
+1
+MC Henriques
+8
+R Vinay Kumar
+0
+11
+I Sharma
+0
+2nd innings
+India
+2
+SR Watson
+0
+12
+CJ McKay
+1
+RG Sharma
+11
+SR Watson
+0
+14
+CJ McKay
+0
+5
+JP Faulkner
+0
+9
+NM Coulter-Nile
+1
+SK Raina
+6
+JP Faulkner
+0
+15
+MC Henriques
+0
+9
+XJ Doherty
+1
+S Dhawan
+8
+NM Coulter-Nile
+0
+9
+XJ Doherty
+0
+6
+CJ McKay
+1
+V Kohli
+9
+SR Watson
+0
+18
+CJ McKay
+0
+13
+NM Coulter-Nile
+0
+7
+XJ Doherty
+0
+20
+JP Faulkner
+0
+14
+NM Coulter-Nile
+0
+8
+JP Faulkner
+0
+7
+SR Watson
+0

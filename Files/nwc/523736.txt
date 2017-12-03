@@ -1,0 +1,145 @@
+none
+2011-09-18
+runs: 5
+winner: Pakistan
+Zimbabwe
+Pakistan
+venue: Harare Sports Club
+1st innings
+Pakistan
+10
+P Utseya
+0
+3
+KM Jarvis
+0
+7
+CJ Chibhabha
+1
+Asad Shafiq
+2
+KM Jarvis
+1
+Rameez Raja (2)
+9
+RW Price
+0
+3
+E Chigumbura
+1
+Shoaib Malik
+3
+P Utseya
+0
+7
+RW Price
+0
+15
+P Utseya
+0
+8
+RW Price
+0
+6
+CJ Chibhabha
+0
+6
+E Chigumbura
+0
+5
+P Utseya
+0
+8
+E Chigumbura
+0
+3
+RW Price
+1
+Mohammad Hafeez
+11
+E Chigumbura
+0
+10
+CJ Chibhabha
+1
+Umar Akmal
+5
+KM Jarvis
+1
+Sohail Tanvir
+15
+CJ Chibhabha
+0
+5
+KM Jarvis
+1
+Misbah-ul-Haq
+2nd innings
+Zimbabwe
+8
+Sohail Tanvir
+0
+6
+Sohail Khan
+0
+8
+Sohail Tanvir
+0
+6
+Sohail Khan
+0
+0
+Saeed Ajmal
+1
+CJ Chibhabha
+8
+Sohail Khan
+0
+2
+Junaid Khan
+1
+V Sibanda
+5
+Mohammad Hafeez
+1
+C Zhuwao
+6
+Junaid Khan
+0
+3
+Mohammad Hafeez
+1
+H Masakadza
+8
+Yasir Shah
+0
+3
+Mohammad Hafeez
+1
+BRM Taylor
+9
+Junaid Khan
+1
+CK Coventry
+11
+Saeed Ajmal
+0
+6
+Junaid Khan
+0
+9
+Saeed Ajmal
+0
+12
+Sohail Tanvir
+1
+E Chigumbura
+3
+Saeed Ajmal
+0
+9
+Sohail Tanvir
+0
+14
+Sohail Khan
+0

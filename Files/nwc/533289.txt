@@ -1,0 +1,125 @@
+none
+2012-09-29
+wickets: 9
+winner: Sri Lanka
+Sri Lanka
+West Indies
+venue: Pallekele International Cricket Stadium
+1st innings
+West Indies
+3
+AD Mathews
+0
+1
+KMDN Kulasekara
+0
+8
+SL Malinga
+0
+2
+KMDN Kulasekara
+0
+2
+BAW Mendis
+1
+J Charles
+4
+KMDN Kulasekara
+1
+CH Gayle
+13
+AD Mathews
+0
+5
+HMRKB Herath
+0
+4
+BAW Mendis
+0
+11
+HMRKB Herath
+0
+2
+BMAJ Mendis
+0
+8
+BAW Mendis
+0
+8
+SL Malinga
+0
+9
+AD Mathews
+0
+10
+BMAJ Mendis
+1
+DJ Bravo
+1
+BAW Mendis
+1
+KA Pollard
+7
+SL Malinga
+0
+21
+KMDN Kulasekara
+0
+3
+SL Malinga
+0
+7
+AD Mathews
+1
+MN Samuels
+2nd innings
+Sri Lanka
+6
+R Rampaul
+0
+12
+FH Edwards
+0
+6
+R Rampaul
+1
+TM Dilshan
+8
+SP Narine
+0
+11
+R Rampaul
+0
+12
+FH Edwards
+0
+7
+SP Narine
+0
+7
+DJG Sammy
+0
+6
+SP Narine
+0
+6
+DJG Sammy
+0
+2
+SP Narine
+0
+4
+DJG Sammy
+0
+11
+AD Russell
+0
+13
+DJG Sammy
+0
+17
+R Rampaul
+0
+2
+CH Gayle
+0

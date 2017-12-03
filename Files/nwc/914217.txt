@@ -1,0 +1,144 @@
+Mount Maunganui
+2016-01-07
+runs: 3
+winner: New Zealand
+New Zealand
+Sri Lanka
+venue: Bay Oval
+1st innings
+New Zealand
+14
+RAS Lakmal
+0
+13
+NLTC Perera
+0
+13
+KMDN Kulasekara
+0
+9
+DSNFG Jayasuriya
+0
+4
+KMDN Kulasekara
+0
+9
+DSNFG Jayasuriya
+0
+5
+JDF Vandersay
+0
+9
+RAS Lakmal
+0
+9
+JDF Vandersay
+0
+12
+NLTC Perera
+0
+4
+JDF Vandersay
+1
+MJ Guptill
+4
+DSNFG Jayasuriya
+0
+6
+TM Dilshan
+0
+6
+DSNFG Jayasuriya
+0
+14
+TM Dilshan
+0
+4
+KMDN Kulasekara
+1
+KS Williamson
+12
+JDF Vandersay
+1
+CJ Anderson
+16
+RAS Lakmal
+0
+5
+KMDN Kulasekara
+1
+C Munro
+14
+NLTC Perera
+0
+2nd innings
+Sri Lanka
+10
+MJ Henry
+0
+9
+TA Boult
+1
+TM Dilshan
+8
+MJ Henry
+1
+LD Chandimal
+6
+TA Boult
+1
+DSNFG Jayasuriya
+9
+MJ Henry
+1
+AD Mathews
+14
+MJ McClenaghan
+0
+10
+GD Elliott
+0
+7
+IS Sodhi
+0
+8
+MJ McClenaghan
+0
+5
+IS Sodhi
+1
+MD Gunathilaka
+4
+TA Boult
+0
+4
+C Munro
+0
+14
+MJ McClenaghan
+0
+13
+C Munro
+0
+17
+MJ Henry
+1
+NLTC Perera
+10
+IS Sodhi
+0
+5
+TA Boult
+1
+TAM Siriwardana
+11
+IS Sodhi
+0
+6
+MJ McClenaghan
+0
+9
+GD Elliott
+2
+KMDN Kulasekara
+CK Kapugedera

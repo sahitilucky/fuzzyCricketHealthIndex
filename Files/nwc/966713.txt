@@ -1,0 +1,145 @@
+Fatullah
+2016-02-19
+runs: 16
+winner: United Arab Emirates
+Afghanistan
+United Arab Emirates
+venue: Khan Shaheb Osman Ali Stadium
+1st innings
+United Arab Emirates
+3
+Dawlat Zadran
+0
+11
+Shapoor Zadran
+0
+13
+Dawlat Zadran
+0
+7
+Mohammad Nabi
+0
+16
+Amir Hamza
+0
+14
+Mohammad Nabi
+0
+3
+Rashid Khan
+0
+7
+Gulbadin Naib
+0
+10
+Rashid Khan
+1
+Muhammad Kaleem
+15
+Gulbadin Naib
+0
+6
+Mohammad Nabi
+0
+5
+Amir Hamza
+0
+11
+Rashid Khan
+1
+Shaiman Anwar
+3
+Amir Hamza
+1
+Rohan Mustafa
+4
+Rashid Khan
+1
+Amjad Javed
+8
+Amir Hamza
+0
+16
+Shapoor Zadran
+0
+9
+Dawlat Zadran
+0
+11
+Mohammad Nabi
+0
+4
+Dawlat Zadran
+0
+2nd innings
+Afghanistan
+6
+Mohammad Naveed
+0
+3
+Farhan Ahmed
+1
+Mohammad Shahzad
+1
+Mohammad Naveed
+1
+Usman Ghani
+10
+Farhan Ahmed
+0
+12
+Mohammad Naveed
+0
+7
+Amjad Javed
+1
+Asghar Stanikzai
+9
+Ahmed Raza
+0
+7
+Amjad Javed
+0
+11
+Ahmed Raza
+0
+8
+Rohan Mustafa
+0
+8
+Mohammad Shahzad (2)
+0
+4
+Farhan Ahmed
+1
+Mohammad Nabi
+5
+Ahmed Raza
+0
+11
+Farhan Ahmed
+0
+7
+Ahmed Raza
+1
+Gulbadin Naib
+14
+Mohammad Shahzad (2)
+0
+13
+Amjad Javed
+0
+8
+Rohan Mustafa
+1
+Najibullah Zadran
+11
+Mohammad Naveed
+1
+Karim Sadiq
+5
+Rohan Mustafa
+3
+Dawlat Zadran
+Shapoor Zadran
+Amir Hamza

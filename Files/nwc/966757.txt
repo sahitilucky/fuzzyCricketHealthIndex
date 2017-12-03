@@ -1,0 +1,145 @@
+Mirpur
+2016-03-01
+wickets: 5
+winner: India
+India
+Sri Lanka
+venue: Shere Bangla National Stadium
+1st innings
+Sri Lanka
+4
+A Nehra
+0
+1
+JJ Bumrah
+0
+4
+A Nehra
+1
+LD Chandimal
+6
+JJ Bumrah
+1
+DSNFG Jayasuriya
+7
+A Nehra
+0
+9
+JJ Bumrah
+0
+1
+HH Pandya
+1
+TM Dilshan
+3
+Yuvraj Singh
+0
+6
+HH Pandya
+0
+6
+RA Jadeja
+0
+10
+HH Pandya
+1
+AD Mathews
+5
+R Ashwin
+0
+13
+RA Jadeja
+0
+9
+SK Raina
+0
+7
+R Ashwin
+0
+9
+HH Pandya
+0
+4
+R Ashwin
+2
+TAM Siriwardana
+MD Shanaka
+11
+JJ Bumrah
+1
+CK Kapugedera
+12
+R Ashwin
+1
+NLTC Perera
+11
+A Nehra
+1
+KMDN Kulasekara
+2nd innings
+India
+6
+AD Mathews
+0
+5
+KMDN Kulasekara
+1
+S Dhawan
+5
+AD Mathews
+0
+4
+KMDN Kulasekara
+1
+RG Sharma
+5
+AD Mathews
+0
+12
+KMDN Kulasekara
+0
+5
+NLTC Perera
+0
+8
+PVD Chameera
+0
+8
+NLTC Perera
+0
+8
+PVD Chameera
+0
+4
+HMRKB Herath
+0
+7
+MD Shanaka
+1
+SK Raina
+15
+HMRKB Herath
+0
+4
+PVD Chameera
+0
+9
+NLTC Perera
+0
+7
+PVD Chameera
+0
+10
+NLTC Perera
+1
+Yuvraj Singh
+3
+HMRKB Herath
+1
+HH Pandya
+13
+TAM Siriwardana
+0
+4
+HMRKB Herath
+0

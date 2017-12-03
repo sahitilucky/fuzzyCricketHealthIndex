@@ -1,0 +1,144 @@
+none
+2013-03-03
+runs: 27
+winner: Afghanistan
+Afghanistan
+Scotland
+venue: Sharjah Cricket Stadium
+1st innings
+Afghanistan
+1
+I Wardlaw
+1
+Nawroz Mangal
+4
+NM Carter
+1
+Karim Sadiq
+9
+I Wardlaw
+0
+13
+NM Carter
+0
+4
+GD Drummond
+0
+6
+MW Machan
+0
+2
+RM Haq
+0
+4
+MW Machan
+0
+9
+RM Haq
+0
+12
+GD Drummond
+0
+6
+MM Iqbal
+0
+9
+PL Mommsen
+0
+5
+MM Iqbal
+0
+3
+NM Carter
+1
+Asghar Stanikzai
+11
+I Wardlaw
+0
+7
+MW Machan
+1
+Gulbodin Naib
+4
+RM Haq
+0
+6
+MW Machan
+2
+Mohammad Shahzad
+Mohammad Nabi
+10
+I Wardlaw
+1
+Samiullah Shenwari
+7
+NM Carter
+0
+2nd innings
+Scotland
+3
+Hamid Hassan
+1
+CS MacLeod
+9
+Aftab Alam
+0
+1
+Karim Sadiq
+1
+NM Carter
+5
+Hamid Hassan
+0
+5
+Hamza Hotak
+0
+9
+Karim Sadiq
+0
+3
+Hamza Hotak
+0
+3
+Samiullah Shenwari
+1
+RD Berrington
+2
+Mohammad Nabi
+1
+KJ Coetzer
+3
+Samiullah Shenwari
+0
+3
+Mohammad Nabi
+0
+7
+Samiullah Shenwari
+0
+3
+Mohammad Nabi
+0
+7
+Hamza Hotak
+0
+7
+Aftab Alam
+0
+4
+Mohammad Nabi
+1
+PL Mommsen
+7
+Aftab Alam
+0
+16
+Hamid Hassan
+0
+3
+Aftab Alam
+1
+MM Iqbal
+5
+Hamid Hassan
+0

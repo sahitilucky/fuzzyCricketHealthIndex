@@ -1,0 +1,130 @@
+Mirpur
+2015-04-24
+wickets: 7
+winner: Bangladesh
+Bangladesh
+Pakistan
+venue: Shere Bangla National Stadium
+1st innings
+Pakistan
+4
+Mustafizur Rahman
+0
+2
+Shakib Al Hasan
+0
+1
+Mustafizur Rahman
+0
+9
+Mashrafe Mortaza
+0
+13
+Arafat Sunny
+0
+2
+Shakib Al Hasan
+0
+4
+Taskin Ahmed
+0
+8
+Mashrafe Mortaza
+0
+7
+Taskin Ahmed
+1
+Ahmed Shehzad
+3
+Mashrafe Mortaza
+0
+12
+Mustafizur Rahman
+1
+Shahid Afridi
+11
+Nasir Hossain
+0
+10
+Arafat Sunny
+1
+Mukhtar Ahmed
+5
+Nasir Hossain
+0
+10
+Mashrafe Mortaza
+0
+13
+Taskin Ahmed
+0
+9
+Shakib Al Hasan
+0
+4
+Mustafizur Rahman
+1
+Mohammad Hafeez
+7
+Shakib Al Hasan
+0
+7
+Taskin Ahmed
+1
+Sohail Tanvir
+2nd innings
+Bangladesh
+14
+Mohammad Hafeez
+1
+Soumya Sarkar
+2
+Sohail Tanvir
+0
+9
+Umar Gul
+1
+Tamim Iqbal
+6
+Sohail Tanvir
+0
+3
+Saeed Ajmal
+0
+10
+Wahab Riaz
+1
+Mushfiqur Rahim
+6
+Shahid Afridi
+0
+4
+Wahab Riaz
+0
+11
+Shahid Afridi
+0
+10
+Saeed Ajmal
+0
+14
+Umar Gul
+0
+8
+Shahid Afridi
+0
+10
+Wahab Riaz
+0
+9
+Sohail Tanvir
+0
+7
+Saeed Ajmal
+0
+15
+Wahab Riaz
+0
+5
+Saeed Ajmal
+0

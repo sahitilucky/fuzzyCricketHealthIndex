@@ -1,0 +1,144 @@
+none
+2015-11-09
+runs: 30
+winner: Sri Lanka
+Sri Lanka
+West Indies
+venue: Pallekele International Cricket Stadium
+1st innings
+Sri Lanka
+10
+JO Holder
+0
+9
+JE Taylor
+0
+13
+DJG Sammy
+0
+14
+JE Taylor
+0
+2
+SP Narine
+0
+17
+JO Holder
+0
+3
+SP Narine
+0
+11
+D Bishoo
+0
+9
+DJ Bravo
+0
+4
+KA Pollard
+1
+MDKJ Perera
+7
+DJ Bravo
+0
+6
+KA Pollard
+1
+TM Dilshan
+13
+DJG Sammy
+0
+9
+KA Pollard
+0
+4
+SP Narine
+0
+23
+KA Pollard
+0
+12
+SP Narine
+1
+DSNFG Jayasuriya
+22
+DJ Bravo
+0
+11
+JE Taylor
+0
+16
+DJ Bravo
+0
+2nd innings
+West Indies
+9
+SL Malinga
+1
+J Charles
+2
+KMDN Kulasekara
+0
+4
+SL Malinga
+0
+12
+KMDN Kulasekara
+0
+10
+SMSM Senanayake
+1
+MN Samuels
+19
+PVD Chameera
+0
+16
+SMSM Senanayake
+0
+14
+TAM Siriwardana
+1
+AD Russell
+7
+PVD Chameera
+1
+ADS Fletcher
+9
+TAM Siriwardana
+0
+4
+PVD Chameera
+0
+15
+TAM Siriwardana
+0
+18
+SMSM Senanayake
+1
+DJ Bravo
+4
+TAM Siriwardana
+1
+KA Pollard
+2
+SMSM Senanayake
+2
+DJG Sammy
+JO Holder
+3
+SL Malinga
+0
+17
+KMDN Kulasekara
+0
+3
+SL Malinga
+1
+JE Taylor
+6
+KMDN Kulasekara
+0
+11
+DSNFG Jayasuriya
+1
+SP Narine

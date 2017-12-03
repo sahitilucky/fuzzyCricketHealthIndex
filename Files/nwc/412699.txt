@@ -1,0 +1,141 @@
+St Lucia
+2010-05-11
+wickets: 5
+winner: Sri Lanka
+India
+Sri Lanka
+venue: 'Beausejour Stadium, Gros Islet'
+1st innings
+India
+8
+AD Mathews
+0
+3
+NLTC Perera
+0
+8
+AD Mathews
+0
+10
+T Thushara
+0
+6
+SL Malinga
+1
+KD Karthik
+17
+T Thushara
+0
+13
+AD Mathews
+0
+6
+S Randiv
+0
+9
+TM Dilshan
+0
+10
+S Randiv
+0
+6
+TM Dilshan
+0
+2
+SL Malinga
+1
+G Gambhir
+12
+ST Jayasuriya
+0
+9
+S Randiv
+0
+7
+T Thushara
+0
+8
+SL Malinga
+0
+5
+NLTC Perera
+0
+8
+T Thushara
+2
+SK Raina
+Yuvraj Singh
+9
+SL Malinga
+0
+7
+NLTC Perera
+1
+YK Pathan
+2nd innings
+Sri Lanka
+5
+A Nehra
+1
+DPMD Jayawardene
+1
+R Vinay Kumar
+1
+ST Jayasuriya
+13
+A Nehra
+0
+13
+Harbhajan Singh
+0
+5
+R Vinay Kumar
+0
+4
+YK Pathan
+0
+6
+PP Chawla
+0
+3
+YK Pathan
+1
+TM Dilshan
+2
+PP Chawla
+0
+6
+Harbhajan Singh
+0
+9
+PP Chawla
+0
+11
+Harbhajan Singh
+0
+6
+Yuvraj Singh
+0
+16
+YK Pathan
+0
+7
+R Vinay Kumar
+1
+KC Sangakkara
+5
+Harbhajan Singh
+0
+11
+A Nehra
+0
+11
+PP Chawla
+0
+17
+R Vinay Kumar
+0
+16
+A Nehra
+1
+AD Mathews

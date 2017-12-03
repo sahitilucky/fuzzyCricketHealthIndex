@@ -1,0 +1,139 @@
+Auckland
+2010-12-26
+wickets: 5
+winner: New Zealand
+New Zealand
+Pakistan
+venue: Eden Park
+1st innings
+Pakistan
+7
+JEC Franklin
+0
+14
+KD Mills
+0
+11
+AF Milne
+0
+5
+KD Mills
+1
+Shahid Afridi
+14
+AF Milne
+0
+7
+TG Southee
+1
+Ahmed Shehzad
+4
+SB Styris
+0
+0
+TG Southee
+3
+Younis Khan
+Mohammad Hafeez
+Umar Akmal
+6
+SB Styris
+0
+2
+TG Southee
+1
+Abdul Razzaq
+5
+SB Styris
+0
+9
+TG Southee
+0
+3
+SB Styris
+1
+Fawad Alam
+7
+AF Milne
+0
+2
+NL McCullum
+0
+5
+JEC Franklin
+0
+9
+NL McCullum
+0
+2
+KD Mills
+2
+Umar Gul
+Saeed Ajmal
+15
+AF Milne
+0
+16
+KD Mills
+0
+2nd innings
+New Zealand
+15
+Abdul Razzaq
+0
+12
+Shoaib Akhtar
+1
+JD Ryder
+11
+Umar Gul
+0
+13
+Shoaib Akhtar
+1
+DG Brownlie
+4
+Saeed Ajmal
+0
+2
+Shoaib Akhtar
+1
+SB Styris
+10
+Wahab Riaz
+0
+8
+Shahid Afridi
+0
+12
+Mohammad Hafeez
+0
+4
+Shahid Afridi
+1
+MJ Guptill
+6
+Saeed Ajmal
+0
+7
+Shahid Afridi
+0
+1
+Saeed Ajmal
+0
+9
+Umar Gul
+0
+1
+Mohammad Hafeez
+1
+JEC Franklin
+11
+Shoaib Akhtar
+0
+16
+Mohammad Hafeez
+0
+4
+Saeed Ajmal
+0

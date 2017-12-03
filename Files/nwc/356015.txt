@@ -1,0 +1,140 @@
+Nottingham
+2009-06-18
+runs: 7
+winner: Pakistan
+Pakistan
+South Africa
+venue: Trent Bridge
+1st innings
+Pakistan
+8
+DW Steyn
+0
+14
+WD Parnell
+1
+Shahzaib Hasan
+7
+DW Steyn
+1
+Kamran Akmal
+3
+WD Parnell
+0
+11
+JH Kallis
+0
+4
+JA Morkel
+0
+3
+JH Kallis
+0
+6
+RE van der Merwe
+0
+5
+J Botha
+0
+7
+RE van der Merwe
+0
+18
+J Botha
+0
+9
+JA Morkel
+0
+4
+JP Duminy
+1
+Shahid Afridi
+10
+RE van der Merwe
+0
+11
+JP Duminy
+0
+6
+RE van der Merwe
+1
+Shoaib Malik
+6
+DW Steyn
+0
+5
+WD Parnell
+0
+7
+DW Steyn
+0
+5
+WD Parnell
+0
+2nd innings
+South Africa
+5
+Abdul Razzaq
+0
+10
+Mohammad Amir
+0
+11
+Abdul Razzaq
+0
+4
+Mohammad Amir
+0
+9
+Abdul Razzaq
+0
+1
+Mohammad Amir
+1
+GC Smith
+6
+Shahid Afridi
+1
+HH Gibbs
+3
+Saeed Ajmal
+0
+3
+Shahid Afridi
+1
+AB de Villiers
+9
+Saeed Ajmal
+0
+3
+Shahid Afridi
+0
+5
+Shoaib Malik
+0
+4
+Shahid Afridi
+0
+10
+Umar Gul
+0
+15
+Fawad Alam
+0
+7
+Saeed Ajmal
+0
+6
+Umar Gul
+0
+10
+Saeed Ajmal
+1
+JH Kallis
+6
+Umar Gul
+0
+15
+Mohammad Amir
+1
+JA Morkel

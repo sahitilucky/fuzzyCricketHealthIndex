@@ -1,0 +1,147 @@
+Durban
+2007-09-14
+    bowl_out: India
+tie
+India
+Pakistan
+venue: Kingsmead
+1st innings
+India
+1
+Mohammad Asif
+1
+G Gambhir
+8
+Umar Gul
+0
+5
+Mohammad Asif
+1
+V Sehwag
+5
+Umar Gul
+0
+9
+Mohammad Asif
+1
+Yuvraj Singh
+5
+Umar Gul
+0
+3
+Mohammad Asif
+1
+KD Karthik
+8
+Yasir Arafat
+0
+3
+Sohail Tanvir
+0
+17
+Yasir Arafat
+0
+6
+Sohail Tanvir
+0
+12
+Shahid Afridi
+0
+2
+Sohail Tanvir
+1
+RV Uthappa
+6
+Shahid Afridi
+0
+7
+Sohail Tanvir
+0
+14
+Shahid Afridi
+1
+IK Pathan
+12
+Yasir Arafat
+0
+5
+Shahid Afridi
+1
+Harbhajan Singh
+10
+Umar Gul
+0
+3
+Yasir Arafat
+2
+MS Dhoni
+AB Agarkar
+2nd innings
+Pakistan
+7
+RP Singh
+0
+5
+S Sreesanth
+0
+10
+RP Singh
+1
+Imran Nazir
+7
+S Sreesanth
+0
+4
+RP Singh
+0
+6
+S Sreesanth
+0
+3
+RP Singh
+0
+5
+AB Agarkar
+1
+Salman Butt
+0
+IK Pathan
+2
+Kamran Akmal
+Younis Khan
+6
+AB Agarkar
+0
+7
+IK Pathan
+0
+9
+Harbhajan Singh
+0
+6
+IK Pathan
+0
+5
+Harbhajan Singh
+0
+7
+IK Pathan
+1
+Shoaib Malik
+6
+Harbhajan Singh
+0
+7
+AB Agarkar
+0
+13
+Harbhajan Singh
+1
+Shahid Afridi
+17
+AB Agarkar
+0
+11
+S Sreesanth
+1
+Misbah-ul-Haq

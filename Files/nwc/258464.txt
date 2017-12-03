@@ -1,0 +1,143 @@
+London
+2007-06-29
+wickets: 5
+winner: England
+England
+West Indies
+venue: Kennington Oval
+1st innings
+West Indies
+7
+RJ Sidebottom
+0
+1
+JM Anderson
+0
+11
+RJ Sidebottom
+0
+14
+JM Anderson
+0
+11
+SCJ Broad
+0
+6
+JM Anderson
+1
+LMP Simmons
+2
+SCJ Broad
+0
+6
+AD Mascarenhas
+0
+6
+SCJ Broad
+1
+ACL Richards
+14
+AD Mascarenhas
+0
+12
+SCJ Broad
+0
+14
+MH Yardy
+0
+9
+PD Collingwood
+1
+CH Gayle
+13
+AD Mascarenhas
+0
+12
+PD Collingwood
+1
+MN Samuels
+6
+MH Yardy
+0
+3
+RJ Sidebottom
+1
+D Ramdin
+10
+MH Yardy
+0
+5
+RJ Sidebottom
+2
+RS Morton
+DR Smith
+7
+JM Anderson
+0
+2nd innings
+England
+10
+DR Smith
+0
+10
+R Rampaul
+0
+5
+DBL Powell
+1
+AN Cook
+13
+R Rampaul
+1
+MJ Prior
+5
+DBL Powell
+0
+7
+R Rampaul
+1
+IJL Trott
+11
+DBL Powell
+0
+5
+DR Smith
+0
+6
+DJG Sammy
+1
+KP Pietersen
+8
+DR Smith
+0
+5
+DJG Sammy
+0
+6
+MN Samuels
+0
+7
+DJG Sammy
+0
+9
+MN Samuels
+1
+PD Collingwood
+7
+DBL Powell
+0
+16
+MN Samuels
+0
+16
+DR Smith
+0
+9
+DJG Sammy
+0
+9
+R Rampaul
+0
+9
+CH Gayle
+0

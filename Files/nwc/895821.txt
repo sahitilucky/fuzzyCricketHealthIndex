@@ -1,0 +1,139 @@
+none
+2016-01-31
+wickets: 7
+winner: India
+Australia
+India
+venue: Sydney Cricket Ground
+1st innings
+Australia
+1
+A Nehra
+0
+14
+JJ Bumrah
+0
+9
+A Nehra
+1
+UT Khawaja
+13
+JJ Bumrah
+0
+11
+A Nehra
+0
+9
+R Ashwin
+0
+6
+RA Jadeja
+0
+9
+R Ashwin
+1
+SE Marsh
+3
+RA Jadeja
+0
+5
+Yuvraj Singh
+1
+GJ Maxwell
+9
+HH Pandya
+0
+14
+Yuvraj Singh
+0
+15
+HH Pandya
+0
+9
+R Ashwin
+0
+13
+RA Jadeja
+0
+9
+R Ashwin
+0
+19
+RA Jadeja
+1
+TM Head
+8
+JJ Bumrah
+0
+11
+A Nehra
+0
+10
+JJ Bumrah
+1
+CA Lynn
+2nd innings
+India
+7
+SW Tait
+0
+11
+SM Boland
+0
+24
+SW Tait
+0
+7
+SR Watson
+1
+S Dhawan
+13
+SM Boland
+0
+12
+AJ Tye
+0
+7
+CJ Boyce
+0
+10
+SR Watson
+0
+5
+CJ Boyce
+0
+6
+SW Tait
+0
+10
+GJ Maxwell
+0
+10
+SM Boland
+0
+8
+CJ Boyce
+1
+RG Sharma
+9
+SW Tait
+0
+8
+CJ Boyce
+1
+V Kohli
+9
+AJ Tye
+0
+8
+SR Watson
+0
+12
+AJ Tye
+0
+5
+SR Watson
+0
+19
+AJ Tye
+0

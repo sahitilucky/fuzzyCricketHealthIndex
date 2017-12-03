@@ -1,0 +1,148 @@
+none
+2013-11-26
+runs: 21
+winner: Kenya
+Canada
+Kenya
+venue: Sharjah Cricket Stadium
+1st innings
+Kenya
+6
+JOA Gordon
+0
+7
+Junaid Siddiqui
+0
+21
+JOA Gordon
+0
+14
+Junaid Siddiqui
+0
+6
+HS Baidwan
+0
+5
+Rizwan Cheema
+1
+NN Odhiambo
+2
+Raza-ur-Rehman
+1
+SO Tikolo
+3
+AS Dean
+0
+6
+Raza-ur-Rehman
+0
+11
+AS Dean
+0
+6
+Raza-ur-Rehman
+0
+4
+Junaid Siddiqui
+0
+3
+HS Baidwan
+1
+DI Allan
+5
+Junaid Siddiqui
+0
+13
+Rizwan Cheema
+0
+2
+Raza-ur-Rehman
+1
+RR Patel
+5
+AS Hansra
+1
+RG Aga
+13
+HS Baidwan
+0
+10
+AS Hansra
+0
+4
+JOA Gordon
+2
+CO Obuya
+IA Karim
+2nd innings
+Canada
+9
+NN Odhiambo
+0
+8
+RG Aga
+2
+R Gunasekera
+Rizwan Cheema
+1
+NM Odhiambo
+0
+7
+RG Aga
+0
+11
+NM Odhiambo
+0
+5
+NN Odhiambo
+0
+5
+SO Ngoche
+1
+Usman Limbada
+2
+SO Tikolo
+1
+AS Hansra
+10
+SO Ngoche
+0
+7
+SO Tikolo
+0
+7
+CO Obuya
+1
+Raza-ur-Rehman
+9
+RR Patel
+0
+3
+SO Ngoche
+0
+6
+CO Obuya
+0
+13
+DI Allan
+1
+Hamza Tariq
+4
+SO Tikolo
+0
+9
+SO Ngoche
+0
+4
+SO Tikolo
+2
+Junaid Siddiqui
+HS Baidwan
+3
+CO Obuya
+1
+AS Dean
+2
+DI Allan
+1
+A Bagai

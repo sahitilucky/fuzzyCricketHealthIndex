@@ -1,0 +1,119 @@
+Durban
+2012-12-21
+wickets: 8
+winner: South Africa
+South Africa
+New Zealand
+venue: Kingsmead
+1st innings
+New Zealand
+5
+R McLaren
+0
+4
+DW Steyn
+0
+5
+RK Kleinveldt
+1
+RJ Nicol
+5
+DW Steyn
+1
+PG Fulton
+0
+RK Kleinveldt
+1
+BB McCullum
+8
+CH Morris
+0
+6
+R McLaren
+1
+JEC Franklin
+3
+CH Morris
+1
+CJ Anderson
+1
+RJ Peterson
+1
+NL McCullum
+14
+R McLaren
+0
+3
+RJ Peterson
+1
+JDS Neesham
+6
+CH Morris
+1
+C Munro
+2
+RJ Peterson
+0
+2
+CH Morris
+0
+2
+R McLaren
+0
+13
+RK Kleinveldt
+0
+2
+RJ Peterson
+0
+5
+DW Steyn
+1
+RM Hira
+0
+RK Kleinveldt
+1
+MJ McClenaghan
+2nd innings
+South Africa
+0
+MJ McClenaghan
+1
+RE Levi
+9
+DAJ Bracewell
+0
+4
+MJ McClenaghan
+0
+12
+DAJ Bracewell
+0
+16
+MJ McClenaghan
+0
+5
+RM Hira
+1
+H Davids
+11
+CJ Anderson
+0
+4
+NL McCullum
+0
+1
+RM Hira
+0
+3
+NL McCullum
+0
+9
+RM Hira
+0
+11
+RJ Nicol
+0
+2
+JDS Neesham
+0

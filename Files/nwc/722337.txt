@@ -1,0 +1,144 @@
+Johannesburg
+2015-01-11
+wickets: 4
+winner: West Indies
+South Africa
+West Indies
+venue: New Wanderers Stadium
+1st innings
+South Africa
+5
+SJ Benn
+1
+MN van Wyk
+14
+SS Cottrell
+0
+9
+JO Holder
+1
+RR Rossouw
+7
+AD Russell
+0
+14
+JO Holder
+0
+20
+SJ Benn
+0
+9
+DJ Bravo
+0
+9
+SS Cottrell
+0
+17
+DJG Sammy
+0
+17
+SJ Benn
+0
+8
+AD Russell
+1
+DA Miller
+5
+DJ Bravo
+0
+17
+AD Russell
+0
+10
+DJ Bravo
+1
+JL Ontong
+12
+KA Pollard
+0
+25
+SS Cottrell
+0
+8
+JO Holder
+0
+7
+AD Russell
+0
+9
+JO Holder
+1
+F du Plessis
+9
+DJ Bravo
+2
+D Wiese
+KJ Abbott
+2nd innings
+West Indies
+12
+KJ Abbott
+0
+10
+M de Lange
+1
+DR Smith
+22
+KJ Abbott
+0
+11
+D Wiese
+0
+15
+M de Lange
+0
+16
+D Wiese
+0
+7
+AM Phangiso
+0
+9
+Imran Tahir
+0
+17
+AM Phangiso
+0
+11
+Imran Tahir
+0
+17
+JL Ontong
+0
+10
+M de Lange
+0
+8
+Imran Tahir
+0
+8
+D Wiese
+1
+CH Gayle
+5
+Imran Tahir
+0
+8
+D Wiese
+2
+MN Samuels
+KA Pollard
+16
+KJ Abbott
+1
+AD Russell
+9
+AM Phangiso
+1
+DJ Bravo
+18
+KJ Abbott
+0
+7
+M de Lange
+0

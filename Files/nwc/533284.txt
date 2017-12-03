@@ -1,0 +1,144 @@
+none
+2012-09-27
+result
+tie
+Sri Lanka
+New Zealand
+venue: Pallekele International Cricket Stadium
+1st innings
+New Zealand
+2
+KMDN Kulasekara
+0
+2
+AD Mathews
+0
+13
+KMDN Kulasekara
+0
+9
+SL Malinga
+0
+10
+BAW Mendis
+0
+7
+SL Malinga
+0
+12
+AD Mathews
+0
+4
+A Dananjaya
+1
+MJ Guptill
+9
+BMAJ Mendis
+0
+12
+A Dananjaya
+0
+9
+BAW Mendis
+0
+10
+A Dananjaya
+0
+5
+BAW Mendis
+1
+BB McCullum
+5
+BMAJ Mendis
+0
+24
+BAW Mendis
+0
+8
+A Dananjaya
+1
+RJ Nicol
+8
+SL Malinga
+0
+10
+KMDN Kulasekara
+2
+LRPL Taylor
+JDP Oram
+6
+SL Malinga
+1
+NL McCullum
+9
+KMDN Kulasekara
+1
+KS Williamson
+2nd innings
+Sri Lanka
+17
+NL McCullum
+0
+3
+KD Mills
+0
+11
+TG Southee
+0
+12
+KD Mills
+0
+19
+TG Southee
+0
+6
+JDP Oram
+0
+8
+DL Vettori
+0
+9
+JDP Oram
+1
+DPMD Jayawardene
+7
+DL Vettori
+0
+11
+JDP Oram
+0
+10
+DL Vettori
+0
+5
+NL McCullum
+0
+4
+JEC Franklin
+1
+KC Sangakkara
+4
+NL McCullum
+0
+7
+JEC Franklin
+1
+BMAJ Mendis
+4
+DL Vettori
+0
+10
+JEC Franklin
+0
+7
+TG Southee
+0
+13
+JEC Franklin
+2
+TM Dilshan
+NLTC Perera
+7
+TG Southee
+1
+HDRL Thirimanne

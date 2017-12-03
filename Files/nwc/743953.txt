@@ -1,0 +1,148 @@
+Manchester
+2015-06-23
+runs: 56
+winner: England
+England
+New Zealand
+venue: Old Trafford
+1st innings
+England
+3
+MJ Santner
+0
+14
+MJ McClenaghan
+0
+8
+MJ Santner
+1
+JJ Roy
+7
+MJ McClenaghan
+0
+14
+MJ Santner
+0
+14
+TG Southee
+0
+7
+NL McCullum
+0
+9
+TG Southee
+0
+3
+MJ Santner
+2
+AD Hales
+JM Bairstow
+6
+MJ Henry
+0
+10
+NL McCullum
+0
+7
+MJ Henry
+1
+EJG Morgan
+6
+NL McCullum
+0
+6
+MJ Henry
+0
+23
+NL McCullum
+0
+8
+MJ McClenaghan
+1
+SW Billings
+10
+TG Southee
+0
+9
+MJ McClenaghan
+1
+JE Root
+13
+TG Southee
+1
+DJ Willey
+14
+MJ Henry
+0
+2nd innings
+New Zealand
+11
+DJ Willey
+1
+MJ Guptill
+12
+ST Finn
+0
+11
+DJ Willey
+0
+14
+MA Wood
+1
+BB McCullum
+16
+AU Rashid
+0
+9
+MA Wood
+0
+9
+ST Finn
+0
+6
+BA Stokes
+0
+7
+AU Rashid
+1
+LRPL Taylor
+6
+BA Stokes
+2
+C Munro
+L Ronchi
+4
+AU Rashid
+0
+12
+BA Stokes
+0
+6
+AU Rashid
+0
+5
+ST Finn
+0
+3
+MA Wood
+3
+MJ Santner
+KS Williamson
+TG Southee
+3
+ST Finn
+0
+1
+DJ Willey
+2
+NL McCullum
+MJ McClenaghan
+0
+DJ Willey
+0
+0
+DJ Willey
+0
+0
+DJ Willey
+0

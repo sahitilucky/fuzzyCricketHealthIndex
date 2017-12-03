@@ -1,0 +1,126 @@
+Lauderhill
+2010-05-23
+wickets: 7
+winner: Sri Lanka
+New Zealand
+Sri Lanka
+venue: Central Broward Regional Park Stadium Turf Ground
+1st innings
+New Zealand
+3
+AD Mathews
+0
+1
+KMDN Kulasekara
+3
+AJ Redmond
+BB McCullum
+RJ Nicol
+5
+AD Mathews
+1
+LRPL Taylor
+0
+KMDN Kulasekara
+0
+5
+AD Mathews
+1
+GJ Hopkins
+3
+KMDN Kulasekara
+0
+9
+AD Mathews
+0
+8
+SL Malinga
+0
+5
+BAW Mendis
+0
+12
+ST Jayasuriya
+0
+7
+BAW Mendis
+1
+DL Vettori
+2
+NLTC Perera
+0
+4
+TM Dilshan
+0
+3
+SL Malinga
+1
+JDP Oram
+4
+BAW Mendis
+1
+KD Mills
+6
+NLTC Perera
+0
+3
+BAW Mendis
+0
+1
+SL Malinga
+2
+TG Southee
+AJ McKay
+2nd innings
+Sri Lanka
+1
+KD Mills
+0
+7
+AJ McKay
+0
+10
+KD Mills
+0
+1
+JDP Oram
+1
+DPMD Jayawardene
+7
+KD Mills
+0
+3
+JDP Oram
+0
+4
+NL McCullum
+0
+7
+DL Vettori
+0
+15
+TG Southee
+0
+3
+DL Vettori
+0
+6
+NL McCullum
+1
+NLTC Perera
+4
+AJ McKay
+0
+4
+NL McCullum
+0
+7
+RJ Nicol
+0
+1
+NL McCullum
+1
+KC Sangakkara
+2
+RJ Nicol
+0

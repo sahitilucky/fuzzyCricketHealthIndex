@@ -1,0 +1,144 @@
+Chittagong
+2014-03-20
+runs: 9
+winner: Nepal
+Afghanistan
+Nepal
+venue: Zahur Ahmed Chowdhury Stadium
+1st innings
+Nepal
+3
+Shapoor Zadran
+0
+7
+Dawlat Zadran
+0
+3
+Shapoor Zadran
+0
+6
+Dawlat Zadran
+1
+Sagar Pun
+8
+Shapoor Zadran
+0
+18
+Samiullah Shenwari
+0
+4
+Mirwais Ashraf
+0
+2
+Mohammad Nabi
+1
+G Malla
+2
+Mirwais Ashraf
+1
+P Khadka
+2
+Mohammad Nabi
+0
+3
+Mirwais Ashraf
+0
+7
+Karim Sadiq
+0
+6
+Samiullah Shenwari
+0
+8
+Karim Sadiq
+0
+16
+Samiullah Shenwari
+0
+16
+Mohammad Nabi
+0
+12
+Dawlat Zadran
+0
+6
+Mirwais Ashraf
+0
+6
+Shapoor Zadran
+2
+SP Khakurel
+S Vesawkar
+6
+Mohammad Nabi
+0
+2nd innings
+Afghanistan
+9
+B Regmi
+0
+1
+Sompal Kami
+0
+4
+JK Mukhiya
+0
+6
+Sompal Kami
+1
+Karim Sadiq
+1
+JK Mukhiya
+2
+Mohammad Shahzad
+Najibullah Zadran
+3
+P Khadka
+0
+17
+B Regmi
+0
+5
+P Khadka
+0
+4
+SP Gauchan
+2
+Nawroz Mangal
+Mohammad Nabi
+6
+P Khadka
+0
+8
+SP Gauchan
+0
+3
+Sagar Pun
+0
+13
+SP Gauchan
+0
+3
+Sagar Pun
+0
+6
+B Regmi
+1
+Shafiqullah
+4
+Sagar Pun
+0
+7
+JK Mukhiya
+0
+12
+Sompal Kami
+0
+6
+JK Mukhiya
+1
+Samiullah Shenwari
+14
+Sompal Kami
+1
+Asghar Stanikzai

@@ -1,0 +1,138 @@
+Nottingham
+2012-06-24
+wickets: 7
+winner: England
+England
+West Indies
+venue: Trent Bridge
+1st innings
+West Indies
+5
+ST Finn
+0
+5
+JW Dernbach
+0
+3
+ST Finn
+1
+CH Gayle
+5
+JW Dernbach
+0
+6
+ST Finn
+0
+5
+SCJ Broad
+1
+LMP Simmons
+4
+GP Swann
+1
+MN Samuels
+5
+SR Patel
+0
+11
+GP Swann
+0
+8
+SR Patel
+0
+6
+GP Swann
+0
+2
+SCJ Broad
+0
+12
+GP Swann
+0
+16
+SCJ Broad
+0
+8
+SR Patel
+0
+8
+ST Finn
+1
+DR Smith
+14
+SR Patel
+0
+18
+JW Dernbach
+0
+12
+SCJ Broad
+0
+19
+JW Dernbach
+0
+2nd innings
+England
+5
+R Rampaul
+0
+5
+FH Edwards
+0
+10
+R Rampaul
+1
+C Kieswetter
+6
+FH Edwards
+0
+9
+R Rampaul
+0
+7
+SP Narine
+0
+10
+DJ Bravo
+0
+5
+SP Narine
+0
+11
+DJ Bravo
+0
+4
+DJG Sammy
+0
+15
+KA Pollard
+0
+9
+DJG Sammy
+0
+10
+SP Narine
+0
+10
+DJG Sammy
+0
+11
+FH Edwards
+0
+11
+MN Samuels
+0
+12
+FH Edwards
+0
+6
+SP Narine
+0
+13
+R Rampaul
+1
+AD Hales
+4
+MN Samuels
+1
+RS Bopara

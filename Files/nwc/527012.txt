@@ -1,0 +1,121 @@
+none
+2011-10-15
+wickets: 10
+winner: New Zealand
+Zimbabwe
+New Zealand
+venue: Harare Sports Club
+1st innings
+Zimbabwe
+1
+KD Mills
+0
+9
+DAJ Bracewell
+0
+8
+KD Mills
+1
+H Masakadza
+4
+DAJ Bracewell
+0
+3
+KD Mills
+1
+CJ Chibhabha
+9
+JDP Oram
+0
+5
+LJ Woodcock
+0
+5
+JDP Oram
+0
+7
+LJ Woodcock
+1
+F Mutizwa
+6
+NL McCullum
+0
+7
+LJ Woodcock
+0
+8
+NL McCullum
+1
+MN Waller
+10
+JEC Franklin
+0
+3
+KD Mills
+0
+11
+LJ Woodcock
+0
+3
+NL McCullum
+1
+CK Coventry
+8
+DAJ Bracewell
+0
+7
+JDP Oram
+0
+5
+DAJ Bracewell
+1
+E Chigumbura
+4
+JDP Oram
+2
+RW Chakabva
+P Utseya
+2nd innings
+New Zealand
+5
+KM Jarvis
+0
+5
+RW Price
+0
+12
+KM Jarvis
+0
+7
+RW Price
+0
+6
+E Chigumbura
+0
+8
+RW Price
+0
+6
+E Chigumbura
+0
+4
+P Utseya
+0
+16
+E Chigumbura
+0
+6
+P Utseya
+0
+15
+KM Jarvis
+0
+20
+CJ Chibhabha
+0
+10
+H Masakadza
+0
+7
+RW Price
+0

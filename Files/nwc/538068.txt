@@ -1,0 +1,147 @@
+Mirpur
+2011-11-29
+runs: 50
+winner: Pakistan
+Bangladesh
+Pakistan
+venue: Shere Bangla National Stadium
+1st innings
+Pakistan
+6
+Shafiul Islam
+0
+9
+Abdur Razzak
+0
+7
+Shafiul Islam
+0
+12
+Shakib Al Hasan
+1
+Imran Farhat
+10
+Farhad Reza
+0
+7
+Abdur Razzak
+0
+3
+Shakib Al Hasan
+0
+7
+Rubel Hossain
+0
+0
+Shakib Al Hasan
+1
+Mohammad Hafeez
+6
+Nasir Hossain
+0
+10
+Rubel Hossain
+0
+10
+Mahmudullah
+0
+3
+Alok Kapali
+1
+Umar Akmal
+8
+Nasir Hossain
+1
+Asad Shafiq
+7
+Abdur Razzak
+1
+Shoaib Malik
+7
+Alok Kapali
+1
+Shahid Afridi
+3
+Abdur Razzak
+0
+2
+Alok Kapali
+0
+9
+Shakib Al Hasan
+0
+9
+Shafiul Islam
+1
+Sohail Tanvir
+2nd innings
+Bangladesh
+1
+Mohammad Hafeez
+0
+2
+Umar Gul
+1
+Naeem Islam
+4
+Mohammad Hafeez
+1
+Alok Kapali
+5
+Umar Gul
+0
+3
+Mohammad Hafeez
+0
+1
+Saeed Ajmal
+1
+Imrul Kayes
+5
+Mohammad Hafeez
+1
+Shakib Al Hasan
+2
+Shahid Afridi
+0
+4
+Aizaz Cheema
+1
+Mahmudullah
+5
+Shahid Afridi
+0
+5
+Aizaz Cheema
+0
+3
+Shahid Afridi
+1
+Mushfiqur Rahim
+3
+Saeed Ajmal
+0
+9
+Shahid Afridi
+1
+Farhad Reza
+8
+Saeed Ajmal
+0
+6
+Sohail Tanvir
+0
+3
+Shoaib Malik
+2
+Abdur Razzak
+Shafiul Islam
+5
+Sohail Tanvir
+0
+4
+Shoaib Malik
+0
+7
+Saeed Ajmal
+0

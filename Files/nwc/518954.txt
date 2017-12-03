@@ -1,0 +1,141 @@
+Sydney
+2012-02-01
+runs: 31
+winner: Australia
+Australia
+India
+venue: Stadium Australia
+1st innings
+Australia
+2
+R Ashwin
+0
+7
+P Kumar
+0
+19
+R Ashwin
+0
+11
+R Vinay Kumar
+1
+DA Warner
+9
+P Kumar
+0
+7
+R Vinay Kumar
+0
+3
+SK Raina
+0
+8
+R Ashwin
+0
+8
+R Sharma
+0
+5
+R Ashwin
+1
+TR Birt
+6
+RA Jadeja
+0
+3
+R Sharma
+0
+17
+RA Jadeja
+0
+18
+P Kumar
+0
+9
+R Sharma
+0
+5
+SK Raina
+1
+MS Wade
+5
+R Vinay Kumar
+0
+14
+SK Raina
+0
+5
+R Vinay Kumar
+0
+10
+R Sharma
+1
+DJ Hussey
+2nd innings
+India
+12
+B Lee
+1
+V Sehwag
+4
+XJ Doherty
+0
+12
+B Lee
+0
+9
+JP Faulkner
+0
+9
+DT Christian
+0
+3
+DJ Hussey
+1
+G Gambhir
+4
+GB Hogg
+1
+V Kohli
+1
+DJ Hussey
+1
+RG Sharma
+4
+GB Hogg
+0
+8
+XJ Doherty
+0
+4
+GB Hogg
+0
+3
+DT Christian
+1
+SK Raina
+4
+B Lee
+0
+9
+DT Christian
+1
+RA Jadeja
+9
+GB Hogg
+0
+15
+DT Christian
+0
+9
+JP Faulkner
+0
+5
+XJ Doherty
+0
+10
+B Lee
+0
+6
+XJ Doherty
+0

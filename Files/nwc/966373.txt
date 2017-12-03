@@ -1,0 +1,148 @@
+Dubai
+2016-02-04
+runs: 9
+winner: United Arab Emirates
+United Arab Emirates
+Scotland
+venue: ICC Academy
+1st innings
+United Arab Emirates
+7
+AC Evans
+0
+6
+SM Sharif
+0
+5
+JH Davey
+0
+4
+SM Sharif
+1
+SP Patil
+14
+JH Davey
+0
+1
+AC Evans
+1
+Mohammad Shahzad (2)
+3
+MRJ Watt
+0
+3
+MA Leask
+1
+Shaiman Anwar
+6
+MRJ Watt
+0
+6
+AC Evans
+0
+11
+MRJ Watt
+0
+11
+MA Leask
+1
+Mohammad Usman
+9
+JH Davey
+0
+4
+MA Leask
+0
+16
+MRJ Watt
+0
+10
+SM Sharif
+1
+Saqlain Haider
+4
+JH Davey
+0
+9
+MA Leask
+0
+15
+AC Evans
+0
+4
+SM Sharif
+3
+Amjad Javed
+Mohammad Naveed
+Rohan Mustafa
+2nd innings
+Scotland
+9
+Mohammad Naveed
+1
+KJ Coetzer
+3
+Qadeer Ahmed
+0
+0
+Mohammad Naveed
+0
+13
+Qadeer Ahmed
+0
+5
+Mohammad Naveed
+0
+11
+Qadeer Ahmed
+1
+CS MacLeod
+3
+Amjad Javed
+1
+MH Cross
+5
+Mohammad Shahzad (2)
+1
+MW Machan
+5
+Amjad Javed
+0
+11
+Mohammad Shahzad (2)
+0
+4
+Zaheer Maqsood
+0
+12
+Rohan Mustafa
+0
+10
+Zaheer Maqsood
+0
+11
+Qadeer Ahmed
+0
+8
+Zaheer Maqsood
+1
+RD Berrington
+2
+Mohammad Naveed
+1
+MA Leask
+7
+Zaheer Maqsood
+0
+9
+Amjad Javed
+1
+JH Davey
+9
+Rohan Mustafa
+1
+PL Mommsen
+2
+Amjad Javed
+1
+MRJ Watt

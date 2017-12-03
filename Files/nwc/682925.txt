@@ -1,0 +1,96 @@
+Chittagong
+2014-03-22
+runs: 9
+method: D/L
+England
+New Zealand
+venue: Zahur Ahmed Chowdhury Stadium
+1st innings
+England
+1
+KD Mills
+1
+AD Hales
+8
+MJ McClenaghan
+0
+16
+KD Mills
+0
+6
+MJ McClenaghan
+0
+17
+TG Southee
+0
+7
+CJ Anderson
+0
+11
+NL McCullum
+0
+9
+CJ Anderson
+1
+MM Ali
+2
+MJ McClenaghan
+1
+MJ Lumb
+7
+NL McCullum
+0
+9
+MJ McClenaghan
+0
+10
+NL McCullum
+0
+2
+TG Southee
+1
+EJG Morgan
+9
+KD Mills
+0
+12
+TG Southee
+0
+4
+CJ Anderson
+1
+JC Buttler
+15
+TG Southee
+0
+4
+NL McCullum
+1
+CJ Jordan
+10
+KD Mills
+0
+13
+CJ Anderson
+0
+2nd innings
+New Zealand
+7
+MM Ali
+0
+8
+JW Dernbach
+0
+10
+TT Bresnan
+0
+6
+JW Dernbach
+1
+MJ Guptill
+16
+SCJ Broad
+0
+5
+CJ Jordan
+0

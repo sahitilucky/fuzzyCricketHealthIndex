@@ -1,0 +1,142 @@
+none
+2016-01-29
+runs: 27
+winner: India
+Australia
+India
+venue: Melbourne Cricket Ground
+1st innings
+India
+5
+SR Watson
+0
+5
+JW Hastings
+0
+2
+SM Boland
+0
+17
+JW Hastings
+0
+15
+JP Faulkner
+0
+6
+AJ Tye
+0
+12
+JP Faulkner
+0
+15
+NM Lyon
+0
+6
+GJ Maxwell
+0
+3
+SM Boland
+0
+11
+GJ Maxwell
+1
+S Dhawan
+7
+SR Watson
+0
+5
+AJ Tye
+0
+13
+JW Hastings
+0
+12
+SM Boland
+0
+9
+SR Watson
+1
+RG Sharma
+9
+AJ Tye
+0
+14
+SM Boland
+0
+8
+JP Faulkner
+0
+10
+AJ Tye
+1
+MS Dhoni
+2nd innings
+Australia
+4
+A Nehra
+0
+10
+JJ Bumrah
+0
+16
+A Nehra
+0
+8
+JJ Bumrah
+0
+10
+A Nehra
+0
+14
+JJ Bumrah
+0
+5
+RA Jadeja
+0
+11
+R Ashwin
+0
+11
+RA Jadeja
+0
+6
+R Ashwin
+1
+SE Marsh
+4
+HH Pandya
+1
+CA Lynn
+3
+Yuvraj Singh
+1
+GJ Maxwell
+13
+HH Pandya
+0
+4
+Yuvraj Singh
+0
+5
+RA Jadeja
+1
+SR Watson
+2
+R Ashwin
+1
+AJ Finch
+11
+RA Jadeja
+1
+JP Faulkner
+8
+R Ashwin
+0
+6
+A Nehra
+0
+6
+JJ Bumrah
+2
+JW Hastings
+AJ Tye

@@ -1,0 +1,110 @@
+Auckland
+2016-01-10
+wickets: 9
+winner: New Zealand
+New Zealand
+Sri Lanka
+venue: Eden Park
+1st innings
+Sri Lanka
+2
+TA Boult
+0
+9
+AF Milne
+1
+MD Gunathilaka
+3
+TA Boult
+0
+10
+AF Milne
+0
+4
+MJ McClenaghan
+0
+9
+AF Milne
+1
+DSNFG Jayasuriya
+2
+MJ Santner
+1
+LD Chandimal
+3
+MJ McClenaghan
+0
+15
+MJ Santner
+0
+7
+GD Elliott
+1
+TM Dilshan
+3
+MJ Santner
+1
+TAM Siriwardana
+4
+GD Elliott
+1
+KDK Vithanage
+4
+MJ Santner
+0
+5
+GD Elliott
+0
+17
+TA Boult
+0
+6
+GD Elliott
+2
+NLTC Perera
+I Udana
+5
+MJ McClenaghan
+0
+9
+AF Milne
+0
+11
+MJ McClenaghan
+0
+14
+TA Boult
+0
+2nd innings
+New Zealand
+8
+I Udana
+0
+15
+PVD Chameera
+0
+15
+I Udana
+0
+20
+JDF Vandersay
+0
+13
+NLTC Perera
+0
+11
+PVD Chameera
+0
+13
+NLTC Perera
+1
+MJ Guptill
+21
+JDF Vandersay
+0
+11
+I Udana
+0
+20
+PVD Chameera
+0

@@ -1,0 +1,147 @@
+St Lucia
+2011-04-21
+runs: 7
+winner: West Indies
+West Indies
+Pakistan
+venue: 'Beausejour Stadium, Gros Islet'
+1st innings
+West Indies
+2
+Junaid Khan
+0
+3
+Abdur Rehman
+1
+ADS Fletcher
+13
+Junaid Khan
+0
+8
+Abdur Rehman
+0
+11
+Saeed Ajmal
+0
+10
+Wahab Riaz
+0
+10
+Shahid Afridi
+0
+7
+Mohammad Hafeez
+0
+8
+Shahid Afridi
+0
+3
+Mohammad Hafeez
+0
+12
+Shahid Afridi
+0
+13
+Mohammad Hafeez
+0
+6
+Abdur Rehman
+1
+DM Bravo
+7
+Saeed Ajmal
+0
+5
+Abdur Rehman
+1
+LMP Simmons
+0
+Wahab Riaz
+0
+8
+Saeed Ajmal
+1
+MN Samuels
+5
+Wahab Riaz
+1
+DJG Sammy
+10
+Saeed Ajmal
+1
+DP Hyatt
+9
+Wahab Riaz
+1
+AD Russell
+2nd innings
+Pakistan
+6
+R Rampaul
+0
+5
+DJG Sammy
+1
+Mohammad Hafeez
+9
+AD Russell
+0
+2
+R Rampaul
+1
+Ahmed Shehzad
+14
+DJG Sammy
+0
+11
+AD Russell
+0
+2
+D Bishoo
+2
+Asad Shafiq
+Misbah-ul-Haq
+7
+CD Barnwell
+0
+4
+D Bishoo
+0
+9
+AR Nurse
+0
+9
+D Bishoo
+1
+Shahid Afridi
+7
+DJG Sammy
+0
+5
+AR Nurse
+0
+3
+AD Russell
+1
+Mohammad Salman
+9
+AR Nurse
+0
+8
+R Rampaul
+1
+Umar Akmal
+2
+D Bishoo
+1
+Abdur Rehman
+10
+AR Nurse
+0
+15
+R Rampaul
+1
+Wahab Riaz
+6
+AD Russell
+0

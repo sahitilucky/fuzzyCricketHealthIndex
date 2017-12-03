@@ -1,0 +1,144 @@
+Hambantota
+2013-08-04
+runs: 22
+winner: South Africa
+Sri Lanka
+South Africa
+venue: 'Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa'
+1st innings
+South Africa
+6
+KMDN Kulasekara
+0
+5
+SL Malinga
+0
+3
+KMDN Kulasekara
+1
+H Davids
+5
+SMSM Senanayake
+0
+9
+KMDN Kulasekara
+0
+2
+SMSM Senanayake
+0
+9
+AD Mathews
+0
+7
+SMSM Senanayake
+1
+Q de Kock
+7
+SL Malinga
+1
+F du Plessis
+6
+BAW Mendis
+0
+3
+AD Mathews
+0
+15
+BAW Mendis
+0
+9
+AD Mathews
+1
+AB de Villiers
+5
+BAW Mendis
+0
+11
+AD Mathews
+0
+4
+SMSM Senanayake
+1
+JP Duminy
+13
+BAW Mendis
+0
+9
+SL Malinga
+0
+6
+KMDN Kulasekara
+1
+DA Miller
+11
+SL Malinga
+0
+2nd innings
+Sri Lanka
+8
+LL Tsotsobe
+1
+DPMD Jayawardene
+7
+M Morkel
+0
+4
+LL Tsotsobe
+0
+8
+M Morkel
+0
+3
+LL Tsotsobe
+1
+LD Chandimal
+12
+WD Parnell
+0
+2
+LL Tsotsobe
+0
+3
+D Wiese
+0
+5
+Imran Tahir
+1
+MDKJ Perera
+9
+D Wiese
+0
+6
+Imran Tahir
+0
+8
+D Wiese
+0
+6
+Imran Tahir
+0
+4
+WD Parnell
+1
+HDRL Thirimanne
+5
+D Wiese
+1
+AD Mathews
+7
+M Morkel
+1
+KC Sangakkara
+4
+Imran Tahir
+0
+5
+WD Parnell
+0
+12
+M Morkel
+1
+KMDN Kulasekara
+5
+WD Parnell
+0

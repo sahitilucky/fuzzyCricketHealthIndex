@@ -1,0 +1,139 @@
+Christchurch
+2009-02-25
+wickets: 7
+winner: New Zealand
+New Zealand
+India
+venue: AMI Stadium
+1st innings
+India
+19
+TG Southee
+0
+6
+IE O'Brien
+1
+G Gambhir
+7
+IG Butler
+0
+8
+IE O'Brien
+1
+V Sehwag
+8
+TG Southee
+0
+8
+IG Butler
+1
+RG Sharma
+2
+DL Vettori
+1
+Yuvraj Singh
+4
+IG Butler
+1
+MS Dhoni
+2
+DL Vettori
+0
+19
+NL McCullum
+1
+YK Pathan
+4
+DL Vettori
+0
+5
+IE O'Brien
+0
+8
+NL McCullum
+0
+2
+JD Ryder
+1
+IK Pathan
+10
+DL Vettori
+0
+5
+JD Ryder
+0
+11
+IG Butler
+0
+5
+TG Southee
+0
+18
+IE O'Brien
+0
+11
+TG Southee
+1
+Harbhajan Singh
+2nd innings
+New Zealand
+2
+Z Khan
+0
+2
+I Sharma
+1
+JD Ryder
+5
+Z Khan
+0
+15
+I Sharma
+0
+12
+Z Khan
+0
+18
+IK Pathan
+0
+2
+Harbhajan Singh
+1
+MJ Guptill
+4
+YK Pathan
+0
+9
+Harbhajan Singh
+0
+5
+I Sharma
+0
+9
+IK Pathan
+0
+18
+YK Pathan
+0
+5
+Harbhajan Singh
+0
+1
+Z Khan
+1
+LRPL Taylor
+17
+Yuvraj Singh
+0
+11
+IK Pathan
+0
+3
+Harbhajan Singh
+0
+13
+I Sharma
+0
+15
+YK Pathan
+0

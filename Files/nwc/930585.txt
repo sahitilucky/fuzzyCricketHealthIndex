@@ -1,0 +1,143 @@
+Abu Dhabi
+2015-11-30
+runs: 12
+winner: Afghanistan
+Afghanistan
+Oman
+venue: Sheikh Zayed Stadium
+1st innings
+Afghanistan
+2
+Bilal Khan
+0
+6
+AJ Lalcheta
+0
+8
+Bilal Khan
+1
+Usman Ghani
+4
+AJ Lalcheta
+0
+3
+M Ansari
+0
+18
+AJ Lalcheta
+0
+4
+M Ansari
+0
+9
+Mohammad Nadeem
+0
+5
+Zeeshan Maqsood
+1
+Asghar Stanikzai
+12
+Mohammad Nadeem
+0
+5
+Zeeshan Maqsood
+0
+12
+Mohammad Nadeem
+0
+6
+Zeeshan Maqsood
+0
+11
+Aamir Kaleem
+0
+4
+Zeeshan Maqsood
+1
+Karim Sadiq
+6
+Bilal Khan
+1
+Mohammad Shahzad
+7
+AJ Lalcheta
+0
+17
+M Ansari
+0
+8
+Bilal Khan
+0
+13
+M Ansari
+0
+2nd innings
+Oman
+16
+Yamin Ahmadzai
+0
+5
+Karim Sadiq
+0
+7
+Rokhan Barakzai
+1
+Zeeshan Maqsood
+4
+Sayed Shirzad
+0
+9
+Rokhan Barakzai
+0
+0
+Sayed Shirzad
+1
+Aaqib Sulehri
+3
+Yamin Ahmadzai
+0
+10
+Samiullah Shenwari
+0
+6
+Gulbadin Naib
+0
+5
+Samiullah Shenwari
+0
+5
+Gulbadin Naib
+0
+4
+M Nasim Baras
+0
+9
+Gulbadin Naib
+0
+8
+M Nasim Baras
+1
+Khawar Ali
+11
+Gulbadin Naib
+0
+7
+Rokhan Barakzai
+1
+Jatinder Singh
+9
+Sayed Shirzad
+1
+Aamir Kaleem
+9
+Yamin Ahmadzai
+1
+Sultan Ahmed
+14
+Sayed Shirzad
+0
+7
+Yamin Ahmadzai
+2
+Adnan Ilyas
+Mohammad Nadeem

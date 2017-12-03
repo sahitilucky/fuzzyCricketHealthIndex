@@ -1,0 +1,136 @@
+Sydney
+2013-01-26
+wickets: 5
+winner: Sri Lanka
+Australia
+Sri Lanka
+venue: Stadium Australia
+1st innings
+Australia
+7
+AD Mathews
+0
+1
+KMDN Kulasekara
+1
+AJ Finch
+12
+AD Mathews
+0
+5
+SL Malinga
+0
+3
+KMDN Kulasekara
+0
+3
+SL Malinga
+0
+4
+NLTC Perera
+1
+SE Marsh
+10
+BAW Mendis
+0
+8
+NLTC Perera
+1
+GJ Bailey
+5
+BAW Mendis
+0
+6
+AD Mathews
+0
+6
+NLTC Perera
+0
+9
+KMDN Kulasekara
+0
+7
+BAW Mendis
+0
+15
+AD Mathews
+0
+5
+BAW Mendis
+0
+6
+SL Malinga
+0
+11
+NLTC Perera
+0
+6
+SL Malinga
+0
+8
+KMDN Kulasekara
+0
+2nd innings
+Sri Lanka
+6
+XJ Doherty
+0
+10
+MA Starc
+0
+11
+BCJ Cutting
+0
+5
+B Laughlin
+0
+4
+MA Starc
+0
+9
+BCJ Cutting
+0
+7
+XJ Doherty
+1
+TM Dilshan
+4
+GJ Maxwell
+1
+MDKJ Perera
+5
+XJ Doherty
+0
+5
+GJ Maxwell
+1
+LD Chandimal
+4
+XJ Doherty
+1
+DPMD Jayawardene
+6
+GJ Maxwell
+0
+12
+B Laughlin
+0
+7
+BCJ Cutting
+0
+9
+AJ Finch
+0
+2
+MA Starc
+1
+HDRL Thirimanne
+10
+B Laughlin
+0
+4
+MA Starc
+0
+19
+B Laughlin
+0

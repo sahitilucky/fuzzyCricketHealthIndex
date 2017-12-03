@@ -1,0 +1,143 @@
+none
+2013-11-16
+runs: 17
+winner: Afghanistan
+Afghanistan
+Scotland
+venue: Sharjah Cricket Stadium
+1st innings
+Afghanistan
+7
+NM Carter
+0
+19
+I Wardlaw
+0
+9
+NM Carter
+0
+14
+SM Sharif
+0
+11
+G Goudie
+1
+Nawroz Mangal
+8
+I Wardlaw
+1
+Mohammad Shahzad
+4
+NM Carter
+0
+3
+RM Haq
+0
+9
+SM Sharif
+0
+8
+RM Haq
+1
+Noor Ali Zadran
+5
+RML Taylor
+0
+11
+G Goudie
+0
+10
+RML Taylor
+0
+8
+RM Haq
+0
+15
+MW Machan
+0
+7
+G Goudie
+1
+Mohammad Nabi
+10
+I Wardlaw
+0
+5
+RM Haq
+0
+5
+NM Carter
+0
+3
+I Wardlaw
+2
+Gulbadin Naib
+Karim Sadiq
+2nd innings
+Scotland
+9
+Karim Sadiq
+0
+12
+Shapoor Zadran
+0
+5
+Karim Sadiq
+0
+8
+Shapoor Zadran
+0
+1
+Samiullah Shenwari
+1
+RD Berrington
+3
+Karim Sadiq
+0
+7
+Samiullah Shenwari
+0
+3
+Karim Sadiq
+0
+10
+Samiullah Shenwari
+0
+14
+Nawroz Mangal
+0
+10
+Hamza Hotak
+0
+6
+Mohammad Nabi
+0
+5
+Dawlat Zadran
+0
+16
+Mohammad Nabi
+0
+4
+Dawlat Zadran
+1
+CS MacLeod
+14
+Mohammad Nabi
+0
+10
+Dawlat Zadran
+0
+7
+Shapoor Zadran
+1
+KJ Coetzer
+4
+Dawlat Zadran
+1
+RML Taylor
+6
+Shapoor Zadran
+2
+MW Machan
+G Goudie

@@ -1,0 +1,145 @@
+Guyana
+2010-04-30
+wickets: 2
+winner: New Zealand
+New Zealand
+Sri Lanka
+venue: Providence Stadium
+1st innings
+Sri Lanka
+2
+NL McCullum
+0
+10
+SE Bond
+0
+6
+NL McCullum
+0
+10
+SE Bond
+0
+2
+TG Southee
+0
+6
+JDP Oram
+1
+TM Dilshan
+4
+TG Southee
+0
+4
+DL Vettori
+0
+4
+SB Styris
+1
+KC Sangakkara
+6
+DL Vettori
+0
+10
+SB Styris
+0
+7
+DL Vettori
+0
+9
+JDP Oram
+0
+9
+SE Bond
+0
+8
+JDP Oram
+0
+9
+NL McCullum
+1
+LD Chandimal
+12
+TG Southee
+0
+6
+DL Vettori
+0
+4
+TG Southee
+1
+DPMD Jayawardene
+7
+SE Bond
+2
+CK Kapugedera
+AD Mathews
+2nd innings
+New Zealand
+0
+AD Mathews
+1
+BB McCullum
+11
+UWMBCA Welegedara
+0
+7
+AD Mathews
+0
+9
+BAW Mendis
+0
+8
+SL Malinga
+0
+5
+BAW Mendis
+0
+9
+M Muralitharan
+0
+7
+ST Jayasuriya
+0
+9
+M Muralitharan
+1
+JD Ryder
+2
+ST Jayasuriya
+1
+MJ Guptill
+4
+M Muralitharan
+0
+4
+ST Jayasuriya
+0
+6
+BAW Mendis
+0
+4
+ST Jayasuriya
+0
+3
+M Muralitharan
+1
+LRPL Taylor
+7
+SL Malinga
+0
+15
+BAW Mendis
+1
+SB Styris
+6
+SL Malinga
+0
+10
+UWMBCA Welegedara
+2
+JDP Oram
+GJ Hopkins
+13
+SL Malinga
+1
+DL Vettori

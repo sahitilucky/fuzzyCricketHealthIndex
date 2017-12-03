@@ -1,0 +1,151 @@
+St Lucia
+2010-05-02
+runs: 34
+winner: Australia
+Australia
+Pakistan
+venue: 'Beausejour Stadium, Gros Islet'
+1st innings
+Australia
+5
+Mohammad Amir
+0
+8
+Mohammad Hafeez
+0
+7
+Mohammad Amir
+0
+17
+Mohammad Hafeez
+0
+11
+Mohammad Amir
+0
+7
+Mohammad Sami
+1
+DA Warner
+1
+Shahid Afridi
+0
+8
+Mohammad Hafeez
+1
+MJ Clarke
+8
+Shahid Afridi
+0
+14
+Mohammad Hafeez
+0
+9
+Shahid Afridi
+0
+6
+Saeed Ajmal
+0
+15
+Shahid Afridi
+0
+7
+Mohammad Sami
+0
+11
+Saeed Ajmal
+0
+28
+Mohammad Sami
+0
+5
+Saeed Ajmal
+2
+DJ Hussey
+SR Watson
+12
+Mohammad Sami
+0
+12
+Saeed Ajmal
+1
+CL White
+0
+Mohammad Amir
+5
+BJ Haddin
+MG Johnson
+MEK Hussey
+SPD Smith
+SW Tait
+2nd innings
+Pakistan
+9
+DP Nannes
+1
+Kamran Akmal
+5
+SW Tait
+0
+14
+DP Nannes
+0
+5
+SW Tait
+1
+Salman Butt
+5
+MG Johnson
+1
+Mohammad Hafeez
+11
+SR Watson
+0
+4
+DJ Hussey
+0
+14
+MJ Clarke
+0
+7
+SPD Smith
+1
+Umar Akmal
+6
+MG Johnson
+0
+17
+SPD Smith
+0
+9
+SR Watson
+0
+6
+MG Johnson
+0
+5
+SW Tait
+1
+Shahid Afridi
+4
+DP Nannes
+1
+Abdul Razzaq
+5
+SR Watson
+0
+14
+DP Nannes
+1
+Misbah-ul-Haq
+8
+DJ Hussey
+1
+Mohammad Amir
+4
+MG Johnson
+1
+Fawad Alam
+5
+SW Tait
+1
+Saeed Ajmal

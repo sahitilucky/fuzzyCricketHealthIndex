@@ -1,0 +1,143 @@
+Durban
+2007-09-19
+wickets: 6
+winner: South Africa
+South Africa
+New Zealand
+venue: Kingsmead
+1st innings
+New Zealand
+2
+SM Pollock
+0
+5
+A Nel
+0
+12
+SM Pollock
+0
+6
+A Nel
+0
+17
+SM Pollock
+0
+8
+A Nel
+0
+9
+M Morkel
+0
+8
+JJ van der Wath
+0
+3
+M Morkel
+2
+BB McCullum
+LRPL Taylor
+6
+JJ van der Wath
+1
+L Vincent
+4
+JA Morkel
+0
+10
+VD Philander
+0
+2
+JA Morkel
+1
+SB Styris
+5
+A Nel
+0
+24
+JA Morkel
+0
+10
+SM Pollock
+0
+1
+M Morkel
+2
+JDP Oram
+NL McCullum
+6
+JJ van der Wath
+1
+DL Vettori
+4
+M Morkel
+1
+SE Bond
+11
+JJ van der Wath
+0
+2nd innings
+South Africa
+12
+SE Bond
+0
+2
+MR Gillespie
+0
+3
+SE Bond
+1
+GC Smith
+0
+MR Gillespie
+1
+AB de Villiers
+6
+SE Bond
+0
+8
+CS Martin
+0
+14
+JDP Oram
+0
+8
+CS Martin
+1
+HH Gibbs
+5
+JDP Oram
+0
+5
+DL Vettori
+0
+8
+CS Martin
+0
+8
+DL Vettori
+0
+12
+JDP Oram
+0
+3
+DL Vettori
+0
+16
+CS Martin
+0
+3
+MR Gillespie
+1
+MV Boucher
+19
+JDP Oram
+0
+10
+DL Vettori
+0
+10
+SE Bond
+0
+6
+MR Gillespie
+0

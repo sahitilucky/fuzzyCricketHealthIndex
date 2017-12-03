@@ -1,0 +1,91 @@
+Townsville
+2016-02-07
+runs: 7
+method: D/L
+Ireland
+Papua New Guinea
+venue: Tony Ireland Stadium
+1st innings
+Ireland
+11
+A Vala
+1
+A Balbirnie
+12
+N Vanua
+0
+15
+JB Reva
+0
+10
+MD Dai
+0
+8
+A Vala
+1
+WTS Porterfield
+5
+MD Dai
+0
+9
+CJA Amini
+0
+6
+P Raho
+1
+SW Poynter
+8
+N Pokana
+0
+5
+P Raho
+2
+GC Wilson
+SR Thompson
+7
+N Vanua
+0
+2nd innings
+Papua New Guinea
+8
+CA Young
+0
+5
+TJ Murtagh
+1
+VV Morea
+13
+CA Young
+0
+8
+MC Sorensen
+1
+L Siaka
+7
+AR McBrine
+2
+A Vala
+S Bau
+7
+SR Thompson
+0
+3
+GH Dockrell
+2
+MD Dai
+JNT Vare
+9
+MC Sorensen
+2
+CJA Amini
+JB Reva
+4
+GH Dockrell
+1
+N Pokana
+14
+TJ Murtagh
+0
+11
+GH Dockrell
+0

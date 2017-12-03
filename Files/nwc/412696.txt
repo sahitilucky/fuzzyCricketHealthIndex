@@ -1,0 +1,146 @@
+Barbados
+2010-05-09
+runs: 81
+winner: Australia
+Australia
+Sri Lanka
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+Australia
+2
+AD Mathews
+1
+SR Watson
+14
+UWMBCA Welegedara
+0
+5
+AD Mathews
+1
+BJ Haddin
+9
+UWMBCA Welegedara
+0
+1
+S Randiv
+2
+DA Warner
+DJ Hussey
+2
+SL Malinga
+0
+11
+S Randiv
+0
+10
+BAW Mendis
+0
+6
+S Randiv
+0
+5
+BAW Mendis
+0
+2
+S Randiv
+1
+MJ Clarke
+9
+AD Mathews
+0
+2
+UWMBCA Welegedara
+0
+9
+AD Mathews
+0
+12
+BAW Mendis
+0
+7
+SL Malinga
+0
+16
+UWMBCA Welegedara
+0
+16
+SL Malinga
+0
+15
+BAW Mendis
+0
+15
+SL Malinga
+0
+2nd innings
+Sri Lanka
+6
+DP Nannes
+0
+4
+SW Tait
+0
+6
+DP Nannes
+1
+DPMD Jayawardene
+6
+SW Tait
+1
+KC Sangakkara
+8
+DP Nannes
+1
+ST Jayasuriya
+15
+SR Watson
+0
+4
+MG Johnson
+2
+TM Dilshan
+AD Mathews
+5
+SPD Smith
+0
+9
+MG Johnson
+0
+4
+SPD Smith
+0
+4
+SR Watson
+0
+4
+SPD Smith
+1
+CK Kapugedera
+8
+SR Watson
+1
+S Randiv
+0
+SPD Smith
+1
+LD Chandimal
+1
+MG Johnson
+0
+2
+MJ Clarke
+1
+SL Malinga
+1
+MG Johnson
+1
+BAW Mendis
+0
+MG Johnson
+0
+0
+MG Johnson
+0
+0
+MG Johnson
+0

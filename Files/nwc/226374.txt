@@ -1,0 +1,144 @@
+Brisbane
+2006-01-09
+runs: 95
+winner: Australia
+Australia
+South Africa
+venue: 'Brisbane Cricket Ground, Woolloongabba'
+1st innings
+Australia
+5
+SM Pollock
+0
+6
+GJP Kruger
+0
+12
+SM Pollock
+0
+8
+GJP Kruger
+0
+8
+SM Pollock
+0
+11
+GJP Kruger
+0
+9
+SM Pollock
+1
+JR Hopes
+5
+M Zondeki
+0
+13
+AJ Hall
+0
+15
+M Zondeki
+0
+7
+AJ Hall
+0
+11
+J Botha
+1
+RT Ponting
+17
+JH Kallis
+0
+9
+J Botha
+0
+9
+GJP Kruger
+0
+14
+J Botha
+0
+6
+AJ Hall
+0
+9
+J Botha
+0
+13
+AJ Hall
+0
+22
+M Zondeki
+1
+DR Martyn
+2nd innings
+South Africa
+4
+NW Bracken
+0
+3
+ML Lewis
+0
+1
+NW Bracken
+2
+HH Dippenaar
+HH Gibbs
+1
+ML Lewis
+0
+4
+NW Bracken
+0
+13
+ML Lewis
+0
+10
+SR Clark
+0
+3
+JR Hopes
+1
+GC Smith
+2
+SR Clark
+0
+11
+JR Hopes
+0
+7
+SR Clark
+1
+MV Boucher
+14
+A Symonds
+0
+16
+SR Clark
+0
+3
+A Symonds
+2
+SM Pollock
+JH Kallis
+5
+JR Hopes
+0
+5
+A Symonds
+0
+7
+JR Hopes
+1
+AJ Hall
+4
+A Symonds
+1
+J Botha
+1
+ML Lewis
+2
+GJP Kruger
+M Zondeki
+0
+ML Lewis
+0

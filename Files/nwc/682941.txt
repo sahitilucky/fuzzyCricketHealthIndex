@@ -1,0 +1,143 @@
+Mirpur
+2014-03-28
+wickets: 6
+winner: West Indies
+Australia
+West Indies
+venue: Shere Bangla National Stadium
+1st innings
+Australia
+4
+K Santokie
+0
+15
+S Badree
+0
+9
+K Santokie
+0
+7
+MN Samuels
+1
+AJ Finch
+6
+S Badree
+1
+DA Warner
+0
+SP Narine
+1
+SR Watson
+9
+S Badree
+0
+9
+SP Narine
+0
+16
+DJG Sammy
+0
+13
+MN Samuels
+1
+GJ Bailey
+6
+DJ Bravo
+0
+7
+S Badree
+1
+GJ Maxwell
+7
+DJ Bravo
+0
+5
+SP Narine
+0
+15
+AD Russell
+0
+4
+K Santokie
+0
+16
+DJ Bravo
+0
+5
+SP Narine
+1
+BJ Hodge
+15
+K Santokie
+1
+JP Faulkner
+10
+DJ Bravo
+1
+MA Starc
+2nd innings
+West Indies
+2
+SR Watson
+0
+16
+MA Starc
+0
+15
+DE Bollinger
+0
+13
+GJ Maxwell
+0
+4
+MA Starc
+1
+DR Smith
+11
+SR Watson
+0
+9
+JP Faulkner
+0
+6
+DE Bollinger
+0
+2
+JP Faulkner
+0
+9
+GJ Maxwell
+0
+6
+JM Muirhead
+0
+8
+GJ Maxwell
+0
+2
+JM Muirhead
+1
+CH Gayle
+4
+DE Bollinger
+1
+LMP Simmons
+15
+JM Muirhead
+0
+4
+JP Faulkner
+0
+11
+MA Starc
+1
+MN Samuels
+11
+DE Bollinger
+0
+19
+MA Starc
+0
+12
+JP Faulkner
+0

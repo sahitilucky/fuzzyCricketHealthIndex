@@ -1,0 +1,146 @@
+London
+2009-06-09
+runs: 82
+winner: Pakistan
+Netherlands
+Pakistan
+venue: Lord's
+1st innings
+Pakistan
+5
+DP Nannes
+0
+12
+E Schiferli
+0
+5
+DP Nannes
+0
+12
+E Schiferli
+0
+12
+RN ten Doeschate
+1
+Salman Butt
+4
+E Schiferli
+0
+4
+PM Seelaar
+0
+13
+PW Borren
+0
+10
+RN ten Doeschate
+0
+4
+PM Seelaar
+1
+Kamran Akmal
+7
+PW Borren
+0
+6
+RN ten Doeschate
+0
+5
+PW Borren
+1
+Shoaib Malik
+11
+PM Seelaar
+0
+5
+DP Nannes
+0
+15
+RN ten Doeschate
+0
+9
+PW Borren
+0
+17
+PM Seelaar
+1
+Younis Khan
+8
+E Schiferli
+0
+11
+DP Nannes
+1
+Shahid Afridi
+2nd innings
+Netherlands
+5
+Sohail Tanvir
+0
+8
+Mohammad Amir
+1
+DJ Reekers
+4
+Sohail Tanvir
+0
+8
+Mohammad Amir
+0
+4
+Sohail Tanvir
+0
+8
+Umar Gul
+0
+5
+Saeed Ajmal
+0
+2
+Shahid Afridi
+1
+B Zuiderent
+5
+Saeed Ajmal
+2
+PW Borren
+AN Kervezee
+4
+Shahid Afridi
+0
+8
+Shoaib Malik
+0
+1
+Shahid Afridi
+2
+TN de Grooth
+DLS van Bunge
+10
+Shoaib Malik
+1
+RN ten Doeschate
+4
+Shahid Afridi
+1
+E Schiferli
+6
+Saeed Ajmal
+0
+5
+Umar Gul
+0
+5
+Saeed Ajmal
+1
+DP Nannes
+1
+Umar Gul
+1
+PM Seelaar
+0
+Umar Gul
+0
+0
+Umar Gul
+0

@@ -1,0 +1,144 @@
+Nottingham
+2009-06-08
+wickets: 6
+winner: Sri Lanka
+Australia
+Sri Lanka
+venue: Trent Bridge
+1st innings
+Australia
+1
+AD Mathews
+1
+DA Warner
+7
+ST Jayasuriya
+0
+9
+AD Mathews
+0
+15
+I Udana
+0
+15
+SL Malinga
+0
+1
+BAW Mendis
+1
+RT Ponting
+10
+ST Jayasuriya
+0
+3
+BAW Mendis
+1
+SR Watson
+5
+I Udana
+0
+4
+M Muralitharan
+0
+4
+SL Malinga
+1
+BJ Haddin
+3
+M Muralitharan
+0
+9
+I Udana
+1
+MJ Clarke
+1
+M Muralitharan
+0
+7
+BAW Mendis
+1
+MEK Hussey
+21
+M Muralitharan
+0
+9
+BAW Mendis
+0
+5
+SL Malinga
+0
+18
+I Udana
+1
+DJ Hussey
+12
+SL Malinga
+2
+B Lee
+NM Hauritz
+2nd innings
+Sri Lanka
+8
+B Lee
+0
+11
+MG Johnson
+0
+9
+B Lee
+1
+ST Jayasuriya
+9
+NW Bracken
+0
+16
+SR Watson
+0
+9
+NW Bracken
+0
+5
+MG Johnson
+0
+8
+SR Watson
+0
+6
+NM Hauritz
+0
+5
+MJ Clarke
+1
+TM Dilshan
+3
+NM Hauritz
+0
+6
+MJ Clarke
+0
+3
+NM Hauritz
+1
+DPMD Jayawardene
+8
+MJ Clarke
+0
+16
+NM Hauritz
+0
+5
+NW Bracken
+0
+9
+B Lee
+1
+LPC Silva
+10
+NW Bracken
+0
+13
+B Lee
+0
+1
+MG Johnson
+0

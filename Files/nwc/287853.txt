@@ -1,0 +1,133 @@
+Johannesburg
+2007-09-11
+wickets: 8
+winner: South Africa
+South Africa
+West Indies
+venue: New Wanderers Stadium
+1st innings
+West Indies
+8
+SM Pollock
+0
+6
+M Ntini
+0
+15
+SM Pollock
+0
+13
+M Ntini
+0
+4
+JJ van der Wath
+0
+8
+M Morkel
+0
+14
+JJ van der Wath
+0
+10
+M Morkel
+0
+15
+VD Philander
+0
+16
+JA Morkel
+0
+5
+VD Philander
+0
+17
+GC Smith
+0
+14
+SM Pollock
+0
+6
+VD Philander
+1
+DS Smith
+16
+SM Pollock
+1
+MN Samuels
+10
+M Morkel
+0
+4
+JJ van der Wath
+1
+CH Gayle
+3
+M Morkel
+1
+DR Smith
+12
+JJ van der Wath
+1
+S Chanderpaul
+9
+VD Philander
+1
+RR Sarwan
+2nd innings
+South Africa
+1
+DBL Powell
+0
+7
+R Rampaul
+0
+12
+DBL Powell
+0
+16
+R Rampaul
+0
+14
+DBL Powell
+0
+9
+R Rampaul
+1
+GC Smith
+8
+DBL Powell
+0
+20
+DR Smith
+0
+6
+FH Edwards
+1
+AB de Villiers
+13
+DJ Bravo
+0
+2
+FH Edwards
+0
+12
+DJ Bravo
+0
+17
+DR Smith
+0
+11
+MN Samuels
+0
+21
+R Rampaul
+0
+11
+MN Samuels
+0
+13
+FH Edwards
+0
+15
+DJ Bravo
+0

@@ -1,0 +1,146 @@
+London
+2009-06-19
+runs: 57
+winner: Sri Lanka
+Sri Lanka
+West Indies
+venue: Kennington Oval
+1st innings
+Sri Lanka
+3
+DJG Sammy
+0
+3
+JE Taylor
+0
+6
+DJG Sammy
+0
+11
+JE Taylor
+0
+13
+DJ Bravo
+0
+8
+SJ Benn
+0
+4
+CH Gayle
+0
+2
+SJ Benn
+0
+14
+CH Gayle
+0
+8
+SJ Benn
+0
+2
+DJ Bravo
+2
+ST Jayasuriya
+KC Sangakkara
+3
+KA Pollard
+1
+DPMD Jayawardene
+3
+DJG Sammy
+0
+11
+KA Pollard
+0
+7
+DJG Sammy
+0
+10
+JE Taylor
+0
+18
+DJ Bravo
+0
+6
+SJ Benn
+1
+LPC Silva
+8
+JE Taylor
+1
+J Mubarak
+18
+CH Gayle
+0
+2nd innings
+West Indies
+1
+AD Mathews
+3
+XM Marshall
+LMP Simmons
+DJ Bravo
+1
+I Udana
+0
+5
+AD Mathews
+0
+13
+SL Malinga
+0
+1
+AD Mathews
+0
+8
+I Udana
+0
+5
+BAW Mendis
+0
+9
+AD Mathews
+0
+3
+BAW Mendis
+1
+S Chanderpaul
+8
+M Muralitharan
+0
+10
+SL Malinga
+0
+7
+M Muralitharan
+1
+RR Sarwan
+1
+BAW Mendis
+0
+5
+M Muralitharan
+1
+KA Pollard
+11
+I Udana
+1
+D Ramdin
+9
+M Muralitharan
+1
+JE Taylor
+2
+BAW Mendis
+1
+DJG Sammy
+2
+SL Malinga
+1
+SJ Benn
+0
+SL Malinga
+0
+0
+SL Malinga
+0

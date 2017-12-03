@@ -1,0 +1,143 @@
+none
+2012-02-03
+wickets: 8
+winner: India
+Australia
+India
+venue: Melbourne Cricket Ground
+1st innings
+Australia
+7
+P Kumar
+0
+11
+R Vinay Kumar
+0
+2
+P Kumar
+2
+DA Warner
+SE Marsh
+7
+R Vinay Kumar
+0
+12
+P Kumar
+0
+3
+R Vinay Kumar
+0
+7
+V Kohli
+1
+AJ Finch
+5
+RA Jadeja
+0
+5
+R Sharma
+1
+GJ Bailey
+10
+SK Raina
+0
+7
+R Ashwin
+0
+11
+R Sharma
+0
+4
+R Ashwin
+0
+5
+RA Jadeja
+1
+DJ Hussey
+4
+R Ashwin
+0
+6
+RA Jadeja
+0
+8
+R Ashwin
+0
+7
+R Sharma
+1
+MR Marsh
+4
+R Vinay Kumar
+2
+MS Wade
+CJ McKay
+6
+R Sharma
+2
+GB Hogg
+XJ Doherty
+2nd innings
+India
+6
+B Lee
+0
+5
+CJ McKay
+0
+7
+B Lee
+0
+8
+CJ McKay
+0
+3
+B Lee
+0
+13
+XJ Doherty
+0
+4
+GB Hogg
+1
+V Sehwag
+8
+XJ Doherty
+0
+12
+GB Hogg
+0
+5
+MR Marsh
+0
+6
+DJ Hussey
+0
+8
+XJ Doherty
+0
+8
+CJ McKay
+0
+6
+MR Marsh
+1
+V Kohli
+3
+GB Hogg
+0
+10
+MR Marsh
+0
+8
+B Lee
+0
+9
+MR Marsh
+0
+2
+DJ Hussey
+0
+4
+CJ McKay
+0

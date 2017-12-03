@@ -1,0 +1,129 @@
+London
+2009-06-06
+wickets: 7
+winner: West Indies
+Australia
+West Indies
+venue: Kennington Oval
+1st innings
+Australia
+3
+JE Taylor
+2
+SR Watson
+RT Ponting
+3
+FH Edwards
+0
+9
+JE Taylor
+0
+7
+FH Edwards
+1
+MJ Clarke
+5
+DJ Bravo
+0
+8
+FH Edwards
+0
+5
+SJ Benn
+0
+10
+DJ Bravo
+0
+5
+SJ Benn
+0
+8
+CH Gayle
+0
+15
+SJ Benn
+0
+5
+KA Pollard
+1
+BJ Haddin
+5
+CH Gayle
+0
+12
+KA Pollard
+0
+11
+SJ Benn
+0
+9
+DJ Bravo
+1
+DA Warner
+12
+JE Taylor
+0
+12
+DJ Bravo
+1
+DJ Hussey
+9
+JE Taylor
+0
+16
+FH Edwards
+1
+MG Johnson
+2nd innings
+West Indies
+10
+B Lee
+0
+12
+MG Johnson
+0
+14
+B Lee
+0
+8
+MG Johnson
+0
+27
+B Lee
+0
+12
+NW Bracken
+0
+9
+JR Hopes
+0
+9
+NW Bracken
+0
+4
+JR Hopes
+0
+16
+DJ Hussey
+0
+7
+SR Watson
+0
+7
+MG Johnson
+1
+ADS Fletcher
+6
+SR Watson
+0
+12
+MJ Clarke
+0
+9
+B Lee
+1
+CH Gayle
+10
+MG Johnson
+1
+XM Marshall

@@ -1,0 +1,139 @@
+Dharmasala
+2015-10-02
+wickets: 7
+winner: South Africa
+India
+South Africa
+venue: Himachal Pradesh Cricket Association Stadium
+1st innings
+India
+4
+KJ Abbott
+0
+7
+K Rabada
+0
+10
+M de Lange
+0
+4
+K Rabada
+1
+S Dhawan
+7
+M de Lange
+0
+14
+CH Morris
+0
+5
+Imran Tahir
+0
+14
+CH Morris
+0
+10
+Imran Tahir
+0
+11
+KJ Abbott
+0
+8
+JP Duminy
+0
+21
+Imran Tahir
+0
+14
+K Rabada
+0
+11
+CH Morris
+0
+18
+M de Lange
+0
+4
+KJ Abbott
+2
+V Kohli
+RG Sharma
+8
+K Rabada
+0
+12
+M de Lange
+0
+7
+CH Morris
+2
+SK Raina
+AT Rayudu
+10
+KJ Abbott
+0
+2nd innings
+South Africa
+10
+B Kumar
+0
+14
+S Aravind
+0
+10
+B Kumar
+0
+12
+MM Sharma
+0
+14
+S Aravind
+0
+7
+MM Sharma
+0
+5
+AR Patel
+0
+8
+R Ashwin
+1
+HM Amla
+7
+AR Patel
+0
+6
+R Ashwin
+1
+AB de Villiers
+6
+S Aravind
+1
+F du Plessis
+5
+R Ashwin
+0
+11
+AR Patel
+0
+11
+MM Sharma
+0
+8
+R Ashwin
+0
+22
+AR Patel
+0
+9
+B Kumar
+0
+11
+MM Sharma
+0
+14
+B Kumar
+0
+10
+S Aravind
+0

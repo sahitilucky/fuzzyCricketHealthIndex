@@ -1,0 +1,135 @@
+Abu Dhabi
+2015-11-26
+wickets: 8
+winner: Hong Kong
+Hong Kong
+Oman
+venue: Sheikh Zayed Stadium
+1st innings
+Oman
+3
+Tanwir Afzal
+0
+10
+Haseeb Amjad
+0
+16
+Tanwir Afzal
+0
+6
+Haseeb Amjad
+2
+Khawar Ali
+Aaqib Sulehri
+11
+Nadeem Ahmed
+0
+0
+Aizaz Khan
+1
+Jatinder Singh
+0
+Nadeem Ahmed
+0
+3
+Aizaz Khan
+1
+Zeeshan Maqsood
+2
+Nadeem Ahmed
+0
+5
+Tanwir Afzal
+0
+7
+Anshuman Rath
+0
+4
+Tanwir Afzal
+0
+4
+Anshuman Rath
+0
+9
+Nadeem Ahmed
+0
+13
+Anshuman Rath
+0
+6
+Aizaz Khan
+0
+5
+Anshuman Rath
+0
+22
+Haseeb Amjad
+0
+8
+Aizaz Khan
+0
+15
+Haseeb Amjad
+1
+Adnan Ilyas
+2nd innings
+Hong Kong
+5
+Bilal Khan
+0
+7
+AJ Lalcheta
+1
+KD Shah
+10
+Bilal Khan
+0
+2
+AJ Lalcheta
+0
+4
+Mehran Khan
+1
+Anshuman Rath
+13
+AJ Lalcheta
+0
+3
+Mehran Khan
+0
+10
+Zeeshan Maqsood
+0
+6
+Jatinder Singh
+0
+5
+Mehran Khan
+0
+11
+Jatinder Singh
+0
+12
+Mehran Khan
+0
+9
+Khawar Ali
+0
+7
+AJ Lalcheta
+0
+10
+Aamir Kaleem
+0
+13
+Zeeshan Maqsood
+0
+10
+Aamir Kaleem
+0
+10
+Bilal Khan
+0
+8
+Sufyan Mehmood
+0

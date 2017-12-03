@@ -1,0 +1,143 @@
+none
+2010-02-12
+wickets: 4
+winner: Netherlands
+Afghanistan
+Netherlands
+venue: Dubai International Cricket Stadium
+1st innings
+Afghanistan
+7
+Mudassar Bukhari
+0
+10
+RN ten Doeschate
+0
+6
+MBS Jonkman
+0
+7
+Mudassar Bukhari
+0
+2
+MBS Jonkman
+2
+Karim Sadiq
+Nawroz Mangal
+5
+RN ten Doeschate
+1
+Mohammad Nabi
+10
+PM Seelaar
+0
+4
+PW Borren
+1
+Mohammad Shahzad
+2
+PM Seelaar
+0
+6
+PW Borren
+0
+4
+PM Seelaar
+0
+8
+PW Borren
+0
+4
+Mohammad Kashif
+0
+7
+PW Borren
+0
+4
+Mohammad Kashif
+1
+Raees Ahmadzai
+3
+MBS Jonkman
+1
+Noor Ali Zadran
+9
+PM Seelaar
+1
+Shafiqullah
+6
+Mudassar Bukhari
+0
+13
+MBS Jonkman
+0
+11
+Mudassar Bukhari
+2
+Samiullah Shenwari
+Mirwais Ashraf
+2nd innings
+Netherlands
+7
+Shapoor Zadran
+0
+7
+Mirwais Ashraf
+0
+14
+Shapoor Zadran
+0
+5
+Mirwais Ashraf
+0
+4
+Karim Sadiq
+0
+10
+Mirwais Ashraf
+0
+4
+Karim Sadiq
+0
+5
+Samiullah Shenwari
+0
+8
+Mohammad Nabi
+1
+AN Kervezee
+6
+Samiullah Shenwari
+0
+4
+Mohammad Nabi
+1
+ES Szwarczynski
+16
+Samiullah Shenwari
+1
+B Zuiderent
+6
+Hamid Hassan
+0
+8
+Karim Sadiq
+0
+5
+Hamid Hassan
+0
+4
+Mohammad Nabi
+1
+DLS van Bunge
+5
+Hamid Hassan
+2
+PW Borren
+AF Buurman
+8
+Mohammad Nabi
+0
+6
+Hamid Hassan
+0

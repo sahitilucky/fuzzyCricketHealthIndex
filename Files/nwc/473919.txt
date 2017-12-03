@@ -1,0 +1,147 @@
+Hamilton
+2010-12-28
+runs: 39
+winner: New Zealand
+New Zealand
+Pakistan
+venue: Seddon Park
+1st innings
+New Zealand
+1
+Abdul Razzaq
+1
+JD Ryder
+4
+Shoaib Akhtar
+0
+15
+Abdul Razzaq
+0
+14
+Shoaib Akhtar
+0
+7
+Umar Gul
+0
+11
+Wahab Riaz
+0
+2
+Shahid Afridi
+0
+7
+Wahab Riaz
+0
+11
+Shahid Afridi
+0
+11
+Saeed Ajmal
+0
+7
+Shahid Afridi
+0
+4
+Saeed Ajmal
+1
+MJ Guptill
+2
+Shahid Afridi
+1
+JEC Franklin
+5
+Shoaib Akhtar
+0
+16
+Umar Gul
+0
+19
+Shoaib Akhtar
+1
+SB Styris
+12
+Saeed Ajmal
+0
+25
+Umar Gul
+0
+4
+Wahab Riaz
+1
+PD McGlashan
+8
+Saeed Ajmal
+2
+NL McCullum
+KD Mills
+2nd innings
+Pakistan
+10
+JEC Franklin
+0
+14
+KD Mills
+1
+Shahid Afridi
+3
+TG Southee
+0
+9
+KD Mills
+0
+11
+TG Southee
+0
+11
+IG Butler
+0
+2
+LJ Woodcock
+0
+8
+IG Butler
+1
+Ahmed Shehzad
+4
+LJ Woodcock
+1
+Mohammad Hafeez
+4
+NL McCullum
+1
+Younis Khan
+6
+LJ Woodcock
+0
+3
+NL McCullum
+0
+11
+LJ Woodcock
+0
+2
+NL McCullum
+1
+Asad Shafiq
+9
+IG Butler
+0
+7
+NL McCullum
+2
+Abdul Razzaq
+Umar Gul
+7
+IG Butler
+0
+8
+TG Southee
+0
+11
+KD Mills
+0
+6
+TG Southee
+2
+Umar Akmal
+Wahab Riaz

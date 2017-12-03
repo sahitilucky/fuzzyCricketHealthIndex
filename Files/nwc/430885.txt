@@ -1,0 +1,142 @@
+Chandigarh
+2009-12-12
+wickets: 6
+winner: India
+India
+Sri Lanka
+venue: 'Punjab Cricket Association Stadium, Mohali'
+1st innings
+Sri Lanka
+10
+A Nehra
+0
+8
+I Sharma
+1
+TM Dilshan
+11
+S Tyagi
+0
+14
+I Sharma
+0
+18
+A Nehra
+0
+12
+YK Pathan
+0
+10
+SK Raina
+0
+9
+YK Pathan
+1
+ST Jayasuriya
+5
+RA Jadeja
+0
+10
+S Tyagi
+0
+14
+Yuvraj Singh
+1
+KC Sangakkara
+11
+RA Jadeja
+0
+10
+I Sharma
+1
+DPMD Jayawardene
+10
+RA Jadeja
+0
+5
+Yuvraj Singh
+1
+CK Kapugedera
+10
+YK Pathan
+0
+4
+Yuvraj Singh
+2
+CU Jayasinghe
+K Weeraratne
+7
+RA Jadeja
+0
+12
+I Sharma
+0
+16
+A Nehra
+0
+2nd innings
+India
+9
+K Weeraratne
+0
+7
+KMDN Kulasekara
+0
+13
+K Weeraratne
+0
+9
+KMDN Kulasekara
+0
+9
+SL Malinga
+0
+11
+KMDN Kulasekara
+1
+G Gambhir
+8
+CRD Fernando
+0
+16
+AD Mathews
+0
+8
+CRD Fernando
+0
+14
+AD Mathews
+0
+4
+SL Malinga
+1
+V Sehwag
+13
+AD Mathews
+0
+21
+K Weeraratne
+0
+9
+SL Malinga
+0
+8
+CRD Fernando
+0
+23
+KMDN Kulasekara
+0
+6
+CRD Fernando
+1
+MS Dhoni
+7
+SL Malinga
+0
+10
+TM Dilshan
+1
+SK Raina
+6
+AD Mathews
+0

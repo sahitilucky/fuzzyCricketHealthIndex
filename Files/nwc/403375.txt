@@ -1,0 +1,146 @@
+Colombo
+2009-08-12
+runs: 52
+winner: Pakistan
+Sri Lanka
+Pakistan
+venue: R Premadasa Stadium
+1st innings
+Pakistan
+2
+KMDN Kulasekara
+1
+Kamran Akmal
+17
+T Thushara
+0
+9
+KMDN Kulasekara
+0
+7
+SL Malinga
+1
+Shoaib Malik
+13
+KMDN Kulasekara
+0
+1
+SL Malinga
+0
+7
+M Muralitharan
+0
+4
+T Thushara
+1
+Imran Nazir
+6
+AD Mathews
+0
+10
+ST Jayasuriya
+0
+14
+AD Mathews
+0
+6
+M Muralitharan
+0
+13
+T Thushara
+0
+11
+M Muralitharan
+0
+5
+AD Mathews
+1
+Umar Akmal
+14
+SL Malinga
+0
+3
+T Thushara
+1
+Shahid Afridi
+9
+M Muralitharan
+0
+14
+KMDN Kulasekara
+0
+7
+SL Malinga
+0
+2nd innings
+Sri Lanka
+10
+Mohammad Amir
+0
+7
+Naved-ul-Hasan
+0
+12
+Mohammad Amir
+0
+10
+Naved-ul-Hasan
+1
+ML Udawatte
+2
+Mohammad Amir
+1
+ST Jayasuriya
+14
+Iftikhar Anjum
+0
+9
+Saeed Ajmal
+0
+4
+Shahid Afridi
+0
+6
+Iftikhar Anjum
+1
+DPMD Jayawardene
+6
+Shahid Afridi
+0
+4
+Iftikhar Anjum
+0
+5
+Shahid Afridi
+0
+11
+Iftikhar Anjum
+0
+2
+Saeed Ajmal
+1
+KC Sangakkara
+7
+Shahid Afridi
+1
+CK Kapugedera
+6
+Saeed Ajmal
+2
+AD Mathews
+SHT Kandamby
+3
+Naved-ul-Hasan
+1
+KMDN Kulasekara
+2
+Saeed Ajmal
+1
+M Muralitharan
+0
+Naved-ul-Hasan
+1
+T Thushara
+0
+Naved-ul-Hasan
+0

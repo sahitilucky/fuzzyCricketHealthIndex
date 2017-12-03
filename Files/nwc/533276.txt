@@ -1,0 +1,142 @@
+none
+2012-09-21
+runs: 59
+winner: New Zealand
+Bangladesh
+New Zealand
+venue: Pallekele International Cricket Stadium
+1st innings
+New Zealand
+8
+Mashrafe Mortaza
+0
+8
+Shafiul Islam
+0
+2
+Mashrafe Mortaza
+0
+3
+Abdur Razzak
+1
+MJ Guptill
+8
+Mashrafe Mortaza
+0
+5
+Abdur Razzak
+0
+11
+Shafiul Islam
+0
+11
+Shakib Al Hasan
+0
+13
+Mahmudullah
+0
+6
+Elias Sunny
+0
+9
+Shakib Al Hasan
+0
+13
+Elias Sunny
+0
+12
+Ziaur Rahman
+0
+4
+Abdur Razzak
+0
+10
+Mashrafe Mortaza
+1
+JEC Franklin
+5
+Shakib Al Hasan
+0
+15
+Shafiul Islam
+0
+15
+Shakib Al Hasan
+0
+17
+Elias Sunny
+0
+16
+Abdur Razzak
+1
+BB McCullum
+2nd innings
+Bangladesh
+9
+KD Mills
+1
+Tamim Iqbal
+5
+TG Southee
+0
+5
+KD Mills
+1
+Shakib Al Hasan
+10
+JDP Oram
+0
+5
+KD Mills
+1
+Mushfiqur Rahim
+3
+JDP Oram
+0
+0
+TG Southee
+1
+Mohammad Ashraful
+6
+DL Vettori
+0
+4
+NL McCullum
+0
+7
+DL Vettori
+0
+5
+NL McCullum
+0
+10
+DL Vettori
+0
+5
+NL McCullum
+0
+12
+JDP Oram
+0
+1
+NL McCullum
+1
+Mahmudullah
+10
+DL Vettori
+0
+14
+KD Mills
+0
+8
+TG Southee
+1
+Nasir Hossain
+9
+JDP Oram
+1
+Mashrafe Mortaza
+4
+TG Southee
+1
+Elias Sunny

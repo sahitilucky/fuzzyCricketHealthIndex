@@ -1,0 +1,143 @@
+Khulna
+2016-01-20
+runs: 31
+winner: Zimbabwe
+Bangladesh
+Zimbabwe
+venue: Sheikh Abu Naser Stadium
+1st innings
+Zimbabwe
+7
+Abu Hider
+0
+4
+Mohammad Shahid
+0
+18
+Abu Hider
+0
+16
+Mohammad Shahid
+1
+H Masakadza
+7
+Muktar Ali
+0
+7
+Mashrafe Mortaza
+0
+13
+Shakib Al Hasan
+0
+8
+Mashrafe Mortaza
+0
+2
+Shakib Al Hasan
+1
+R Mutumbami
+5
+Mosaddek Hossain
+0
+3
+Shakib Al Hasan
+1
+V Sibanda
+6
+Mosaddek Hossain
+0
+6
+Abu Hider
+0
+10
+Muktar Ali
+0
+17
+Mahmudullah
+0
+12
+Mohammad Shahid
+0
+14
+Mashrafe Mortaza
+0
+14
+Shakib Al Hasan
+1
+MN Waller
+8
+Mashrafe Mortaza
+0
+10
+Abu Hider
+2
+SC Williams
+Sikandar Raza
+2nd innings
+Bangladesh
+2
+TS Chisoro
+1
+Imrul Kayes
+13
+BV Vitori
+0
+7
+TS Chisoro
+0
+11
+T Muzarabani
+0
+9
+BV Vitori
+0
+12
+T Muzarabani
+0
+13
+SC Williams
+0
+2
+AG Cremer
+1
+Soumya Sarkar
+5
+SC Williams
+0
+7
+AG Cremer
+0
+10
+SC Williams
+0
+4
+Sikandar Raza
+1
+Sabbir Rahman
+3
+TS Chisoro
+0
+4
+Sikandar Raza
+1
+Mosaddek Hossain
+7
+AG Cremer
+2
+Shakib Al Hasan
+Mahmudullah
+4
+TS Chisoro
+0
+2
+AG Cremer
+0
+11
+BV Vitori
+0
+18
+T Muzarabani
+0
+12
+BV Vitori
+0

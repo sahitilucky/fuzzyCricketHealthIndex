@@ -1,0 +1,143 @@
+Chittagong
+2014-03-29
+runs: 3
+winner: South Africa
+England
+South Africa
+venue: Zahur Ahmed Chowdhury Stadium
+1st innings
+South Africa
+6
+MM Ali
+0
+11
+JW Dernbach
+0
+11
+MM Ali
+0
+7
+JW Dernbach
+0
+7
+TT Bresnan
+0
+10
+CJ Jordan
+0
+8
+JC Tredwell
+0
+8
+SCJ Broad
+0
+6
+JC Tredwell
+0
+11
+RS Bopara
+0
+5
+SCJ Broad
+1
+HM Amla
+7
+RS Bopara
+0
+11
+JC Tredwell
+1
+Q de Kock
+8
+SCJ Broad
+0
+5
+CJ Jordan
+1
+JP Duminy
+7
+TT Bresnan
+0
+13
+SCJ Broad
+0
+26
+JW Dernbach
+0
+15
+CJ Jordan
+1
+DA Miller
+14
+TT Bresnan
+1
+JA Morkel
+2nd innings
+England
+9
+JP Duminy
+0
+13
+JA Morkel
+0
+8
+BE Hendricks
+0
+10
+DW Steyn
+0
+7
+WD Parnell
+1
+MJ Lumb
+15
+BE Hendricks
+0
+9
+Imran Tahir
+0
+4
+WD Parnell
+2
+AD Hales
+MM Ali
+9
+JP Duminy
+0
+8
+JA Morkel
+0
+7
+Imran Tahir
+0
+6
+DW Steyn
+0
+6
+Imran Tahir
+1
+EJG Morgan
+17
+BE Hendricks
+0
+5
+Imran Tahir
+1
+JC Buttler
+9
+WD Parnell
+0
+10
+DW Steyn
+0
+11
+WD Parnell
+0
+12
+BE Hendricks
+1
+CJ Jordan
+18
+DW Steyn
+1
+RS Bopara

@@ -1,0 +1,147 @@
+Colombo
+2012-10-07
+runs: 36
+winner: West Indies
+Sri Lanka
+West Indies
+venue: R Premadasa Stadium
+1st innings
+West Indies
+0
+AD Mathews
+1
+J Charles
+1
+KMDN Kulasekara
+0
+1
+AD Mathews
+0
+6
+KMDN Kulasekara
+0
+4
+SL Malinga
+0
+2
+BAW Mendis
+1
+CH Gayle
+4
+AD Mathews
+0
+4
+BAW Mendis
+0
+7
+AD Mathews
+0
+3
+A Dananjaya
+0
+6
+BMAJ Mendis
+0
+10
+A Dananjaya
+0
+21
+SL Malinga
+0
+4
+BAW Mendis
+1
+DJ Bravo
+14
+BMAJ Mendis
+0
+2
+BAW Mendis
+2
+KA Pollard
+AD Russell
+19
+SL Malinga
+0
+4
+A Dananjaya
+1
+MN Samuels
+10
+SL Malinga
+0
+15
+KMDN Kulasekara
+0
+2nd innings
+Sri Lanka
+6
+S Badree
+0
+5
+R Rampaul
+1
+TM Dilshan
+4
+MN Samuels
+0
+8
+S Badree
+0
+3
+MN Samuels
+0
+4
+R Rampaul
+0
+6
+CH Gayle
+0
+3
+SP Narine
+0
+8
+CH Gayle
+0
+4
+S Badree
+1
+KC Sangakkara
+2
+DJG Sammy
+1
+AD Mathews
+7
+S Badree
+0
+4
+SP Narine
+2
+DPMD Jayawardene
+BMAJ Mendis
+4
+MN Samuels
+1
+NLTC Perera
+4
+DJG Sammy
+1
+HDRL Thirimanne
+22
+R Rampaul
+0
+3
+SP Narine
+1
+KMDN Kulasekara
+4
+MN Samuels
+1
+BAW Mendis
+0
+SP Narine
+1
+SL Malinga
+0
+SP Narine
+0

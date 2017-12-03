@@ -1,0 +1,144 @@
+Johannesburg
+2009-03-27
+wickets: 4
+winner: South Africa
+South Africa
+Australia
+venue: New Wanderers Stadium
+1st innings
+Australia
+2
+DW Steyn
+0
+3
+WD Parnell
+1
+MJ Clarke
+11
+DW Steyn
+0
+1
+JA Morkel
+1
+RT Ponting
+7
+WD Parnell
+0
+16
+JA Morkel
+0
+7
+J Botha
+0
+12
+RJ Peterson
+0
+11
+J Botha
+0
+1
+RJ Peterson
+3
+DA Warner
+MEK Hussey
+BJ Haddin
+3
+J Botha
+0
+4
+RJ Peterson
+0
+9
+JA Morkel
+0
+4
+J Botha
+0
+12
+WD Parnell
+0
+13
+RJ Peterson
+1
+CL White
+11
+JA Morkel
+0
+15
+DW Steyn
+0
+7
+WD Parnell
+1
+MG Johnson
+17
+DW Steyn
+0
+2nd innings
+South Africa
+7
+MG Johnson
+0
+17
+SM Harwood
+0
+2
+MG Johnson
+0
+10
+B Geeves
+1
+HH Gibbs
+10
+SM Harwood
+0
+2
+B Geeves
+1
+AB de Villiers
+5
+DJ Hussey
+0
+4
+JR Hopes
+0
+7
+DJ Hussey
+1
+HM Amla
+5
+JR Hopes
+0
+3
+DJ Hussey
+0
+11
+JR Hopes
+1
+JP Duminy
+7
+DJ Hussey
+1
+VB van Jaarsveld
+7
+MG Johnson
+0
+8
+SM Harwood
+0
+15
+B Geeves
+0
+21
+JR Hopes
+0
+5
+MG Johnson
+1
+JA Morkel
+14
+SM Harwood
+0
+8
+B Geeves
+0

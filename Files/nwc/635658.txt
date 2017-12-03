@@ -1,0 +1,146 @@
+Colombo
+2013-08-02
+runs: 12
+winner: South Africa
+Sri Lanka
+South Africa
+venue: R Premadasa Stadium
+1st innings
+South Africa
+6
+SL Malinga
+0
+1
+SMSM Senanayake
+1
+Q de Kock
+3
+AD Mathews
+0
+3
+SMSM Senanayake
+1
+H Davids
+6
+AD Mathews
+0
+4
+SMSM Senanayake
+1
+F du Plessis
+4
+TM Dilshan
+0
+11
+NLTC Perera
+0
+6
+SL Malinga
+0
+6
+BAW Mendis
+0
+1
+AD Mathews
+1
+AB de Villiers
+5
+TM Dilshan
+0
+3
+AD Mathews
+0
+6
+TM Dilshan
+0
+10
+BAW Mendis
+0
+6
+SMSM Senanayake
+0
+9
+SL Malinga
+0
+12
+BAW Mendis
+0
+5
+SL Malinga
+1
+DA Miller
+8
+BAW Mendis
+1
+JP Duminy
+2nd innings
+Sri Lanka
+7
+LL Tsotsobe
+0
+6
+M Morkel
+0
+2
+LL Tsotsobe
+0
+9
+M Morkel
+1
+MDKJ Perera
+3
+LL Tsotsobe
+1
+LD Chandimal
+2
+WD Parnell
+0
+6
+Imran Tahir
+0
+6
+WD Parnell
+0
+3
+Imran Tahir
+0
+2
+JP Duminy
+1
+TM Dilshan
+6
+Imran Tahir
+0
+9
+JP Duminy
+0
+8
+D Wiese
+0
+3
+JP Duminy
+2
+AD Mathews
+BMAJ Mendis
+7
+H Davids
+0
+4
+JP Duminy
+0
+7
+Imran Tahir
+1
+HDRL Thirimanne
+5
+M Morkel
+1
+NLTC Perera
+0
+WD Parnell
+2
+SMSM Senanayake
+SL Malinga
+8
+M Morkel
+0

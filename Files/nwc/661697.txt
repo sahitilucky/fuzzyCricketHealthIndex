@@ -1,0 +1,139 @@
+Wellington
+2014-01-15
+wickets: 4
+winner: New Zealand
+New Zealand
+West Indies
+venue: Westpac Stadium
+1st innings
+West Indies
+2
+MJ McClenaghan
+0
+4
+AF Milne
+0
+10
+MJ McClenaghan
+0
+6
+AF Milne
+1
+J Charles
+5
+JDS Neesham
+0
+10
+MJ McClenaghan
+1
+LMP Simmons
+12
+CJ Anderson
+0
+4
+NL McCullum
+0
+11
+JDS Neesham
+0
+2
+NL McCullum
+1
+DJ Bravo
+6
+AF Milne
+1
+CAK Walton
+4
+NL McCullum
+0
+10
+CJ Anderson
+0
+7
+NL McCullum
+0
+8
+MJ McClenaghan
+0
+19
+CJ Anderson
+0
+7
+AF Milne
+0
+15
+JDS Neesham
+1
+ADS Fletcher
+9
+CJ Anderson
+0
+8
+JDS Neesham
+0
+2nd innings
+New Zealand
+8
+JO Holder
+1
+MJ Guptill
+17
+TL Best
+0
+11
+JO Holder
+1
+JD Ryder
+6
+TL Best
+0
+7
+DJ Bravo
+0
+4
+SP Narine
+1
+BB McCullum
+7
+DJ Bravo
+0
+9
+NO Miller
+0
+4
+AD Russell
+1
+C Munro
+5
+SP Narine
+0
+3
+AD Russell
+1
+CJ Anderson
+4
+NO Miller
+0
+9
+AD Russell
+0
+12
+NO Miller
+0
+17
+DJ Bravo
+0
+7
+SP Narine
+0
+15
+JO Holder
+0
+2
+SP Narine
+1
+LRPL Taylor
+16
+TL Best
+0

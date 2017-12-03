@@ -1,0 +1,142 @@
+Lahore
+2015-05-24
+wickets: 2
+winner: Pakistan
+Pakistan
+Zimbabwe
+venue: Gaddafi Stadium
+1st innings
+Zimbabwe
+8
+Anwar Ali
+0
+5
+Mohammad Sami
+0
+13
+Bilawal Bhatti
+0
+7
+Mohammad Sami
+0
+6
+Imad Wasim
+0
+11
+Bilawal Bhatti
+0
+9
+Imad Wasim
+0
+7
+Shahid Afridi
+0
+4
+Shoaib Malik
+1
+H Masakadza
+13
+Shahid Afridi
+0
+4
+Shoaib Malik
+0
+13
+Anwar Ali
+0
+5
+Shoaib Malik
+0
+10
+Anwar Ali
+0
+10
+Shoaib Malik
+0
+7
+Bilawal Bhatti
+0
+12
+Shahid Afridi
+1
+V Sibanda
+20
+Mohammad Sami
+0
+4
+Shahid Afridi
+0
+7
+Mohammad Sami
+1
+E Chigumbura
+2nd innings
+Pakistan
+3
+CB Mpofu
+0
+15
+BV Vitori
+0
+14
+CB Mpofu
+0
+8
+SC Williams
+0
+4
+BV Vitori
+1
+Ahmed Shehzad
+3
+SC Williams
+0
+14
+P Utseya
+0
+19
+AG Cremer
+0
+4
+P Utseya
+1
+Nauman Anwar
+8
+AG Cremer
+0
+6
+P Utseya
+1
+Shoaib Malik
+8
+Sikandar Raza
+0
+7
+P Utseya
+0
+11
+Sikandar Raza
+1
+Mukhtar Ahmed
+15
+SC Williams
+1
+Shahid Afridi
+5
+BV Vitori
+0
+9
+CB Mpofu
+1
+Umar Akmal
+6
+SC Williams
+1
+Anwar Ali
+5
+CB Mpofu
+1
+Mohammad Rizwan
+12
+BV Vitori
+0

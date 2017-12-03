@@ -1,0 +1,147 @@
+Edinburgh
+2015-07-11
+runs: 32
+winner: Netherlands
+Scotland
+Netherlands
+venue: 'Grange Cricket Club Ground, Raeburn Place'
+1st innings
+Netherlands
+7
+AC Evans
+0
+9
+SM Sharif
+0
+4
+AC Evans
+1
+SJ Myburgh
+14
+JH Davey
+0
+5
+SM Sharif
+0
+8
+JH Davey
+0
+6
+MRJ Watt
+0
+19
+MA Leask
+0
+11
+MRJ Watt
+0
+14
+RD Berrington
+0
+6
+AC Evans
+2
+W Barresi
+BN Cooper
+4
+MA Leask
+0
+5
+MRJ Watt
+1
+MR Swart
+10
+MA Leask
+0
+13
+SM Sharif
+0
+8
+JH Davey
+0
+19
+MRJ Watt
+0
+13
+SM Sharif
+0
+7
+AC Evans
+2
+RE van der Merwe
+PW Borren
+9
+JH Davey
+0
+2nd innings
+Scotland
+8
+T van der Gugten
+1
+HG Munsey
+8
+Mudassar Bukhari
+1
+KJ Coetzer
+6
+T van der Gugten
+0
+10
+Mudassar Bukhari
+0
+15
+MAA Jamil
+0
+1
+RE van der Merwe
+1
+MH Cross
+5
+PM Seelaar
+1
+RD Berrington
+5
+MJG Rippon
+0
+6
+PM Seelaar
+1
+CS MacLeod
+5
+MJG Rippon
+0
+7
+RE van der Merwe
+1
+JH Davey
+4
+MJG Rippon
+1
+MA Leask
+8
+PM Seelaar
+0
+14
+MJG Rippon
+0
+8
+MAA Jamil
+0
+4
+RE van der Merwe
+0
+20
+MAA Jamil
+0
+10
+RE van der Merwe
+0
+11
+T van der Gugten
+0
+4
+Mudassar Bukhari
+3
+SM Sharif
+AC Evans
+MRJ Watt

@@ -1,0 +1,141 @@
+Belfast
+2008-08-04
+wickets: 4
+winner: Ireland
+Ireland
+Kenya
+venue: 'Civil Service Cricket Club, Stormont'
+1st innings
+Kenya
+8
+PC Connell
+1
+MA Ouma
+4
+KJ O'Brien
+1
+NN Odhiambo
+1
+PC Connell
+0
+2
+KJ O'Brien
+1
+KO Otieno
+4
+PC Connell
+0
+3
+KJ O'Brien
+0
+5
+PC Connell
+1
+AA Obanda
+8
+KJ O'Brien
+0
+3
+AR Cusack
+0
+10
+AC Botha
+1
+SO Tikolo
+0
+AR Cusack
+2
+RG Aga
+JK Kamande
+4
+AC Botha
+0
+4
+DT Johnston
+0
+1
+AC Botha
+2
+TM Odoyo
+PJ Ongondo
+1
+AR Cusack
+0
+6
+AC Botha
+0
+3
+DT Johnston
+0
+0
+WK McCallan
+1
+AO Suji
+2nd innings
+Ireland
+2
+TM Odoyo
+0
+0
+PJ Ongondo
+0
+1
+TM Odoyo
+2
+WTS Porterfield
+GC Wilson
+1
+PJ Ongondo
+0
+6
+TM Odoyo
+0
+3
+PJ Ongondo
+0
+6
+RG Aga
+0
+3
+PJ Ongondo
+0
+1
+RG Aga
+0
+12
+AO Suji
+0
+4
+RG Aga
+0
+3
+JK Kamande
+1
+AC Botha
+3
+RG Aga
+2
+AR White
+AR Cusack
+4
+JK Kamande
+0
+0
+AO Suji
+0
+0
+JK Kamande
+1
+NJ O'Brien
+9
+AO Suji
+0
+4
+JK Kamande
+0
+4
+TM Odoyo
+0
+6
+AO Suji
+0

@@ -1,0 +1,133 @@
+Wellington
+2010-02-26
+wickets: 6
+winner: Australia
+New Zealand
+Australia
+venue: Westpac Stadium
+1st innings
+New Zealand
+2
+SW Tait
+1
+BB McCullum
+5
+DP Nannes
+0
+1
+SW Tait
+0
+5
+DP Nannes
+0
+5
+MG Johnson
+1
+PJ Ingram
+11
+DP Nannes
+0
+5
+MG Johnson
+1
+LRPL Taylor
+3
+SPD Smith
+0
+6
+DJ Hussey
+0
+6
+SPD Smith
+0
+5
+MG Johnson
+1
+MJ Guptill
+4
+SR Watson
+0
+14
+DT Christian
+0
+9
+SR Watson
+0
+16
+SW Tait
+0
+7
+SR Watson
+1
+GJ Hopkins
+5
+MG Johnson
+0
+2
+DP Nannes
+2
+JDP Oram
+NL McCullum
+3
+SW Tait
+1
+JEC Franklin
+4
+SR Watson
+2
+DL Vettori
+DR Tuffey
+2nd innings
+Australia
+10
+SE Bond
+0
+18
+DR Tuffey
+0
+10
+SE Bond
+1
+DA Warner
+1
+DL Vettori
+1
+SR Watson
+4
+SE Bond
+1
+MG Johnson
+4
+DL Vettori
+0
+9
+DR Tuffey
+0
+6
+JDP Oram
+0
+6
+NL McCullum
+0
+9
+JDP Oram
+0
+13
+NL McCullum
+0
+5
+DL Vettori
+0
+8
+SE Bond
+0
+3
+DL Vettori
+0
+2
+NL McCullum
+1
+DJ Hussey
+11
+MJ Guptill
+0

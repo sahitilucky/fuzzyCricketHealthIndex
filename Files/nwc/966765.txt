@@ -1,0 +1,105 @@
+Mirpur
+2016-03-06
+wickets: 8
+winner: India
+Bangladesh
+India
+venue: Shere Bangla National Stadium
+1st innings
+Bangladesh
+5
+R Ashwin
+0
+6
+A Nehra
+0
+3
+JJ Bumrah
+0
+13
+A Nehra
+1
+Soumya Sarkar
+3
+JJ Bumrah
+1
+Tamim Iqbal
+5
+R Ashwin
+0
+12
+RA Jadeja
+0
+11
+HH Pandya
+0
+6
+RA Jadeja
+0
+4
+R Ashwin
+1
+Shakib Al Hasan
+3
+HH Pandya
+0
+7
+RA Jadeja
+2
+Mushfiqur Rahim
+Mashrafe Mortaza
+14
+A Nehra
+0
+21
+HH Pandya
+0
+7
+JJ Bumrah
+0
+2nd innings
+India
+5
+Taskin Ahmed
+0
+3
+Al-Amin Hossain
+1
+RG Sharma
+4
+Taskin Ahmed
+0
+7
+Al-Amin Hossain
+0
+14
+Abu Hider
+0
+15
+Shakib Al Hasan
+0
+7
+Mashrafe Mortaza
+0
+4
+Nasir Hossain
+0
+9
+Mashrafe Mortaza
+0
+3
+Nasir Hossain
+0
+11
+Shakib Al Hasan
+0
+15
+Nasir Hossain
+0
+5
+Taskin Ahmed
+1
+S Dhawan
+20
+Al-Amin Hossain
+0

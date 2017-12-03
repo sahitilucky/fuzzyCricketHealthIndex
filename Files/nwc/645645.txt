@@ -1,0 +1,146 @@
+St Vincent
+2013-07-27
+wickets: 2
+winner: Pakistan
+West Indies
+Pakistan
+venue: 'Arnos Vale Ground, Kingstown'
+1st innings
+West Indies
+3
+Mohammad Hafeez
+1
+J Charles
+9
+Mohammad Irfan
+0
+1
+Mohammad Hafeez
+1
+CH Gayle
+14
+Mohammad Irfan
+0
+10
+Zulfiqar Babar
+1
+LMP Simmons
+4
+Saeed Ajmal
+0
+7
+Zulfiqar Babar
+1
+MN Samuels
+3
+Shahid Afridi
+0
+4
+Zulfiqar Babar
+0
+10
+Shahid Afridi
+0
+4
+Saeed Ajmal
+0
+8
+Shahid Afridi
+0
+7
+Saeed Ajmal
+0
+5
+Shahid Afridi
+0
+7
+Junaid Khan
+0
+2
+Zulfiqar Babar
+1
+DJ Bravo
+10
+Junaid Khan
+0
+8
+Saeed Ajmal
+0
+20
+Junaid Khan
+0
+16
+Mohammad Irfan
+2
+DJG Sammy
+SP Narine
+2nd innings
+Pakistan
+10
+ST Gabriel
+1
+Nasir Jamshed
+4
+S Badree
+1
+Ahmed Shehzad
+15
+ST Gabriel
+0
+7
+S Badree
+0
+9
+SP Narine
+1
+Mohammad Hafeez
+16
+S Badree
+0
+5
+TL Best
+0
+7
+MN Samuels
+0
+6
+TL Best
+1
+Umar Akmal
+3
+MN Samuels
+0
+4
+DJG Sammy
+0
+13
+MN Samuels
+1
+Umar Amin
+4
+TL Best
+0
+4
+SP Narine
+0
+9
+ST Gabriel
+1
+Hammad Azam
+8
+SP Narine
+0
+10
+TL Best
+0
+3
+SP Narine
+0
+10
+ST Gabriel
+1
+Shahid Afridi
+11
+MN Samuels
+1
+Saeed Ajmal

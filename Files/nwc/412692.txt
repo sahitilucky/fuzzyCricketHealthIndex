@@ -1,0 +1,142 @@
+Barbados
+2010-05-07
+runs: 57
+winner: Sri Lanka
+West Indies
+Sri Lanka
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+Sri Lanka
+2
+KAJ Roach
+0
+5
+JE Taylor
+0
+3
+KAJ Roach
+1
+ST Jayasuriya
+14
+JE Taylor
+0
+14
+DJ Bravo
+0
+9
+SJ Benn
+0
+8
+DJ Bravo
+0
+9
+SJ Benn
+0
+10
+DJG Sammy
+0
+8
+KA Pollard
+0
+13
+DJG Sammy
+0
+11
+KA Pollard
+0
+9
+JE Taylor
+0
+9
+KA Pollard
+0
+8
+SJ Benn
+0
+10
+KA Pollard
+0
+15
+SJ Benn
+0
+12
+KAJ Roach
+0
+14
+DJ Bravo
+1
+KC Sangakkara
+12
+KAJ Roach
+1
+CK Kapugedera
+2nd innings
+West Indies
+8
+KMDN Kulasekara
+0
+14
+AD Mathews
+1
+S Chanderpaul
+2
+KMDN Kulasekara
+1
+CH Gayle
+4
+AD Mathews
+0
+5
+KMDN Kulasekara
+0
+8
+BAW Mendis
+0
+7
+NLTC Perera
+0
+10
+M Muralitharan
+0
+6
+NLTC Perera
+0
+8
+M Muralitharan
+0
+6
+SL Malinga
+1
+DJ Bravo
+4
+M Muralitharan
+0
+1
+BAW Mendis
+1
+RR Sarwan
+6
+M Muralitharan
+0
+6
+SL Malinga
+0
+10
+BAW Mendis
+1
+KA Pollard
+11
+SL Malinga
+1
+ADS Fletcher
+5
+BAW Mendis
+1
+WW Hinds
+5
+SL Malinga
+1
+DJG Sammy
+12
+KMDN Kulasekara
+0

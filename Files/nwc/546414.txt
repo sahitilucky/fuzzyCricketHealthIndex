@@ -1,0 +1,102 @@
+none
+2012-03-14
+wickets: 10
+winner: Ireland
+Ireland
+Kenya
+venue: Dubai International Cricket Stadium
+1st innings
+Kenya
+6
+WB Rankin
+1
+AA Obanda
+1
+DT Johnston
+0
+6
+WB Rankin
+2
+DI Allan
+CO Obuya
+2
+DT Johnston
+0
+8
+WB Rankin
+0
+6
+DT Johnston
+1
+NN Odhiambo
+4
+AR Cusack
+1
+RR Patel
+5
+DT Johnston
+0
+1
+AR Cusack
+1
+RG Aga
+4
+JF Mooney
+0
+3
+WB Rankin
+0
+7
+GH Dockrell
+0
+6
+JF Mooney
+0
+4
+GH Dockrell
+0
+1
+JF Mooney
+2
+T Mishra
+DO Obuya
+3
+GH Dockrell
+1
+SO Ngoche
+0
+JF Mooney
+0
+2
+AR Cusack
+0
+2
+GH Dockrell
+1
+JO Ngoche
+2nd innings
+Ireland
+6
+NN Odhiambo
+0
+3
+RG Aga
+0
+15
+NN Odhiambo
+0
+9
+JO Ngoche
+0
+6
+RG Aga
+0
+21
+DI Allan
+0
+8
+SO Ngoche
+0
+4
+HA Varaiya
+0

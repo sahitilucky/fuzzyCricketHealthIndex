@@ -1,0 +1,146 @@
+London
+2011-09-25
+runs: 25
+winner: West Indies
+England
+West Indies
+venue: Kennington Oval
+1st innings
+West Indies
+2
+TT Bresnan
+0
+6
+SR Patel
+0
+6
+TT Bresnan
+0
+6
+JW Dernbach
+1
+DR Smith
+4
+TT Bresnan
+0
+1
+SR Patel
+1
+MC Bascombe
+4
+SG Borthwick
+0
+9
+SR Patel
+0
+5
+SG Borthwick
+1
+J Charles
+1
+GP Swann
+0
+3
+SG Borthwick
+0
+7
+GP Swann
+0
+3
+SG Borthwick
+0
+5
+RS Bopara
+0
+6
+SR Patel
+1
+CD Barnwell
+6
+RS Bopara
+0
+10
+JW Dernbach
+0
+14
+RS Bopara
+1
+DJG Sammy
+4
+JW Dernbach
+0
+11
+RS Bopara
+0
+2nd innings
+England
+5
+K Santokie
+0
+2
+GE Mathurin
+0
+6
+K Santokie
+1
+AD Hales
+3
+GE Mathurin
+1
+C Kieswetter
+6
+K Santokie
+0
+4
+GE Mathurin
+1
+RS Bopara
+16
+D Bishoo
+0
+3
+GE Mathurin
+1
+JM Bairstow
+2
+D Bishoo
+0
+8
+DJG Sammy
+1
+SR Patel
+1
+D Bishoo
+1
+BA Stokes
+4
+AD Russell
+1
+TT Bresnan
+7
+DR Smith
+0
+10
+AD Russell
+0
+7
+DR Smith
+1
+JC Buttler
+1
+DJG Sammy
+1
+SG Borthwick
+3
+D Bishoo
+1
+JW Dernbach
+0
+D Bishoo
+0
+0
+D Bishoo
+0
+0
+D Bishoo
+0

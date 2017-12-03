@@ -1,0 +1,144 @@
+Nottingham
+2009-06-06
+runs: 25
+winner: India
+Bangladesh
+India
+venue: Trent Bridge
+1st innings
+India
+11
+Mashrafe Mortaza
+0
+5
+Rubel Hossain
+0
+3
+Mashrafe Mortaza
+0
+14
+Shahadat Hossain
+0
+8
+Mashrafe Mortaza
+0
+13
+Rubel Hossain
+0
+5
+Mahmudullah
+0
+3
+Shakib Al Hasan
+1
+RG Sharma
+8
+Shahadat Hossain
+0
+6
+Shakib Al Hasan
+0
+10
+Mahmudullah
+0
+7
+Shakib Al Hasan
+0
+10
+Naeem Islam
+0
+7
+Mashrafe Mortaza
+0
+3
+Naeem Islam
+1
+MS Dhoni
+8
+Shakib Al Hasan
+0
+19
+Naeem Islam
+1
+G Gambhir
+17
+Rubel Hossain
+0
+9
+Shahadat Hossain
+1
+Yuvraj Singh
+14
+Rubel Hossain
+1
+SK Raina
+2nd innings
+Bangladesh
+10
+Z Khan
+0
+10
+IK Pathan
+0
+8
+YK Pathan
+1
+Tamim Iqbal
+10
+Z Khan
+0
+10
+YK Pathan
+0
+7
+I Sharma
+1
+Mohammad Ashraful
+8
+YK Pathan
+0
+11
+Harbhajan Singh
+0
+4
+PP Ojha
+2
+Shakib Al Hasan
+Junaid Siddique
+4
+Harbhajan Singh
+0
+3
+PP Ojha
+0
+6
+I Sharma
+0
+5
+PP Ojha
+1
+Mahmudullah
+6
+Harbhajan Singh
+0
+9
+PP Ojha
+1
+Mashrafe Mortaza
+8
+I Sharma
+0
+6
+Z Khan
+1
+Raqibul Hasan
+5
+Harbhajan Singh
+0
+10
+IK Pathan
+0
+15
+I Sharma
+1
+Naeem Islam

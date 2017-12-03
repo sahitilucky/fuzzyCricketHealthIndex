@@ -1,0 +1,109 @@
+none
+2012-03-22
+wickets: 10
+winner: Ireland
+Canada
+Ireland
+venue: Dubai International Cricket Stadium
+1st innings
+Canada
+1
+DT Johnston
+1
+H Patel
+9
+WB Rankin
+0
+2
+DT Johnston
+0
+5
+WB Rankin
+0
+5
+DT Johnston
+0
+13
+MC Sorensen
+0
+3
+DT Johnston
+1
+NR Kumar
+3
+PR Stirling
+0
+4
+GH Dockrell
+1
+AS Hansra
+8
+WB Rankin
+0
+2
+GH Dockrell
+1
+R Gunasekera
+0
+MC Sorensen
+1
+Rizwan Cheema
+7
+GH Dockrell
+0
+5
+WB Rankin
+0
+2
+MC Sorensen
+1
+HS Baidwan
+7
+PR Stirling
+0
+5
+MC Sorensen
+1
+RA Bhatti
+10
+PR Stirling
+0
+6
+GH Dockrell
+1
+TG Gordon
+9
+PR Stirling
+0
+2nd innings
+Ireland
+15
+H Osinde
+0
+8
+Junaid Siddiqui
+0
+15
+H Osinde
+0
+8
+Junaid Siddiqui
+0
+18
+Rizwan Cheema
+0
+18
+Junaid Siddiqui
+0
+11
+HS Baidwan
+0
+7
+Zahid Hussain
+0
+5
+HS Baidwan
+0
+4
+Zahid Hussain
+0

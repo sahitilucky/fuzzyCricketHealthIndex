@@ -1,0 +1,142 @@
+Trinidad
+2011-06-04
+runs: 16
+winner: India
+West Indies
+India
+venue: "Queen's Park Oval, Port of Spain"
+1st innings
+India
+3
+R Rampaul
+0
+6
+AD Russell
+0
+4
+DJG Sammy
+1
+S Dhawan
+6
+R Rampaul
+0
+7
+DJG Sammy
+0
+20
+AD Russell
+0
+2
+DJG Sammy
+2
+V Kohli
+PA Patel
+6
+AR Nurse
+0
+3
+DJG Sammy
+1
+SK Raina
+6
+AR Nurse
+0
+5
+D Bishoo
+0
+3
+AR Nurse
+0
+4
+D Bishoo
+0
+8
+AR Nurse
+0
+4
+CD Barnwell
+0
+15
+R Rampaul
+0
+12
+D Bishoo
+0
+20
+CD Barnwell
+1
+RG Sharma
+10
+D Bishoo
+1
+S Badrinath
+15
+R Rampaul
+0
+2nd innings
+West Indies
+0
+P Kumar
+0
+2
+Harbhajan Singh
+0
+10
+P Kumar
+0
+10
+R Ashwin
+1
+LMP Simmons
+8
+MM Patel
+1
+ADS Fletcher
+1
+R Ashwin
+0
+6
+Harbhajan Singh
+0
+3
+YK Pathan
+0
+10
+Harbhajan Singh
+0
+2
+YK Pathan
+0
+8
+MM Patel
+0
+2
+R Ashwin
+0
+7
+MM Patel
+0
+4
+YK Pathan
+0
+12
+P Kumar
+0
+7
+Harbhajan Singh
+2
+MN Samuels
+DM Bravo
+5
+P Kumar
+1
+DJG Sammy
+19
+R Ashwin
+0
+13
+MM Patel
+0
+14
+YK Pathan
+0

@@ -1,0 +1,146 @@
+Cape Town
+2016-02-19
+wickets: 3
+winner: South Africa
+South Africa
+England
+venue: Newlands
+1st innings
+England
+10
+KJ Abbott
+0
+12
+K Rabada
+0
+14
+KJ Abbott
+0
+3
+K Rabada
+1
+JJ Roy
+6
+CH Morris
+0
+5
+K Rabada
+0
+3
+Imran Tahir
+1
+AD Hales
+5
+D Wiese
+1
+JE Root
+12
+Imran Tahir
+1
+BA Stokes
+4
+D Wiese
+0
+4
+CH Morris
+0
+2
+D Wiese
+0
+1
+Imran Tahir
+2
+EJG Morgan
+MM Ali
+8
+D Wiese
+0
+5
+Imran Tahir
+0
+12
+CH Morris
+0
+4
+KJ Abbott
+1
+CJ Jordan
+10
+CH Morris
+0
+5
+KJ Abbott
+1
+AU Rashid
+9
+K Rabada
+0
+2nd innings
+South Africa
+11
+DJ Willey
+0
+3
+RJW Topley
+0
+8
+DJ Willey
+0
+9
+RJW Topley
+0
+4
+CJ Jordan
+1
+AB de Villiers
+0
+BA Stokes
+1
+HM Amla
+8
+CJ Jordan
+0
+7
+BA Stokes
+0
+7
+AU Rashid
+0
+4
+BA Stokes
+0
+4
+AU Rashid
+0
+9
+BA Stokes
+0
+5
+AU Rashid
+1
+JP Duminy
+4
+MM Ali
+0
+8
+AU Rashid
+0
+7
+MM Ali
+1
+F du Plessis
+5
+CJ Jordan
+0
+11
+MM Ali
+1
+RR Rossouw
+6
+CJ Jordan
+2
+DA Miller
+D Wiese
+15
+RJW Topley
+0

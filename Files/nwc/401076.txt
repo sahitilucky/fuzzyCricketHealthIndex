@@ -1,0 +1,136 @@
+St Kitts
+2009-08-02
+wickets: 5
+winner: West Indies
+West Indies
+Bangladesh
+venue: 'Warner Park, Basseterre'
+1st innings
+Bangladesh
+11
+GC Tonge
+0
+1
+DJG Sammy
+2
+Junaid Siddique
+Mohammad Ashraful
+1
+GC Tonge
+1
+Tamim Iqbal
+12
+DJG Sammy
+0
+10
+GC Tonge
+0
+8
+NO Miller
+1
+Shakib Al Hasan
+3
+KAJ Roach
+0
+5
+NO Miller
+0
+7
+DE Bernard
+1
+Naeem Islam
+4
+NO Miller
+1
+Mushfiqur Rahim
+4
+DE Bernard
+0
+5
+NO Miller
+1
+Raqibul Hasan
+6
+KAJ Roach
+0
+3
+GC Tonge
+0
+6
+DE Bernard
+0
+6
+DJG Sammy
+1
+Mehrab Hossain jnr
+8
+KAJ Roach
+0
+2
+DE Bernard
+0
+2
+KAJ Roach
+1
+Mahmudullah
+14
+DJG Sammy
+0
+2nd innings
+West Indies
+3
+Shakib Al Hasan
+1
+DM Richards
+12
+Naeem Islam
+0
+2
+Shakib Al Hasan
+0
+15
+Mahmudullah
+0
+4
+Shakib Al Hasan
+0
+10
+Nazmul Hossain
+1
+ADS Fletcher
+9
+Mehrab Hossain jnr
+0
+9
+Nazmul Hossain
+0
+4
+Rubel Hossain
+1
+DS Smith
+9
+Naeem Islam
+0
+2
+Rubel Hossain
+0
+4
+Shakib Al Hasan
+0
+7
+Rubel Hossain
+0
+5
+Mohammad Ashraful
+0
+6
+Mehrab Hossain jnr
+0
+13
+Mohammad Ashraful
+2
+FL Reifer
+DJG Sammy
+5
+Mehrab Hossain jnr
+0

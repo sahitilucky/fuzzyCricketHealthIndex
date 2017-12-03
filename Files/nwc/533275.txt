@@ -1,0 +1,118 @@
+Hambantota
+2012-09-20
+wickets: 10
+winner: South Africa
+South Africa
+Zimbabwe
+venue: 'Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa'
+1st innings
+Zimbabwe
+1
+DW Steyn
+0
+2
+M Morkel
+1
+V Sibanda
+1
+DW Steyn
+0
+7
+M Morkel
+1
+BRM Taylor
+6
+JA Morkel
+1
+H Masakadza
+4
+M Morkel
+0
+5
+J Botha
+0
+8
+RJ Peterson
+0
+9
+J Botha
+0
+8
+JA Morkel
+0
+0
+JH Kallis
+2
+S Matsikenyeri
+E Chigumbura
+6
+JA Morkel
+0
+1
+DW Steyn
+0
+3
+JH Kallis
+1
+AG Cremer
+4
+M Morkel
+0
+4
+J Botha
+0
+6
+DW Steyn
+1
+P Utseya
+5
+JH Kallis
+1
+CR Ervine
+6
+JA Morkel
+0
+7
+JH Kallis
+0
+2nd innings
+South Africa
+15
+KM Jarvis
+0
+9
+BV Vitori
+0
+7
+RW Price
+0
+7
+KM Jarvis
+0
+6
+RW Price
+0
+12
+BV Vitori
+0
+4
+P Utseya
+0
+4
+AG Cremer
+0
+9
+P Utseya
+0
+6
+AG Cremer
+0
+9
+RW Price
+0
+3
+KM Jarvis
+0
+3
+S Matsikenyeri
+0

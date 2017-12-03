@@ -1,0 +1,136 @@
+Pune
+2012-12-20
+wickets: 5
+winner: India
+India
+England
+venue: Subrata Roy Sahara Stadium
+1st innings
+England
+9
+AB Dinda
+0
+0
+R Ashwin
+0
+12
+P Awana
+0
+6
+R Ashwin
+1
+MJ Lumb
+12
+RA Jadeja
+0
+12
+R Ashwin
+0
+15
+PP Chawla
+0
+10
+V Kohli
+0
+5
+Yuvraj Singh
+0
+8
+AB Dinda
+0
+4
+Yuvraj Singh
+1
+LJ Wright
+5
+RA Jadeja
+0
+3
+Yuvraj Singh
+2
+AD Hales
+EJG Morgan
+5
+PP Chawla
+0
+7
+Yuvraj Singh
+0
+4
+PP Chawla
+0
+6
+RA Jadeja
+0
+15
+R Ashwin
+0
+2
+AB Dinda
+2
+SR Patel
+TT Bresnan
+17
+P Awana
+0
+2nd innings
+India
+9
+JW Dernbach
+0
+12
+TT Bresnan
+0
+16
+JW Dernbach
+0
+4
+SC Meaker
+0
+3
+TT Bresnan
+2
+G Gambhir
+AM Rahane
+8
+SC Meaker
+0
+5
+JC Tredwell
+0
+18
+DR Briggs
+0
+8
+JC Tredwell
+0
+10
+LJ Wright
+1
+Yuvraj Singh
+7
+JC Tredwell
+0
+9
+LJ Wright
+0
+6
+SC Meaker
+1
+V Kohli
+11
+JC Tredwell
+0
+6
+JW Dernbach
+0
+5
+LJ Wright
+0
+11
+TT Bresnan
+0
+10
+SC Meaker
+1
+SK Raina

@@ -1,0 +1,138 @@
+Chester-le-Street
+2012-09-08
+wickets: 7
+winner: South Africa
+England
+South Africa
+venue: Riverside Ground
+1st innings
+England
+9
+RJ Peterson
+0
+1
+DW Steyn
+0
+14
+LL Tsotsobe
+0
+4
+JA Morkel
+1
+AD Hales
+8
+LL Tsotsobe
+0
+4
+JA Morkel
+0
+7
+J Botha
+1
+C Kieswetter
+3
+DW Steyn
+1
+RS Bopara
+9
+J Botha
+0
+5
+JH Kallis
+0
+3
+J Botha
+1
+EJG Morgan
+7
+JH Kallis
+0
+3
+RJ Peterson
+1
+JC Buttler
+4
+JA Morkel
+1
+JM Bairstow
+2
+J Botha
+0
+3
+RJ Peterson
+1
+SR Patel
+3
+DW Steyn
+0
+12
+RJ Peterson
+0
+9
+JH Kallis
+0
+8
+DW Steyn
+0
+2nd innings
+South Africa
+8
+ST Finn
+0
+5
+JW Dernbach
+1
+RE Levi
+1
+ST Finn
+1
+F du Plessis
+15
+JW Dernbach
+1
+AB de Villiers
+5
+ST Finn
+0
+6
+SCJ Broad
+0
+10
+RS Bopara
+0
+3
+GP Swann
+0
+1
+SCJ Broad
+0
+7
+GP Swann
+0
+11
+SR Patel
+0
+4
+GP Swann
+0
+8
+ST Finn
+0
+3
+GP Swann
+0
+5
+SCJ Broad
+0
+7
+JW Dernbach
+0
+6
+SCJ Broad
+0
+10
+RS Bopara
+0
+4
+JW Dernbach
+0

@@ -1,0 +1,147 @@
+Abu Dhabi
+2016-02-16
+runs: 5
+winner: United Arab Emirates
+United Arab Emirates
+Ireland
+venue: Sheikh Zayed Stadium
+1st innings
+United Arab Emirates
+1
+TJ Murtagh
+0
+6
+MC Sorensen
+0
+7
+TJ Murtagh
+0
+9
+WB Rankin
+1
+Muhammad Kaleem
+7
+SR Thompson
+0
+2
+MC Sorensen
+1
+Rohan Mustafa
+17
+SR Thompson
+0
+1
+WB Rankin
+1
+Shaiman Anwar
+6
+GH Dockrell
+0
+5
+PR Stirling
+0
+7
+GH Dockrell
+0
+4
+WB Rankin
+1
+Mohammad Shahzad (2)
+10
+PR Stirling
+0
+6
+MC Sorensen
+1
+Muhammad Usman
+8
+GH Dockrell
+0
+8
+TJ Murtagh
+0
+17
+GH Dockrell
+0
+3
+WB Rankin
+1
+Amjad Javed
+3
+MC Sorensen
+1
+SP Patil
+6
+TJ Murtagh
+0
+2nd innings
+Ireland
+8
+Mohammad Naveed
+0
+10
+Qadeer Ahmed
+0
+3
+Mohammad Naveed
+0
+14
+Qadeer Ahmed
+0
+8
+Amjad Javed
+0
+11
+Rohan Mustafa
+0
+7
+Amjad Javed
+1
+PR Stirling
+5
+Rohan Mustafa
+0
+5
+Amjad Javed
+0
+6
+Rohan Mustafa
+0
+4
+Ahmed Raza
+0
+8
+Rohan Mustafa
+0
+3
+Ahmed Raza
+1
+SW Poynter
+4
+Mohammad Naveed
+1
+GC Wilson
+8
+Ahmed Raza
+0
+1
+Mohammad Naveed
+1
+NJ O'Brien
+4
+Ahmed Raza
+1
+A Balbirnie
+8
+Mohammad Shahzad (2)
+1
+SR Thompson
+8
+Amjad Javed
+1
+WTS Porterfield
+3
+Mohammad Shahzad (2)
+2
+MC Sorensen
+GH Dockrell

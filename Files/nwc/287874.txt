@@ -1,0 +1,114 @@
+Cape Town
+2007-09-20
+wickets: 10
+winner: Australia
+Australia
+Sri Lanka
+venue: Newlands
+1st innings
+Sri Lanka
+7
+B Lee
+1
+ST Jayasuriya
+2
+NW Bracken
+1
+WU Tharanga
+2
+B Lee
+1
+DPMD Jayawardene
+4
+NW Bracken
+0
+6
+MG Johnson
+0
+5
+SR Clark
+1
+LPC Silva
+2
+MG Johnson
+0
+6
+SR Clark
+1
+TM Dilshan
+5
+MG Johnson
+0
+4
+SR Clark
+2
+KC Sangakkara
+MF Maharoof
+12
+B Lee
+0
+5
+SR Clark
+0
+5
+SR Watson
+0
+7
+NW Bracken
+0
+5
+SR Watson
+0
+5
+MG Johnson
+0
+4
+SR Watson
+1
+J Mubarak
+6
+B Lee
+0
+8
+SR Watson
+1
+WPUJC Vaas
+1
+NW Bracken
+1
+CRD Fernando
+2nd innings
+Australia
+9
+WPUJC Vaas
+0
+2
+CRD Fernando
+0
+12
+WPUJC Vaas
+0
+6
+CRD Fernando
+0
+15
+MF Maharoof
+0
+10
+CRD Fernando
+0
+19
+MF Maharoof
+0
+5
+TM Dilshan
+0
+8
+SL Malinga
+0
+8
+TM Dilshan
+0
+8
+J Mubarak
+0

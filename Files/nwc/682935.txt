@@ -1,0 +1,148 @@
+Mirpur
+2014-03-25
+runs: 73
+winner: West Indies
+Bangladesh
+West Indies
+venue: Shere Bangla National Stadium
+1st innings
+West Indies
+11
+Mashrafe Mortaza
+0
+3
+Al-Amin Hossain
+0
+7
+Mashrafe Mortaza
+0
+10
+Sohag Gazi
+0
+3
+Mashrafe Mortaza
+0
+2
+Sohag Gazi
+0
+8
+Al-Amin Hossain
+0
+9
+Sohag Gazi
+0
+4
+Mashrafe Mortaza
+0
+17
+Sohag Gazi
+0
+12
+Sabbir Rahman
+0
+11
+Mahmudullah
+1
+DR Smith
+5
+Shakib Al Hasan
+1
+LMP Simmons
+10
+Mahmudullah
+0
+4
+Shakib Al Hasan
+0
+7
+Mahmudullah
+0
+20
+Shakib Al Hasan
+0
+8
+Al-Amin Hossain
+0
+16
+Ziaur Rahman
+1
+CH Gayle
+4
+Al-Amin Hossain
+4
+MN Samuels
+AD Russell
+DJ Bravo
+D Ramdin
+2nd innings
+Bangladesh
+9
+S Badree
+0
+4
+K Santokie
+0
+3
+S Badree
+1
+Tamim Iqbal
+3
+K Santokie
+2
+Anamul Haque
+Shakib Al Hasan
+1
+S Badree
+0
+9
+MN Samuels
+0
+6
+DJG Sammy
+0
+5
+SP Narine
+0
+11
+DJ Bravo
+0
+6
+SP Narine
+1
+Mominul Haque
+2
+S Badree
+3
+Sabbir Rahman
+Mushfiqur Rahim
+Mahmudullah
+4
+SP Narine
+0
+3
+K Santokie
+0
+4
+DJ Bravo
+0
+4
+AD Russell
+1
+Ziaur Rahman
+3
+SP Narine
+0
+6
+AD Russell
+0
+8
+DJ Bravo
+0
+7
+K Santokie
+1
+Mashrafe Mortaza
+0
+AD Russell
+1
+Sohag Gazi

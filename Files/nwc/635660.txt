@@ -1,0 +1,135 @@
+Hambantota
+2013-08-06
+wickets: 6
+winner: Sri Lanka
+Sri Lanka
+South Africa
+venue: 'Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa'
+1st innings
+South Africa
+7
+KMDN Kulasekara
+1
+H Davids
+2
+RAS Lakmal
+0
+6
+KMDN Kulasekara
+0
+5
+SMSM Senanayake
+0
+10
+RAS Lakmal
+0
+5
+SMSM Senanayake
+0
+10
+NLTC Perera
+0
+4
+BAW Mendis
+1
+Q de Kock
+15
+AD Mathews
+0
+8
+TM Dilshan
+0
+7
+BAW Mendis
+0
+13
+TM Dilshan
+0
+8
+BAW Mendis
+0
+3
+SMSM Senanayake
+0
+9
+RAS Lakmal
+0
+7
+SMSM Senanayake
+0
+14
+KMDN Kulasekara
+0
+12
+BAW Mendis
+0
+10
+KMDN Kulasekara
+0
+8
+RAS Lakmal
+1
+F du Plessis
+2nd innings
+Sri Lanka
+14
+LL Tsotsobe
+0
+14
+M Morkel
+0
+8
+LL Tsotsobe
+0
+11
+WD Parnell
+0
+15
+LL Tsotsobe
+0
+5
+WD Parnell
+1
+DPMD Jayawardene
+4
+Imran Tahir
+0
+7
+D Wiese
+1
+MDKJ Perera
+9
+Imran Tahir
+0
+3
+D Wiese
+0
+2
+M Morkel
+0
+6
+D Wiese
+0
+4
+Imran Tahir
+1
+LD Chandimal
+12
+LL Tsotsobe
+0
+4
+Imran Tahir
+0
+8
+D Wiese
+1
+AD Mathews
+11
+M Morkel
+0
+21
+WD Parnell
+0
+6
+M Morkel
+0

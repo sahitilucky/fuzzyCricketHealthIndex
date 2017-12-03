@@ -1,0 +1,143 @@
+none
+2014-03-17
+wickets: 3
+winner: Ireland
+Ireland
+Zimbabwe
+venue: Sylhet Stadium
+1st innings
+Zimbabwe
+4
+PR Stirling
+0
+12
+AR Cusack
+1
+Sikandar Raza
+7
+PR Stirling
+0
+12
+MC Sorensen
+0
+6
+GH Dockrell
+0
+15
+AR Cusack
+0
+10
+AR McBrine
+1
+H Masakadza
+6
+GH Dockrell
+0
+7
+AR McBrine
+1
+SC Williams
+6
+PR Stirling
+0
+5
+AR McBrine
+0
+9
+PR Stirling
+0
+5
+AR McBrine
+0
+6
+KJ O'Brien
+0
+5
+GH Dockrell
+1
+V Sibanda
+14
+KJ O'Brien
+0
+2
+GH Dockrell
+1
+BRM Taylor
+9
+AR Cusack
+0
+6
+KJ O'Brien
+0
+17
+AR Cusack
+0
+2nd innings
+Ireland
+8
+P Utseya
+0
+8
+T Kamungozi
+0
+3
+TL Chatara
+0
+12
+P Utseya
+0
+12
+TL Chatara
+0
+18
+T Panyangara
+0
+6
+SC Williams
+0
+12
+H Masakadza
+0
+10
+SC Williams
+1
+WTS Porterfield
+10
+P Utseya
+0
+3
+TL Chatara
+1
+PR Stirling
+9
+SC Williams
+0
+9
+T Kamungozi
+0
+8
+H Masakadza
+0
+1
+T Panyangara
+2
+AD Poynter
+GC Wilson
+8
+P Utseya
+0
+4
+SC Williams
+0
+16
+T Panyangara
+1
+KJ O'Brien
+3
+TL Chatara
+0
+4
+T Panyangara
+2
+EC Joyce
+MC Sorensen

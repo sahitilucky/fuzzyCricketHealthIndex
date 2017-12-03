@@ -1,0 +1,145 @@
+Manchester
+2011-08-31
+wickets: 6
+winner: England
+England
+India
+venue: Old Trafford
+1st innings
+India
+7
+TT Bresnan
+0
+7
+JW Dernbach
+0
+9
+TT Bresnan
+0
+11
+SCJ Broad
+0
+6
+JW Dernbach
+1
+PA Patel
+9
+SCJ Broad
+0
+6
+SR Patel
+0
+10
+GP Swann
+0
+6
+SR Patel
+0
+8
+GP Swann
+0
+22
+SR Patel
+0
+4
+RS Bopara
+1
+R Dravid
+5
+SCJ Broad
+2
+AM Rahane
+V Kohli
+7
+GP Swann
+1
+RG Sharma
+12
+SCJ Broad
+0
+3
+GP Swann
+0
+17
+TT Bresnan
+0
+13
+JW Dernbach
+2
+MS Dhoni
+R Ashwin
+2
+TT Bresnan
+1
+SK Raina
+1
+JW Dernbach
+2
+P Kumar
+MM Patel
+2nd innings
+England
+3
+P Kumar
+1
+AD Hales
+7
+R Vinay Kumar
+0
+7
+P Kumar
+0
+17
+MM Patel
+0
+9
+R Vinay Kumar
+0
+15
+R Ashwin
+0
+2
+MM Patel
+1
+C Kieswetter
+4
+V Kohli
+1
+KP Pietersen
+17
+RG Sharma
+0
+9
+V Kohli
+0
+4
+R Ashwin
+0
+10
+V Kohli
+0
+6
+R Ashwin
+0
+12
+P Kumar
+0
+12
+R Ashwin
+0
+3
+MM Patel
+1
+EJG Morgan
+9
+P Kumar
+0
+7
+R Vinay Kumar
+0
+3
+MM Patel
+0
+13
+R Vinay Kumar
+0

@@ -1,0 +1,146 @@
+Barbados
+2010-05-07
+runs: 49
+winner: Australia
+Australia
+India
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+Australia
+0
+Harbhajan Singh
+0
+12
+A Nehra
+0
+4
+Harbhajan Singh
+0
+19
+RA Jadeja
+0
+8
+Harbhajan Singh
+0
+10
+Z Khan
+0
+5
+YK Pathan
+0
+13
+Z Khan
+0
+5
+YK Pathan
+0
+19
+RA Jadeja
+0
+10
+YK Pathan
+1
+SR Watson
+8
+A Nehra
+0
+15
+YK Pathan
+0
+14
+Yuvraj Singh
+1
+DA Warner
+3
+Harbhajan Singh
+0
+16
+Z Khan
+0
+6
+Yuvraj Singh
+1
+BJ Haddin
+6
+A Nehra
+1
+DJ Hussey
+6
+Z Khan
+0
+5
+A Nehra
+1
+MEK Hussey
+2nd innings
+India
+2
+DP Nannes
+0
+8
+SW Tait
+0
+2
+DP Nannes
+2
+M Vijay
+G Gambhir
+5
+SW Tait
+1
+SK Raina
+6
+DP Nannes
+1
+Yuvraj Singh
+1
+SR Watson
+0
+11
+MG Johnson
+0
+2
+SPD Smith
+1
+MS Dhoni
+5
+MG Johnson
+1
+YK Pathan
+5
+SPD Smith
+0
+13
+SR Watson
+1
+RA Jadeja
+5
+SW Tait
+0
+8
+MG Johnson
+0
+17
+SPD Smith
+0
+17
+SR Watson
+1
+Harbhajan Singh
+10
+SPD Smith
+0
+15
+DP Nannes
+0
+3
+SW Tait
+2
+Z Khan
+A Nehra
+0
+SW Tait
+0
+0
+SW Tait
+0

@@ -1,0 +1,137 @@
+Durban
+2015-08-14
+wickets: 6
+winner: South Africa
+South Africa
+New Zealand
+venue: Kingsmead
+1st innings
+New Zealand
+5
+KJ Abbott
+0
+3
+K Rabada
+0
+11
+KJ Abbott
+0
+14
+M Morkel
+0
+12
+K Rabada
+0
+11
+M Morkel
+0
+7
+D Wiese
+0
+5
+AM Phangiso
+1
+KS Williamson
+8
+D Wiese
+0
+10
+AM Phangiso
+0
+9
+M Morkel
+0
+5
+K Rabada
+0
+6
+D Wiese
+2
+MJ Guptill
+C Munro
+12
+AM Phangiso
+0
+6
+D Wiese
+1
+GD Elliott
+3
+AM Phangiso
+1
+GH Worker
+10
+KJ Abbott
+0
+3
+M Morkel
+1
+L Ronchi
+2
+KJ Abbott
+0
+9
+K Rabada
+2
+TWM Latham
+NL McCullum
+2nd innings
+South Africa
+3
+DAJ Bracewell
+0
+2
+AF Milne
+0
+10
+DAJ Bracewell
+0
+16
+MJ McClenaghan
+0
+4
+AF Milne
+0
+5
+DAJ Bracewell
+1
+MN van Wyk
+12
+GH Worker
+0
+7
+NL McCullum
+0
+9
+MJ McClenaghan
+0
+11
+NL McCullum
+0
+7
+GH Worker
+1
+AB de Villiers
+3
+NL McCullum
+0
+12
+GD Elliott
+0
+9
+KS Williamson
+0
+12
+AF Milne
+0
+14
+NL McCullum
+0
+10
+MJ McClenaghan
+1
+RR Rossouw
+6
+AF Milne
+1
+HM Amla

@@ -1,0 +1,110 @@
+Johannesburg
+2013-11-20
+runs: 4
+method: D/L
+South Africa
+Pakistan
+venue: New Wanderers Stadium
+1st innings
+South Africa
+9
+Anwar Ali
+0
+4
+Sohail Tanvir
+0
+13
+Anwar Ali
+0
+15
+Sohail Tanvir
+0
+12
+Junaid Khan
+0
+7
+Mohammad Hafeez
+0
+9
+Bilawal Bhatti
+0
+4
+Mohammad Hafeez
+1
+HM Amla
+4
+Shahid Afridi
+0
+6
+Mohammad Hafeez
+1
+Q de Kock
+4
+Shahid Afridi
+1
+H Davids
+6
+Bilawal Bhatti
+0
+5
+Shahid Afridi
+0
+8
+Mohammad Hafeez
+0
+1
+Shahid Afridi
+0
+4
+Bilawal Bhatti
+1
+JP Duminy
+6
+Junaid Khan
+1
+F du Plessis
+17
+Bilawal Bhatti
+1
+WD Parnell
+6
+Junaid Khan
+1
+DW Steyn
+13
+Sohail Tanvir
+0
+2nd innings
+Pakistan
+9
+LL Tsotsobe
+0
+8
+DW Steyn
+0
+2
+LL Tsotsobe
+1
+Ahmed Shehzad
+8
+DW Steyn
+0
+3
+LL Tsotsobe
+0
+10
+M Morkel
+0
+9
+LL Tsotsobe
+0
+2
+JP Duminy
+1
+Nasir Jamshed
+8
+Imran Tahir
+0
+1
+JP Duminy
+0

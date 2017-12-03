@@ -1,0 +1,144 @@
+Durban
+2015-01-14
+runs: 69
+winner: South Africa
+South Africa
+West Indies
+venue: Kingsmead
+1st innings
+South Africa
+1
+SS Cottrell
+0
+16
+CR Brathwaite
+0
+4
+SS Cottrell
+0
+17
+AD Russell
+0
+15
+CR Brathwaite
+0
+9
+AR Nurse
+0
+11
+CR Brathwaite
+0
+13
+AR Nurse
+0
+6
+DJ Bravo
+0
+4
+MN Samuels
+0
+3
+DJ Bravo
+0
+9
+MN Samuels
+0
+4
+KA Pollard
+1
+RR Hendricks
+9
+MN Samuels
+0
+9
+KA Pollard
+0
+7
+AD Russell
+0
+14
+SS Cottrell
+0
+7
+DJ Bravo
+1
+D Wiese
+14
+SS Cottrell
+1
+RR Rossouw
+23
+DJ Bravo
+0
+2nd innings
+West Indies
+3
+KJ Abbott
+0
+15
+M de Lange
+0
+4
+KJ Abbott
+0
+23
+WD Parnell
+0
+3
+M de Lange
+0
+9
+AM Phangiso
+1
+DR Smith
+3
+D Wiese
+1
+MN Samuels
+4
+AM Phangiso
+0
+5
+D Wiese
+1
+LMP Simmons
+3
+WD Parnell
+1
+ADS Fletcher
+6
+JP Duminy
+0
+4
+AM Phangiso
+0
+11
+D Wiese
+1
+DJ Bravo
+7
+WD Parnell
+1
+AD Russell
+6
+M de Lange
+0
+6
+AM Phangiso
+0
+4
+D Wiese
+2
+DJG Sammy
+CR Brathwaite
+7
+KJ Abbott
+0
+3
+M de Lange
+2
+AR Nurse
+SS Cottrell
+0
+M de Lange
+0

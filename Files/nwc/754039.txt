@@ -1,0 +1,149 @@
+none
+2014-12-05
+runs: 17
+winner: New Zealand
+New Zealand
+Pakistan
+venue: Dubai International Cricket Stadium
+1st innings
+New Zealand
+1
+Anwar Ali
+0
+2
+Sohail Tanvir
+0
+12
+Anwar Ali
+0
+9
+Sohail Tanvir
+0
+8
+Umar Gul
+0
+11
+Raza Hasan
+0
+6
+Mohammad Hafeez
+1
+AP Devcich
+3
+Shahid Afridi
+1
+DG Brownlie
+3
+Raza Hasan
+0
+3
+Shahid Afridi
+1
+KS Williamson
+4
+Umar Gul
+0
+14
+Mohammad Hafeez
+0
+2
+Raza Hasan
+1
+LRPL Taylor
+7
+Shahid Afridi
+0
+8
+Raza Hasan
+0
+20
+Shahid Afridi
+0
+4
+Umar Gul
+1
+TWM Latham
+10
+Sohail Tanvir
+1
+L Ronchi
+8
+Umar Gul
+1
+DL Vettori
+9
+Sohail Tanvir
+1
+NL McCullum
+2nd innings
+Pakistan
+3
+AP Devcich
+1
+Sarfraz Ahmed
+12
+MJ Henry
+0
+3
+AP Devcich
+1
+Mohammad Hafeez
+4
+KD Mills
+0
+2
+MJ Henry
+1
+Haris Sohail
+8
+KD Mills
+0
+5
+AP Devcich
+0
+8
+NL McCullum
+0
+7
+DL Vettori
+0
+5
+NL McCullum
+0
+5
+DL Vettori
+0
+4
+JDS Neesham
+1
+Saad Nasim
+5
+AP Devcich
+0
+3
+NL McCullum
+0
+17
+DL Vettori
+1
+Ahmed Shehzad
+7
+JDS Neesham
+1
+Umar Akmal
+8
+KD Mills
+1
+Anwar Ali
+15
+JDS Neesham
+1
+Shahid Afridi
+6
+KD Mills
+2
+Umar Gul
+Sohail Tanvir
+0
+KD Mills
+0

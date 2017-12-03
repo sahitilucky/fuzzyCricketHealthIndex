@@ -1,0 +1,127 @@
+none
+2014-03-21
+wickets: 5
+winner: Zimbabwe
+United Arab Emirates
+Zimbabwe
+venue: Sylhet Stadium
+1st innings
+United Arab Emirates
+7
+P Utseya
+0
+1
+TL Chatara
+2
+Shaiman Anwar
+Faizan Asif
+3
+P Utseya
+0
+5
+T Panyangara
+0
+1
+TL Chatara
+0
+14
+T Panyangara
+0
+7
+N Mushangwe
+0
+8
+SC Williams
+0
+16
+N Mushangwe
+0
+4
+SC Williams
+1
+Khurram Khan
+2
+Sikandar Raza
+1
+SP Patil
+2
+SC Williams
+1
+Amjad Ali
+5
+Sikandar Raza
+0
+2
+SC Williams
+2
+Rohan Mustafa
+Ahmed Raza
+3
+P Utseya
+0
+8
+Sikandar Raza
+1
+Amjad Javed
+5
+P Utseya
+0
+6
+TL Chatara
+0
+4
+T Panyangara
+0
+13
+TL Chatara
+1
+Kamran Shazad
+2nd innings
+Zimbabwe
+5
+EHSN Silva
+0
+7
+AM Guruge
+1
+H Masakadza
+12
+EHSN Silva
+1
+BRM Taylor
+1
+AM Guruge
+1
+SC Williams
+3
+EHSN Silva
+0
+3
+AM Guruge
+0
+3
+Ahmed Raza
+1
+Sikandar Raza
+15
+Kamran Shazad
+0
+14
+Ahmed Raza
+0
+8
+Khurram Khan
+1
+V Sibanda
+13
+Ahmed Raza
+0
+7
+AM Guruge
+0
+12
+Amjad Javed
+0
+15
+Kamran Shazad
+0

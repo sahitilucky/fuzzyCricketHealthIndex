@@ -1,0 +1,141 @@
+Nottingham
+2009-06-10
+runs: 15
+winner: Sri Lanka
+Sri Lanka
+West Indies
+venue: Trent Bridge
+1st innings
+Sri Lanka
+4
+JE Taylor
+0
+17
+FH Edwards
+0
+11
+JE Taylor
+0
+8
+DJ Bravo
+0
+7
+SJ Benn
+0
+19
+KA Pollard
+0
+8
+SJ Benn
+0
+6
+DJ Bravo
+0
+5
+SJ Benn
+0
+20
+FH Edwards
+0
+5
+SJ Benn
+0
+12
+KA Pollard
+0
+4
+LMP Simmons
+1
+ST Jayasuriya
+14
+KA Pollard
+0
+8
+LMP Simmons
+1
+KC Sangakkara
+14
+JE Taylor
+0
+6
+DJ Bravo
+0
+7
+LMP Simmons
+2
+DPMD Jayawardene
+TM Dilshan
+12
+DJ Bravo
+0
+5
+JE Taylor
+1
+LPC Silva
+2nd innings
+West Indies
+3
+ST Jayasuriya
+0
+11
+SL Malinga
+0
+18
+ST Jayasuriya
+0
+9
+SL Malinga
+1
+ADS Fletcher
+15
+I Udana
+0
+9
+BAW Mendis
+0
+6
+M Muralitharan
+1
+LMP Simmons
+3
+BAW Mendis
+2
+XM Marshall
+S Chanderpaul
+2
+M Muralitharan
+0
+5
+I Udana
+0
+13
+ST Jayasuriya
+0
+5
+BAW Mendis
+0
+7
+M Muralitharan
+0
+5
+I Udana
+0
+10
+M Muralitharan
+0
+13
+SL Malinga
+0
+8
+BAW Mendis
+0
+12
+SL Malinga
+1
+DJ Bravo
+11
+I Udana
+0
+12
+AD Mathews
+0

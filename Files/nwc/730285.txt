@@ -1,0 +1,147 @@
+Dominica
+2014-07-06
+runs: 39
+winner: West Indies
+West Indies
+New Zealand
+venue: 'Windsor Park, Roseau'
+1st innings
+West Indies
+10
+TG Southee
+0
+0
+TA Boult
+0
+4
+TG Southee
+1
+DR Smith
+2
+TA Boult
+0
+11
+JDS Neesham
+0
+9
+TA Boult
+0
+8
+JDS Neesham
+0
+10
+CJ Anderson
+0
+8
+JDS Neesham
+0
+11
+CJ Anderson
+0
+3
+IS Sodhi
+1
+LMP Simmons
+8
+KS Williamson
+0
+13
+IS Sodhi
+0
+3
+KS Williamson
+1
+DM Bravo
+9
+TG Southee
+0
+13
+CJ Anderson
+0
+4
+JDS Neesham
+0
+17
+CJ Anderson
+1
+KA Pollard
+11
+TA Boult
+2
+ADS Fletcher
+DJG Sammy
+11
+TG Southee
+0
+2nd innings
+New Zealand
+2
+S Badree
+0
+9
+SS Cottrell
+1
+JDS Neesham
+9
+S Badree
+0
+15
+SS Cottrell
+0
+5
+SP Narine
+0
+0
+S Badree
+1
+BB McCullum
+5
+DJG Sammy
+0
+9
+S Badree
+0
+10
+DJG Sammy
+0
+11
+AD Russell
+0
+7
+SP Narine
+0
+2
+KA Pollard
+1
+KS Williamson
+4
+SP Narine
+1
+LRPL Taylor
+4
+KA Pollard
+0
+7
+DJG Sammy
+0
+14
+KA Pollard
+0
+3
+SP Narine
+2
+L Ronchi
+BJ Watling
+4
+SS Cottrell
+2
+CJ Anderson
+TWM Latham
+6
+AD Russell
+1
+TG Southee
+0
+SS Cottrell
+1
+TA Boult

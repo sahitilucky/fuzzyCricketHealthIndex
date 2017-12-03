@@ -1,0 +1,150 @@
+Chittagong
+2014-03-27
+runs: 6
+winner: South Africa
+Netherlands
+South Africa
+venue: Zahur Ahmed Chowdhury Stadium
+1st innings
+South Africa
+3
+MR Swart
+1
+Q de Kock
+7
+T van der Gugten
+0
+23
+MR Swart
+0
+6
+T van der Gugten
+0
+7
+MAA Jamil
+1
+HM Amla
+12
+LV van Beek
+0
+8
+Mudassar Bukhari
+0
+9
+PM Seelaar
+0
+10
+TLW Cooper
+1
+F du Plessis
+7
+Mudassar Bukhari
+0
+2
+LV van Beek
+1
+AB de Villiers
+6
+TLW Cooper
+0
+2
+MAA Jamil
+1
+JA Morkel
+6
+TLW Cooper
+0
+6
+Mudassar Bukhari
+0
+6
+T van der Gugten
+1
+JP Duminy
+8
+MAA Jamil
+1
+DW Steyn
+5
+Mudassar Bukhari
+0
+2
+MAA Jamil
+2
+BE Hendricks
+DA Miller
+10
+T van der Gugten
+0
+2nd innings
+Netherlands
+6
+JA Morkel
+0
+6
+BE Hendricks
+0
+18
+LL Tsotsobe
+0
+6
+DW Steyn
+0
+15
+LL Tsotsobe
+0
+12
+DW Steyn
+1
+MR Swart
+5
+Imran Tahir
+0
+12
+JP Duminy
+1
+SJ Myburgh
+4
+Imran Tahir
+1
+W Barresi
+6
+BE Hendricks
+0
+11
+Imran Tahir
+1
+PW Borren
+13
+JA Morkel
+0
+2
+DW Steyn
+1
+BN Cooper
+2
+Imran Tahir
+2
+TLW Cooper
+PM Seelaar
+2
+BE Hendricks
+0
+8
+LL Tsotsobe
+1
+LV van Beek
+4
+DW Steyn
+0
+5
+LL Tsotsobe
+1
+Mudassar Bukhari
+2
+BE Hendricks
+1
+T van der Gugten
+0
+BE Hendricks
+0

@@ -1,0 +1,102 @@
+Hamilton
+2010-02-03
+wickets: 10
+winner: New Zealand
+New Zealand
+Bangladesh
+venue: Seddon Park
+1st innings
+Bangladesh
+4
+DR Tuffey
+0
+13
+TG Southee
+0
+1
+DR Tuffey
+1
+Tamim Iqbal
+3
+TG Southee
+0
+10
+DR Tuffey
+0
+8
+JEC Franklin
+1
+Aftab Ahmed
+3
+DL Vettori
+2
+Mohammad Ashraful
+Mushfiqur Rahim
+1
+NL McCullum
+1
+Shakib Al Hasan
+3
+DL Vettori
+0
+6
+NL McCullum
+0
+1
+DL Vettori
+0
+3
+NL McCullum
+0
+3
+JDP Oram
+1
+Naeem Islam
+5
+NL McCullum
+1
+Mahmudullah
+0
+DL Vettori
+1
+Shahadat Hossain
+7
+JDP Oram
+0
+1
+DR Tuffey
+1
+Shafiul Islam
+6
+JDP Oram
+1
+Raqibul Hasan
+2nd innings
+New Zealand
+6
+Shahadat Hossain
+0
+9
+Nazmul Hossain
+0
+7
+Shafiul Islam
+0
+10
+Nazmul Hossain
+0
+9
+Shahadat Hossain
+0
+8
+Shakib Al Hasan
+0
+13
+Shahadat Hossain
+0
+9
+Shakib Al Hasan
+0
+8
+Aftab Ahmed
+0

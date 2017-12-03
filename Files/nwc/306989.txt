@@ -1,0 +1,145 @@
+Nairobi
+2007-09-02
+runs: 30
+winner: Pakistan
+Bangladesh
+Pakistan
+venue: Gymkhana Club Ground
+1st innings
+Pakistan
+9
+Mashrafe Mortaza
+0
+1
+Syed Rasel
+0
+17
+Mashrafe Mortaza
+0
+10
+Syed Rasel
+0
+21
+Mashrafe Mortaza
+0
+9
+Syed Rasel
+0
+6
+Mashrafe Mortaza
+0
+3
+Syed Rasel
+1
+Imran Nazir
+4
+Abdur Razzak
+0
+12
+Mohammad Ashraful
+0
+8
+Abdur Razzak
+0
+11
+Mohammad Ashraful
+1
+Salman Butt
+10
+Farhad Reza
+1
+Shoaib Malik
+14
+Mohammad Ashraful
+0
+11
+Farhad Reza
+0
+3
+Abdur Razzak
+1
+Younis Khan
+15
+Farhad Reza
+1
+Misbah-ul-Haq
+3
+Abdur Razzak
+0
+19
+Farhad Reza
+0
+5
+Mohammad Ashraful
+2
+Shahid Afridi
+Kamran Akmal
+2nd innings
+Bangladesh
+10
+Shoaib Akhtar
+0
+9
+Mohammad Asif
+0
+2
+Shoaib Akhtar
+1
+Tamim Iqbal
+14
+Mohammad Asif
+0
+12
+Shoaib Akhtar
+0
+21
+Iftikhar Anjum
+0
+4
+Shahid Afridi
+1
+Aftab Ahmed
+7
+Yasir Arafat
+1
+Mohammad Ashraful
+5
+Shahid Afridi
+0
+13
+Yasir Arafat
+0
+9
+Shahid Afridi
+1
+Alok Kapali
+4
+Yasir Arafat
+0
+9
+Shahid Afridi
+0
+9
+Yasir Arafat
+1
+Nazimuddin
+4
+Mohammad Asif
+0
+4
+Iftikhar Anjum
+1
+Mahmudullah
+10
+Mohammad Asif
+0
+6
+Iftikhar Anjum
+0
+6
+Shoaib Akhtar
+1
+Farhad Reza
+3
+Iftikhar Anjum
+0

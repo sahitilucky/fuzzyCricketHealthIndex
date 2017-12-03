@@ -1,0 +1,133 @@
+Abu Dhabi
+2013-11-28
+wickets: 8
+winner: Netherlands
+Netherlands
+Scotland
+venue: Sheikh Zayed Stadium
+1st innings
+Scotland
+1
+TGJ Gruijters
+1
+RD Berrington
+4
+Mudassar Bukhari
+1
+CS MacLeod
+11
+TGJ Gruijters
+0
+10
+Mudassar Bukhari
+0
+5
+MAA Jamil
+0
+12
+PW Borren
+0
+6
+MR Swart
+0
+9
+PW Borren
+0
+2
+MR Swart
+0
+8
+MAA Jamil
+0
+7
+MR Swart
+0
+5
+Mudassar Bukhari
+0
+10
+TGJ Gruijters
+0
+15
+MJG Rippon
+0
+7
+PW Borren
+0
+7
+MR Swart
+1
+MA Leask
+9
+PW Borren
+0
+6
+MAA Jamil
+1
+MW Machan
+8
+Mudassar Bukhari
+1
+KJ Coetzer
+5
+MAA Jamil
+1
+MH Cross
+2nd innings
+Netherlands
+3
+NM Carter
+1
+SJ Myburgh
+6
+MW Machan
+0
+8
+NM Carter
+0
+12
+SM Sharif
+0
+11
+NM Carter
+0
+9
+MW Machan
+0
+9
+RM Haq
+0
+6
+G Goudie
+0
+8
+RM Haq
+1
+BN Cooper
+11
+G Goudie
+0
+7
+MW Machan
+0
+5
+RML Taylor
+0
+17
+RM Haq
+0
+4
+RML Taylor
+0
+6
+MW Machan
+0
+6
+RML Taylor
+0
+12
+RM Haq
+0
+9
+SM Sharif
+0

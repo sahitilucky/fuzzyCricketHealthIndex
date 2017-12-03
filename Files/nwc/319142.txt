@@ -1,0 +1,80 @@
+Barbados
+2008-06-20
+wickets: 7
+winner: West Indies
+West Indies
+Australia
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+Australia
+9
+JE Taylor
+0
+3
+SJ Benn
+0
+14
+JE Taylor
+0
+16
+SJ Benn
+0
+5
+FH Edwards
+0
+10
+KAJ Roach
+1
+L Ronchi
+8
+FH Edwards
+0
+7
+KAJ Roach
+1
+SE Marsh
+6
+DJ Bravo
+1
+DJ Hussey
+13
+KAJ Roach
+0
+6
+DJ Bravo
+0
+2nd innings
+West Indies
+9
+B Lee
+0
+25
+MG Johnson
+0
+17
+B Lee
+0
+5
+SR Watson
+1
+XM Marshall
+3
+JR Hopes
+1
+WKD Perkins
+6
+SR Watson
+1
+D Ramdin
+10
+CL White
+0
+10
+MG Johnson
+0
+11
+JR Hopes
+0
+6
+SR Watson
+0

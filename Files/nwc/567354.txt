@@ -1,0 +1,132 @@
+East London
+2012-12-23
+wickets: 8
+method: D/L
+South Africa
+New Zealand
+venue: Buffalo Park
+1st innings
+South Africa
+1
+MJ McClenaghan
+0
+3
+RM Hira
+0
+9
+MJ McClenaghan
+0
+2
+RM Hira
+1
+RE Levi
+13
+DAJ Bracewell
+0
+9
+CJ Anderson
+0
+3
+NL McCullum
+0
+10
+JEC Franklin
+0
+4
+NL McCullum
+0
+15
+RM Hira
+0
+8
+NL McCullum
+0
+5
+MJ McClenaghan
+1
+H Davids
+7
+RJ Nicol
+0
+10
+DAJ Bracewell
+0
+9
+NL McCullum
+0
+18
+RM Hira
+0
+12
+CJ Anderson
+0
+17
+MJ McClenaghan
+0
+10
+DAJ Bracewell
+3
+DA Miller
+F du Plessis
+RJ Peterson
+2nd innings
+New Zealand
+2
+RJ Peterson
+0
+3
+M Morkel
+0
+9
+RK Kleinveldt
+0
+8
+M Morkel
+0
+10
+RK Kleinveldt
+0
+7
+R McLaren
+0
+5
+AM Phangiso
+0
+12
+R McLaren
+0
+9
+AM Phangiso
+0
+12
+RJ Peterson
+1
+RJ Nicol
+10
+AM Phangiso
+0
+14
+RJ Peterson
+0
+5
+RK Kleinveldt
+0
+18
+AM Phangiso
+0
+6
+R McLaren
+0
+9
+M Morkel
+0
+10
+R McLaren
+1
+BB McCullum
+9
+M Morkel
+0
+11
+RK Kleinveldt
+0

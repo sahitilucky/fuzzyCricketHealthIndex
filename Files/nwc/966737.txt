@@ -1,0 +1,142 @@
+Fatullah
+2016-02-20
+wickets: 3
+winner: Afghanistan
+Afghanistan
+Oman
+venue: Khan Shaheb Osman Ali Stadium
+1st innings
+Oman
+9
+Dawlat Zadran
+0
+4
+Karim Sadiq
+0
+6
+Dawlat Zadran
+0
+14
+Karim Sadiq
+0
+3
+Gulbadin Naib
+0
+3
+Mohammad Nabi
+0
+4
+Gulbadin Naib
+0
+10
+Mohammad Nabi
+0
+11
+Amir Hamza
+0
+5
+Rashid Khan
+0
+4
+Gulbadin Naib
+1
+Jatinder Singh
+5
+Rashid Khan
+0
+11
+Mohammad Nabi
+0
+14
+Rashid Khan
+0
+18
+Amir Hamza
+1
+Zeeshan Maqsood
+12
+Rashid Khan
+0
+13
+Gulbadin Naib
+1
+Adnan Ilyas
+5
+Dawlat Zadran
+0
+7
+Mohammad Nabi
+0
+7
+Dawlat Zadran
+1
+Aamir Kaleem
+2nd innings
+Afghanistan
+5
+Bilal Khan
+1
+Mohammad Shahzad
+14
+AV Lalcheta
+0
+15
+Bilal Khan
+0
+5
+Mehran Khan
+0
+18
+M Ansari
+0
+4
+Mehran Khan
+2
+Asghar Stanikzai
+Karim Sadiq
+8
+AV Lalcheta
+0
+5
+Mehran Khan
+0
+6
+Aamir Kaleem
+0
+5
+Mehran Khan
+1
+Mohammad Nabi
+9
+Aamir Kaleem
+0
+11
+Amir Ali
+0
+7
+Aamir Kaleem
+0
+10
+M Ansari
+0
+9
+AV Lalcheta
+0
+8
+M Ansari
+0
+2
+Bilal Khan
+2
+Najibullah Zadran
+Noor Ali Zadran
+4
+M Ansari
+0
+11
+Bilal Khan
+0
+12
+AV Lalcheta
+1
+Samiullah Shenwari

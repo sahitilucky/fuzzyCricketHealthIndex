@@ -1,0 +1,123 @@
+none
+2013-01-28
+runs: 2
+method: D/L
+Australia
+Sri Lanka
+venue: Melbourne Cricket Ground
+1st innings
+Sri Lanka
+5
+GJ Maxwell
+0
+4
+MA Starc
+0
+6
+JP Faulkner
+1
+TM Dilshan
+13
+MA Starc
+0
+1
+JP Faulkner
+0
+7
+B Laughlin
+1
+LD Chandimal
+3
+GJ Maxwell
+1
+MDKJ Perera
+8
+XJ Doherty
+0
+7
+GJ Maxwell
+0
+2
+XJ Doherty
+0
+8
+MA Starc
+0
+11
+GJ Maxwell
+0
+6
+B Laughlin
+0
+11
+XJ Doherty
+0
+9
+B Laughlin
+0
+9
+XJ Doherty
+1
+BMAJ Mendis
+10
+JP Faulkner
+0
+10
+MA Starc
+0
+11
+JP Faulkner
+0
+20
+B Laughlin
+0
+2nd innings
+Australia
+9
+TM Dilshan
+0
+6
+KMDN Kulasekara
+1
+DA Warner
+1
+TM Dilshan
+0
+4
+KMDN Kulasekara
+0
+4
+BAW Mendis
+1
+AJ Finch
+4
+SL Malinga
+0
+12
+A Dananjaya
+0
+5
+NLTC Perera
+0
+9
+BAW Mendis
+0
+6
+SL Malinga
+0
+12
+BAW Mendis
+0
+7
+NLTC Perera
+0
+9
+KMDN Kulasekara
+0
+16
+SL Malinga
+0
+15
+NLTC Perera
+1
+GJ Bailey

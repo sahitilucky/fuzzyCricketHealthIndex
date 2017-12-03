@@ -1,0 +1,147 @@
+Hobart
+2010-02-21
+runs: 38
+winner: Australia
+Australia
+West Indies
+venue: Bellerive Oval
+1st innings
+Australia
+1
+N Deonarine
+0
+5
+NO Miller
+0
+9
+DJG Sammy
+0
+16
+N Deonarine
+0
+13
+DJG Sammy
+0
+14
+KAJ Roach
+0
+16
+DR Smith
+0
+10
+CH Gayle
+1
+SR Watson
+8
+DR Smith
+1
+DA Warner
+5
+CH Gayle
+1
+DJ Hussey
+5
+KA Pollard
+0
+4
+NO Miller
+0
+3
+KA Pollard
+1
+MJ Clarke
+7
+NO Miller
+0
+11
+KA Pollard
+0
+4
+NO Miller
+2
+TR Birt
+CL White
+4
+KA Pollard
+0
+16
+KAJ Roach
+0
+14
+DJG Sammy
+1
+MG Johnson
+14
+DR Smith
+1
+SPD Smith
+2nd innings
+West Indies
+7
+DP Nannes
+0
+7
+SW Tait
+2
+CH Gayle
+N Deonarine
+5
+DP Nannes
+1
+LMP Simmons
+7
+SW Tait
+1
+KA Pollard
+3
+DP Nannes
+0
+11
+MG Johnson
+0
+4
+DJ Hussey
+0
+2
+MG Johnson
+1
+WW Hinds
+5
+SPD Smith
+0
+4
+MG Johnson
+1
+DR Smith
+8
+SPD Smith
+0
+7
+MJ Clarke
+0
+10
+SPD Smith
+0
+6
+SW Tait
+0
+13
+MJ Clarke
+0
+11
+MG Johnson
+0
+9
+SR Watson
+0
+7
+DP Nannes
+2
+D Ramdin
+RS Morton
+10
+SW Tait
+0
+5
+SR Watson
+0

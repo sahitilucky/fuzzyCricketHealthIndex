@@ -1,0 +1,128 @@
+Mirpur
+2016-02-27
+wickets: 5
+winner: India
+India
+Pakistan
+venue: Shere Bangla National Stadium
+1st innings
+Pakistan
+5
+A Nehra
+1
+Mohammad Hafeez
+0
+JJ Bumrah
+0
+13
+A Nehra
+0
+8
+JJ Bumrah
+1
+Sharjeel Khan
+2
+A Nehra
+0
+4
+JJ Bumrah
+1
+Khurram Manzoor
+3
+HH Pandya
+1
+Shoaib Malik
+7
+Yuvraj Singh
+2
+Umar Akmal
+Shahid Afridi
+1
+HH Pandya
+0
+4
+Yuvraj Singh
+0
+4
+HH Pandya
+0
+5
+RA Jadeja
+1
+Wahab Riaz
+2
+R Ashwin
+0
+5
+RA Jadeja
+0
+7
+R Ashwin
+0
+1
+RA Jadeja
+1
+Sarfraz Ahmed
+12
+R Ashwin
+0
+0
+HH Pandya
+2
+Mohammad Sami
+Mohammad Amir
+2nd innings
+India
+2
+Mohammad Amir
+2
+RG Sharma
+AM Rahane
+4
+Mohammad Sami
+0
+3
+Mohammad Amir
+1
+SK Raina
+4
+Mohammad Irfan
+0
+7
+Mohammad Amir
+0
+1
+Mohammad Irfan
+0
+8
+Mohammad Amir
+0
+6
+Mohammad Irfan
+0
+15
+Wahab Riaz
+0
+3
+Mohammad Sami
+0
+5
+Wahab Riaz
+0
+5
+Mohammad Sami
+0
+6
+Mohammad Irfan
+0
+7
+Wahab Riaz
+0
+4
+Mohammad Sami
+2
+V Kohli
+HH Pandya
+5
+Wahab Riaz
+0

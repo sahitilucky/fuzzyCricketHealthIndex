@@ -1,0 +1,143 @@
+Abu Dhabi
+2012-02-27
+runs: 5
+winner: England
+England
+Pakistan
+venue: Sheikh Zayed Stadium
+1st innings
+England
+7
+Mohammad Hafeez
+0
+4
+Aizaz Cheema
+0
+12
+Umar Gul
+0
+5
+Aizaz Cheema
+0
+6
+Saeed Ajmal
+1
+C Kieswetter
+5
+Aizaz Cheema
+1
+RS Bopara
+9
+Mohammad Hafeez
+0
+4
+Shahid Afridi
+0
+4
+Mohammad Hafeez
+0
+6
+Shahid Afridi
+1
+EJG Morgan
+3
+Mohammad Hafeez
+0
+7
+Shahid Afridi
+0
+3
+Saeed Ajmal
+1
+JM Bairstow
+2
+Shahid Afridi
+0
+10
+Umar Gul
+0
+2
+Saeed Ajmal
+1
+JC Buttler
+8
+Umar Gul
+0
+12
+Saeed Ajmal
+1
+SR Patel
+9
+Umar Gul
+0
+11
+Aizaz Cheema
+0
+2nd innings
+Pakistan
+8
+ST Finn
+0
+4
+JW Dernbach
+1
+Mohammad Hafeez
+10
+ST Finn
+0
+8
+JW Dernbach
+0
+10
+ST Finn
+0
+5
+SCJ Broad
+0
+2
+SR Patel
+0
+2
+GP Swann
+1
+Awais Zia
+3
+SR Patel
+0
+5
+GP Swann
+0
+11
+SCJ Broad
+0
+7
+GP Swann
+0
+4
+SR Patel
+1
+Asad Shafiq
+6
+GP Swann
+0
+9
+SR Patel
+0
+4
+SCJ Broad
+0
+9
+ST Finn
+0
+6
+JW Dernbach
+0
+4
+SCJ Broad
+1
+Umar Akmal
+7
+JW Dernbach
+2
+Shahid Afridi
+Misbah-ul-Haq

@@ -1,0 +1,145 @@
+Brisbane
+2013-02-13
+runs: 27
+winner: West Indies
+Australia
+West Indies
+venue: 'Brisbane Cricket Ground, Woolloongabba'
+1st innings
+West Indies
+5
+CJ McKay
+0
+12
+JR Hazlewood
+1
+CH Gayle
+5
+JP Faulkner
+0
+8
+JR Hazlewood
+0
+11
+NM Coulter-Nile
+0
+2
+JP Faulkner
+0
+10
+NM Coulter-Nile
+0
+10
+BCJ Cutting
+0
+13
+CJ McKay
+0
+11
+BCJ Cutting
+0
+12
+NM Coulter-Nile
+1
+J Charles
+4
+JR Hazlewood
+0
+10
+BCJ Cutting
+1
+DM Bravo
+9
+CJ McKay
+0
+4
+NM Coulter-Nile
+0
+13
+BCJ Cutting
+0
+4
+JP Faulkner
+2
+KA Pollard
+DJ Bravo
+14
+JR Hazlewood
+0
+17
+JP Faulkner
+1
+DJG Sammy
+17
+CJ McKay
+0
+2nd innings
+Australia
+5
+TL Best
+0
+5
+DJG Sammy
+1
+AJ Finch
+10
+TL Best
+0
+14
+DJG Sammy
+0
+6
+SP Narine
+0
+11
+DJG Sammy
+0
+9
+AD Russell
+0
+10
+N Deonarine
+0
+5
+DJ Bravo
+0
+7
+N Deonarine
+1
+SE Marsh
+12
+DJ Bravo
+1
+AC Voges
+3
+SP Narine
+1
+GJ Bailey
+3
+KA Pollard
+0
+20
+N Deonarine
+0
+10
+KA Pollard
+1
+BJ Haddin
+6
+SP Narine
+0
+5
+KA Pollard
+2
+JP Faulkner
+BJ Rohrer
+4
+SP Narine
+1
+BCJ Cutting
+12
+KA Pollard
+0
+7
+TL Best
+0

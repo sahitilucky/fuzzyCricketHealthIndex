@@ -1,0 +1,135 @@
+none
+2010-02-13
+wickets: 8
+winner: Afghanistan
+Afghanistan
+Ireland
+venue: Dubai International Cricket Stadium
+1st innings
+Ireland
+9
+Shapoor Zadran
+0
+4
+Mirwais Ashraf
+0
+13
+Shapoor Zadran
+0
+10
+Mirwais Ashraf
+0
+6
+Karim Sadiq
+0
+7
+Mohammad Nabi
+1
+WTS Porterfield
+11
+Karim Sadiq
+0
+6
+Mohammad Nabi
+0
+5
+Samiullah Shenwari
+0
+10
+Mohammad Nabi
+1
+NJ O'Brien
+6
+Samiullah Shenwari
+1
+AR Cusack
+4
+Nawroz Mangal
+1
+KJ O'Brien
+5
+Hamid Hassan
+0
+9
+Nawroz Mangal
+1
+GC Wilson
+6
+Hamid Hassan
+0
+4
+Nawroz Mangal
+1
+NG Jones
+6
+Hamid Hassan
+1
+JF Mooney
+6
+Nawroz Mangal
+0
+10
+Hamid Hassan
+0
+5
+Shapoor Zadran
+1
+DT Johnston
+2nd innings
+Afghanistan
+7
+PC Connell
+0
+14
+DT Johnston
+0
+10
+PC Connell
+0
+6
+DT Johnston
+1
+Karim Sadiq
+20
+PC Connell
+0
+3
+DT Johnston
+0
+3
+AR Cusack
+0
+6
+DT Johnston
+0
+3
+AR Cusack
+0
+8
+GH Dockrell
+0
+9
+KJ O'Brien
+1
+Noor Ali Zadran
+5
+GH Dockrell
+0
+7
+KJ O'Brien
+0
+6
+GH Dockrell
+0
+8
+NG Jones
+0
+8
+GH Dockrell
+0
+15
+AR Cusack
+0
+9
+PC Connell
+0

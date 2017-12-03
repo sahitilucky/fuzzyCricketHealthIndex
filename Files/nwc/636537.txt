@@ -1,0 +1,140 @@
+Barbados
+2014-03-11
+wickets: 5
+winner: West Indies
+West Indies
+England
+venue: 'Kensington Oval, Bridgetown'
+1st innings
+England
+8
+S Badree
+0
+5
+K Santokie
+1
+MJ Lumb
+2
+S Badree
+0
+8
+K Santokie
+1
+MM Ali
+3
+S Badree
+1
+EJG Morgan
+4
+K Santokie
+0
+4
+S Badree
+0
+5
+MN Samuels
+0
+10
+R Rampaul
+0
+12
+MN Samuels
+0
+4
+R Rampaul
+0
+17
+DJG Sammy
+0
+16
+R Rampaul
+0
+6
+DJ Bravo
+1
+AD Hales
+5
+AD Russell
+0
+8
+DJ Bravo
+0
+8
+AD Russell
+0
+11
+DJ Bravo
+0
+7
+K Santokie
+2
+JC Buttler
+RS Bopara
+9
+DJ Bravo
+1
+TT Bresnan
+2nd innings
+West Indies
+12
+TT Bresnan
+0
+8
+JW Dernbach
+0
+14
+TT Bresnan
+0
+10
+JC Tredwell
+0
+8
+JW Dernbach
+1
+DR Smith
+6
+JC Tredwell
+0
+1
+RS Bopara
+0
+3
+JC Tredwell
+0
+4
+RS Bopara
+0
+8
+JC Tredwell
+0
+2
+RS Bopara
+1
+CH Gayle
+13
+SD Parry
+0
+7
+LJ Wright
+0
+4
+SD Parry
+0
+13
+LJ Wright
+1
+LMP Simmons
+3
+RS Bopara
+0
+6
+TT Bresnan
+2
+MN Samuels
+AD Russell
+14
+JW Dernbach
+0
+19
+TT Bresnan
+0

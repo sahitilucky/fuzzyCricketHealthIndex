@@ -1,0 +1,127 @@
+none
+2014-01-31
+wickets: 8
+winner: Australia
+Australia
+England
+venue: Melbourne Cricket Ground
+1st innings
+England
+10
+BJ Hodge
+0
+8
+NM Coulter-Nile
+0
+6
+MA Starc
+0
+6
+JR Hazlewood
+1
+MJ Lumb
+8
+MA Starc
+1
+LJ Wright
+10
+JR Hazlewood
+1
+AD Hales
+7
+GJ Maxwell
+1
+EJG Morgan
+5
+JM Muirhead
+0
+6
+CL White
+1
+JE Root
+4
+JM Muirhead
+0
+8
+CL White
+0
+8
+NM Coulter-Nile
+0
+6
+JM Muirhead
+1
+RS Bopara
+2
+JR Hazlewood
+0
+2
+JM Muirhead
+0
+3
+NM Coulter-Nile
+1
+JC Buttler
+6
+MA Starc
+0
+10
+NM Coulter-Nile
+0
+3
+MA Starc
+0
+12
+JR Hazlewood
+2
+TT Bresnan
+JC Tredwell
+2nd innings
+Australia
+13
+SCJ Broad
+0
+12
+JW Dernbach
+0
+10
+SCJ Broad
+0
+1
+TT Bresnan
+0
+12
+JW Dernbach
+0
+2
+TT Bresnan
+1
+AJ Finch
+4
+JC Tredwell
+1
+GJ Maxwell
+8
+TT Bresnan
+0
+9
+JC Tredwell
+0
+5
+RS Bopara
+0
+6
+SCJ Broad
+0
+18
+JW Dernbach
+0
+11
+JC Tredwell
+0
+7
+RS Bopara
+0
+13
+JC Tredwell
+0

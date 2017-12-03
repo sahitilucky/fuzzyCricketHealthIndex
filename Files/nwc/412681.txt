@@ -1,0 +1,92 @@
+Guyana
+2010-05-04
+    result: no result
+tie
+England
+Ireland
+venue: Providence Stadium
+1st innings
+England
+6
+WB Rankin
+0
+6
+DT Johnston
+0
+9
+WB Rankin
+0
+3
+DT Johnston
+0
+5
+KJ O'Brien
+1
+MJ Lumb
+3
+DT Johnston
+2
+C Kieswetter
+PD Collingwood
+3
+G Dockrell
+0
+3
+DT Johnston
+0
+7
+G Dockrell
+0
+4
+KJ O'Brien
+1
+KP Pietersen
+3
+AC Botha
+0
+7
+AR Cusack
+0
+8
+G Dockrell
+0
+8
+AC Botha
+0
+1
+G Dockrell
+0
+13
+KJ O'Brien
+0
+5
+WB Rankin
+1
+LJ Wright
+10
+AC Botha
+0
+8
+WB Rankin
+1
+TT Bresnan
+8
+AC Botha
+2
+EJG Morgan
+MH Yardy
+2nd innings
+Ireland
+3
+TT Bresnan
+0
+1
+RJ Sidebottom
+1
+PR Stirling
+2
+TT Bresnan
+0
+8
+RJ Sidebottom
+0

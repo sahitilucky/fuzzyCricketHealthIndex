@@ -1,0 +1,147 @@
+Durban
+2016-03-04
+wickets: 3
+winner: South Africa
+South Africa
+Australia
+venue: Kingsmead
+1st innings
+Australia
+8
+K Rabada
+0
+6
+KJ Abbott
+0
+9
+K Rabada
+1
+UT Khawaja
+7
+KJ Abbott
+0
+24
+JP Duminy
+0
+15
+CH Morris
+0
+2
+D Wiese
+1
+DA Warner
+1
+Imran Tahir
+1
+AJ Finch
+7
+D Wiese
+0
+10
+Imran Tahir
+0
+3
+D Wiese
+1
+SPD Smith
+6
+CH Morris
+1
+GJ Maxwell
+4
+D Wiese
+0
+7
+Imran Tahir
+1
+PM Nevill
+4
+K Rabada
+0
+5
+Imran Tahir
+1
+JW Hastings
+15
+CH Morris
+0
+14
+KJ Abbott
+0
+5
+K Rabada
+1
+NM Coulter-Nile
+5
+KJ Abbott
+1
+MR Marsh
+2nd innings
+South Africa
+4
+NM Coulter-Nile
+1
+AB de Villiers
+6
+JW Hastings
+0
+9
+NM Coulter-Nile
+1
+Q de Kock
+2
+JW Hastings
+0
+16
+GJ Maxwell
+0
+8
+AJ Tye
+1
+JP Duminy
+4
+MR Marsh
+0
+7
+A Zampa
+0
+11
+AJ Tye
+0
+6
+MR Marsh
+2
+RR Rossouw
+F du Plessis
+10
+NM Coulter-Nile
+0
+4
+A Zampa
+0
+9
+JW Hastings
+1
+D Wiese
+10
+A Zampa
+0
+7
+MR Marsh
+0
+16
+AJ Tye
+0
+6
+NM Coulter-Nile
+1
+CH Morris
+13
+JW Hastings
+0
+5
+A Zampa
+0
+5
+AJ Tye
+0

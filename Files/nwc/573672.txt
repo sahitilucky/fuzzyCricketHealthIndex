@@ -1,0 +1,150 @@
+The Hague
+2012-07-26
+wickets: 1
+winner: Netherlands
+Netherlands
+Bangladesh
+venue: Sportpark Westvliet
+1st innings
+Bangladesh
+1
+TGJ Gruijters
+1
+Junaid Siddique
+3
+MR Swart
+1
+Shakib Al Hasan
+4
+TGJ Gruijters
+0
+0
+MR Swart
+1
+Mushfiqur Rahim
+7
+TLW Cooper
+0
+15
+MR Swart
+0
+5
+PW Borren
+0
+6
+T van der Gugten
+0
+11
+TLW Cooper
+0
+5
+MAA Jamil
+0
+7
+PW Borren
+0
+8
+MAA Jamil
+1
+Mahmudullah
+4
+T van der Gugten
+0
+10
+MAA Jamil
+0
+10
+PW Borren
+0
+8
+Mudassar Bukhari
+0
+2
+T van der Gugten
+1
+Ziaur Rahman
+10
+MAA Jamil
+0
+7
+T van der Gugten
+2
+Tamim Iqbal
+Jahurul Islam
+5
+Mudassar Bukhari
+3
+Abdur Razzak
+Nasir Hossain
+Elias Sunny
+2nd innings
+Netherlands
+2
+Abdur Razzak
+0
+4
+Shafiul Islam
+0
+0
+Abdur Razzak
+0
+9
+Shakib Al Hasan
+0
+9
+Abdur Razzak
+1
+W Barresi
+1
+Shakib Al Hasan
+1
+TLW Cooper
+5
+Elias Sunny
+0
+9
+Shafiul Islam
+0
+12
+Elias Sunny
+0
+8
+Mahmudullah
+0
+3
+Shakib Al Hasan
+1
+PW Borren
+7
+Mahmudullah
+0
+3
+Elias Sunny
+1
+TN de Grooth
+5
+Mahmudullah
+0
+8
+Elias Sunny
+1
+ES Szwarczynski
+8
+Shafiul Islam
+1
+Mudassar Bukhari
+15
+Shakib Al Hasan
+0
+5
+Mahmudullah
+1
+MR Swart
+6
+Shafiul Islam
+1
+TGJ Gruijters
+12
+Abdur Razzak
+1
+T van der Gugten

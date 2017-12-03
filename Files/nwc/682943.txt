@@ -1,0 +1,137 @@
+Mirpur
+2014-03-28
+wickets: 8
+winner: India
+Bangladesh
+India
+venue: Shere Bangla National Stadium
+1st innings
+Bangladesh
+13
+B Kumar
+0
+2
+R Ashwin
+0
+5
+Mohammed Shami
+0
+1
+R Ashwin
+2
+Tamim Iqbal
+Shamsur Rahman
+1
+B Kumar
+1
+Shakib Al Hasan
+5
+R Ashwin
+0
+8
+RA Jadeja
+0
+8
+SK Raina
+0
+8
+RA Jadeja
+0
+5
+A Mishra
+0
+11
+Mohammed Shami
+1
+Mushfiqur Rahim
+9
+RA Jadeja
+0
+6
+A Mishra
+1
+Anamul Haque
+3
+SK Raina
+0
+5
+RA Jadeja
+0
+8
+R Ashwin
+0
+12
+A Mishra
+0
+14
+Mohammed Shami
+0
+7
+B Kumar
+0
+7
+A Mishra
+2
+Nasir Hossain
+Ziaur Rahman
+2nd innings
+India
+3
+Mashrafe Mortaza
+0
+3
+Sohag Gazi
+0
+7
+Al-Amin Hossain
+1
+S Dhawan
+5
+Shakib Al Hasan
+0
+11
+Al-Amin Hossain
+0
+10
+Shakib Al Hasan
+0
+11
+Mashrafe Mortaza
+0
+5
+Sohag Gazi
+0
+9
+Ziaur Rahman
+0
+13
+Sohag Gazi
+0
+6
+Shakib Al Hasan
+0
+9
+Ziaur Rahman
+0
+5
+Shakib Al Hasan
+0
+7
+Mahmudullah
+0
+8
+Al-Amin Hossain
+0
+5
+Mashrafe Mortaza
+1
+RG Sharma
+12
+Al-Amin Hossain
+0
+4
+Mashrafe Mortaza
+0
+8
+Ziaur Rahman
+0

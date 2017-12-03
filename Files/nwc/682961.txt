@@ -1,0 +1,123 @@
+Mirpur
+2014-04-03
+runs: 27
+method: D/L
+Sri Lanka
+West Indies
+venue: Shere Bangla National Stadium
+1st innings
+Sri Lanka
+5
+S Badree
+0
+12
+K Santokie
+0
+15
+S Badree
+0
+9
+K Santokie
+1
+MDKJ Perera
+2
+S Badree
+1
+DPMD Jayawardene
+5
+SP Narine
+0
+2
+S Badree
+1
+KC Sangakkara
+4
+MN Samuels
+0
+8
+AD Russell
+0
+3
+MN Samuels
+0
+9
+CH Gayle
+0
+10
+MN Samuels
+0
+3
+SP Narine
+0
+6
+MN Samuels
+1
+TM Dilshan
+14
+AD Russell
+0
+5
+SP Narine
+0
+9
+K Santokie
+1
+HDRL Thirimanne
+7
+SP Narine
+0
+17
+K Santokie
+0
+15
+AD Russell
+1
+AD Mathews
+2nd innings
+West Indies
+17
+KMDN Kulasekara
+0
+3
+SMSM Senanayake
+0
+2
+SL Malinga
+0
+3
+SMSM Senanayake
+0
+3
+SL Malinga
+2
+CH Gayle
+DR Smith
+2
+KMDN Kulasekara
+0
+4
+HMRKB Herath
+0
+6
+S Prasanna
+1
+LMP Simmons
+4
+HMRKB Herath
+0
+9
+S Prasanna
+0
+8
+HMRKB Herath
+0
+4
+AD Mathews
+0
+11
+HMRKB Herath
+0
+4
+KMDN Kulasekara
+1
+DJ Bravo

@@ -1,0 +1,143 @@
+none
+2013-12-08
+wickets: 6
+winner: Pakistan
+Afghanistan
+Pakistan
+venue: Sharjah Cricket Stadium
+1st innings
+Afghanistan
+3
+Mohammad Hafeez
+0
+1
+Sohail Tanvir
+1
+Mohammad Shahzad
+2
+Mohammad Hafeez
+0
+1
+Sohail Tanvir
+0
+1
+Zulfiqar Babar
+1
+Nawroz Mangal
+8
+Mohammad Hafeez
+0
+13
+Zulfiqar Babar
+0
+8
+Bilawal Bhatti
+1
+Asghar Stanikzai
+11
+Shahid Afridi
+0
+11
+Bilawal Bhatti
+0
+13
+Shahid Afridi
+1
+Mohammad Nabi
+4
+Junaid Khan
+0
+13
+Zulfiqar Babar
+0
+5
+Junaid Khan
+1
+Samiullah Shenwari
+6
+Mohammad Hafeez
+0
+3
+Junaid Khan
+1
+Najibullah Zadran
+11
+Bilawal Bhatti
+0
+6
+Sohail Tanvir
+1
+Gulbadin Naib
+12
+Junaid Khan
+1
+Dawlat Zadran
+5
+Sohail Tanvir
+0
+2nd innings
+Pakistan
+5
+Mohammad Nabi
+0
+6
+Shapoor Zadran
+0
+6
+Mohammad Nabi
+0
+1
+Shapoor Zadran
+0
+5
+Hamid Hassan
+0
+10
+Dawlat Zadran
+0
+10
+Hamid Hassan
+0
+13
+Samiullah Shenwari
+1
+Ahmed Shehzad
+6
+Mirwais Ashraf
+0
+3
+Mohammad Nabi
+1
+Sharjeel Khan
+4
+Mirwais Ashraf
+0
+4
+Samiullah Shenwari
+0
+7
+Mirwais Ashraf
+0
+9
+Samiullah Shenwari
+0
+5
+Hamid Hassan
+0
+11
+Shapoor Zadran
+0
+10
+Dawlat Zadran
+1
+Umar Akmal
+7
+Mohammad Nabi
+0
+10
+Hamid Hassan
+1
+Sohaib Maqsood
+6
+Dawlat Zadran
+0

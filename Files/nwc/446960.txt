@@ -1,0 +1,144 @@
+none
+2011-01-12
+wickets: 1
+winner: England
+Australia
+England
+venue: Adelaide Oval
+1st innings
+Australia
+4
+CR Woakes
+0
+2
+A Shahzad
+0
+14
+CR Woakes
+0
+9
+TT Bresnan
+0
+8
+A Shahzad
+0
+4
+TT Bresnan
+0
+9
+MH Yardy
+0
+26
+GP Swann
+0
+8
+MH Yardy
+1
+SR Watson
+2
+A Shahzad
+0
+6
+MH Yardy
+1
+DA Warner
+3
+GP Swann
+0
+6
+CR Woakes
+0
+4
+GP Swann
+0
+10
+CR Woakes
+1
+CL White
+7
+GP Swann
+0
+13
+TT Bresnan
+1
+DJ Hussey
+5
+MH Yardy
+0
+4
+TT Bresnan
+0
+13
+A Shahzad
+0
+2nd innings
+England
+12
+SW Tait
+0
+10
+B Lee
+1
+SM Davies
+11
+SW Tait
+0
+12
+B Lee
+0
+8
+MG Johnson
+1
+IR Bell
+11
+SNJ O'Keefe
+1
+KP Pietersen
+4
+MG Johnson
+0
+6
+SNJ O'Keefe
+0
+5
+MG Johnson
+0
+6
+SR Watson
+0
+10
+B Lee
+0
+4
+DJ Hussey
+1
+PD Collingwood
+10
+SW Tait
+1
+LJ Wright
+10
+DJ Hussey
+0
+10
+MG Johnson
+0
+2
+SR Watson
+2
+EJG Morgan
+MH Yardy
+8
+SW Tait
+0
+4
+SR Watson
+1
+TT Bresnan
+11
+B Lee
+0
+4
+SR Watson
+1
+GP Swann

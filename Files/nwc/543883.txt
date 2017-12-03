@@ -1,0 +1,133 @@
+none
+2012-02-22
+wickets: 6
+winner: Ireland
+Kenya
+Ireland
+venue: Mombasa Sports Club Ground
+1st innings
+Kenya
+4
+GH Dockrell
+1
+MA Ouma
+4
+WB Rankin
+0
+3
+GH Dockrell
+1
+DI Allan
+0
+WB Rankin
+1
+CO Obuya
+5
+PR Stirling
+0
+13
+WB Rankin
+0
+3
+PR Stirling
+0
+3
+MC Sorensen
+1
+RR Patel
+6
+AR Cusack
+0
+7
+DT Johnston
+0
+5
+GH Dockrell
+0
+11
+DT Johnston
+0
+9
+PR Stirling
+0
+9
+WB Rankin
+0
+3
+PR Stirling
+1
+T Mishra
+4
+MC Sorensen
+2
+AA Obanda
+RG Aga
+3
+AR Cusack
+0
+10
+MC Sorensen
+0
+3
+GH Dockrell
+1
+SO Ngoche
+2
+AR Cusack
+2
+NN Odhiambo
+E Otieno
+2nd innings
+Ireland
+9
+SO Ngoche
+1
+WTS Porterfield
+7
+E Otieno
+0
+7
+SO Ngoche
+0
+10
+E Otieno
+0
+2
+JO Ngoche
+1
+PR Stirling
+6
+NN Odhiambo
+1
+AR Cusack
+3
+JO Ngoche
+0
+11
+NN Odhiambo
+0
+2
+JO Ngoche
+0
+8
+RG Aga
+0
+6
+CO Obuya
+0
+9
+DI Allan
+0
+5
+CO Obuya
+1
+EC Joyce
+6
+SO Ngoche
+0
+14
+CO Obuya
+0
+4
+SO Ngoche
+0

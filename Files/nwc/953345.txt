@@ -1,0 +1,145 @@
+none
+2016-01-08
+runs: 5
+winner: Afghanistan
+Afghanistan
+Zimbabwe
+venue: Sharjah Cricket Stadium
+1st innings
+Afghanistan
+6
+DT Tiripano
+0
+7
+TS Chisoro
+0
+9
+DT Tiripano
+0
+16
+TS Chisoro
+0
+13
+LM Jongwe
+0
+11
+CJ Chibhabha
+0
+1
+AG Cremer
+1
+Mohammad Shahzad
+6
+CJ Chibhabha
+0
+8
+AG Cremer
+1
+Asghar Stanikzai
+8
+CJ Chibhabha
+0
+6
+Sikandar Raza
+0
+8
+AG Cremer
+0
+6
+Sikandar Raza
+1
+Usman Ghani
+1
+AG Cremer
+1
+Karim Sadiq
+15
+Sikandar Raza
+0
+9
+TS Chisoro
+0
+13
+LM Jongwe
+0
+16
+TS Chisoro
+1
+Mohammad Nabi
+14
+LM Jongwe
+1
+Najibullah Zadran
+14
+DT Tiripano
+1
+Gulbadin Naib
+2nd innings
+Zimbabwe
+3
+Dawlat Zadran
+1
+PJ Moor
+22
+Mirwais Ashraf
+0
+7
+Dawlat Zadran
+1
+CJ Chibhabha
+2
+Amir Hamza
+0
+15
+Karim Sadiq
+0
+5
+Amir Hamza
+0
+9
+Gulbadin Naib
+1
+R Mutumbami
+3
+Rashid Khan
+0
+4
+Gulbadin Naib
+0
+9
+Rashid Khan
+0
+16
+Gulbadin Naib
+0
+8
+Mohammad Nabi
+1
+H Masakadza
+4
+Rashid Khan
+0
+9
+Mohammad Nabi
+0
+12
+Rashid Khan
+0
+8
+Amir Hamza
+0
+7
+Dawlat Zadran
+0
+9
+Amir Hamza
+1
+Sikandar Raza
+15
+Mohammad Nabi
+0
+15
+Dawlat Zadran
+2
+E Chigumbura
+LM Jongwe

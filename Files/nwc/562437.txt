@@ -1,0 +1,148 @@
+Hambantota
+2012-06-01
+runs: 37
+winner: Sri Lanka
+Sri Lanka
+Pakistan
+venue: 'Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa'
+1st innings
+Sri Lanka
+3
+Sohail Tanvir
+1
+DPMD Jayawardene
+8
+Umar Gul
+0
+1
+Sohail Tanvir
+1
+TM Dilshan
+14
+Mohammad Sami
+0
+5
+Sohail Tanvir
+1
+KC Sangakkara
+5
+Umar Gul
+0
+3
+Sohail Tanvir
+0
+8
+Mohammad Sami
+1
+LD Chandimal
+3
+Shahid Afridi
+0
+3
+Mohammad Hafeez
+0
+7
+Shahid Afridi
+0
+4
+Mohammad Hafeez
+0
+2
+Saeed Ajmal
+1
+AD Mathews
+3
+Mohammad Hafeez
+0
+8
+Saeed Ajmal
+0
+12
+Mohammad Hafeez
+0
+2
+Saeed Ajmal
+2
+KS Lokuarachchi
+HDRL Thirimanne
+15
+Umar Gul
+0
+10
+Saeed Ajmal
+0
+16
+Umar Gul
+0
+2nd innings
+Pakistan
+2
+KMDN Kulasekara
+2
+Mohammad Hafeez
+Shakeel Ansar
+6
+SL Malinga
+0
+2
+KMDN Kulasekara
+0
+2
+AD Mathews
+1
+Khalid Latif
+9
+KMDN Kulasekara
+0
+2
+AD Mathews
+0
+13
+NLTC Perera
+0
+1
+AD Mathews
+0
+9
+KS Lokuarachchi
+0
+5
+AD Mathews
+1
+Shoaib Malik
+8
+KS Lokuarachchi
+0
+8
+SMSM Senanayake
+0
+3
+SL Malinga
+1
+Umar Akmal
+4
+SMSM Senanayake
+2
+Shahid Afridi
+Sohail Tanvir
+5
+NLTC Perera
+0
+8
+SMSM Senanayake
+1
+Ahmed Shehzad
+3
+SL Malinga
+1
+Umar Gul
+5
+NLTC Perera
+1
+Saeed Ajmal
+0
+NLTC Perera
+0
+0
+NLTC Perera
+0

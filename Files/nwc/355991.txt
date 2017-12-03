@@ -1,0 +1,142 @@
+London
+2009-06-05
+wickets: 4
+winner: Netherlands
+England
+Netherlands
+venue: Lord's
+1st innings
+England
+9
+DP Nannes
+0
+8
+E Schiferli
+0
+6
+DP Nannes
+0
+6
+E Schiferli
+0
+9
+RN ten Doeschate
+0
+13
+E Schiferli
+0
+4
+PM Seelaar
+0
+12
+PW Borren
+0
+11
+PM Seelaar
+0
+11
+RN ten Doeschate
+0
+11
+PW Borren
+0
+6
+RN ten Doeschate
+1
+RS Bopara
+4
+PW Borren
+0
+6
+E Schiferli
+1
+OA Shah
+8
+DP Nannes
+0
+4
+PW Borren
+1
+EJG Morgan
+12
+PM Seelaar
+0
+9
+RN ten Doeschate
+1
+LJ Wright
+6
+PM Seelaar
+1
+PD Collingwood
+7
+DP Nannes
+0
+2nd innings
+Netherlands
+2
+JM Anderson
+1
+AN Kervezee
+8
+RJ Sidebottom
+0
+13
+JM Anderson
+0
+5
+SCJ Broad
+1
+DJ Reekers
+8
+RJ Sidebottom
+0
+16
+SCJ Broad
+0
+8
+AU Rashid
+0
+6
+LJ Wright
+0
+13
+AU Rashid
+1
+B Zuiderent
+12
+LJ Wright
+0
+8
+PD Collingwood
+0
+6
+RJ Sidebottom
+0
+11
+PD Collingwood
+1
+TN de Grooth
+6
+SCJ Broad
+0
+6
+AU Rashid
+0
+5
+JM Anderson
+1
+PW Borren
+9
+AU Rashid
+0
+4
+JM Anderson
+1
+DLS van Bunge
+10
+RJ Sidebottom
+0
+7
+SCJ Broad
+0

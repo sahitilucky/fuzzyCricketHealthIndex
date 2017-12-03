@@ -1,0 +1,140 @@
+none
+2012-03-24
+wickets: 5
+winner: Ireland
+Afghanistan
+Ireland
+venue: Dubai International Cricket Stadium
+1st innings
+Afghanistan
+8
+WB Rankin
+0
+10
+DT Johnston
+0
+5
+WB Rankin
+1
+Karim Sadiq
+7
+DT Johnston
+1
+Javed Ahmadi
+15
+MC Sorensen
+0
+10
+DT Johnston
+0
+3
+KJ O'Brien
+1
+Mirwais Ashraf
+8
+GH Dockrell
+0
+4
+KJ O'Brien
+0
+5
+GH Dockrell
+0
+4
+KJ O'Brien
+1
+Nawroz Mangal
+7
+WB Rankin
+0
+7
+KJ O'Brien
+0
+9
+PR Stirling
+0
+3
+WB Rankin
+0
+13
+GH Dockrell
+0
+6
+MC Sorensen
+1
+Samiullah Shenwari
+8
+PR Stirling
+1
+Mohammad Nabi
+6
+MC Sorensen
+1
+Mohammad Shahzad
+14
+DT Johnston
+0
+2nd innings
+Ireland
+8
+Dawlat Zadran
+1
+WTS Porterfield
+17
+Mirwais Ashraf
+0
+4
+Dawlat Zadran
+0
+8
+Aftab Alam
+1
+EC Joyce
+17
+Izatullah Dawlatzai
+0
+8
+Samiullah Shenwari
+0
+12
+Aftab Alam
+0
+8
+Mohammad Nabi
+0
+4
+Samiullah Shenwari
+0
+8
+Mohammad Nabi
+0
+4
+Samiullah Shenwari
+0
+9
+Mohammad Nabi
+0
+6
+Dawlat Zadran
+2
+PR Stirling
+KJ O'Brien
+5
+Izatullah Dawlatzai
+0
+7
+Dawlat Zadran
+0
+12
+Izatullah Dawlatzai
+0
+8
+Aftab Alam
+0
+5
+Gulbodin Naib
+0
+6
+Aftab Alam
+1
+GC Wilson

@@ -1,0 +1,148 @@
+Edinburgh
+2015-07-09
+runs: 32
+winner: Afghanistan
+Afghanistan
+Netherlands
+venue: 'Grange Cricket Club Ground, Raeburn Place'
+1st innings
+Afghanistan
+1
+MR Swart
+0
+6
+Mudassar Bukhari
+1
+Mohammad Shahzad
+4
+T van der Gugten
+0
+8
+Mudassar Bukhari
+1
+Asghar Stanikzai
+12
+T van der Gugten
+0
+3
+Mudassar Bukhari
+0
+6
+RE van der Merwe
+1
+Nawroz Mangal
+2
+MJG Rippon
+0
+9
+RE van der Merwe
+0
+8
+PM Seelaar
+0
+5
+MAA Jamil
+0
+10
+Mudassar Bukhari
+0
+7
+T van der Gugten
+0
+6
+MJG Rippon
+0
+7
+MAA Jamil
+0
+10
+RE van der Merwe
+1
+Mohammad Nabi
+12
+MAA Jamil
+0
+22
+RE van der Merwe
+0
+11
+T van der Gugten
+0
+13
+MAA Jamil
+3
+Najibullah Zadran
+Samiullah Shenwari
+Mirwais Ashraf
+2nd innings
+Netherlands
+6
+Dawlat Zadran
+0
+8
+Mohammad Nabi
+0
+3
+Dawlat Zadran
+1
+SJ Myburgh
+9
+Hamid Hassan
+0
+13
+Mirwais Ashraf
+0
+12
+Mohammad Nabi
+0
+5
+Mirwais Ashraf
+0
+10
+Hamid Hassan
+0
+3
+Sharafuddin Ashraf
+1
+BN Cooper
+2
+Mirwais Ashraf
+1
+MR Swart
+13
+Sharafuddin Ashraf
+0
+7
+Mirwais Ashraf
+0
+3
+Sharafuddin Ashraf
+1
+PW Borren
+4
+Mohammad Nabi
+1
+RE van der Merwe
+8
+Sharafuddin Ashraf
+1
+PM Seelaar
+3
+Mohammad Nabi
+1
+W Barresi
+7
+Hamid Hassan
+1
+Mudassar Bukhari
+4
+Dawlat Zadran
+1
+T van der Gugten
+6
+Samiullah Shenwari
+0
+4
+Dawlat Zadran
+1
+MJG Rippon

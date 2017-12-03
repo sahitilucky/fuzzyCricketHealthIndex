@@ -1,0 +1,147 @@
+Dublin
+2015-07-17
+runs: 5
+winner: Hong Kong
+Ireland
+Hong Kong
+venue: 'The Village, Malahide'
+1st innings
+Hong Kong
+8
+AR Cusack
+0
+0
+CA Young
+1
+Irfan Ahmed
+4
+AR Cusack
+0
+3
+CA Young
+0
+6
+SR Thompson
+0
+14
+CA Young
+0
+7
+SR Thompson
+0
+5
+JF Mooney
+0
+2
+GH Dockrell
+0
+3
+JF Mooney
+0
+5
+GH Dockrell
+1
+Anshuman Rath
+9
+KJ O'Brien
+1
+Nizakat Khan
+9
+GH Dockrell
+1
+Babar Hayat
+8
+KJ O'Brien
+1
+JJ Atkinson
+7
+GH Dockrell
+0
+6
+KJ O'Brien
+1
+Aizaz Khan
+4
+AR Cusack
+0
+9
+KJ O'Brien
+0
+10
+AR Cusack
+0
+10
+JF Mooney
+2
+Tanwir Afzal
+MS Chapman
+2nd innings
+Ireland
+1
+Tanwir Afzal
+0
+8
+Haseeb Amjad
+1
+A Balbirnie
+4
+Tanwir Afzal
+0
+9
+Haseeb Amjad
+0
+1
+Tanwir Afzal
+0
+20
+Aizaz Khan
+0
+4
+Tanwir Afzal
+0
+5
+Nizakat Khan
+0
+1
+Irfan Ahmed
+1
+PR Stirling
+4
+Nizakat Khan
+0
+3
+Irfan Ahmed
+0
+5
+Nizakat Khan
+1
+KJ O'Brien
+6
+Nadeem Ahmed
+0
+3
+Nizakat Khan
+0
+10
+Nadeem Ahmed
+0
+9
+Aizaz Khan
+1
+GC Wilson
+6
+Irfan Ahmed
+0
+6
+Haseeb Amjad
+2
+WTS Porterfield
+SR Thompson
+2
+Irfan Ahmed
+2
+SW Poynter
+GH Dockrell
+17
+Haseeb Amjad
+0

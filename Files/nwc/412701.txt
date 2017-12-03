@@ -1,0 +1,128 @@
+St Lucia
+2010-05-13
+wickets: 7
+winner: England
+England
+Sri Lanka
+venue: 'Beausejour Stadium, Gros Islet'
+1st innings
+Sri Lanka
+7
+TT Bresnan
+0
+4
+RJ Sidebottom
+1
+ST Jayasuriya
+9
+TT Bresnan
+1
+TM Dilshan
+6
+RJ Sidebottom
+0
+4
+SCJ Broad
+1
+DPMD Jayawardene
+8
+TT Bresnan
+0
+1
+GP Swann
+0
+4
+MH Yardy
+0
+4
+GP Swann
+1
+KC Sangakkara
+8
+MH Yardy
+0
+6
+GP Swann
+0
+4
+MH Yardy
+0
+10
+GP Swann
+0
+5
+MH Yardy
+0
+6
+SCJ Broad
+0
+6
+RJ Sidebottom
+0
+4
+SCJ Broad
+1
+CK Kapugedera
+17
+TT Bresnan
+0
+7
+SCJ Broad
+0
+8
+RJ Sidebottom
+1
+AD Mathews
+2nd innings
+England
+5
+TM Dilshan
+0
+1
+BAW Mendis
+0
+11
+S Randiv
+0
+14
+AD Mathews
+0
+7
+SL Malinga
+0
+9
+BAW Mendis
+0
+6
+S Randiv
+0
+15
+ST Jayasuriya
+0
+3
+SL Malinga
+1
+C Kieswetter
+12
+NLTC Perera
+1
+MJ Lumb
+10
+S Randiv
+0
+5
+BAW Mendis
+0
+11
+SL Malinga
+0
+4
+BAW Mendis
+0
+7
+NLTC Perera
+1
+PD Collingwood
+12
+SL Malinga
+0

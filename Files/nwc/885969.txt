@@ -1,0 +1,143 @@
+none
+2015-07-17
+runs: 54
+winner: India
+Zimbabwe
+India
+venue: Harare Sports Club
+1st innings
+India
+3
+P Utseya
+0
+7
+CB Mpofu
+0
+9
+T Muzarabani
+0
+11
+N Madziva
+0
+17
+T Muzarabani
+0
+11
+N Madziva
+0
+6
+P Utseya
+1
+M Vijay
+7
+AG Cremer
+0
+11
+P Utseya
+0
+0
+AG Cremer
+1
+AM Rahane
+6
+Sikandar Raza
+0
+10
+AG Cremer
+0
+10
+P Utseya
+0
+5
+AG Cremer
+0
+10
+T Muzarabani
+0
+12
+CB Mpofu
+1
+MK Pandey
+13
+N Madziva
+0
+6
+CB Mpofu
+1
+KM Jadhav
+12
+N Madziva
+0
+12
+CB Mpofu
+1
+STR Binny
+2nd innings
+Zimbabwe
+2
+B Kumar
+0
+16
+Sandeep Sharma
+0
+2
+B Kumar
+0
+7
+Sandeep Sharma
+0
+4
+MM Sharma
+0
+7
+AR Patel
+0
+12
+Harbhajan Singh
+0
+5
+AR Patel
+0
+8
+Harbhajan Singh
+1
+CJ Chibhabha
+3
+AR Patel
+2
+H Masakadza
+E Chigumbura
+2
+Harbhajan Singh
+1
+CK Coventry
+5
+STR Binny
+0
+7
+Harbhajan Singh
+0
+4
+STR Binny
+1
+CR Ervine
+3
+MM Sharma
+0
+3
+AR Patel
+1
+Sikandar Raza
+6
+B Kumar
+0
+3
+MM Sharma
+1
+AG Cremer
+13
+B Kumar
+0
+12
+Sandeep Sharma
+0

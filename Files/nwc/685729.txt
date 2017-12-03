@@ -1,0 +1,139 @@
+Cape Town
+2013-11-22
+runs: 6
+winner: Pakistan
+South Africa
+Pakistan
+venue: Newlands
+1st innings
+Pakistan
+3
+M Morkel
+0
+1
+DW Steyn
+0
+9
+M Morkel
+0
+12
+DW Steyn
+0
+0
+WD Parnell
+1
+Ahmed Shehzad
+5
+D Wiese
+0
+13
+WD Parnell
+0
+3
+AM Phangiso
+1
+Nasir Jamshed
+7
+JP Duminy
+0
+9
+AM Phangiso
+0
+7
+D Wiese
+0
+21
+AM Phangiso
+0
+7
+JP Duminy
+0
+12
+D Wiese
+0
+22
+M Morkel
+0
+14
+WD Parnell
+0
+7
+DW Steyn
+1
+Mohammad Hafeez
+3
+M Morkel
+0
+12
+WD Parnell
+0
+9
+DW Steyn
+1
+Umar Akmal
+2nd innings
+South Africa
+5
+Mohammad Hafeez
+0
+12
+Sohail Tanvir
+0
+9
+Mohammad Hafeez
+0
+13
+Sohail Tanvir
+0
+10
+Junaid Khan
+0
+4
+Saeed Ajmal
+0
+5
+Bilawal Bhatti
+0
+3
+Shahid Afridi
+1
+Q de Kock
+5
+Bilawal Bhatti
+0
+6
+Shahid Afridi
+1
+F du Plessis
+12
+Mohammad Hafeez
+0
+5
+Shahid Afridi
+1
+AB de Villiers
+6
+Saeed Ajmal
+0
+15
+Shahid Afridi
+0
+5
+Bilawal Bhatti
+0
+5
+Saeed Ajmal
+1
+HM Amla
+6
+Bilawal Bhatti
+0
+15
+Saeed Ajmal
+0
+19
+Junaid Khan
+0
+10
+Sohail Tanvir
+0

@@ -1,0 +1,148 @@
+none
+2012-10-01
+result
+tie
+New Zealand
+West Indies
+venue: Pallekele International Cricket Stadium
+1st innings
+West Indies
+9
+KD Mills
+0
+5
+DAJ Bracewell
+1
+J Charles
+16
+KD Mills
+0
+7
+DAJ Bracewell
+1
+AD Russell
+6
+TG Southee
+0
+17
+JDP Oram
+0
+4
+TG Southee
+1
+CH Gayle
+1
+RM Hira
+0
+11
+NL McCullum
+0
+10
+RM Hira
+0
+2
+NL McCullum
+1
+MN Samuels
+8
+RM Hira
+0
+3
+NL McCullum
+1
+DM Bravo
+5
+RM Hira
+1
+D Ramdin
+4
+NL McCullum
+0
+8
+DAJ Bracewell
+0
+7
+TG Southee
+1
+DJG Sammy
+11
+DAJ Bracewell
+1
+KA Pollard
+4
+TG Southee
+1
+SP Narine
+1
+JDP Oram
+1
+S Badree
+2nd innings
+New Zealand
+4
+R Rampaul
+0
+4
+S Badree
+0
+5
+R Rampaul
+1
+RJ Nicol
+6
+S Badree
+0
+6
+R Rampaul
+0
+9
+SP Narine
+0
+6
+DJG Sammy
+0
+5
+S Badree
+1
+BB McCullum
+7
+DJG Sammy
+1
+MJ Guptill
+4
+S Badree
+0
+7
+KA Pollard
+0
+15
+CH Gayle
+0
+7
+SP Narine
+1
+JEC Franklin
+8
+DJG Sammy
+0
+6
+KA Pollard
+0
+14
+DJG Sammy
+0
+2
+SP Narine
+1
+JDP Oram
+8
+R Rampaul
+0
+3
+SP Narine
+1
+NL McCullum
+13
+MN Samuels
+1
+DAJ Bracewell

@@ -1,0 +1,139 @@
+Mirpur
+2014-04-04
+wickets: 6
+winner: India
+India
+South Africa
+venue: Shere Bangla National Stadium
+1st innings
+South Africa
+10
+B Kumar
+1
+Q de Kock
+3
+MM Sharma
+0
+4
+B Kumar
+0
+17
+MM Sharma
+0
+9
+B Kumar
+0
+1
+R Ashwin
+1
+HM Amla
+3
+RA Jadeja
+0
+6
+SK Raina
+0
+5
+RA Jadeja
+0
+8
+SK Raina
+0
+8
+A Mishra
+0
+16
+SK Raina
+0
+17
+A Mishra
+0
+9
+R Ashwin
+1
+F du Plessis
+11
+A Mishra
+0
+3
+R Ashwin
+1
+AB de Villiers
+6
+SK Raina
+0
+10
+R Ashwin
+0
+12
+B Kumar
+0
+14
+MM Sharma
+0
+2nd innings
+India
+14
+JP Duminy
+0
+9
+JA Morkel
+0
+10
+DW Steyn
+0
+8
+BE Hendricks
+1
+RG Sharma
+11
+WD Parnell
+0
+4
+BE Hendricks
+0
+5
+Imran Tahir
+0
+8
+JA Morkel
+0
+6
+JP Duminy
+0
+5
+WD Parnell
+1
+AM Rahane
+9
+JP Duminy
+0
+5
+Imran Tahir
+0
+10
+BE Hendricks
+0
+9
+Imran Tahir
+0
+9
+DW Steyn
+0
+11
+Imran Tahir
+1
+Yuvraj Singh
+17
+WD Parnell
+0
+13
+DW Steyn
+0
+9
+BE Hendricks
+1
+SK Raina
+4
+DW Steyn
+0

@@ -1,0 +1,478 @@
+2005-10-21,South Africa,New Zealand,222678
+2005-02-17,New Zealand,Australia,211048
+2005-06-13,England,Australia,211028
+2006-06-15,England,Sri Lanka,225271
+2006-01-09,Australia,South Africa,226374
+2006-02-24,South Africa,Australia,238195
+2006-08-28,England,Pakistan,225263
+2006-02-16,New Zealand,West Indies,237242
+2006-12-01,South Africa,India,255954
+2006-12-22,New Zealand,Sri Lanka,251487
+2006-12-26,New Zealand,Sri Lanka,251488
+2007-09-19,South Africa,New Zealand,287872
+2007-09-15,South Africa,Bangladesh,287864
+2007-10-20,India,Australia,297800
+2007-09-24,India,Pakistan,287879
+2007-12-16,South Africa,West Indies,319112
+2007-09-18,Australia,Pakistan,287870
+2007-09-19,England,India,287873
+2007-09-01,Kenya,Bangladesh,306987
+2007-09-18,Bangladesh,Sri Lanka,287871
+2007-09-20,South Africa,India,287876
+2007-09-11,South Africa,West Indies,287853
+2007-09-16,India,New Zealand,287865
+2007-01-09,Australia,England,249227
+2007-09-17,Pakistan,Sri Lanka,287868
+2007-09-04,Kenya,Pakistan,306991
+2007-09-02,Bangladesh,Pakistan,306989
+2007-06-28,England,West Indies,258463
+2007-09-12,Australia,Zimbabwe,287856
+2007-09-14,India,Pakistan,287862
+2007-11-23,South Africa,New Zealand,298795
+2007-09-16,Australia,Bangladesh,287866
+2007-09-15,New Zealand,Sri Lanka,287863
+2007-09-18,England,New Zealand,287869
+2007-09-22,New Zealand,Pakistan,287877
+2007-09-16,South Africa,England,287867
+2007-09-22,Australia,India,287878
+2007-12-11,Australia,New Zealand,291343
+2007-09-14,Kenya,Sri Lanka,287860
+2007-09-12,Kenya,New Zealand,287854
+2007-09-14,Australia,England,287861
+2007-09-12,Pakistan,Scotland,287855
+2007-06-29,England,West Indies,258464
+2007-09-20,Australia,Sri Lanka,287874
+2007-09-13,Bangladesh,West Indies,287857
+2007-09-13,England,Zimbabwe,287858
+2007-09-20,Bangladesh,Pakistan,287875
+2008-11-05,South Africa,Bangladesh,350347
+2008-08-04,Netherlands,Scotland,361531
+2008-10-13,Pakistan,Sri Lanka,361660
+2008-02-05,New Zealand,England,300435
+2008-12-28,New Zealand,West Indies,366708
+2008-10-11,Pakistan,Sri Lanka,361656
+2008-02-07,New Zealand,England,300436
+2008-08-04,Ireland,Kenya,361530
+2008-04-20,Pakistan,Bangladesh,343764
+2008-08-03,Bermuda,Scotland,354456
+2008-06-13,England,New Zealand,296903
+2008-12-26,New Zealand,West Indies,366707
+2008-02-01,Australia,India,291356
+2008-01-18,South Africa,West Indies,298804
+2008-06-20,West Indies,Australia,319142
+2009-01-11,Australia,South Africa,351694
+2009-06-08,Australia,Sri Lanka,355998
+2009-11-13,South Africa,England,387563
+2009-06-08,Bangladesh,Ireland,355997
+2009-06-07,Scotland,South Africa,355995
+2009-02-10,Sri Lanka,India,386535
+2009-06-15,England,West Indies,356011
+2009-06-16,India,South Africa,356014
+2009-06-11,Ireland,New Zealand,356003
+2009-06-06,Australia,West Indies,355993
+2009-06-10,Sri Lanka,West Indies,356002
+2009-06-05,England,Netherlands,355991
+2009-11-15,South Africa,England,387564
+2009-06-13,New Zealand,Pakistan,356008
+2009-06-12,Pakistan,Sri Lanka,356005
+2009-03-15,West Indies,England,352674
+2009-06-09,Netherlands,Pakistan,355999
+2009-06-11,England,South Africa,356004
+2009-06-06,New Zealand,Scotland,355992
+2009-06-06,Bangladesh,India,355994
+2009-12-12,India,Sri Lanka,430885
+2009-06-19,Sri Lanka,West Indies,356016
+2009-06-09,New Zealand,South Africa,356000
+2009-02-27,New Zealand,India,366622
+2009-11-12,New Zealand,Pakistan,426723
+2009-06-14,Ireland,Sri Lanka,356009
+2009-02-25,New Zealand,India,386494
+2009-06-13,South Africa,West Indies,356007
+2009-06-18,Pakistan,South Africa,356015
+2009-02-15,Australia,New Zealand,351696
+2009-12-09,India,Sri Lanka,430884
+2009-06-15,Ireland,Pakistan,356012
+2009-06-14,England,India,356010
+2009-08-12,Sri Lanka,Pakistan,403375
+2009-06-07,England,Pakistan,355996
+2009-09-02,Sri Lanka,New Zealand,403385
+2009-01-13,Australia,South Africa,351695
+2009-08-30,England,Australia,350050
+2009-06-12,India,West Indies,356006
+2009-06-10,India,Ireland,356001
+2009-03-29,South Africa,Australia,350476
+2009-03-27,South Africa,Australia,350475
+2009-05-07,Australia,Pakistan,392615
+2009-06-21,Pakistan,Sri Lanka,356017
+2009-11-13,New Zealand,Pakistan,426724
+2009-06-16,New Zealand,Sri Lanka,356013
+2009-09-04,Sri Lanka,New Zealand,403386
+2009-08-02,West Indies,Bangladesh,401076
+2010-05-06,England,Pakistan,412689
+2010-05-16,Australia,England,412703
+2010-02-23,Australia,West Indies,406198
+2010-05-23,New Zealand,Sri Lanka,456992
+2010-10-26,Pakistan,South Africa,478279
+2010-05-05,Australia,Bangladesh,412688
+2010-02-12,Afghanistan,Netherlands,439507
+2010-02-20,England,Pakistan,440946
+2010-05-11,West Indies,Australia,412700
+2010-05-19,West Indies,South Africa,439146
+2010-05-04,New Zealand,Zimbabwe,412684
+2010-02-13,Ireland,Netherlands,439510
+2010-10-31,Australia,Sri Lanka,446956
+2010-05-20,West Indies,South Africa,447539
+2010-02-28,West Indies,Zimbabwe,439139
+2010-02-10,Canada,Kenya,439499
+2010-09-07,England,Pakistan,426418
+2010-05-22,New Zealand,Sri Lanka,456991
+2010-05-14,Australia,Pakistan,412702
+2010-05-08,New Zealand,Pakistan,412693
+2010-10-08,South Africa,Zimbabwe,463141
+2010-05-05,Afghanistan,South Africa,412687
+2010-05-03,West Indies,England,412685
+2010-06-12,Zimbabwe,India,452153
+2010-05-13,England,Sri Lanka,412701
+2010-05-11,India,Sri Lanka,412699
+2010-05-03,Sri Lanka,Zimbabwe,412686
+2010-02-09,Canada,Netherlands,439497
+2010-05-06,New Zealand,South Africa,412690
+2010-05-02,India,South Africa,412682
+2010-02-11,Ireland,Scotland,439505
+2010-02-21,Australia,West Indies,406197
+2010-05-09,Australia,Sri Lanka,412696
+2010-02-05,Australia,Pakistan,406207
+2010-02-28,New Zealand,Australia,423788
+2010-05-02,Australia,Pakistan,412683
+2010-06-13,Zimbabwe,India,452154
+2010-05-10,Pakistan,South Africa,412697
+2010-05-01,Bangladesh,Pakistan,412680
+2010-07-06,Australia,Pakistan,426393
+2010-04-30,New Zealand,Sri Lanka,412678
+2010-02-09,Afghanistan,Ireland,439495
+2010-12-26,New Zealand,Pakistan,473918
+2010-05-08,England,South Africa,412694
+2010-02-13,Afghanistan,Ireland,439511
+2010-02-26,New Zealand,Australia,423787
+2010-02-19,England,Pakistan,440945
+2010-05-04,England,Ireland,412681
+2010-02-03,New Zealand,Bangladesh,423782
+2010-05-10,England,New Zealand,412698
+2010-05-07,Australia,India,412691
+2010-10-10,South Africa,Zimbabwe,463142
+2010-04-30,West Indies,Ireland,412677
+2010-10-27,Pakistan,South Africa,461565
+2010-12-30,New Zealand,Pakistan,473920
+2010-07-05,Australia,Pakistan,426392
+2010-12-28,New Zealand,Pakistan,473919
+2010-05-01,Afghanistan,India,412679
+2010-09-05,England,Pakistan,426417
+2010-05-09,West Indies,India,412695
+2010-05-07,West Indies,Sri Lanka,412692
+2011-01-12,Australia,England,446960
+2011-08-08,Sri Lanka,Australia,516205
+2011-09-16,Zimbabwe,Pakistan,523735
+2011-11-29,Bangladesh,Pakistan,538068
+2011-10-15,Zimbabwe,New Zealand,527012
+2011-01-09,South Africa,India,463149
+2011-10-13,South Africa,Australia,514023
+2011-11-25,Pakistan,Sri Lanka,530432
+2011-08-06,Sri Lanka,Australia,516204
+2011-09-23,England,West Indies,525816
+2011-08-31,England,India,474476
+2011-10-29,India,England,521217
+2011-10-17,Zimbabwe,New Zealand,527013
+2011-01-14,Australia,England,446961
+2011-06-04,West Indies,India,489220
+2011-09-25,England,West Indies,525817
+2011-10-16,South Africa,Australia,514024
+2011-06-25,England,Sri Lanka,474466
+2011-10-11,Bangladesh,West Indies,531982
+2011-04-21,West Indies,Pakistan,489212
+2011-09-18,Zimbabwe,Pakistan,523736
+2012-10-07,Sri Lanka,West Indies,533298
+2012-02-19,New Zealand,South Africa,520598
+2012-09-10,England,South Africa,534234
+2012-09-10,Australia,Pakistan,571150
+2012-02-17,New Zealand,South Africa,520597
+2012-03-18,Afghanistan,Canada,546443
+2012-03-14,Ireland,Kenya,546414
+2012-12-26,South Africa,New Zealand,567355
+2012-12-10,Bangladesh,West Indies,587476
+2012-03-22,Canada,Ireland,546462
+2012-12-21,South Africa,New Zealand,567353
+2012-09-18,Sri Lanka,Zimbabwe,533272
+2012-09-28,Pakistan,South Africa,533286
+2012-03-23,Ireland,Netherlands,546470
+2012-09-27,England,West Indies,533285
+2012-09-29,Sri Lanka,West Indies,533289
+2012-10-30,Sri Lanka,New Zealand,582186
+2012-12-20,India,England,565810
+2012-02-25,England,Pakistan,531636
+2012-07-25,Netherlands,Bangladesh,567205
+2012-09-20,South Africa,Zimbabwe,533275
+2012-09-21,Bangladesh,New Zealand,533276
+2012-09-28,Australia,India,533287
+2012-09-30,India,Pakistan,533291
+2012-09-05,Australia,Pakistan,571148
+2012-03-24,Afghanistan,Ireland,546477
+2012-02-27,England,Pakistan,531637
+2012-09-08,England,South Africa,534233
+2012-03-13,Canada,Netherlands,546410
+2012-06-30,New Zealand,West Indies,560921
+2012-09-19,Australia,Ireland,533273
+2012-02-24,Kenya,Ireland,543885
+2012-02-22,Kenya,Ireland,543883
+2012-02-03,Australia,India,518955
+2012-09-22,Australia,West Indies,533279
+2012-09-25,Bangladesh,Pakistan,533283
+2012-03-23,Canada,Scotland,546473
+2012-12-28,India,Pakistan,589307
+2012-10-05,Australia,West Indies,533297
+2012-09-19,Afghanistan,India,533274
+2012-12-25,India,Pakistan,589306
+2012-09-07,Australia,Pakistan,571149
+2012-02-23,Kenya,Ireland,543884
+2012-03-14,Afghanistan,Netherlands,546418
+2012-03-30,West Indies,Australia,540174
+2012-10-04,Sri Lanka,Pakistan,533296
+2012-10-02,India,South Africa,533295
+2012-03-27,West Indies,Australia,540173
+2012-10-02,Australia,Pakistan,533294
+2012-02-23,England,Pakistan,531635
+2012-03-30,South Africa,India,556252
+2012-02-14,New Zealand,Zimbabwe,520596
+2012-09-23,New Zealand,Pakistan,533280
+2012-12-23,South Africa,New Zealand,567354
+2012-09-23,England,India,533281
+2012-10-01,New Zealand,West Indies,533292
+2012-07-26,Netherlands,Bangladesh,573672
+2012-06-01,Sri Lanka,Pakistan,562437
+2012-09-30,Australia,South Africa,533290
+2012-10-01,Sri Lanka,England,533293
+2012-08-07,Sri Lanka,India,564786
+2012-07-18,Ireland,Bangladesh,567071
+2012-02-01,Australia,India,518954
+2012-09-29,England,New Zealand,533288
+2012-09-11,India,New Zealand,565820
+2012-02-11,New Zealand,Zimbabwe,520595
+2012-06-03,Sri Lanka,Pakistan,562438
+2012-09-27,Sri Lanka,New Zealand,533284
+2012-09-12,England,South Africa,534235
+2012-12-22,India,England,565811
+2012-03-18,Ireland,Scotland,546442
+2012-07-01,New Zealand,West Indies,560922
+2012-06-24,England,West Indies,534208
+2012-02-22,New Zealand,South Africa,520599
+2012-09-22,Sri Lanka,South Africa,533278
+2012-09-21,Afghanistan,England,533277
+2013-08-31,England,Australia,566938
+2013-10-10,India,Australia,647247
+2013-11-15,Afghanistan,Netherlands,660107
+2013-12-11,Pakistan,Sri Lanka,657633
+2013-11-19,Kenya,Scotland,660149
+2013-02-13,Australia,West Indies,573027
+2013-01-28,Australia,Sri Lanka,573020
+2013-11-24,Afghanistan,Kenya,660203
+2013-04-20,Kenya,Netherlands,592276
+2013-08-02,Sri Lanka,South Africa,635658
+2013-08-06,Sri Lanka,South Africa,635660
+2013-03-04,Afghanistan,Scotland,592273
+2013-11-06,Bangladesh,New Zealand,668959
+2013-06-25,England,New Zealand,566926
+2013-01-26,Australia,Sri Lanka,573019
+2013-08-04,Sri Lanka,South Africa,635659
+2013-11-22,South Africa,Pakistan,685729
+2013-11-30,Afghanistan,Ireland,660235
+2013-08-24,Zimbabwe,Pakistan,659547
+2013-03-03,Afghanistan,Scotland,592272
+2013-11-22,Netherlands,Scotland,660173
+2013-03-15,Canada,Kenya,592268
+2013-11-28,Netherlands,Scotland,660223
+2013-11-16,Afghanistan,Scotland,660123
+2013-02-15,New Zealand,England,569239
+2013-02-12,New Zealand,England,569238
+2013-11-26,Canada,Kenya,660209
+2013-11-15,Pakistan,South Africa,649103
+2013-03-02,West Indies,Zimbabwe,593986
+2013-11-21,Sri Lanka,New Zealand,668969
+2013-08-29,England,Australia,566937
+2013-11-23,Kenya,Netherlands,660185
+2013-10-11,Afghanistan,Kenya,662387
+2013-05-12,Zimbabwe,Bangladesh,623572
+2013-07-27,West Indies,Pakistan,645645
+2013-04-19,Kenya,Netherlands,630951
+2013-11-16,Canada,Ireland,660113
+2013-08-23,Zimbabwe,Pakistan,659545
+2013-09-30,Afghanistan,Kenya,662383
+2013-03-16,Canada,Kenya,592269
+2013-02-09,New Zealand,England,569237
+2013-03-03,South Africa,Pakistan,567367
+2013-11-20,South Africa,Pakistan,685727
+2013-12-08,Afghanistan,Pakistan,657631
+2013-12-13,Pakistan,Sri Lanka,657635
+2013-05-11,Zimbabwe,Bangladesh,623571
+2013-03-03,West Indies,Zimbabwe,593987
+2013-07-28,West Indies,Pakistan,645647
+2013-03-31,Sri Lanka,Bangladesh,602477
+2013-11-13,Pakistan,South Africa,649101
+2014-03-20,Afghanistan,Nepal,682913
+2014-11-09,Australia,South Africa,754721
+2014-03-30,Bangladesh,Pakistan,682949
+2014-03-13,West Indies,England,636538
+2014-04-01,Pakistan,West Indies,682959
+2014-07-06,West Indies,New Zealand,730285
+2014-03-19,Ireland,United Arab Emirates,682911
+2014-03-19,Netherlands,Zimbabwe,682909
+2014-12-04,New Zealand,Pakistan,742617
+2014-10-05,Australia,Pakistan,727917
+2014-03-24,New Zealand,South Africa,682931
+2014-03-27,England,Sri Lanka,682939
+2014-03-17,Ireland,Zimbabwe,682901
+2014-01-31,Australia,England,636165
+2014-02-12,Bangladesh,Sri Lanka,690351
+2014-03-21,Ireland,Netherlands,682919
+2014-03-21,India,Pakistan,682921
+2014-03-28,Australia,West Indies,682941
+2014-03-29,Netherlands,New Zealand,682945
+2014-11-05,Australia,South Africa,754717
+2014-03-25,Bangladesh,West Indies,682935
+2014-05-20,England,Sri Lanka,667887
+2014-03-23,Australia,Pakistan,682927
+2014-03-11,West Indies,England,636537
+2014-03-12,South Africa,Australia,648681
+2014-04-01,Bangladesh,Australia,682957
+2014-04-06,India,Sri Lanka,682965
+2014-03-28,Bangladesh,India,682943
+2014-03-20,Bangladesh,Hong Kong,682915
+2014-03-09,West Indies,England,636536
+2014-03-31,England,Netherlands,682953
+2014-03-24,Netherlands,Sri Lanka,682933
+2014-04-03,Sri Lanka,West Indies,682961
+2014-03-29,England,South Africa,682947
+2014-01-29,Australia,England,636164
+2014-01-15,New Zealand,West Indies,661697
+2014-11-07,Australia,South Africa,754719
+2014-09-07,England,India,667731
+2014-03-16,Bangladesh,Afghanistan,682897
+2014-03-22,South Africa,Sri Lanka,682923
+2014-02-19,West Indies,Ireland,702141
+2014-03-21,United Arab Emirates,Zimbabwe,682917
+2014-02-21,West Indies,Ireland,702143
+2014-12-05,New Zealand,Pakistan,754039
+2014-01-11,New Zealand,West Indies,661695
+2014-03-18,Afghanistan,Hong Kong,682905
+2014-03-17,Netherlands,United Arab Emirates,682903
+2014-03-27,Netherlands,South Africa,682937
+2014-07-05,West Indies,New Zealand,730283
+2014-03-14,South Africa,Australia,648683
+2014-03-30,Australia,India,682951
+2014-03-22,England,New Zealand,682925
+2014-03-16,Hong Kong,Nepal,682899
+2014-11-24,Hong Kong,Nepal,802327
+2014-03-23,India,West Indies,682929
+2014-03-31,New Zealand,Sri Lanka,682955
+2014-02-14,Bangladesh,Sri Lanka,690353
+2014-03-18,Bangladesh,Nepal,682907
+2014-02-02,Australia,England,636166
+2014-04-04,India,South Africa,682963
+2015-07-15,Ireland,Papua New Guinea,875501
+2015-07-15,Hong Kong,Nepal,875507
+2015-07-19,Zimbabwe,India,885971
+2015-07-21,Afghanistan,Hong Kong,875541
+2015-11-27,England,Pakistan,902651
+2015-07-05,Bangladesh,South Africa,817203
+2015-01-11,South Africa,West Indies,722337
+2015-07-01,Netherlands,Nepal,883343
+2015-07-25,Afghanistan,Oman,875551
+2015-07-17,Nepal,Papua New Guinea,875513
+2015-09-29,Zimbabwe,Pakistan,919605
+2015-07-09,Scotland,United Arab Emirates,875457
+2015-07-09,Afghanistan,Netherlands,875459
+2015-11-13,Bangladesh,Zimbabwe,931396
+2015-11-22,United Arab Emirates,Oman,930573
+2015-11-26,Hong Kong,Oman,930579
+2015-07-17,Zimbabwe,India,885969
+2015-08-01,Sri Lanka,Pakistan,860281
+2015-07-12,Scotland,Afghanistan,875485
+2015-11-11,Sri Lanka,West Indies,915785
+2015-06-23,England,New Zealand,743953
+2015-07-11,Scotland,Netherlands,875471
+2015-06-20,Ireland,Scotland,889463
+2015-07-02,Netherlands,Nepal,883345
+2015-10-02,India,South Africa,903587
+2015-07-07,Bangladesh,South Africa,817205
+2015-10-05,India,South Africa,903589
+2015-05-22,Pakistan,Zimbabwe,868723
+2015-07-10,Afghanistan,United Arab Emirates,875467
+2015-08-09,Zimbabwe,New Zealand,894293
+2015-11-26,England,Pakistan,902649
+2015-07-17,Ireland,Hong Kong,875521
+2015-08-16,South Africa,New Zealand,848841
+2015-11-25,Hong Kong,Oman,930577
+2015-05-24,Pakistan,Zimbabwe,868725
+2015-07-25,Ireland,Netherlands,875553
+2015-09-27,Zimbabwe,Pakistan,919603
+2015-08-14,South Africa,New Zealand,848839
+2015-07-13,Nepal,Ireland,875491
+2015-10-26,Zimbabwe,Afghanistan,924637
+2015-11-09,Sri Lanka,West Indies,915783
+2015-08-31,England,Australia,743975
+2015-10-28,Zimbabwe,Afghanistan,924639
+2015-07-23,Afghanistan,Papua New Guinea,875545
+2015-01-14,South Africa,West Indies,736063
+2015-01-09,South Africa,West Indies,722335
+2015-04-24,Bangladesh,Pakistan,858491
+2015-07-30,Sri Lanka,Pakistan,860279
+2015-11-21,Hong Kong,Oman,930575
+2015-07-12,Netherlands,United Arab Emirates,875481
+2015-11-30,Afghanistan,Oman,930585
+2015-07-25,Hong Kong,Scotland,875549
+2015-11-15,Bangladesh,Zimbabwe,931398
+2016-03-04,Pakistan,Sri Lanka,966763
+2016-02-03,United Arab Emirates,Netherlands,967081
+2016-03-04,South Africa,Australia,884347
+2016-01-17,Bangladesh,Zimbabwe,958417
+2016-02-22,Afghanistan,Hong Kong,966741
+2016-02-14,India,Sri Lanka,963701
+2016-03-06,South Africa,Australia,884349
+2016-01-20,Bangladesh,Zimbabwe,958419
+2016-02-12,India,Sri Lanka,963699
+2016-02-22,Oman,United Arab Emirates,966743
+2016-02-21,Hong Kong,United Arab Emirates,966739
+2016-02-21,South Africa,England,800481
+2016-03-06,Bangladesh,India,966765
+2016-02-09,India,Sri Lanka,963697
+2016-01-07,New Zealand,Sri Lanka,914217
+2016-03-02,Bangladesh,Pakistan,966759
+2016-01-31,Australia,India,895821
+2016-01-08,Afghanistan,Zimbabwe,953345
+2016-02-27,India,Pakistan,966751
+2016-01-15,New Zealand,Pakistan,914221
+2016-01-10,New Zealand,Sri Lanka,914219
+2016-02-07,Ireland,Papua New Guinea,954735
+2016-02-28,Bangladesh,Sri Lanka,966753
+2016-02-19,South Africa,England,800479
+2016-02-14,United Arab Emirates,Ireland,954741
+2016-02-09,Ireland,Papua New Guinea,954737
+2016-01-15,Bangladesh,Zimbabwe,958415
+2016-02-25,Sri Lanka,United Arab Emirates,966747
+2016-03-01,India,Sri Lanka,966757
+2016-01-29,Australia,India,895819
+2016-02-20,Afghanistan,Oman,966737
+2016-01-31,Hong Kong,Scotland,953105
+2016-02-24,Bangladesh,India,966745
+2016-02-26,Bangladesh,United Arab Emirates,966749
+2016-02-19,Hong Kong,Oman,966735
+2016-02-29,Pakistan,United Arab Emirates,966755
+2016-03-03,India,United Arab Emirates,966761
+2016-01-22,New Zealand,Pakistan,914225
+2016-01-17,New Zealand,Pakistan,914223
+2016-01-22,Bangladesh,Zimbabwe,958421
+2016-02-16,United Arab Emirates,Ireland,954743
+2016-01-26,Australia,India,895817
+2016-03-09,South Africa,Australia,884351
+2016-02-19,Afghanistan,United Arab Emirates,966713
+2016-02-04,United Arab Emirates,Scotland,966373
+2016-01-30,Hong Kong,Scotland,953103
+2016-01-10,Afghanistan,Zimbabwe,953347

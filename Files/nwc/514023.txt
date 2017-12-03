@@ -1,0 +1,143 @@
+Cape Town
+2011-10-13
+wickets: 5
+winner: Australia
+South Africa
+Australia
+venue: Newlands
+1st innings
+South Africa
+2
+DE Bollinger
+1
+GC Smith
+4
+PJ Cummins
+0
+4
+DE Bollinger
+1
+HM Amla
+10
+PJ Cummins
+0
+9
+SR Watson
+0
+6
+JL Pattinson
+0
+5
+DJ Hussey
+0
+5
+JL Pattinson
+0
+11
+DJ Hussey
+0
+2
+SR Watson
+0
+9
+SNJ O'Keefe
+0
+2
+JL Pattinson
+1
+CA Ingram
+10
+DE Bollinger
+0
+5
+PJ Cummins
+0
+9
+DJ Hussey
+0
+8
+DE Bollinger
+0
+12
+SR Watson
+0
+19
+JL Pattinson
+0
+6
+PJ Cummins
+3
+JP Duminy
+DA Miller
+J Botha
+8
+SR Watson
+1
+RJ Peterson
+2nd innings
+Australia
+3
+LL Tsotsobe
+1
+DA Warner
+12
+M Morkel
+0
+10
+LL Tsotsobe
+0
+6
+M Morkel
+0
+5
+LL Tsotsobe
+0
+15
+J Theron
+0
+8
+J Botha
+0
+17
+RJ Peterson
+0
+7
+J Botha
+0
+2
+M Morkel
+1
+SR Watson
+3
+J Botha
+1
+SE Marsh
+10
+J Theron
+0
+4
+J Botha
+0
+11
+J Theron
+0
+4
+RJ Peterson
+0
+4
+JP Duminy
+0
+8
+RJ Peterson
+1
+CL White
+4
+M Morkel
+0
+8
+LL Tsotsobe
+1
+DJ Hussey
+6
+J Theron
+0

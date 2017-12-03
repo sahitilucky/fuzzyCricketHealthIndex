@@ -1,0 +1,134 @@
+Colombo
+2012-09-30
+wickets: 8
+winner: India
+India
+Pakistan
+venue: R Premadasa Stadium
+1st innings
+Pakistan
+13
+Z Khan
+0
+13
+IK Pathan
+1
+Imran Nazir
+2
+Z Khan
+0
+5
+IK Pathan
+0
+3
+L Balaji
+1
+Shahid Afridi
+6
+R Ashwin
+0
+2
+Yuvraj Singh
+1
+Nasir Jamshed
+3
+V Kohli
+0
+9
+Yuvraj Singh
+1
+Kamran Akmal
+4
+V Kohli
+1
+Mohammad Hafeez
+5
+Yuvraj Singh
+0
+15
+V Kohli
+0
+12
+IK Pathan
+0
+5
+R Ashwin
+0
+8
+L Balaji
+0
+4
+R Ashwin
+1
+Shoaib Malik
+5
+L Balaji
+0
+1
+R Ashwin
+1
+Umar Akmal
+7
+Z Khan
+1
+Yasir Arafat
+6
+L Balaji
+2
+Umar Gul
+Saeed Ajmal
+2nd innings
+India
+6
+Raza Hasan
+1
+G Gambhir
+3
+Umar Gul
+0
+2
+Raza Hasan
+0
+11
+Umar Gul
+0
+8
+Raza Hasan
+0
+6
+Saeed Ajmal
+0
+9
+Shahid Afridi
+0
+6
+Raza Hasan
+0
+8
+Shahid Afridi
+0
+11
+Yasir Arafat
+0
+7
+Shahid Afridi
+1
+V Sehwag
+7
+Saeed Ajmal
+0
+7
+Mohammad Hafeez
+0
+9
+Saeed Ajmal
+0
+10
+Shahid Afridi
+0
+16
+Umar Gul
+0
+3
+Saeed Ajmal
+0

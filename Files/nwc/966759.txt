@@ -1,0 +1,143 @@
+Mirpur
+2016-03-02
+wickets: 5
+winner: Bangladesh
+Bangladesh
+Pakistan
+venue: Shere Bangla National Stadium
+1st innings
+Pakistan
+1
+Taskin Ahmed
+0
+7
+Al-Amin Hossain
+1
+Khurram Manzoor
+0
+Taskin Ahmed
+0
+8
+Arafat Sunny
+1
+Sharjeel Khan
+2
+Mashrafe Mortaza
+1
+Mohammad Hafeez
+2
+Al-Amin Hossain
+0
+5
+Mashrafe Mortaza
+0
+3
+Shakib Al Hasan
+0
+1
+Taskin Ahmed
+1
+Umar Akmal
+5
+Shakib Al Hasan
+0
+6
+Arafat Sunny
+0
+6
+Shakib Al Hasan
+0
+8
+Mashrafe Mortaza
+0
+11
+Arafat Sunny
+0
+14
+Mashrafe Mortaza
+0
+12
+Shakib Al Hasan
+0
+10
+Arafat Sunny
+1
+Shoaib Malik
+4
+Al-Amin Hossain
+1
+Shahid Afridi
+12
+Taskin Ahmed
+0
+12
+Al-Amin Hossain
+1
+Anwar Ali
+2nd innings
+Bangladesh
+8
+Mohammad Amir
+0
+9
+Mohammad Irfan
+1
+Tamim Iqbal
+5
+Mohammad Amir
+0
+2
+Mohammad Irfan
+0
+6
+Mohammad Sami
+0
+4
+Mohammad Irfan
+0
+6
+Shahid Afridi
+0
+6
+Anwar Ali
+0
+4
+Shahid Afridi
+1
+Sabbir Rahman
+15
+Anwar Ali
+0
+8
+Shahid Afridi
+0
+5
+Mohammad Sami
+0
+4
+Shahid Afridi
+0
+5
+Mohammad Amir
+1
+Soumya Sarkar
+3
+Shoaib Malik
+1
+Mushfiqur Rahim
+5
+Mohammad Sami
+0
+9
+Mohammad Irfan
+0
+8
+Mohammad Amir
+1
+Shakib Al Hasan
+15
+Mohammad Sami
+0
+4
+Anwar Ali
+0

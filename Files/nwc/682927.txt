@@ -1,0 +1,146 @@
+Mirpur
+2014-03-23
+runs: 16
+winner: Pakistan
+Australia
+Pakistan
+venue: Shere Bangla National Stadium
+1st innings
+Pakistan
+6
+MA Starc
+0
+3
+DE Bollinger
+1
+Ahmed Shehzad
+5
+MA Starc
+0
+11
+DE Bollinger
+0
+4
+SR Watson
+1
+Mohammad Hafeez
+7
+NM Coulter-Nile
+0
+6
+SR Watson
+0
+14
+NM Coulter-Nile
+0
+13
+GB Hogg
+0
+14
+SR Watson
+0
+13
+GB Hogg
+0
+18
+AJ Finch
+0
+9
+NM Coulter-Nile
+1
+Kamran Akmal
+8
+GB Hogg
+0
+9
+DE Bollinger
+0
+8
+NM Coulter-Nile
+1
+Sohaib Maqsood
+14
+SR Watson
+0
+13
+MA Starc
+0
+5
+DE Bollinger
+0
+11
+MA Starc
+1
+Umar Akmal
+2nd innings
+Australia
+8
+Zulfiqar Babar
+2
+DA Warner
+SR Watson
+3
+Mohammad Hafeez
+0
+9
+Zulfiqar Babar
+0
+15
+Mohammad Hafeez
+0
+9
+Umar Gul
+0
+13
+Saeed Ajmal
+0
+15
+Shahid Afridi
+0
+30
+Bilawal Bhatti
+0
+3
+Zulfiqar Babar
+0
+12
+Saeed Ajmal
+0
+5
+Umar Gul
+0
+4
+Shahid Afridi
+1
+GJ Maxwell
+6
+Zulfiqar Babar
+0
+6
+Shahid Afridi
+0
+8
+Saeed Ajmal
+0
+7
+Shahid Afridi
+1
+GJ Bailey
+8
+Umar Gul
+1
+BJ Hodge
+1
+Saeed Ajmal
+1
+AJ Finch
+7
+Umar Gul
+1
+NM Coulter-Nile
+6
+Bilawal Bhatti
+3
+MA Starc
+BJ Haddin
+GB Hogg

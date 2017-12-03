@@ -1,0 +1,148 @@
+Trinidad
+2010-02-28
+runs: 26
+winner: Zimbabwe
+West Indies
+Zimbabwe
+venue: "Queen's Park Oval, Port of Spain"
+1st innings
+Zimbabwe
+0
+SJ Benn
+1
+V Sibanda
+0
+KAJ Roach
+0
+0
+SJ Benn
+2
+T Taibu
+S Matsikenyeri
+8
+KAJ Roach
+0
+3
+SJ Benn
+1
+BRM Taylor
+2
+KAJ Roach
+0
+3
+SJ Benn
+0
+5
+R Rampaul
+0
+4
+KA Pollard
+0
+5
+R Rampaul
+0
+5
+KA Pollard
+0
+2
+R Rampaul
+0
+5
+KA Pollard
+0
+9
+DJG Sammy
+1
+GA Lamb
+10
+KA Pollard
+0
+6
+DJG Sammy
+0
+5
+KAJ Roach
+0
+4
+DJG Sammy
+1
+H Masakadza
+22
+R Rampaul
+1
+AG Cremer
+7
+DJG Sammy
+3
+E Chigumbura
+SW Masakadza
+P Utseya
+2nd innings
+West Indies
+4
+P Utseya
+0
+0
+RW Price
+0
+2
+P Utseya
+0
+11
+RW Price
+0
+3
+P Utseya
+0
+1
+RW Price
+1
+AB Barath
+3
+P Utseya
+1
+ADS Fletcher
+6
+RW Price
+0
+2
+AG Cremer
+2
+KA Pollard
+DM Bravo
+5
+GA Lamb
+0
+2
+AG Cremer
+0
+1
+GA Lamb
+1
+S Chanderpaul
+4
+AG Cremer
+0
+2
+GA Lamb
+0
+10
+S Matsikenyeri
+0
+6
+GA Lamb
+1
+DR Smith
+3
+AG Cremer
+1
+DJG Sammy
+1
+BRM Taylor
+0
+7
+E Chigumbura
+0
+6
+SW Masakadza
+0

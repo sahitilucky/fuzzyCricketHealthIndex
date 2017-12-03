@@ -1,0 +1,134 @@
+Belfast
+2008-08-03
+wickets: 8
+winner: Scotland
+Bermuda
+Scotland
+venue: 'Civil Service Cricket Club, Stormont'
+1st innings
+Bermuda
+6
+JAR Blain
+0
+6
+JD Nel
+0
+1
+JAR Blain
+0
+1
+JD Nel
+1
+CR Foggo
+2
+JAR Blain
+0
+7
+GD Drummond
+0
+7
+GI Maiden
+0
+2
+GD Drummond
+0
+7
+GI Maiden
+1
+OL Pitcher
+5
+RD Berrington
+1
+JJ Celestine
+4
+RR Watson
+1
+DL Hemp
+4
+RD Berrington
+0
+3
+RR Watson
+0
+3
+RD Berrington
+0
+12
+RR Watson
+0
+9
+GD Drummond
+0
+1
+JD Nel
+2
+IH Romaine
+J Edness
+5
+GD Drummond
+1
+RJ Trott
+6
+JD Nel
+0
+8
+JAR Blain
+0
+2nd innings
+Scotland
+3
+GH O'Brien
+1
+RR Watson
+5
+SKW Kelly
+0
+3
+GH O'Brien
+1
+DF Watts
+7
+SKW Kelly
+0
+3
+GH O'Brien
+0
+7
+RDM Leverock
+0
+5
+GH O'Brien
+0
+5
+RDM Leverock
+0
+6
+RJ Trott
+0
+5
+RDM Leverock
+0
+10
+RJ Trott
+0
+5
+RDM Leverock
+0
+5
+RJ Trott
+0
+7
+IH Romaine
+0
+4
+RJ Trott
+0
+6
+IH Romaine
+0
+7
+OL Pitcher
+0
+7
+IH Romaine
+0

@@ -1,0 +1,143 @@
+Dublin
+2015-07-25
+wickets: 5
+winner: Netherlands
+Ireland
+Netherlands
+venue: 'The Village, Malahide'
+1st innings
+Ireland
+9
+MR Swart
+0
+1
+T van der Gugten
+0
+10
+Mudassar Bukhari
+1
+WTS Porterfield
+5
+T van der Gugten
+0
+9
+Mudassar Bukhari
+1
+PR Stirling
+4
+PA van Meekeren
+0
+4
+Mudassar Bukhari
+0
+5
+RE van der Merwe
+0
+13
+PW Borren
+0
+4
+RE van der Merwe
+0
+5
+PM Seelaar
+0
+1
+PA van Meekeren
+1
+A Balbirnie
+12
+RE van der Merwe
+0
+5
+PA van Meekeren
+0
+4
+RE van der Merwe
+1
+GC Wilson
+16
+PM Seelaar
+0
+5
+PA van Meekeren
+1
+KJ O'Brien
+3
+T van der Gugten
+1
+JF Mooney
+5
+Mudassar Bukhari
+2
+SW Poynter
+SR Thompson
+8
+T van der Gugten
+2
+GH Dockrell
+AR Cusack
+2nd innings
+Netherlands
+6
+AR Cusack
+0
+4
+CA Young
+1
+SJ Myburgh
+6
+AR Cusack
+1
+W Barresi
+10
+CA Young
+0
+9
+AR Cusack
+0
+3
+JF Mooney
+0
+3
+GH Dockrell
+0
+6
+JF Mooney
+0
+11
+GH Dockrell
+0
+9
+KJ O'Brien
+0
+6
+CA Young
+0
+1
+KJ O'Brien
+1
+MR Swart
+8
+CA Young
+0
+5
+KJ O'Brien
+1
+BN Cooper
+5
+GH Dockrell
+0
+6
+JF Mooney
+0
+16
+GH Dockrell
+0
+11
+KJ O'Brien
+1
+MP O'Dowd
+4
+JF Mooney
+0

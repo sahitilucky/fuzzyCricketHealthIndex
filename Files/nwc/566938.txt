@@ -1,0 +1,145 @@
+Chester-le-Street
+2013-08-31
+runs: 27
+winner: England
+England
+Australia
+venue: Riverside Ground
+1st innings
+England
+1
+MG Johnson
+0
+12
+SR Watson
+0
+9
+MG Johnson
+0
+5
+NM Coulter-Nile
+0
+19
+JP Faulkner
+0
+15
+NM Coulter-Nile
+0
+13
+SR Watson
+0
+7
+Fawad Ahmed
+0
+7
+JP Faulkner
+0
+6
+Fawad Ahmed
+0
+16
+MG Johnson
+0
+6
+Fawad Ahmed
+1
+MJ Lumb
+8
+NM Coulter-Nile
+0
+7
+GJ Maxwell
+0
+6
+MG Johnson
+0
+18
+GJ Maxwell
+0
+7
+JP Faulkner
+1
+LJ Wright
+19
+NM Coulter-Nile
+0
+6
+JP Faulkner
+1
+AD Hales
+8
+Fawad Ahmed
+2
+JC Buttler
+EJG Morgan
+2nd innings
+Australia
+4
+ST Finn
+0
+5
+SCJ Broad
+1
+AJ Finch
+6
+ST Finn
+1
+SR Watson
+9
+SCJ Broad
+0
+10
+ST Finn
+0
+8
+JW Dernbach
+0
+15
+DR Briggs
+0
+9
+JE Root
+0
+7
+RS Bopara
+0
+9
+JE Root
+1
+SE Marsh
+13
+SCJ Broad
+0
+9
+JE Root
+0
+7
+JW Dernbach
+1
+DA Warner
+4
+DR Briggs
+1
+GJ Bailey
+8
+RS Bopara
+0
+6
+DR Briggs
+1
+MS Wade
+19
+RS Bopara
+0
+2
+JW Dernbach
+2
+GJ Maxwell
+JP Faulkner
+12
+ST Finn
+1
+NM Coulter-Nile
+6
+JW Dernbach
+0

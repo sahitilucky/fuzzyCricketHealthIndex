@@ -1,0 +1,136 @@
+Mirpur
+2012-12-10
+runs: 18
+winner: West Indies
+Bangladesh
+West Indies
+venue: Shere Bangla National Stadium
+1st innings
+West Indies
+10
+Sohag Gazi
+0
+6
+Shafiul Islam
+0
+9
+Rubel Hossain
+1
+CH Gayle
+1
+Shafiul Islam
+0
+8
+Rubel Hossain
+1
+DR Smith
+9
+Shafiul Islam
+0
+6
+Sohag Gazi
+0
+6
+Abdur Razzak
+0
+15
+Mahmudullah
+0
+11
+Abdur Razzak
+0
+6
+Ziaur Rahman
+0
+9
+Sohag Gazi
+1
+DM Bravo
+4
+Ziaur Rahman
+0
+20
+Sohag Gazi
+0
+2
+Ziaur Rahman
+1
+KA Pollard
+15
+Abdur Razzak
+0
+4
+Ziaur Rahman
+0
+17
+Rubel Hossain
+0
+10
+Shafiul Islam
+0
+29
+Rubel Hossain
+0
+2nd innings
+Bangladesh
+17
+DJG Sammy
+0
+9
+KAJ Roach
+0
+17
+AD Russell
+0
+4
+MN Samuels
+0
+2
+KAJ Roach
+1
+Anamul Haque
+9
+MN Samuels
+0
+4
+SP Narine
+0
+7
+MN Samuels
+0
+4
+SP Narine
+0
+14
+DJG Sammy
+0
+5
+CH Gayle
+0
+8
+DR Smith
+0
+6
+CH Gayle
+0
+8
+DR Smith
+0
+6
+CH Gayle
+0
+19
+SP Narine
+0
+3
+CH Gayle
+0
+7
+KAJ Roach
+0
+12
+MN Samuels
+0
+18
+KAJ Roach
+0

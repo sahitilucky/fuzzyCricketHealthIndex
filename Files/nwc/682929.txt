@@ -1,0 +1,141 @@
+Mirpur
+2014-03-23
+wickets: 7
+winner: India
+India
+West Indies
+venue: Shere Bangla National Stadium
+1st innings
+West Indies
+1
+B Kumar
+0
+3
+Mohammed Shami
+0
+1
+B Kumar
+0
+11
+Mohammed Shami
+0
+2
+B Kumar
+0
+6
+R Ashwin
+0
+9
+A Mishra
+0
+5
+R Ashwin
+1
+DR Smith
+3
+SK Raina
+0
+5
+R Ashwin
+0
+5
+SK Raina
+0
+8
+R Ashwin
+0
+3
+A Mishra
+1
+CH Gayle
+10
+RA Jadeja
+0
+4
+A Mishra
+2
+MN Samuels
+DJ Bravo
+7
+RA Jadeja
+0
+13
+Mohammed Shami
+0
+10
+RA Jadeja
+1
+DJG Sammy
+2
+A Mishra
+0
+21
+RA Jadeja
+2
+AD Russell
+LMP Simmons
+2nd innings
+India
+2
+S Badree
+1
+S Dhawan
+3
+K Santokie
+0
+12
+S Badree
+0
+11
+K Santokie
+0
+10
+S Badree
+0
+10
+SP Narine
+0
+12
+DJ Bravo
+0
+4
+SP Narine
+0
+9
+DJG Sammy
+0
+3
+MN Samuels
+0
+4
+S Badree
+0
+12
+MN Samuels
+0
+9
+K Santokie
+0
+4
+SP Narine
+0
+6
+AD Russell
+1
+V Kohli
+2
+SP Narine
+0
+6
+AD Russell
+0
+6
+MN Samuels
+0
+4
+K Santokie
+0
+1
+MN Samuels
+1
+Yuvraj Singh
